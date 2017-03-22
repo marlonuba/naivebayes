@@ -1,0 +1,256 @@
+                        Update                      TRENDS in Genetics    Vol.23 No.8                                                                     375
+
+
+
+11 Cui, Q. et al. (2006) Principles of microRNA regulation of a human            19 Chen, K. and Rajewsky, N. (2006) Natural selection on human
+   cellular signaling network. Mol. Syst. Biol. 2, 46                               microRNA binding sites inferred from SNP data. Nat. Genet. 38,
+12 Bartel, D.P. (2004) MicroRNAs: genomics, biogenesis, mechanism, and              1452–1456
+   function. Cell 116, 281–297                                                   20 Hornstein, E. and Shomron, N. (2006) Canalization of development by
+13 Alvarez-Garcia, I. and Miska, E.A. (2005) MicroRNA functions in                  microRNAs. Nat. Genet. 38 (Suppl.), S20–S24
+   animal development and human disease. Development 132, 4653–                  21 Farh, K.K. et al. (2005) The widespread impact of mammalian
+   4662                                                                             microRNAs on mRNA repression and evolution. Science 310, 1817–
+14 Tirosh, I. et al. (2006) A genetic signature of interspecies variations in       1821
+   gene expression. Nat. Genet. 38, 830–834                                      22 Sood, P. et al. (2006) Cell-type-specific signatures of microRNAs on
+15 Krek, A. et al. (2005) Combinatorial microRNA target predictions. Nat.           target mRNA expression. Proc. Natl. Acad. Sci. U. S. A. 103, 2746–2751
+   Genet. 37, 495–500                                                            23 Li, Y. et al. (2006) MicroRNA-9a ensures the precise specification of
+16 Su, A.I. et al. (2004) A gene atlas of the mouse and human protein-              sensory organ precursors in Drosophila. Genes Dev. 20, 2793–2805
+   encoding transcriptomes. Proc. Natl. Acad. Sci. U. S. A. 101, 6062–6067       24 Cohen, S.M. et al. (2006) Denoising feedback loops by thresholding – a
+17 Grun, D. et al. (2005) microRNA target predictions across seven                  new role for microRNAs. Genes Dev. 20, 2769–2772
+   Drosophila species and comparison to mammalian targets. PLoS.
+   Comput. Biol. 1, e13                                                          0168-9525/$ – see front matter .
+18 Wittkopp, P.J. et al. (2004) Evolutionary changes in cis and trans gene       Crown Copyright ß 2007 Published by Elsevier Ltd. All rights reserved.
+   regulation. Nature 430, 85–88                                                 doi:10.1016/j.tig.2007.04.003
+
+
+
+
+Gene essentiality, gene duplicability and protein
+connectivity in human and mouse
+Han Liang and Wen-Hsiung Li
+Department of Ecology and Evolution, University of Chicago, 1101 East 57th Street, Chicago, IL 60637, USA
+
+
+
+It has previously been found that, in yeast, gene                                This is commonly known as the ‘centrality–lethality’ rule,
+essentiality is positively correlated with protein connec-                       which either reflects the crucial role of hub proteins (i.e.
+tivity (number of interaction partners) but negatively                           highly connected proteins) in the architecture of the net-
+correlated with the existence of gene duplicates and                             work [3] or is simply because hub proteins have a higher
+that highly connected proteins tend to have a low gene                           probability of engaging in essential protein–protein inter-
+duplicability. Using data from human and mouse, we                               actions [14]. Furthermore, the proportion of essential
+show here that, in mammals, the first of these relation-                         (deletion-lethal) genes is significantly higher among sin-
+ships holds true, but unlike the second relationship in                          gletons than among duplicates, and the deletion of a
+yeast, highly connected mammalian proteins tend to                               duplicate gene is, on average, less severe than the deletion
+have a high gene duplicability, and there is no corr-                            of a singleton [2]. Recent studies indicated a negative
+elation between gene essentiality and gene duplication                           correlation between protein connectivity and gene duplic-
+in mammals.                                                                      ability, which implies that genes with a higher protein
+                                                                                 connectivity tend to have fewer duplicate genes in the yeast
+                                                                                 genome [15]. Do these relationships hold true in such
+Introduction                                                                     complex organisms as mammals?
+There has been much interest in the relationships among
+gene function, phenotypic effect of gene deletion or knock-                      Relationships among gene essentiality, gene
+out, and gene duplication at the genomic level [1–9]. For                        duplicability and protein connectivity
+this purpose, three terms are often used: (i) protein con-                       First, the available mouse targeted knockout phenotypic
+nectivity, which is defined as the number of links that a                        annotations were extracted from the Mouse Genome Data-
+protein node has to other nodes in the protein interaction                       base (MGD; http://www.informatics.jax.org/) [16], and
+network; (ii) gene essentiality, which is defined using                          mouse genes and their orthologous human genes (anno-
+words such as ‘the deletion of a gene from the genome                            tated by MGD) were classified as essential or non-essential
+has a lethal effect or causes infertility’ [10,11]; and                          genes. Here, we defined an essential gene as a gene whose
+(iii) gene duplicability, which describes the likelihood of                      knockout phenotype is annotated as lethality (including
+a gene having one or more paralogs [8]. So far, however,                         embryonic, perinatal and postnatal lethality) or infertility
+most of our knowledge about the relationships among                              [10,11]. Second, protein connectivity was calculated based
+these three factors comes from yeast. In yeast, a protein                        on the human protein–protein interaction data (including
+that is highly ‘connected’ to other proteins (i.e. that inter-                   both yeast two-hybrid and literature-curated interactions)
+acts with many other proteins) tends to result in the death                      from the study by Rual et al. [17]. Finally, gene family
+of the organism if it is deleted from the genome [3,12,13].                      information was obtained (i.e. gene family IDs) in the
+   Corresponding author: Li, W.-H. (whli@uchicago.edu).                          human and mouse genomes, according to the annotation
+   Available online 21 May 2007.                                                 in the Ensembl Genome Database [18,19].
+www.sciencedirect.com
+376                     Update                        TRENDS in Genetics      Vol.23 No.8
+
+
+
+Gene essentiality versus protein connectivity                                        positively correlated with protein connectivity (Spearman
+From the 1137 human genes for which protein interaction                              rank test; R = 0.26, n = 5,530, P < 1084). This trend is
+data from humans and phenotypic data from mice were                                  opposite to that observed in yeast.
+available, we found that the proportion of essential genes is
+positively correlated with protein connectivity (Figure 1a).                         Gene essentiality versus gene duplication
+Moreover, in terms of protein connectivity, the distri-                              From the 2899 mouse genes for which both phenotypic data
+butions for essential and non-essential genes are signifi-                           and gene family annotation were available, we found that
+cantly different (Wilcoxon rank test; P = 5  106). These                           the proportion of essential genes does not differ between
+results are consistent with the observation in yeast,                                singletons and duplicates (48.6% versus 46.2%; x2 = 1.3,
+suggesting the centrality–lethality rule [3] also holds true                         P = 0.3; see the supplementary material online). Moreover,
+in mammals. Thus, highly connected proteins tend to be                               there is no significant difference between essential and
+essential for survival or reproduction for both simple and                           non-essential genes in terms of family size distribution
+complex organisms.                                                                   (Wilcoxon rank test; P = 0.1).
+                                                                                        In view of considerable noise in the datasets, the
+Protein connectivity versus gene duplicability                                       robustness of these results was further tested in two
+From the 5530 human genes for which both protein                                     directions. First, the same analyses were performed
+interaction data and gene family annotation were avail-                              using literature-curated and multivalidated interaction
+able, we found that gene duplicability, defined as 1 – F                             datasets separately. Second, to examine the effect of the
+(where F is the proportion of unduplicated gene types), is                           definition of ‘essential genes’ that we use here, genes
+positively correlated with protein connectivity (Figure 1b).                         whose deletions have a lethal effect and genes whose
+Consistent with this, the number of paralogs per gene is                             deletions cause infertility were considered separately.
+                                                                                     In all of these analyses, we obtained the results obtained
+                                                                                     as those described earlier (see the supplementary
+                                                                                     material online). The potential biases and caveats in
+
+
+
+
+Figure 1. Relationships among gene essentiality, gene duplicability and protein
+connectivity in mammals. (a) A positive correlation between proportion of
+essential genes and protein connectivity in the human protein–protein
+interaction network. (b) A positive correlation between protein connectivity and
+gene duplicability in the human protein–protein interaction network. Gene
+duplicability is defined as 1 – F, where F is the proportion of unduplicated gene
+types, and the number of gene types is defined as the number of singletons plus
+the number of gene families with more than one member. The trend between gene
+essentiality and protein connectivity holds the same as in yeast, whereas the        Figure 2. A comparison of the relationships among gene essentiality, gene
+correlation between protein connectivity and gene duplicability is the opposite of   duplicability and protein connectivity in (a) yeast and (b) human. There is a
+that found in yeast.                                                                 fundamental difference among these relationships between yeast and human.
+
+www.sciencedirect.com
+                        Update          TRENDS in Genetics   Vol.23 No.8                                                                     377
+
+
+
+these analyses are discussed in more detail in the supple-          role of duplicates – contribute to a less severe fitness
+mentary material online. To highlight the differences               effect of deleting a yeast duplicate gene, although the
+between yeast and human, the relationships among gene               contributions from these two factors cannot be separated.
+essentiality, gene duplicability and protein connectivity           In mammals, duplicate genes, on average, have a higher
+can be demonstrated in the form of a triangle in which the          connectivity than do singletons, suggesting that duplicate
+pairwise correlations are represented by its three sides            genes are intrinsically more essential. Moreover, using a
+(Figure 2).                                                         similar approach to study mouse singletons by examining
+                                                                    the duplicability of their orthologs in the human genome,
+Why do highly connected proteins tend to have a                     it was found that the trend was opposite to that seen in
+higher gene duplicability in humans?                                yeast (see supplementary material online). Thus, the
+In yeast, an important factor for determining the retention         potential compensatory role of gene duplication contrib-
+of gene duplicates is whether the duplication causes a              utes to a less severe fitness effect of gene deletion in
+deleterious effect as a result of higher protein dosage,            mammals; whereas the difference in intrinsic importance
+which is more sensitive for hub proteins than for non-              between singletons and duplicates might contribute to a
+hub proteins, leading to a negative correlation between             more severe fitness effect of deletion in duplicate genes.
+protein connectivity and gene duplicability. By contrast,           These two factors might cancel each other out, leading to
+mammals are more robust against a dosage increase                   no detectable difference in gene essentiality between
+caused by gene duplication and have a greater variety of            duplicate genes and singletons.
+cell types, enabling duplicate genes to diversify in function
+[20,21]. These two factors have been suggested to account           Acknowledgements
+for the higher gene duplicability in mammals than in yeast          We thank Ay Prachumwat, Zhenglong Gu and Jian Lu for helpful
+[8,22], and they might also help to explain the observation         discussion. This work was supported by NIH grants to W.H.L.
+that, in mammals, highly connected proteins tend to have a
+higher gene duplicability than do less connected proteins.          Supplementary data
+We speculate that, in mammals, a highly connected protein           Supplementary data associated with this article can
+might need to be produced in a high dosage, so that a               be found, in the online version, at doi:10.1016/j.tig.
+duplicated hub protein might have a better chance of                2007.04.005.
+survival than a duplicated non-hub protein. More impor-
+tantly, a high connectivity might confer a greater chance of
+                                                                    References
+functional diversification (e.g. tissue specialization) to           1 Ohno, S. (1970) Evolution by Gene Duplication Springer-Verlag
+duplicated genes in mammals. In comparison, selection                2 Gu, Z. et al. (2003) Role of duplicate genes in genetic robustness against
+for functional diversification in yeast might not be a major           null mutations. Nature 421, 63–66
+factor because of the simplicity of the organism (i.e. it is         3 Jeong, H. et al. (2001) Lethality and centrality in protein networks.
+                                                                       Nature 411, 41–42
+unicellular). This view is consistent with a recent study
+                                                                     4 Long, M. and Thornton, K. (2001) Gene duplication and evolution.
+showing that only duplicates that arose through post-                  Science 293, 1551
+multicellularity duplication events have a tendency to               5 Lynch, M. and Conery, J.S. (2000) The evolutionary fate and
+become more specifically expressed, rather than duplicates             consequences of duplicate genes. Science 290, 1151–1155
+that arose in a unicellular ancestor [23]. An alternative            6 Oltvai, Z.N. and Barabasi, A.L. (2002) Systems biology. Life’s
+                                                                       complexity pyramid. Science 298, 763–764
+explanation for the opposite connectivity–duplicability              7 Ge, H. et al. (2003) Integrating ‘omic’ information: a bridge between
+patterns between yeast and humans is that yeast has                    genomics and systems biology. Trends Genet. 19, 551–560
+undergone a relatively recent whole-genome duplication               8 Yang, J. et al. (2003) Organismal complexity, protein complexity,
+(in the last 100 million years) [24], whereas mammals                 and gene duplicability. Proc. Natl. Acad. Sci. U. S. A. 100, 15661–
+have not.                                                              15665
+                                                                     9 Boulton, S.J. et al. (2002) Combined functional genomic maps of the
+                                                                       C. elegans DNA damage response. Science 295, 127–131
+Why do gene essentiality and gene duplication                       10 Graur, D. and Li, W.H. (2000) Fundamentals of Molecular Evolution
+seem to be uncorrelated in mammals?                                    Sinauer Press
+The fitness effect of deleting a singleton gene reflects the        11 Liao, B.Y. et al. (2006) Impacts of gene essentiality, expression pattern,
+                                                                       and gene compactness on the evolutionary rate of mammalian proteins.
+intrinsic importance of that gene in the organism. For a
+                                                                       Mol. Biol. Evol. 23, 2072–2080
+duplicate gene, the single-deletion fitness effect is also          12 Batada, N.N. et al. (2006) Evolutionary and physiological importance of
+influenced by the compensatory role of its paralog(s) in               hub proteins. PLoS Comput. Biol. 2, e88
+the genome [2]. In yeast, singleton genes tend to have              13 Reguly, T. et al. (2006) Comprehensive curation and analysis of global
+more interaction partners, suggesting that they are                    interaction networks in Saccharomyces cerevisiae. J. Biol. 5, 11
+                                                                    14 He, X. and Zhang, J. (2006) Why do hubs tend to be essential in protein
+intrinsically more essential for the organism. This is
+                                                                       networks? PLoS Genet. 2, e88
+confirmed by He and Zhang et al. [25], who focused on               15 Prachumwat, A. and Li, W.H. (2006) Protein function, connectivity,
+Saccharomyces cerevisiae singleton genes and examined                  and duplicability in yeast. Mol. Biol. Evol. 23, 30–39
+whether their orthologs have been duplicated in related             16 Eppig, J.T. et al. (2005) The Mouse Genome Database (MGD): from
+yeast genomes. They found that the singletons that were                genes to mice – a community resource for mouse biology. Nucleic Acids
+                                                                       Res. 33, D471–D475
+duplicated in other yeast species have less severe deletion         17 Rual, J.F. et al. (2005) Towards a proteome-scale map of the human
+fitness effects than those that were not duplicated. Thus,             protein-protein interaction network. Nature 437, 1173–1178
+both factors – the difference in intrinsic importance be-           18 Birney, E. et al. (2006) Ensembl 2006. Nucleic Acids Res. 34, D556–
+tween singletons and duplicates and the compensatory                   D561
+
+www.sciencedirect.com
+378                      Update                        TRENDS in Genetics   Vol.23 No.8
+
+
+
+19 Enright, A.J. et al. (2002) An efficient algorithm for large-                   23 Freilich, S. et al. (2006) Relating tissue specialization to the
+   scale detection of protein families. Nucleic Acids Res. 30, 1575–                  differentiation of expression of singleton and duplicate mouse
+   1584                                                                               proteins. Genome Biol. 7, R89
+20 Makova, K.D. and Li, W.H. (2003) Divergence in the spatial pattern of           24 Kellis, M. et al. (2004) Proof and evolutionary analysis of ancient genome
+   gene expression between human duplicate genes. Genome Res. 13,                     duplication in the yeast Saccharomyces cerevisiae. Nature 428, 617–624
+   1638–1645                                                                       25 He, X. and Zhang, J. (2006) Higher duplicability of less important genes
+21 Prince, V.E. and Pickett, F.B. (2002) Splitting pairs: the diverging fates         in yeast genomes. Mol. Biol. Evol. 23, 144–151
+   of duplicated genes. Nat. Rev. Genet. 3, 827–837
+22 Kirschner, M. and Gerhart, J. (1998) Evolvability. Proc. Natl. Acad.            0168-9525/$ – see front matter . ß 2007 Elsevier Ltd. All rights reserved.
+   Sci. U. S. A. 95, 8420–8427                                                     doi:10.1016/j.tig.2007.04.005
+
+
+
+
+Mouse duplicate genes are as essential as singletons
+Ben-Yang Liao and Jianzhi Zhang
+Department of Ecology and Evolutionary Biology, University of Michigan, 1075 Natural Science Building, 830 North University
+Avenue, Ann Arbor, MI 48109, USA
+
+
+Duplicate genes in mouse are widely thought to have                                because it could substantially affect the design and
+functional redundancy, and to be less essential than                               interpretation of mouse knockout experiments.
+singleton genes. We analyzed nearly 3900 individually
+knocked out mouse genes and discovered that the pro-                               Proportion of mouse essential genes
+portion of essential genes is 55% in both singletons                              We examined the presumption that mouse duplicates are
+and duplicates. This suggests that mammalian dupli-                                functionally redundant using a list of 3872 genes that have
+cates rarely compensate for each other, and that the                               been individually knocked out from the mouse genome.
+absence of phenotypes in mice deficient for a duplicate                            Because there are numerous different mutant phenotypes
+gene should not be automatically attributed to paralo-                             and it is not easy to compare their severities, we separated
+gous compensation.                                                                 all phenotypes into two categories based on the phenotype
+                                                                                   annotation by Mouse Genome Informatics (MGI 3.51;
+                                                                                   http://www.informatics.jax.org). If the deletion of a gene
+Duplicates, singletons and redundancy                                              leads to either lethality before reproduction or sterility (i.e.
+Duplicate genes occur in all organisms [1], especially in                          fitness reduces to 0), the gene is referred to as essential (see
+multicellular eukaryotes [2]. Because gene duplication is                          Methods in supplementary material online). All other
+the primary source of new genes [3], there is enduring                             genes are considered as nonessential, because they are
+interest in understanding the function of each duplicate                           not essential to viability or fertility. With this classifi-
+gene [4,5]. However, early mouse studies that ‘knocked                             cation, our dataset includes 2136 essential and 1736 non-
+out’ duplicate genes revealed only mild or even no pheno-                          essential genes. We also classified the 3872 genes into 3087
+types [6,7], prompting the hypothesis that many mouse                              duplicate genes (Table S1 in supplementary material
+duplicates are functionally redundant and, therefore, that                         online), which have at least one duplicate in the genome,
+it would be difficult to discern the function of each copy                         and 785 singleton genes (Table S2 in supplementary
+by knocking out individual genes [8–10]. This view was                             material online). Unexpectedly, we found that the pro-
+reinforced when genome-wide gene deletion experiments                              portion of essential genes (PE) is not significantly different
+showed that 12.4% of duplicates, compared with 29.0% of                            between duplicate genes (55.1%) and singleton genes
+singletons, are essential to the viability or fertility of the                     (55.4%) (P = 0.89; x2 test; Figure 1a). Use of different
+yeast Saccharomyces cerevisiae [11] (Figure 1a). Similarly,                        criteria to define duplicate and singleton genes does not
+in the nematode Caenorhabditis elegans, 2.3% of duplicates,                        change this result qualitatively (Table S3 in supple-
+but 7.6% of singletons, show lethal phenotypes in genome-                          mentary material online). There is also no difference in
+wide knock-down experiments by RNA interference (RNAi)                             PE among genes belonging to small gene families and those
+[12] (Figure 1a). However, the presumption that removing a                         belonging to large families (Figure 1b). These results differ
+mouse duplicate gene generates milder phenotypes than                              from yeast and nematode genomic studies (Figure 1a) and
+removing a singleton gene was based on anecdotal evidence                          contradict the widely held view that mouse duplicate genes
+and has not been systematically verified. Because of the                           are functionally redundant.
+expense and effort required to generate knockout mice and
+the potential value of such studies in understanding and                           Potential data biases
+treating human diseases, this verification is important                            Protein sequence divergence
+                                                                                   Because most of the mouse gene knockouts were generated
+                                                                                   by individual laboratories for different purposes, rather
+      Corresponding author: Zhang, J. (jianzhi@umich.edu).                         than by a genome-wide systematic effort, it is important to
+      Available online 7 June 2007.                                                consider potential biases in the data that might have led to
+www.sciencedirect.com
+

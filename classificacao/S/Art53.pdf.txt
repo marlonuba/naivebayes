@@ -1,0 +1,704 @@
+MOLECULAR AND CELLULAR BIOLOGY, Feb. 2001, p. 979–989                                                                                       Vol. 21, No. 4
+0270-7306/01/$04.00⫹0 DOI: 10.1128/MCB.21.4.979–989.2001
+Copyright © 2001, American Society for Microbiology. All Rights Reserved.
+
+
+
+       The Two RNA Ligases of the Trypanosoma brucei RNA Editing
+              Complex: Cloning the Essential Band IV Gene
+                   and Identifying the Band V Gene
+                         ´ ,1† CATHERINE E. HUANG,1 KENNETH J. PILLER,1‡ MICHAEL HEMANN,1
+           LAURA N. RUSCHE
+                          ELIZABETH WIRTZ,2 AND BARBARA SOLLNER-WEBB1*
+       Department of Biological Chemistry, The Johns Hopkins University School of Medicine, Baltimore, Maryland 21205,1
+              and Laboratory of Molecular Parasitology, The Rockefeller University, New York, New York 100212
+                     Received 25 August 2000/Returned for modification 20 October 2000/Accepted 20 November 2000
+
+
+
+
+                                                                                                                                                                Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+             Kinetoplastid RNA editing is a posttranscriptional insertion and deletion of U residues in mitochondrial
+          transcripts that involves RNA ligase. A complex of seven different polypeptides purified from Trypanosoma
+          brucei mitochondria that catalyzes accurate RNA editing contains RNA ligases of ⬃57 kDa (band IV) and ⬃50
+          kDa (band V). From a partial amino acid sequence, cDNA and genomic clones of band IV were isolated, making
+          it the first cloned component of the minimal RNA editing complex. It is indeed an RNA ligase, for when
+          expressed in Escherichia coli, the protein autoadenylylates and catalyzes RNA joining. Overexpression studies
+          revealed that T. brucei can regulate of total band IV protein at the level of translation or protein stability, even
+          upon massively increased mRNA levels. The protein’s mitochondrial targeting was confirmed by its location,
+          size when expressed in T. brucei and E. coli, and N-terminal sequence. Importantly, genetic knockout studies
+          demonstrated that the gene for band IV is essential in procyclic trypanosomes. The band IV and band V RNA
+          ligases of the RNA editing complex therefore serve different functions. We also identified the gene for band V
+          RNA ligase, a protein much more homologous to band IV than to other known ligases.
+
+
+   In kinetoplastid protozoans, many mitochondrial transcripts              reaction occurs in the absence of RNA and reverses with high
+undergo RNA editing, a specific insertion and deletion of U                 concentrations of PPi. The AMP is then transferred to the 5⬘
+residues at multiple sites, directed by guide RNAs (reviewed in             phosphate of a donor RNA, generating a 5⬘-5⬘ linkage, and the
+references 2, 13, 15, 38, and 39). Both U deletional and U                  3⬘ hydroxyl of the acceptor RNA finally displaces this 5⬘ AMP,
+insertional editing cycles have been reproduced in vitro and                forming the new phosphodiester bond. T. brucei mitochondrial
+shown to involve three enzymatic steps (Fig. 1A) (9, 20, 34, 35;            extract contains adenylylatable proteins of ⬃57 and ⬃50 kDa
+see also reference 7). First, the mRNA is cleaved by a guide                that deadenylylate when incubated with PPi or ligatable RNA
+RNA (gRNA)-directed endonuclease, U residues are then                       but not when incubated with nonligatable RNA or ligatable
+added to or removed from the 3⬘ end of the upstream cleavage                DNA (29–31), indicating that they are RNA ligases. While
+product by a terminal-U-transferase or 3⬘-U-exonuclease, and                some T. brucei lines show one ⬃57-kDa polypeptide (8, 31),
+the mRNA is then rejoined by RNA ligase. A complex con-                     the TREU 667 line our laboratory works with has two closely
+sisting of seven different polypeptides that contains all these             migrating ⬃57-kDa forms, as well as the ⬃50-kDa species (29).
+activities and catalyzes both U-deletional and U-insertional                These three polypeptides are all constituents of the minimal
+editing rounds has been purified from Trypanosoma brucei                    editing complex (29), indicating their roles in RNA editing.
+mitochondria (10, 29). We have undertaken the cloning and                      To facilitate characterization of the enzymology and biolog-
+characterization of the polypeptides that make up this com-                 ical requirement for the ⬃57-kDa RNA ligase, we cloned its
+plex, beginning with one identified as an RNA ligase.                       cDNA, expressed it in Escherichia coli and trypanosomes, and
+   RNA ligases are used by many cells in tRNA splicing (e.g.,               performed genetic knockout analysis. These studies show that
+see references 5, 14, 45, and 49) and by bacteriophage T4 in                we have cloned the gene for a mitochondrially targeted RNA
+tRNA repair (reviewed in reference 41), and they are also                   ligase that is essential in procyclic trypanosomes, regulated in
+present in trypanosome mitochondria (3, 17, 46). These                      abundance, and highly related to another predicted protein,
+enzymes join RNA 3⬘ hydroxyl and 5⬘ phosphate termini,                      evidently the ⬃50-kDa ligase of the RNA editing complex.
+evidently by a common mechanism (30, 31; Fig. 1B). First, the
+ligase autoadenylylates, using ATP to form a covalent protein-                                      MATERIALS AND METHODS
+AMP intermediate while releasing pyrophosphate (PPi). This                     Procedures involving commercial reagents generally followed the manufactur-
+                                                                            er’s recommendations.
+                                                                               Trypanosome propagation and preparation of mitochondrial extracts, DNA,
+  * Corresponding author. Mailing address: Department of Biological         and RNA. Procyclic trypanosomes (strain TREU 667 or strain 427-derived trans-
+Chemistry, The Johns Hopkins University School of Medicine, 725 N.          genics of T. brucei brucei) were grown and mitochondrial extract was prepared
+Wolfe St., Baltimore, MD 21205. Phone: (410) 955-6278. Fax: (410)           and stored long term as described in reference 32, except that the extract was at
+955-0192. E-mail: bsw@jhmi.edu.                                             3 ⫻ 1010 cell equivalents/ml and used MRB (25 mM Tris-HCl [pH 8.0], 60 mM
+  † Present address: Department of Molecular and Cell Biology, Uni-         KCl, 10 mM magnesium acetate, 1 mM EDTA, 5% glycerol) supplemented with
+versity of California Berkeley, Berkeley, CA 94720.                         5 mM dithiothreitol (DTT) and protease inhibitors (Pefabloc SC [Roche Mo-
+  ‡ Present address: Pharmacia-Monsanto Laboratories, St. Louis,            lecular Biochemicals] at 1 mg/ml, Antipain [Sigma] at 50 ␮g/ml; E-64 [Sigma] at
+MO 63198.                                                                   10 ␮g/ml). Small-scale preparations from transformed trypanosomes were simi-
+
+                                                                      979
+980            ´ ET AL.
+          RUSCHE                                                                                                                                MOL. CELL. BIOL.
+
+
+                                                                                    nylidene difluoride membrane, and stained with 0.2% amido black. The Wistar
+                                                                                    protein analysis facility (Philadelphia, Pa.) performed trypsin digestion, high-
+                                                                                    pressure liquid chromatography (HPLC) separation of tryptic peptides, and
+                                                                                    sequencing by Edman degradation under the supervision of David Reim.
+                                                                                       Oligonucleotides, PCR, library screening, subcloning, and analysis. PCR of
+                                                                                    genomic DNA used the following oligonucleotides with 192- to 512-fold degen-
+                                                                                    eracy: IV.1(3), 5⬘-GGNATHATGG AYCCNAAYGA-3⬘; IV.1(4), 5⬘-ATYT
+                                                                                    GNGCNG TRAAYTCRTC-3⬘; IV.2(3), 5⬘-ATGYTNCCNC ARGTNGARG
+                                                                                    C-3⬘; IV.2(4), 5⬘-GCYTCNACYT GNGGNARCAT-3⬘ (R is A or G, Y is C or
+                                                                                    T, and H is A, C, or T). Subcloning into the untagged and tagged E. coli expres-
+                                                                                    sion vectors used oligonucleotides IV.3(3) (5⬘-CCATGCCATG GAACTCC
+                                                                                    AAA GGTTGGGTGC TCCAC-3⬘) and IV.3(4) (5⬘-GCCCAAGCTT GTGA
+                                                                                    CGCGTA GTGAATCACT ACC-3⬘) and oligonucleotides Nde-5⬘-IV (GATCC
+                                                                                    ATATGCAACTCCAAA GGTTGGG) and Nde-3⬘-IV (GATCCATATG TTC
+                                                                                    GCCCTTT GTGGGGGC), respectively. Identification of the trans-splice site
+                                                                                    was done with oligonucleotides IV.4(3) (5⬘-CGCTATTATT AGAACAGTT
+                                                                                    TCTGTACTATA TTG-3⬘ [miniexon sequence]) and IV.4(4) (5⬘-GGCGCCG
+
+
+
+
+                                                                                                                                                                         Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+                                                                                    TTG ATTGGCGTAT GC-3⬘). Genomic knockout constructs used oligonucle-
+                                                                                    otides pLew13/NotI (CACCGCGGTG GCGGCCGC), pLew13/MluI (GATCA
+                                                                                    CGCGT AAAGAAATAT TCGACCTTC), pLew13/XbaI (GATCTCTAGA CTA
+                                                                                    AGCGGTTAGTGGAGC) and pLew13/StuI (GATCAGGCCT ACCCTTATGC
+                                                                                    AAAAAAG); their PCR analysis used the latter oligonucleotide and Upper-IV
+                                                                                    (TTCTCAGCAG TACATGAAGG G).
+                                                                                       PCRs used Taq polymerase (BRL) and hot-start amplification for genomic
+                                                                                    DNA (⬃2 ng, 54°C annealing) and for subcloning (0.2 ng of template, 41°C an-
+                                                                                    nealings). PCR of large fragments used Taq Extender (Stratagene). Reverse
+                                                                                    transcription (RT)-PCR to identify the trans-splice site used rTth polymerase
+                                                                                    (Perkin-Elmer), ⬃1 ng of poly(A)⫹ RNA, a 95°C hot start, and a PCR with 65°C
+                                                                                    annealing.
+                                                                                       Subclonings were performed using standard procedures (33). The PCR prod-
+                                                                                    uct from genomic DNA, generated using oligonucleotides IV.1(3) and IV.2(4)
+                                                                                    and blunted with T4 DNA polymerase, was cloned into EcoRV-cleaved pBlue-
+                                                                                    script II KS (Stratagene). RT-PCR fragments were cloned into pCR2.1 (Invitro-
+                                                                                    gen). For procaryotic expression of untagged protein, cDNA clone IV.13 (see
+                                                                                    below) was amplified using oligonucleotides IV.3(3) and IV.3(4) and cloned
+                                                                                    into pTrc 99A (Pharmacia) with NcoI and HindIII (sites in the primer oligonu-
+                                                                                    cleotides), forming pTrc-IV. For procaryotic expression of C-terminal His6-
+                                                                                    tagged protein, cDNA clone IV.13 was amplified using oligonucleotides Nde-
+                                                                                    5⬘-IV and Nde-3⬘-IV and cloned into that site of pRSETB (Invitrogen), forming
+                                                                                    pRSETB-IV. For trypanosome expression of untagged protein, the cDNA of
+   FIG. 1. Process of RNA editing and mechanism of RNA ligase                       clone IV.13, excised with EcoRI (far 5⬘ end) and MluI [30 bp upstream of the
+action. (A) RNA editing has been found to involve the indicated                     poly(A) site] and BamHI-HindIII-digested pLew82 (47), were blunted and li-
+enzymatic steps, as described in the introduction. TUTase, terminal-                gated. A tetracycline (TC)-responsive T7 promoter drives the expression of a
+U-transferase. (B) Mechanism of many RNA and DNA ligases, in-                       phleomycin resistance marker and the test gene in the sense (piT7LigIV) or
+cluding T4 and yeast tRNA ligase and evidently trypanosome RNA                      antisense (piT7␣LigIV) orientation (see Fig. 6A). For trypanosome genetic
+ligase. E, exonuclease.                                                             knockouts, a 3.6-kb upstream BamHI fragment was first cloned from genomic
+                                                                                    DNA into that site of pBluescript II KS and partly sequenced, and then a
+                                                                                    ⬃1.1-kb upstream fragment overlapping the open reading frame (ORF) was
+lar, except that 1 ⫻ 108 to 2 ⫻ 108 cells were lysed by vortexing rather than       amplified using oligonucleotides pLew13/NotI and pLew13/MluI and cloned into
+Dounce homogenizing, the percoll gradient was omitted, and the vesicles were        pLew13 (48) at those sites. Next, ⬃0.3 kb of the 3⬘ region, amplified from
+suspended in 100 ␮l of MRB for the Triton X-100 treatment. DNA isolation (33)       genomic DNA using oligonucleotides pLew13/XbaI and pLew13/StuI, was in-
+from 2 ⫻ 109 trypanosomes yielded ⬃0.2 ␮g of DNA. RNA isolation, from ⬃109          serted between those sites. This plasmid, pLew13-IV-k/o(G418), has band IV
+cells, utilized 75 ml of TRIZOL Reagent (Bethesda Research Laboratories             region sequences flanking the neomycin resistance gene. pLew13-IV-k/o(hygro)
+[BRL]).                                                                             was made by replacing the neomycin resistance gene with the hygromycin resis-
+   Protein purification and peptide sequencing. For purification of the editing     tance gene from pLew128 using BamHI and SalI. Upon homologous integration,
+complex (basically scaling up of the protocol in reference 29), we used buffer P    these genes should be transcribed instead of the band IV ORF from upstream
+(25 mM Tris-HCl [pH 8.0], 10 mM MgCl2, 1 mM EDTA, 5 mM DTT, 10%                     band IV sequences.
+glycerol) supplemented with KCl to the millimolar concentrations indicated. We         A cDNA library from bloodstream T. brucei rhodesiense WRATat serodeme,
+applied 7.5 ⫻ 1011 cell equivalents of extract (⬃5 mg of protein per ml), diluted   clone MVAT4 in ␭ ZAPII (12; a kind gift of J. Donelson and N. El-Sayed) was
+to 85 ml in buffer P (50 mM), at 2 ml/min to a 20-ml Q-Sepharose column in a        screened (Stratagene) using 12 plates (150-mm diameter). Plaques were lifted on
+30-ml syringe, pre-equilibrated in buffer P (50 mM). After washing with 80 ml of    Colony/Plaque Screen membranes (NEN Research Products), denatured (33),
+buffer P (50 mM), a 130-ml buffer P (50 to 350 mM) linear gradient was run.         and cross-linked (Stratalinker; default setting). Membranes were hybridized to a
+Other purification runs suggest that buffer P (100 mM) may be preferable to         random primed probe of the partial genomic clone (above) and washed (much as
+buffer P (50 mM) above. The 7-ml fractions were analyzed by adenylylation. The      described in reference 33). All analyzed plaques remained positive through the
+seven peak fractions (⬃170 to 200 mM KCl; ⬍0.1 mg of protein per ml) were           tertiary screen. cDNA-containing phagemids in pBluescript were excised from ␭
+dialyzed for a few hours against buffer P (40 mM) and applied (at 0.5 ml/min) to    ZAPII and grown in SOLR cells (Stratagene). The clone with the longest insert,
+a 3-ml DNA-cellulose column in a 5-ml syringe pre-equilibrated as described         IV.13, was sequenced. It was used to screen the GenBank and Institute for
+above. After a 12-ml wash, a 24-ml buffer P (50 to 350 mM) linear gradient was      Genomic Research databases using BLAST.
+run, with the adenylylation activity eluting at ⬃85 to 120 mM KCl.                     E. coli expression, protein purification, adenylylation, and RNA ligase assays.
+   For protein sequencing, the DNA-cellulose-purified peak fractions (4.5 ml)       For untagged procaryotic expression, pTrc-IV transformed into E. coli HR171prr⫹
+were treated with 4 mM PPi for 10 min on ice to deadenylylate the ligase            (a gift of L. Snyder) was induced with 0.4 mM isopropyl-␤-D-thiogalactopyrano-
+polypeptides, precipitated, subjected to sodium dodecyl sulfate (SDS)–10% poly-     side (IPTG) at 30°C for ⬃3 h. After being washed in phosphate-buffered saline,
+acrylamide gel electrophoresis, electroblotted onto a Bio-Rad TransBlot polyvi-     cells were sonicated in 50 mM Tris-HCl (pH 8.0)–1 mM EDTA–3 mM DTT with
+VOL. 21, 2001                                                                   RNA LIGASE OF THE T. BRUCEI RNA EDITING COMPLEX                     981
+
+
+protease inhibitors (described above), and cleared lysates were dialyzed against       through VII, with two closely migrating species that have vir-
+this buffer at 4°C. For His-tagged protein, 200-ml cultures of pRSETB-IV-              tually identical tryptic digest patterns (see Fig. 2B) designated
+transformed BL21(DE3) cells (Invitrogen) were induced with 1 mM IPTG at
+37°C for 3 to 4 h. Cells were resuspended in 20 ml of 50 mM Tris-HCl–2 mM
+                                                                                       IVa and IVb. Bands IVa, IVb, and V comigrate with the
+EDTA (pH 7.8), freeze-thawed, incubated at 22°C for 30 min with 5 mM MgCl2–            radiolabeled adenylylatable polypeptides, on both one- and
+100 ␮g of lysozyme per ml–10 U of DNaseI per ml, and then resuspended and              two-dimensional gels (29). To confirm that the ligase is the
+sonicated in 6 M guanidine-HCl–20 mM sodium phosphate–500 mM NaCl (pH                  observed protein and not a minor contaminant, the purified
+7.8). A Probond nickel column (Invitrogen) in 8 M urea–20 mM sodium phos-
+                                                                                       editing complex was incubated with ATP to adenylylate or PPi
+phate–500 mM NaCl (pH 7.8) was loaded with cleared lysate and washed with
+this buffer adjusted with HCl to pHs 7.8, 6.0, and 5.3; the pH 4.0 eluant was          to deadenylylate ligases (Fig. 1B) and proteins were resolved
+dialyzed into 2 M urea–25 mM Tris-HCl (pH 7.6)–5 mM MgCl2–1 mM                         on SDS-gels. Silver staining revealed that the electrophoretic
+EDTA–5% glycerol–50 mM NaCl–0.1% ␤-mercaptoethanol.                                    mobility of band IV and band V, but not the other polypep-
+   Adenylylation and ligase assays were performed as previously described (29),        tides, was altered by the treatment (Fig. 2A). Thus, the ligase
+using 4 ␮g of E. coli extract protein, 6 ␮g of trypanosome extract protein, or 0.8
+␮g of purified protein (its 2 M urea storage buffer was diluted 10-fold); the ligase
+                                                                                       proteins are the major silver-stainable species designated band
+assay also used 10 to 100 fmol of 5⬘-end-labeled pIBI30 transcript (29; 0.5 ⫻ 105      IV and band V.
+to 1 ⫻ 105 cpm). Assays using PPi pretreatment followed by pyrophosphatase can            Following electrophoresis of the purified and deadenylylated
+
+
+
+
+                                                                                                                                                           Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+reduce adenylylation of band IV relative to band V. Protein concentration was          editing complex, the excised bands were trypsin digested and
+determined with the Bio-Rad protein assay.
+                                                                                       resolved by HPLC. Bands IVa and IVb have virtually identical
+   Generation of transgenic trypanosome cell lines for overexpression and knock-
+out analysis. For trypanosome ectopic expression, piT7LigIV or piT7␣LigIV              tryptic profiles (Fig. 2B) and thus are variants of one another.
+(10 ␮g) linearized with NotI within the rRNA gene nontranscribed spacer adjoin-        Band V has a very different tryptic profile (Fig. 2B) and dif-
+ing the transgene (see Fig. 6A) was electroporated (47, 48) into 2 ⫻ 107 procyclic     ferent adenylylation properties (29; data not shown) and thus
+29.13 cells. Line 29.13 (48), generated from T. b. brucei strain 427, expresses T7     represents a distinct protein.
+RNA polymerase and TC repressor (TetR) along with linked hygromycin and
+neomycin resistance genes. At 24 h, 5 or 50 ng of TC per ml was added for low
+                                                                                          Band IV cDNA cloning reveals alternate trans splicing. Two
+or intermediate induction and 2.5 ␮g of phleomycin (Kayla) per ml was added for        tryptic peptides from band IVa were subjected to Edman deg-
+selection; cell lines were established and then propagated without selection (47).     radation, yielding sequences of 25 and 26 amino acids (the
+Four lines from each transfection-induction condition were induced with 500 ng         double-overlined amino acids in Fig. 3A). Degenerate oligo-
+of TC per ml, and after various times, mitochondrial extract was prepared.
+                                                                                       nucleotides designed from their internal portions in both ori-
+Clones selected at the two TC levels showed similar characteristics.
+   For genetic knockout analysis, pLew13-IV-k/o(G418) or pLew13-IV-k/o(hy-             entations (see Materials and Methods) were used for PCR of
+gro) was cleaved with NotI and StuI to liberate the cassette and electroporated        trypanosome genomic DNA, which should generate a contig-
+into wild-type 427 procyclic cells (48) as described above. After 24 h, G418 (15       uous protein-coding sequence since virtually no trypanosome
+␮g/ml) or hygromycin (50 ␮g/ml) was added and cell lines were established (47).        genes contain introns. Oligonucleotides IV.1(3) and IV.2(4)
+DNA isolated from these lines was analyzed by PCR using oligonucleotides
+Upper-IV (priming from genomic sequences 1.3 kb upstream of the band IV
+                                                                                       generated a 777-nucleotide fragment (Fig. 3A; the new resi-
+coding region, not present in the pLew 13-IV-k/o constructs) and pLew13/StuI           dues are in lowercase, and the primers are in italicized upper-
+(priming band IV 3⬘ untranslated region [UTR]). Amplification of the genomic           case). The tryptic peptide sequences are in phase and not
+locus yields a 2.9-kb product, while homologous integration of either knockout         separated by termination codons. Verifying that the PCR prod-
+cassette yields a novel ⬃6-kb product. Correct single-allele knockout lines were
+                                                                                       uct derives from the gene corresponding to the isolated pro-
+then electroporated with the alternate knockout construct or control constructs.
+Other genetic approaches (48) were also examined.                                      tein, the sequences immediately interior to the primers (the
+   Northern blot analysis. Poly(A)⫹ mRNA [10 or 30 ␮g, isolated using an               lowercase double-overlined amino acids in Fig. 3A) encode the
+oligo(dT) column (BRL)] was run on a 1% agarose-formaldehyde gel (33) and              adjacent 17 and 9 amino acids of the sequenced tryptic pep-
+electroblotted onto Zetaprobe (Bio-Rad). Prehybridized membranes were treated          tides.
+as described above, using a random primed PCR product of the band IV ORF
+(described above) or the band I or band II cDNA clones (K.J.P. and M.H.,
+                                                                                          Screening of a trypanosome cDNA library using this PCR
+unpublished data). Selective probing for endogenous band IV RNA used 42°C              product yielded several related clones. Double-strand sequenc-
+annealing and 5⬘-end-labeled TTACCCTTAT GCAAAAAAGA TGTGTTTG                            ing of the longest cDNA, ⬃1.8 kb, confirmed that it contains
+TGTGACGCGTAG to the 3⬘ UTR beyond the region present in the transgene.                 the PCR product and the entirety of both sequenced peptides,
+                                                                                       providing 11 amino acids of additional confirmation that the
+                                  RESULTS                                              cloned gene corresponds to the purified protein (Fig. 3A). Its
+                                                                                       predicted 468-amino-acid ORF (indicated below the nucleo-
+   Bands IVa and IVb are isoforms, while band V is a different                         tide sequence in Fig. 3A) begins ⬃250 nucleotides from the 5⬘
+RNA ligase. The three major adenylylatable polypeptides in                             end of this cDNA and extends to ⬃100 nucleotides before the
+mitochondrial extract of T. brucei line TREU 667, a doublet at                         3⬘ poly(A) site. In frame, four translation termination codons
+⬃57 kDa and a single species at ⬃50 kDa, represent RNA                                 (dot-underlined italic residues) are upstream and four are
+ligases. These adenylylatable polypeptides deadenylylate spe-                          downstream of the identified ORF; termination codons are
+cifically in the presence of ligatable RNA and copurify with                           also throughout the other two reading frames. The predicted
+one another and with RNA ligation activity in all of the frac-                         protein is 52 kDa, close to the 57 kDa (29, 31) or 54 kDa (9)
+tionation schemes examined (29; data not shown). Notably,                              estimated from the SDS-gel mobility of the adenylylatable try-
+they also copurify with gRNA-directed endonuclease, 3⬘-U-                              panosome protein.
+exonuclease, and terminal-U-transferase activities, as well as                            Surprisingly, the 5⬘ end of this cDNA lacks the 39-nucleotide
+with catalysis of full-cycle U deletion and U insertion editing                        miniexon that is trans spliced onto all mature nucleus-encoded
+(10, 29). Purification using Q-Sepharose and DNA cellulose                             trypanosome mRNAs (2), even though this cDNA is of at least
+achieves ⬃500-fold enrichment of ligase and full-cycle editing                         the expected length [Fig. 3B; band IV mRNA is ⬃1.9 kb, while
+activities (10, 29) and yields only eight major silver-stainable                       the cloned cDNA plus an average-size trypanosome poly(A)
+bands (29). They are designated by apparent size, bands I                              tail would be ⬃2 kb]. This suggests that the cDNA could
+982           ´ ET AL.
+         RUSCHE                                                                                                              MOL. CELL. BIOL.
+
+
+                                                                            sensus splice acceptor site 127 or 110 nucleotides upstream of
+                                                                            the noted ATG (the residues indicated by double underlining
+                                                                            in Fig. 3A, line 3). Specifically, both miniexon addition sites are
+                                                                            at a purine residue, immediately following an AG dinucleotide,
+                                                                            preceded within a few nucleotides by a polypyrimidine tract (28
+                                                                            of 30 and 8 of 9 residues, respectively), preceded within 20 to
+                                                                            30 nucleotides by a good match to the YNYYRAY consensus
+                                                                            branch site (Fig. 3C). Thus, band IV RNA ligase mRNA has at
+                                                                            least two miniexon addition sites that generate the ⬃1.9-kb
+                                                                            mRNAs.
+                                                                               Expressed band IV protein is a mitochondrially targeted
+                                                                            functional RNA ligase. When untagged band IV was expressed
+                                                                            in E. coli, induced cell extracts showed a novel adenylylatable
+                                                                            protein (Fig. 4A, lanes 2 to 4). Limited RNA ligase activity
+
+
+
+
+                                                                                                                                                  Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+                                                                            could also be observed in these induced extracts, although the
+                                                                            protein is almost entirely in inclusion bodies (data not shown).
+                                                                            Therefore, we examined His6-tagged recombinant protein pu-
+                                                                            rified after guanidine solubilization of the inclusion bodies
+                                                                            (Fig. 4B). It had substantial adenylylation and RNA ligase
+                                                                            activity, while similarly isolated control proteins showed none
+                                                                            (Fig. 4C and data not shown). We concluded that the cloned
+                                                                            cDNA encodes a functional RNA ligase.
+                                                                               Figure 4A also shows that the major adenylylatable product
+                                                                            expressed in E. coli from the untagged band IV construct,
+                                                                            which is presumably the same as the primary trypanosome
+                                                                            translation product, migrates to a position equivalent to that of
+                                                                            a protein ⬃2 to 3 kDa larger than the mature trypanosome
+                                                                            band IVa ligase protein. However, when this same ORF is
+                                                                            expressed in trypanosomes, its protein product is the size of the
+                                                                            mature band IVa protein and is found in mitochondria (see
+                                                                            Fig. 5B). These results suggest that the trypanosome band IV
+                                                                            protein is cleaved to the mature size upon mitochondrial im-
+                                                                            port, consistent with it naturally being a mitochondrial protein
+                                                                            not encoded in mitochondrial DNA. Accordingly, the N-ter-
+                                                                            minal portion of the predicted protein conforms to trypano-
+                                                                            some mitochondrial signal sequences (16, 28, 42, 43), being
+                                                                            rich in basic and hydrophobic but devoid of acidic residues and
+                                                                            able to form an amphipathic ␣-helix (Fig. 4D). Therefore, the
+   FIG. 2. Polypeptides representing RNA ligase. (A) Silver stain of        band IV primary translation product begins with a signal se-
+an SDS–8% polyacrylamide gel resolving T. brucei RNA ligase purified        quence and is the cytoplasmic precursor to band IV mitochon-
+through Q-Sepharose and DNA-cellulose and then either adenylylated
+by incubation with 1 mM nonradioactive ATP (lane 1) or deadenyly-
+                                                                            drial RNA ligase.
+lated with 8 mM PPi, (lane 2). Samples were acetone precipitated prior         Total band IV protein is regulated in trypanosomes. Band
+to electrophoresis. The central portion of the gel is shown, including      IV protein was expressed from the cloned cDNA in trypano-
+bands IVa, IVb, and V, which migrate faster when deadenylylated than        somes using the TC-regulatable piT7LigIV construct ectopi-
+when adenylylated, and bands III and VI, which do not change in             cally integrated into 29.13 cells (Fig. 5A; see Materials and
+migration upon these treatments. (In this preparation, band V was not
+fully adenylylated in lane 1). Bands I, II, and VII are off the top and     Methods). These parental 29.13 cells show adenylylatable
+bottom of this gel region. On such ⱕ8% polyacrylamide gels, band V          polypeptides corresponding to band IVb and band V (Fig. 5B,
+(which stains brown and labels with [␣-32P]ATP) migrates faster than        lane 2) but none the size of band IVa, which was present in our
+band VI (which stains gray and does not label). On 10% polyacryl-           original TREU 667 strain (lane 1). Notably, all eight of the
+amide gels, the adenylylation-deadenylylation mobility difference can
+be readily observed for band V but not for band IV (27). (B) HPLC
+                                                                            piT7LigIV-transformed 29.13 cell lines examined also show an
+profile of tryptic peptides derived from bands IVa, IVb, and V and a        adenylylatable band IVa (lanes 3 to 9; data not shown). Since
+trypsin control (T), representing elution volume on the x axis and          its abundance increases markedly upon TC induction (lanes 3
+signal intensity on the y axis. The asterisks indicate peaks present from   to 9; data not shown), it is evidently encoded by the cloned
+band IVa but not from band IVb.                                             cDNA. From its size, we conclude that the cloned gene en-
+                                                                            codes the band IVa isoform of this RNA ligase.
+correspond to unspliced pre-mRNA. To determine the mini-                       As the amount of adenylylatable band IVa protein from the
+exon addition site, we performed RT-PCR of poly(A)⫹ RNA                     cloned gene increases following induction, the amount of ad-
+using a miniexon upstream primer and products of two sizes                  enylylatable band IVb protein from the cells’ endogenous gene
+were obtained. Both extend upstream less far than the initial               correspondingly decreases, maintaining an approximately con-
+cDNA, with the miniexon joined to the pre-mRNA at a con-                    stant amount of band IVa plus band IVb (Fig. 5B). In contrast,
+VOL. 21, 2001                                                     RNA LIGASE OF THE T. BRUCEI RNA EDITING COMPLEX                            983
+
+
+
+
+                                                                                                                                                    Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+
+  FIG. 3. Nucleotide and amino acid sequences of T. brucei RNA ligase band IVa. (A) Nucleotide sequence and predicted amino acid sequence
+of the cloned trypanosome cDNA. The two sequenced tryptic peptides are indicated by the double-overlined amino acids. The lowercase residues
+correspond to the new sequences obtained from the PCR using primers IV.1(3) and IV.2(4), and the uppercase residues correspond to those
+additionally obtained from cDNA clone IV.13. The first AUG and in-frame termination codons are in italics with solid or dotted underlining,
+respectively. Other conserved amino acid motifs discussed in the text are indicated by dotted underlining. The oligonucleotides used as PCR
+primers the entire expressed protein region and for the 5⬘ region of the mRNA and are indicated by dotted overlining on lines 5 and 30
+(oligonucleotides IV.3) and by dotted underlining on line 6 (oligonucleotide IV.4(4)). The latter clones showed miniexon trans splicing to either
+of the double-underlined purine residues on line 3 (see panel C). The longer cDNAs derived from strain TREU 667 contain a G residue just
+upstream from the position of the trans-splice site used in the shorter cDNA (the lowercase g residue on line 3), while cDNA IV.13 isolated from
+the library generated from WRATat (12) has an A at that position; a second apparent polymorphism is that the two former cDNA kinds both
+contain an extra GTG (valine) codon inserted after codon 14 (indicated by the diagonal overline). (B) Northern blot of 2 ␮g of strain TREU 667
+poly(A)⫹ RNA probed with the PCR product generated using oligonucleotides IV.1(3) and IV.2(4). The sizes of the molecular size markers in
+lane M are indicated in bases on the right. (C) The two splice acceptor sites are numbered relative to the ATG initiation sequence. The miniexon
+sequence becomes joined to the mRNA at the indicated boldface purine, replacing the sequence upstream of the diagonal line. Also indicated are
+matches to the splice consensus acceptor sequence; below is shown the percent conservation of mammalian branch site consensus sequences. Y,
+pyrimidine; R, purine; N, is any residue.
+984          ´ ET AL.
+        RUSCHE                                                                                                             MOL. CELL. BIOL.
+
+
+                                                                       the amount of adenylylatable band V RNA ligase protein,
+                                                                       which is encoded by a different gene (Fig. 2B; also see refer-
+                                                                       ence 29 and Fig. 6), is unchanged upon band IVa induction
+                                                                       (Fig. 5B). These abundances of adenylylatable bands IVa, IVb,
+                                                                       and V are similarly observed in whole-cell extracts, mitochon-
+                                                                       drial extracts, and extracts deadenylylated prior to assay (data
+                                                                       not shown). This demonstrates that band IVa induction affects
+                                                                       the actual amount of band IVb protein and not merely its
+                                                                       localization or extent of preadenylylation. Thus, the amount of
+                                                                       total band IV ligase protein in the trypanosome is regulated to
+                                                                       not appreciably exceed that present in the normal editing com-
+                                                                       plex. Furthermore, band IV and band V RNA ligases are treated
+                                                                       as nonequivalent species by this regulatory process.
+                                                                          Northern blotting was used to examine whether the ob-
+
+
+
+
+                                                                                                                                                 Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+                                                                       served band IV protein regulation is due to modulation in
+                                                                       band IV mRNA abundance (Fig. 5C). A coding region probe
+                                                                       showed that transgene RNA is induced to very high levels
+                                                                       relative to endogenous band IV mRNA (Fig. 5C, top; long
+                                                                       exposures reveal a band in lanes 1 to 3 that is ⬃1/1,000 of the
+                                                                       intensity seen upon induction). Yet endogenous band IV
+                                                                       mRNA levels, specifically detected with an oligonucleotide for
+                                                                       the distal 3⬘ UTR not present in the transgene (see Materials
+                                                                       and Methods; Fig. 3B), remain constant upon induction (Fig.
+                                                                       5C, bottom). Controls analyzing two other mitochondrial mR-
+                                                                       NAs confirmed approximately equal loading of the lanes (Fig.
+                                                                       5C, middle; data not shown). Hence, the observed regulation
+                                                                       of band IV protein occurs beyond the level of mRNA abun-
+                                                                       dance, evidently translational or posttranslational.
+                                                                          Band IV RNA ligase is an essential gene. If this ligase is
+                                                                       needed for RNA editing, it should be critical in procyclic cells,
+                                                                       which require mitochondrial genes and therefore presumably
+                                                                       editing of their transcripts. Southern blotting indicated that the
+                                                                       band IV gene is single copy (restriction enzymes that do not
+                                                                       cut within the probe region generate a single band, while ones
+                                                                       that cut once generate two bands; data not shown), so there
+                                                                       should be two alleles in the diploid genome to knock out.
+                                                                       Making use of the trypanosome’s homologous recombination
+                                                                       of introduced DNA (11, 19, 40), procyclic 427 cells were trans-
+                                                                       fected with either of two otherwise identical constructs de-
+                                                                       signed to replace a band IV coding region with a hygromycin
+                                                                       or G418 resistance gene [from pLew13-IV-k/o(hygro) or
+                                                                       pLew13-IV-k/o(G418); see Materials and Methods]. Individu-
+                                                                       ally, both of these constructs can readily replace an allele of
+                                                                       band IV since their transfection yielded numerous cell lines
+
+
+
+                                                                       pTrc99A containing the untagged T. brucei RNA ligase ORF and
+                                                                       induced with IPTG (lanes 2 and 4) or uninduced (lane 3). The adenyl-
+                                                                       ylatable protein comigrates with the induced polypeptide observed
+                                                                       upon silver staining (not shown). A lighter exposure of this gel shows
+                                                                       distinct bands IVa and IVb in lane 1. (B) Coomassie stain of an
+                                                                       SDS-gel of the nickel column-purified, C-terminally His6-tagged band
+                                                                       IV protein expressed in E. coli. (C) RNA ligase assay using the His6-
+                                                                       tagged band IV protein expressed in E. coli and purified on a nickel
+                                                                       column (lane 2) using partly purified editing complex from trypano-
+                                                                       some mitochondria (lane 3) or a buffer control (lane 1). (D) Helical-
+                                                                       wheel representation of the predicted N-terminal amino acid sequence
+                                                                       of T. brucei RNA ligase band IVa. Basic residues are indicated by plus
+   FIG. 4. T. brucei RNA ligase expressed in E. coli. (A) Adenylyla-   signs, and hydrophobic residues are in boldface. The valine at position
+tion of the trypanosome (tryp) mitochondrial editing complex showing   15 in the clones from TREU 667 is shown. Molecular sizes (kilodal-
+the ⬃57-kDa band IV doublet and ⬃50-kDa band V (lane 1) or E. coli     tons) of markers are shown to the left and right of panels B and C,
+extracts made from cells with (lanes 2 and 3) or without (lane 4)      respectively.
+VOL. 21, 2001                                                      RNA LIGASE OF THE T. BRUCEI RNA EDITING COMPLEX                              985
+
+
+
+
+                                                                                                                                                       Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+   FIG. 5. Expression of the band IV construct in trypanosomes. (A) Plasmid piT7LigIV, used for inducible overexpression of band IV cDNA in
+transfected trypanosomes, has a T7 promoter with a tet operator driving expression of the band IV ORF and a linked phleomycin resistance gene
+(Phl, the ble gene from Streptoalloteichus hindustanus) plus the indicated 5⬘ trans-splicing and 3⬘ polyadenylation signals to allow normal
+trypanosome mRNA processing (47). Transcription stops at the T7 terminator before reading into the pGEM vector sequences. Linearization
+within the adjoining segment derived from the transcriptionally silent rRNA gene (rDNA) intergenic spacer allows homologous targeting to this
+region of the host chromosome, with the desired ORF reading in the reverse orientation of the rRNA gene. This DNA was electroporated into
+procyclic cell line 29.13, which expresses T7 RNA polymerase and TetR to allow regulation of the TC-responsive T7 promoter (47). In plasmid
+piT7␣LigIV, the band IV ORF cassette was, instead, inserted in the antisense orientation. Term, termination signal; PARP, procyclic acid repeat
+protein (procyclin). (B) Adenylylation assay of extracts prepared from our original cell line (lane 1, TREU 667; reference 29), from the parent cell
+line used for the transfections (lane 2, line 29.13, in the 427 background), and from two representative stably transformed lines expressing the
+cloned band IVa gene (cell lines C and D), without and at various times following TC induction. To score molecules that were already adenylylated
+in the extract, the assays were performed following PPi treatment (29). (C) Northern blotting of RNAs from similarly uninduced and induced
+cultures of the untransformed and transformed cells used a probe for total band IV mRNA (top panel), a probe for a different cloned
+mitochondrial cDNA (middle panel; band I; K.J.P., unpublished results), and an oligonucleotide probe specific for the endogenous band IV mRNA
+(bottom panel).
+
+and all of those analyzed showed proper integration (Table 1).              single-allele knockout cell lines with the alternate band IV
+In all cases, the PCR analysis (see Materials and Methods)                  knockout construct, only a few cell lines grew and none showed
+generated the novel ⬃6-kb product diagnostic of homologous                  only the intended double replacement (Table 1). Critically, in
+integration into one band IV allele and the 2.9-kb product                  multiple such second-transfection attempts, all of the resulting
+diagnostic of the remaining band IV allele. These resultant                 cell lines retained a copy of the intact band IV gene, since their
+single-allele knockout cell lines were readily transfectable with           PCR analysis still showed the diagnostic 2.9-kb product (Table
+control constructs that target the other drug resistance gene to            1). Additional analyses using other PCR primers showed that
+the ␤-tubulin locus using plasmids pLew128 and pLew13 (Ta-                  such cell lines result from events which normally occur only
+ble 1). However, when we instead attempted to transfect these               extremely rarely in trypanosome transfections: mistargeting of
+986           ´ ET AL.
+         RUSCHE                                                                                                                                   MOL. CELL. BIOL.
+
+
+                                     TABLE 1. Knockout analysis of band IV with different transfecting plasmids
+                                                        % of cell lines exhibiting
+                                                                                                              No. of cell lines obtaineda with:
+                                                        targeted knockout with:
+               Recipient cell line
+                                                      pLew13-IV-        pLew13-IV-       pLew13-IV-       Control construct      pLew13-IV-         Control construct
+                                                       k/o(hygro)        k/o(G418)        k/o(hygro)          (hygro)b            k/o(G418)             (G418)c
+
+Wild typed                                                100               100              19e                 23                  12f                   17
+First allele IV knockout (with G418r gene)                  0                                 4g                 24
+First allele IV knockout (with hygror gene)                                   0                                                       8 g
+                                                                                                                                                           17
+  a
+    Number of lines obtained out of 24 possible (number of microtiter wells seeded with transfected cells).
+  b
+    Plasmid pLew128.
+  c
+    Plasmid pLew13.
+  d
+    Line 427.
+  e
+    Ten of these lines were analyzed by PCR.
+  f
+    Five of these lines were analyzed by PCR.
+  g
+    All of these lines were analyzed by PCR.
+
+
+
+
+                                                                                                                                                                        Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+the second drug resistance cassette or acquisition of an extra                       decreased only very modestly, despite the antisense RNA be-
+copy of the locus (data not shown). These data demonstrate                           ing induced to ⬎1,000-fold excess (data not shown).
+that true double-knockout cells are inviable. We concluded                              A leishmania band IV homologue. Only two predicted pro-
+that the band IV gene is essential for procyclic trypanosomes.                       teins with significant homology to T. brucei band IV were
+   We turned to this knockout protocol because initial attempts                      detected in the GenBank database. One is a previously un-
+to generate cell lines which survive on only a regulatable                           identified 490-amino-acid ORF from Leishmania major (gb/
+ectopic copy of the band IV gene (48) yielded no complete                            AAC24666.1; chromosome 1 cosmid L5701.8) with 85% se-
+knockout lines that were appropriately down-regulatable, de-                         quence identity (92% sequence similarity) to the central 306
+spite several attempts (data not shown). This protocol (48),                         amino acids of the T. brucei protein and ⬎50% identity (⬎80%
+initially demonstrated using nonessential genes, has recently                        similarity) to the adjoining 40 N-terminal and 46 C-terminal
+been reported to be similarly unsuccessful in knocking out                           amino acids (Fig. 6). The remaining N-terminal region of the
+several other essential gene functions in procyclic trypano-                         predicted L. major protein, although showing virtually no pri-
+somes (E. Ullu and C. Tschudi, personal communication). We                           mary sequence homology with the T. brucei protein, appears to
+had also attempted to deplete band IV through ectopic expres-                        be a mitochondrial targeting sequence (16, 28, 42, 43) since its
+sion of antisense RNA using piT7␣LigIV, but band IV protein                          first ⬃17 amino acids are almost all hydrophobic or basic,
+abundance was not detectably affected and band IV mRNA                               could form an amphipathic helix, have no acidic residues, and
+
+
+
+
+  FIG. 6. Sequence comparisons of T. brucei RNA ligase. Sequence alignment of the T. brucei band IV RNA ligase protein [Tb(IV); upper lines]
+with a predicted protein from an ORF of L. major [Lm(IV); middle lines] and a predicted protein from an ORF of T. brucei [Tb(V?); lower lines].
+Dashes indicate identity, lowercase letters indicate similarities, uppercase letters indicate nonconservative differences, and online dots indicate
+spaces inserted for alignment.
+VOL. 21, 2001                                                RNA LIGASE OF THE T. BRUCEI RNA EDITING COMPLEX                     987
+
+
+begin with MRRL. This suggests that the leishmania ORF is a         placed (Table 1). This inability to attain double-knockout cells
+homologue of the trypanosome band IV RNA ligase and is              in light of substantial positive controls demonstrated the re-
+also mitochondrial.                                                 quirement for band IV RNA ligase.
+   The T. brucei band V RNA ligase gene. The other predicted           We used this genetic approach because an alternate proce-
+protein detected in the GenBank database is a T. brucei ORF         dure (48) has repeatedly failed to generate cell lines which
+(CAB95523; chromosome 1) that has 55% identity (70% sim-            survive solely on an appropriately down-regulatable ectopic
+ilarity) to the central 208 amino acids of band IV (Fig. 6). It     copy of several essential genes in procyclic T. brucei (Ullu and
+also has significant homology (⬃40% identity; ⬃60% similar-         Tschudi, personal communication), including band IV (un-
+ity) throughout its length. The probability that a hit of this      published data). Furthermore, band IV protein was not dimin-
+similarity will occur by chance in the database is 10⫺86, so most   ished by ectopic expression of antisense band IV RNA, despite
+likely they are functionally related proteins. Further suggesting   a ⬃1,000-fold excess over endogenous band IV mRNA.
+that this ORF encodes a ligase is the fact that it conserves the       The essential nature of the band IV RNA ligase indicates
+KXXG and EG␾␾␾ motifs (X is any residue; ␾ is a hydropho-           that its function cannot be replaced by the band V RNA ligase.
+bic residue) that are typical of RNA ligases (36, 37), including    Thus, the two ligases of the editing complex serve different
+
+
+
+
+                                                                                                                                        Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+the band IV sequences from T. brucei and L. major (underlined       enzymatic and/or structural roles. Although the present data
+residues in Fig. 6). In fact, another RNA ligase is known in        do not define these roles, separate studies using biochemical
+T. brucei. It is band V of the minimal RNA editing complex,         analyses and dominant negative cell lines indicate that band IV
+reported to be 47 kDa (8) or 50 kDa (29, 31) and mitochon-          RNA ligase serves in U deletion while the band V RNA ligase
+drially imported. Importantly, the protein predicted from this      serves in U insertion (C.E.H. et al., unpublished data; Cruz
+homologous T. brucei ORF is 416 amino acids, with a calcu-          Reyes et al., unpublished data).
+lated molecular mass 47.5 kDa. Furthermore, its N terminus is          Band IV RNA ligase. The two ⬃57-kDa adenylylatable poly-
+a typical mitochondrial targeting sequence. Their common            peptides present in the purified editing complex and crude
+predicted length, location, and function strongly imply that this   extract of our TREU 667 cells (29) are virtually identical pro-
+T. brucei ORF encodes band V, the other RNA ligase of the           teins (Fig. 2B). The few tryptic peptides that derive only from
+minimal RNA editing complex.                                        band IVa (starred positions in Fig. 2B) could reflect their small
+   T. brucei subspecies show minimal differences in band IV.        difference in length. Indicating that bands IVa and IVb repre-
+The Institute for Genomic Research T. brucei database, repre-       sent two natural alleles, strain 427 has only the IVb variant
+senting terminal sequences of sheared DNA from T. brucei            while the transfected band IV cDNA, obtained from another
+strain TREU 927, includes five fragments of band IV. They           trypanosome subspecies (12), generates the IVa variant (Fig.
+have 1 to 3% sequence difference from the band IV cDNA              5). Cells used in two other studies (8, 31) also appear homo-
+clone (Fig. 3) isolated from T. brucei rhodesiense (12), and most   genic, although for which form remains unclear. Since the two
+do not affect the amino acid sequence.                              band IV isoforms transfer their adenylylated AMP to ligatable
+                                                                    RNA with equal efficiency (29), they appear to be similarly
+                        DISCUSSION                                  active in RNA ligation.
+                                                                       Our transfections detect a regulatory process through which
+   We report cloning the first component of the minimal try-        the trypanosome can prevent excess band IV protein from
+panosome mitochondrial RNA editing complex, an essential            accumulating. Upon induction of the ectopic gene expressing
+RNA ligase. The clone’s identity was verified because it en-        the IVa isoform, the level of the endogenous IVb isoform
+codes the entirety of both sequenced peptides from the puri-        proportionately decreases, keeping the total amount of band
+fied protein (Fig. 3), which was confirmed to be an RNA ligase      IV protein approximately constant (Fig. 5B). This compensa-
+(Fig. 2A; 29), and the expressed protein is adenylylatable and      tory reduction in the endogenously encoded ligase is selective
+catalyzes RNA joining (Fig. 4A and C). A larger primary trans-      for band IV protein and does not affect the level of the band V
+lation product (Fig. 4A) and its N-terminal sequence are con-       protein, even though it is encoded by a related gene and com-
+sistent with its mitochondrial targeting. Furthermore, the          prises another RNA ligase of the editing complex, indicating
+adenylylatable product ectopically expressed in T. brucei is        that this process treats these two ligases separately. Additional
+mitochondrial and has the same size as the trypanosome band         experiments showed that this regulation occurs at the level of
+IVa RNA ligase (Fig. 5B). Importantly, this expressed protein       band IV translation or protein stability, not at transcription or
+coregulates with the endogenously encoded band IV RNA               mRNA stability (Fig. 5C), and not at subcellular protein dis-
+ligase isoform (Fig. 5B), suggesting that it becomes part of the    tribution or adenylylation efficiency. Such regulation might
+RNA editing complex.                                                be useful for members of a multiprotein complex needed in
+   Genetic knockout analyses show that band IV is critical in       stoichiometric amounts. Indeed, in yeast, an analogous form
+procyclic cells (Table 1), as might be expected for a component     of regulation serves to prevent overaccumulation of ribo-
+vital in RNA editing. Either of two band IV replacement cas-        somal proteins; ones made in excess and not assembled into
+settes readily integrate homologously to knock out one of the       ribosomes are subject to rapid degradation (27, 44).
+diploid band IV gene copies, and the resultant single-knockout         The T. brucei band IV RNA ligase shows ⬎85% identity
+out lines were readily transfectable with analogous cassettes       over the central 300 amino acids with the predicted protein
+targeting different genetic loci (Table 1). However, in multiple    from an unidentified ORF of L. major which also appears
+controlled experiments, transfection of those single-knockout       would mitochondrially localize (Fig. 6). Although no RNA
+lines with the alternate band IV knockout cassettes yielded no      ligase has been cloned and no RNA editing complex has been
+viable products in which the remaining band IV gene was re-         purified from leishmania, we speculate that this ORF encodes
+988          ´ ET AL.
+        RUSCHE                                                                                                                  MOL. CELL. BIOL.
+
+
+the leishmania homologue of the T. brucei band IV RNA ligase         presumed T. brucei band V protein than it is to the presumed
+and that it is part of a mitochondrial RNA editing complex. Its      L. major band IV protein, suggesting that these two RNA
+relationship to an RNA ligase activity enriched from L. taren-       ligases assumed their distinct roles in editing well before these
+tolae (6) remains to be determined.                                  species diverged, ⬃108 years ago (18). Evidence that the two
+   With the exception of the kinetoplastid RNA ligases, all          RNA ligases of the RNA editing complex derived from a
+other known 3⬘-5⬘ RNA ligases appear to function in tRNA             common ancestor in ancient times may prove useful in further
+remodeling. Cellular RNA ligases in many species, including          understanding the evolution of RNA editing.
+yeast (references 5 and 45 and references therein), wheat germ
+(25), Candida albicans (4), and humans (24), act in tRNA                                      ACKNOWLEDGMENTS
+splicing (49), while the enzyme in T4 (reference 23 and refer-          We gratefully acknowledge John Donelson and Najib El-Sayed for
+ences therein) rejoins host tRNA molecules cleaved during the        providing the cDNA library, David Reim and the Wistar protein anal-
+phage attack. In contrast, the trypanosome mitochondrial band        ysis facility for protein sequencing, Larry Snyder for the HR171prr⫹
+                                                                     cells, Elisabetta Ullu and Chris Tschudi for communicating to us their
+IV and band V RNA ligases reside in a compartment where no
+                                                                     unpublished results, Nina Agabian for helpful discussions, and Alev-
+tRNA cleavage-rejoining is known to occur and appear, in-            tina Zhelonkina for technical assistance with Northern blots.
+
+
+
+
+                                                                                                                                                        Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+stead, to rejoin pre-mRNAs after U insertions and deletions in          L.N.R. was a Howard Hughes predoctoral fellow. This work was
+RNA editing. Therefore, these ligases might be expected to           supported by NIH grant GM34231.
+have a different RNA specificity. Accordingly, while T4 RNA             The first two authors contributed equally to this work.
+ligase joins tRNAs to pCp more efficiently than it dimerizes                                         REFERENCES
+heterologous RNAs, the trypanosome ligases show the reverse           1. Agabian, N. 1990. Trans splicing of nuclear pre-mRNAs. Cell 61:1157–1160.
+preference (data not shown). Furthermore, while other RNA             2. Arts, G. J., and R. Benne. 1996. Mechanism and evolution of RNA editing in
+ligases are associated with a polynucleotide kinase and cyclic           kinetoplastida. Biochim. Biophys. Acta 1307:39–59.
+                                                                      3. Bakalara, N., A. M. Simpson, and L. Simpson. 1989. The Leishmania kine-
+phosphodiesterase needed to remodel the cleaved tRNA ter-                toplast-mitochondrion contains terminal uridylyl transferase and RNA ligase
+mini, we have found no evidence of such activities with the              activities. J. Biol. Chem. 264:18679–18686.
+                                                                      4. Baymiller, J., S. Jennings, B. Kienzle, J. A. Gorman, R. Kelly, and J. E.
+trypanosome mitochondrial RNA ligases (data not shown).                  McCullough. 1994. Isolation and sequence of the tRNA ligase-encoding
+Indeed, these activities do not appear to be important in RNA            gene of Candida albicans. Gene 142:129–134.
+editing since the gRNA-directed endonuclease, 3⬘-U-exonucle-          5. Belford, H. G., S. K. Westaway, J. Abelson, and C. L. Greer. 1993. Multiple
+                                                                         nucleotide cofactor use by yeast ligase in tRNA splicing: evidence for inde-
+ase, and terminal-U-transferase all generate 3⬘ hydroxyl and 5⬘          pendent ATP- and GTP-binding sites. J. Biol. Chem. 268:2444–2450.
+phosphate termini (Fig. 1A; 9, 20, 26, 30, 34). The disparate         6. Blanc, V., J. Alfonzo, R. Aphasizhev, and L. Simpson. 1999. The mitochon-
+biological role of the trypanosome RNA ligases may help ex-              drial RNA ligase from L. tarentolae can join RNA molecules bridged by a
+                                                                         complementary RNA. J. Biol. Chem. 274:24289–24296.
+plain their low overall sequence similarity to other ligases (data    7. Blum, B., N. Bakalara, and L. Simpson. 1990. A model for RNA editing in
+not shown).                                                              kinetoplastid mitochondria: “guide” RNA molecules transcribed from maxi-
+                                                                         circle DNA provide the edited information. Cell 60:189–198.
+   The T. brucei band IV mRNA uses either of two closely              8. Corell, R. A., L. K. Read, G. R. Riley, J. K. Nellissery, T. E. Allen, M. L.
+positioned trans-splice sites (Fig. 3A), both good matches to            Kable, M. D. Wachal, S. D. Seiwert, P. J. Myler, and K. D. Stuart. 1996.
+consensus splice acceptor sequences (Fig. 3C). Unlike cis-splic-         Complexes from Trypanosoma brucei that exhibit deletion editing and other
+                                                                         editing-associated properties. Mol. Cell. Biol. 16:1410–1418.
+ing sites of higher eucaryotes that are largely within protein        9. Cruz-Reyes, J., and B. Sollner-Webb. 1996. Trypanosome U-deletional RNA
+coding regions, trypanosomes trans splice a common miniexon              editing involves gRNA-directed endonuclease cleavage, terminal U exonu-
+sequence to all nucleus-encoded pre-mRNAs within their 5⬘                clease, and RNA ligase activities. Proc. Natl. Acad. Sci. USA 93:8901–8906.
+                                                                     10. Cruz-Reyes, J., L. Rusche´, and B. Sollner-Webb. 1998. Trypanosoma brucei
+UTRs, and thus the precise location of the acceptor site may             U insertion and U deletion activities co-purify with an enzymatic editing
+not be critical. Other trypanosome mRNAs also utilize more               complex but are differentially optimized. Nucleic Acids Res. 26:3634–3639.
+                                                                     11. Eid, J., and B. Sollner-Webb. 1991. Stable transformation of T. brucei that
+than one trans-splice site (1, 22). Additionally, our trypano-           occurs exclusively by homologous recombination. Proc. Natl. Acad. Sci. USA
+some expression studies suggest that RNA transcribed from an             88:2118–2121.
+ectopic construct can produce protein considerably less effec-       12. El-Sayed, N., C. Alarconb, J. Beck, V. Sheffield, and J. Donelson. 1995.
+                                                                         cDNA expressed sequence tags of T. brucei rhodesiense provide new insights
+tively than endogenous mRNA (Fig. 5B and C). This could                  into the biology of the parasite. Mol. Biochem. Pharmacol. 73:75–90.
+arise since standard trypanosome expression vectors (47, 48)         13. Estevez, A., and L. Simpson. 1999. Uridine insertion/deletion RNA editing in
+generate a chimeric 3⬘ UTR (Fig. 3A and 5A) and 3⬘ UTRs can              trypanosome mitochondria—a review. Gene 240:247–260.
+                                                                     14. Greer, C. L., C. L. Peebles, P. Gegenheimer, and J. Abelson. 1983. Mecha-
+affect RNA subcellular distribution (21).                                nism of action of a yeast RNA ligase in tRNA splicing. Cell 32:537–546.
+   Band V RNA ligase. Intriguingly, a T. brucei ORF recently         15. Hajduk, S. 1997. Defining the editing “reaction.” Trends Microbiol. 5:1–2.
+                                                                     16. Hausler, T., Y.-D. Stierhof, J. Blattner, and C. Clayton. 1997. Conservation
+contributed from the Sanger Centre encodes a predicted pro-              of mitochondrial targeting sequence function in mitochondrial and hydro-
+tein that is ⬎50% identical to the central region of band IV             genosomal proteins from the early-branching eukaryotes crithidia, trypano-
+(Fig. 6). These proteins are related with a confidence over 75           soma and trichomonas. Eur. J. Cell Biol. 73:240–251.
+                                                                     17. Huang, J., and L. H. T. Van der Ploeg. 1988. A 5⬘ exoribonuclease and RNA
+orders of magnitude greater than that of the next most similar           ligase of T. brucei. Nucleic Acids Res. 16:9737–9759.
+predicted sequence. This predicted protein is almost assuredly       18. Lake, J., V. de la Cruz, P. Ferrieira, C. Morel, and L. Simpson. 1988.
+the second ligase of the RNA editing complex (29) because it             Evolution of parasitism: kinetoplastid protozoan history reconstructed from
+                                                                         mitochondrial rRNA gene sequences. Proc. Nat. Acad. Sci. USA 85:4779–
+is approximately the same size as the band V RNA ligase                  47783.
+protein, conserves motifs characteristic of RNA ligases, and         19. Lee, M., and L. Van der Ploeg. 1990. Homologous recombination and stable
+                                                                         transfection in the parasitic protozoan T. brucei. Science 250:1583–1586.
+begins with a typical mitochondrial targeting sequence (Fig. 6).     20. Kable, M. L., S. D. Seiwert, S. Heidmann, and K. Stuart. 1996. RNA editing:
+The high homology between band IV and the presumptive                    a mechanism for gRNA-specified uridylate insertion into precursor mRNA.
+band V RNA ligase contrasts with their only minimal sequence             Science 273:1189–1195.
+                                                                     21. Long, R. M., R. H. Singer, X. Meng, I. Gonzalez, K. Nasmyth, and R.-P.
+homology to other known ligases (data not shown). However,               Jasen. 1997. Mating type switching in yeast is controlled by asymmetrical
+the T. brucei band IV protein is markedly less similar to the            localization of ASH1 mRNA. Science 277:383–387.
+VOL. 21, 2001                                                               RNA LIGASE OF THE T. BRUCEI RNA EDITING COMPLEX                                      989
+
+
+22. Metzenberg, S., and N. Agabian. 1996. Human and fungal 3⬘ splice sites are           uridylate deletion in vitro suggests a mechanism for kinetoplastid RNA
+    used by Trypanosoma brucei for trans splicing. Mol. Biochem. Parasitol. 83:          editing. Cell 84:831–841.
+    11–23.                                                                         35.   Seiwert, S., and K. Stuart. 1994. RNA editing: transfer of genetic informa-
+23. Penner, M., I. Morad, L. Snyder, and G. Kauffmann. 1995. Phage T4-coded              tion from gRNA to precursor mRNA in vitro. Science 266:114–117.
+    stp: double edged effector of coupled DNA and tRNA-restriction systems.        36.   Shuman, S., and X.-M. Ru. 1995. Mutational analysis of vaccinia DNA ligase
+    J. Mol. Biol. 249:857–868.                                                           defines residues essential for covalent catalysis. Virology 211:73–83.
+24. Perkins, K. K., H. Furneaux, and J. Hurwitz. 1985. Isolation and character-    37.   Shuman, S., and B. Schwer. 1995. RNA capping enzyme and DNA ligase: a
+    ization of an RNA ligase from HeLa cells. Proc. Natl. Acad. Sci. USA 82:             superfamily of covalent nucleotidyl transferases. Mol. Microbiol. 17:405–410.
+    684–688.                                                                       38.   Smith, H., J. Gott, and M. Hanson. 1997. A guide to RNA editing. RNA 3:
+25. Pick, L., H. Furneaux, and J. Hurwitz. 1986. Purification of wheat germ              1105–1123.
+    RNA ligase II: mechanism of action of wheat germ RNA ligase. J. Biol.          39.   Stuart, K., T. Allen, S. Heidmann, and S. Seiwert. 1997. RNA editing in
+    Chem. 261:6694–6704.                                                                 kinetoplastid protozoa. Microbiol. Mol. Biol. Rev. 61:105–120.
+26. Piller, K. J., L. N. Rusche´, J. Cruz-Reyes, and B. Sollner-Webb. 1997.        40.   Ten Ashroek, A., M. Ouellette, and P. Borst. 1990. Targeted insertion of the
+    Resolution of the RNA editing gRNA-directed endonuclease from two other              neomycin phosphotransferase gene into the tubulin gene cluster of T. brucei.
+    endonucleases of Trypanosoma brucei mitochondria. RNA 3:279–290.
+                                                                                         Nature 348:174–175.
+27. Planta, R., and H. Raue´. 1988. Control of ribosome biogenesis in yeast.
+                                                                                   41.   Uhlenbeck, O. C., and R. I. Gumport. 1982. T4 RNA ligase, p. 31–58. In
+    Trends Genet. 4:64–68.
+                                                                                         P. D. Boyer (ed.) The enzymes, vol. XV. Academici Press, New York, N.Y.
+28. Roise, D. 1997. Recognition and binding of mitochondrial presequences
+                                                                                   42.   von Heijne, G. 1986. Mitochondrial targeting sequences may form amphiphi-
+    during the import of proteins into mitochondria. J. Bioenerg. Biomembr. 29:
+                                                                                         lic helices. EMBO J. 5:1335–1342.
+
+
+
+
+                                                                                                                                                                         Downloaded from http://mcb.asm.org/ on December 15, 2015 by guest
+    19–27.
+29. Rusche´, L., J. Cruz-Reyes, K. J. Piller, and B. Sollner-Webb. 1997. Purifi-   43.   von Heijne, G. 1995. Protein sorting signals: simple peptides with complex
+    cation of a functional enzymatic editing complex from Trypanosoma brucei             functions. EXS 73:67–76.
+    mitochondria. EMBO J. 16:4069–4081.                                            44.   Warner, J. R. 1999. The economics of ribosome biosynthesis in yeast. Trends
+30. Rusche´, L. N., K. J. Piller, and B. Sollner-Webb. 1995. Guide RNA-mRNA              Biochem. Sci. 24:437–440.
+    chimeras, which are potential RNA editing intermediates, are formed by         45.   Westaway, S. K., H. G. Belford, B. L. Apostol, J. Abelson, and C. L. Greer.
+    endonuclease and RNA ligase in a trypanosome mitochondrial extract. Mol.             1993. Novel activity of a yeast ligase deletion polypeptide: evidence for
+    Cell. Biol. 15:2933–2941.                                                            GTP-dependent tRNA splicing. J. Biol. Chem. 268:2435–2443.
+31. Sabatini, R., and S. L. Hajduk. 1995. RNA ligase and its involvement in        46.   White, T. C., and P. Borst. 1987. RNA end-labeling and RNA ligase activities
+    guide RNA/mRNA chimera formation: evidence for a cleavage-ligation                   can produce a circular rRNA in whole cell extracts from trypanosomes.
+    mechanism of Trypanosoma brucei mRNA editing. J. Biol. Chem. 270:7233–               Nucleic Acids Res. 15:3275–3290.
+    7240.                                                                          47.   Wirtz, E., M. Hoek, and G. Cross. 1998. Regulated processive transcription
+32. Sabatini, R., B. Adler, S. Madison-Antenucci, M. McManus, and S. Hajduk.             of chromatin by T7 RNA polymerase in T. brucei. Nucleic Acids Res. 26:
+    1998. Biochemical methods for analysis of kinetoplastid RNA editing. Meth-           4626–4634.
+    ods Companion Methods Enzymol. 15:15–26.                                       48.   Wirtz, E., S. Leal, C. Ochatt, and G. Cross. 1999. A tightly regulated induc-
+33. Sambrook, J., E. F. Fritsch, and T. Maniatis. 1989. Molecular cloning: a             ible expression system for conditional gene knock-outs and dominant-nega-
+    laboratory manual, 2nd ed. Cold Spring Harbor Laboratory Press, Cold                 tive genetics in T. brucei. Mol. Biochem. Parasitol. 99:89–101.
+    Spring Harbor, N.Y.                                                            49.   Zillmann, M., M. A. Gorovsky, and E. M. Phizicky. 1991. Conserved mech-
+34. Seiwert, S. D., S. Heidmann, and K. Stuart. 1996. Direct visualization of            anism of tRNA splicing in eukaryotes. Mol. Cell. Biol. 11:5410–5416.
+

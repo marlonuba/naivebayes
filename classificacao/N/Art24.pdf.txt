@@ -1,0 +1,539 @@
+          PROTEIN          MEASUREMENT      WITH                        THE      FOLIN
+                             PHENOL    REAGENT*
+
+    BY OLIVER      H. LOWRY,           NIRA J. ROSEBROUGH,                   A. LEWIS       FARR,
+                                 AND    ROSE J. RANDALL
+          (From   the   Department     of Pharmacology,         Washington     University
+                        School   oj Medicine,      St. Louis,    Missouri)
+
+                        (Received for publication,          May 28, 1951)
+
+    Since 1922 when Wu proposed the use of the Folin phenol reagent for
+
+
+
+
+                                                                                                    Downloaded from www.jbc.org at Washington University on June 25, 2009
+the measurement of proteins (l), a number of modified analytical pro-
+cedures ut.ilizing this reagent have been reported for the determination
+of proteins in serum (2-G), in antigen-antibody precipitates (7-9), and
+in insulin (10).
+    Although the reagent would seemto be recommended by its great sen-
+sitivity and the simplicity of procedure possible with its use, it has not
+found great favor for general biochemical purposes.
+    In the belief that this reagent, nevertheless, has considerable merit for
+certain application, but that its peculiarities and limitations need to be
+understood for its fullest exploitation, it has been studied with regard t.o
+effects of variations in pH, time of reaction, and concentration of react-
+ants, permissible levels of reagents commonly used in handling proteins,
+and interfering subst.ances. Procedures are described for measuring pro-
+tein in solution or after precipitation wit,h acids or other agents, and for
+the determination of as little as 0.2 y of protein.
+
+                                                Method
+    Reagents-Reagent A, 2 per cent N&OX in 0.10 N NaOH. Reagent
+B, 0.5 per cent CuS04.5Hz0 in 1 per cent sodium or potassium tartrabe.
+Reagent C, alkaline copper solution. Mix 50 ml. of Reagent A with 1
+ml. of Reagent B. Discard after 1 day. Reagent D, carbonate-copper
+solution, is the same as Reagent C except for omission of NaOH. Re-
+agent E, diluted Folin reagent. Titrate Folin-Ciocalteu phenol reagent
+((II), Eimer and Amend, Fisher Scientific Company, New York) with
+NaOH t.o a phenolphthalein end-point. On the basis of this titration
+dilute the Folin reagent (about 2-fold) to make it 1 N in acid. Working
+standards may be prepared from human serum diluted IOO- to lOOO-fold
+(approximately 700 to 70 y per ml.). These in turn may be checked
+against a standard solution of crystalline bovine albumin (Armour and
+  * Supported in part by a grant from the American Cancer Society on the recom-
+mendation of the Committee on Growth of the National Research Council.
+                                                 265
+266             PROTEIN    MEASUREMENT       WITH   FOLIN   REAGENT
+
+
+Company, Chicago); 1 y is the equivalent of 0.97 y of serum protein (see
+below).     Dilute solutions of bovine albumin have not proved satisfactory
+for working standards because of a marked tendency to undergo surface
+denaturation.
+    Procedure for Proteins in Solution or Readily Soluble in Dilute Alkali-
+(Directions    are given for a final volume of 1.1 to 1.3 ml., but any multiple
+or fraction of the volumes given may be employed as desired’.)
+    To a sample of 5 to 100 y of protein in 0.2 ml. or less in a 3 to 10 ml.
+test-tube, 1 ml. of Reagent C is added. Mix well and allow to stand for
+
+
+
+
+                                                                                          Downloaded from www.jbc.org at Washington University on June 25, 2009
+ 10 minutes or longer at room temperature.              0.10 ml. of Reagent E is
+added very rapidly and mixed within a second or t,wo (see below).               After
+30 minutes or longer, the sample is read in a calorimeter or spectrophotome-
+ter. For the range 5 to 25 y of protein per ml. of final volume, it is
+desirable to make readings at or near X = 750 rnp, the absorption peak.
+For stronger solutions, the readings may be kept in a workable range by
+reading near X = 500 m/l (Fig. 2). Calculate from a standard curve,
+and, if necessary, make appropriate          correction for differences between
+the color value of the working standard and the particular proteins being
+measured (see below).
+    It is unnecessary to bring all the samples and standards to the same
+volume before the addition of the alkaline copper reagent, provided cor-
+rections are made for small differences in final volume.            The critical vol-
+umes are those of the alkaline copper and Folin reagents.
+    If the protein is present in an already very dilute solution (less than 25
+y per ml.), 0.5 ml. may be mixed with 0.5 ml. of an exactly double
+strength Reagent C and otherwise treated as above.
+   Insoluble Proteins, etc.-Many       protein precipitates,     e.g. tungstate pre-
+cipitates, will dissolve readily in the alkaline copper reagent.            However,
+after proteins have been precipitated         with trichloroacetic      or perchloric
+acid, for example, they will dissolve rather poorly in the 0.1 N alkali of
+this reagent.     They become even harder to dissolve if subsequently               ex-
+tract.ed with fat solvents, and still more so if dried at 100’.
+   It is not possible to cover all cases, but the following may be helpful in
+measuring the protein of acid precipitates.           If the amount of protein is
+not great, so that it is spread rather thinly, it will usually dissolve in 3
+hour or so in 1 N NaOH at room temperature.               Therefore, one may add,
+for example, 0.1 ml. of 1 N NaOH to 5 to 100 y of precipitated protein.
+    1 For example, with the Klett calorimeter, transfer 25 to 500 y of protein in not
+over 1 ml. volume to a calorimeter tube. Add water if necessary to make 1 ml.
+Add 5 ml. of Reagent C, and, after 10 minutes, 0.5 ml. of Reagent E. Readings are
+taken after 30 minutes with the No. 66 filter. If the readings are too high, substi-
+tute the No. 54 filter for sample, standards, and blanks.
+                  LOWRY,    ROSEBROUGH,       FARR,   AND   RANDALL                  267
+
+After + hour or more, 1 ml. of Reagent D (no NaOH) is added, followed
+after 10 minutes by 0.1 ml. of diluted Folin Reagent E as usual.
+    With larger samples, or very stubborn precipitates, it may be necessary
+to heat for 10 minutes or more at 100” in 1 N alkali.         Although this may
+lower the readings, they will be reproducible and can be measured with
+similarly treated standards.2
+    Microanalysis-With        a Beckman spectrophotometer        adapted to 0.05
+ml. volume (12), as little as 0.2 y of protein may be measured with reason-
+able precision.      Aside from reducing the volumes of sample and reagents,
+
+
+
+
+                                                                                             Downloaded from www.jbc.org at Washington University on June 25, 2009
+the only necessary change is to use sufficiently slender tubes for the re-
+action.    If the tubes are too large in diameter, low values will result.
+The following is illustrative     of a procedure in which it is desired to pre-
+cipitate the protein in order, for example, to measure an acid-soluble con-
+stituent of the same specimen.          In this example, it is assumed that the
+sample volume is negligible.         Otherwise a smaller volume of more con-
+centrated trichloroacetic     acid would be used.
+    To the sample containing 0.2 to 3 y of protein in a tube of 3 mm. inner
+diameter and 4 cm. long,s are added 10 ~1. of 5 per cent trichloroacetic
+acid.4 After being mixed and centrifuged, 8 ~1. of the supernatant           fluid
+are removed.        To the precipitate are added 5 p-11.of 8 N NaOH.          The
+sample is thoroughly        mixed by tapping or “buzzing,“s        and is covered
+    e Bovine serum albumin is especially difficult to redissolve after precipitation.
+Several 40 mg. samples were precipitated          with trichloroacetic  acid, washed with
+alcohol and isopropyl ether, and dried. These samples dissolved very slowly in 2
+ml. of 1 N NaOH. However, after standing overnight, the protein appeared to be
+nearly all dissolved and aliquots gave readings 97 per cent of those obtained with
+non-precipitated       samples. Other samples were heated for 30 minutes at 100” in 1
+N NaOH.         These samples dissolved and the solution turned slightly yellow. The
+final readings checked well but were only 82 per cent of those obtained with non-
+precipitated     samples. Possibly, heating at lower temperature with the 1 N NaOH
+would have sufficed, although heating with weaker alkali would not have been effec-
+tive, judging from other experience.         The use of stronger alkali than 1 N did not
+appear to be an improvement.
+    8 These tubes are cleaned by rinsing with dilute NaOH, boiling in half concen-
+trated HNOa, and rinsing several times in redistilled water. Filling or emptying
+of a beaker full of tubes (tall form of beaker without lip) is accomplished by slow
+centrifugation      for a few seconds. For emptying, the tubes are transferred upside
+down to a second beaker with a false bottom of stainless steel screen. With the slow
+ centrifugation     required beakers will not be broken.
+    4 Suitable micro pipettes are the Lang-Levy variety (13, 14). For entering these
+narrow tubes the bent tip must be especially short and slender.
+    5 The tube is held at an angle against a rapidly rotating flattened rod or nail.
+Any high speed hand tool mounted in a clamp is satisfactory.           The contents of the
+tube will mix violently without spilling (15). A similar effect may be had with a
+commercial rubber-tipped        massage vibrator.
+268            PROTEIN   MEASUREMENT             WITH   FOLIK   REAGEST
+
+
+with a rubber cap or Parafilm.     After 30 minutes, 50 ~1. of Reagent D
+are added and the sample is mixed by “buzzing.”         After 10 minutes or
+more, 5 ~1. of diluted Folin Reagent E are added with immediate “buz-
+zing,” and the samples are read after 30 minutes.    Standards are perhaps
+best prepared by precipitating 5 ~1. of 5, 10, 20, etc., mg. per cent solu-
+tions of serum protein with 5 ~1. of 10 per cent trichloroacetic  acid, with
+subsequent treatment as for the other samples.
+
+                                  EXPERIMENTAL
+
+
+
+
+                                                                                      Downloaded from www.jbc.org at Washington University on June 25, 2009
+    There are two distinct steps which lead to the final color with protein:
+(a) reaction with copper in alkali, and (b) reduction                of the phos-
+phomolybdic-phosphotungstic        reagent by the copper-treated      protein.
+    Reaction. wifh Copper in Alkaline Solution-The       salient features of this
+react.ion follow.    (1) The color obtained in the absence of copper is prob-
+ably attributable    entirely to the tyrosine and tryptophan     content (16, 17),
+and this is not greatly increased by alkaline pretreatment       ((4-6) and Table
+I).     (2) In the presence of copper, alkaline treatment of proteins results
+in a 3- to 15-fold increase in color, but, in contrast, the presence of copper
+has only a small effect on the color obtained with free tyrosine and tryp-
+tophan (Herriott      (17, 18) and Table I). (3) The reaction with copper,
+although not instantaneous, is nearly complete in 5 or 10 minutes at room
+temperature under the prescribed conditions.        Heating to 100” or increas-
+ing the concentration of alkali accelerates the reaction with copper without
+changing the final color. (4) P re t rea t ment with alkali alone does not
+alter the subsequent reaction with copper in alkaline solution.           Even pre-
+treatment for an hour at 60” with 2 N NaOH, or for 5 minutes at 100’
+with 1 N NaOH, when followed by the usual copper t.reatment, has almost
+no effect on subsequent color. Prolonged heating with strong alkali will,
+however, decrease the final color.2
+    Although the alkaline copper reaction and the biuret reaction appear
+to be related, they are not strictly proportional,      nor, with different pro-
+teins, is the amount of biuret color directly proportional to the increment
+caused by copper in the color with the Folin reagent (Table I).
+    A very small amount of copper is sufhcient to give nearly maximum
+final color (Table II).      The action does not appear to be catalytic.        As-
+suming the simple relationship copper + protein ti copper-protein               ob-
+tains, the data with low copper concentrations      may be utilized to calculate
+an apparent dissociation constant of 3 X 1OV mole per liter with a maxi-
+mum of 1 mole of chromogenic protein-bound            copper per 7 or 8 amino
+acid residues (Table II).
+    Mehl, Pacovska, and Winder (19) conclude with Rising and Yang (20)
+that in the biuret reaction approximately       1 atom of copper is bound for
+                             LOWRY,         ROSEBROUGB,                   FARR,           .4ND       RANDALL                               269
+
+                                                               TABLE         I
+                           Extinction      of Proteins Variously
+                                           Coejicients            Treated
+    The equivalent extinction coefficient z;~, (or 550) is defined as the optical density
+at X = 750 (or 550) rnr with 1 atom of N per liter. Nitrogen was measured by the
+Kjeldahl procedure of Miller and Houghton (24). The biurct color was developed
+with the reagents of Weichselbaum        (25). Source of proteins, crystalline trypsin,
+crystalline chymotrypsin,    and crystalline bovine albumin, Armour and Company,
+Chicago; cytochrome c, Sigma Chemical Company, St. Louis; crystalline zinc in-
+sulin, Eli Lilly and Company, Indianapolis;        gelatin, Difco Laboratories,  Inc., De-
+troit; L-tyrosine, Eastman Kodalr Company, Rochester.
+
+
+
+
+                                                                                                                                                 Downloaded from www.jbc.org at Washington University on June 25, 2009
+                              I                             N
+
+                 Protein                           Copper     absent         1
+                                                                                  Alkalinet   cop-
+                                                                                                         I    In;i&hm;“ut   Biuret     color
+                                                 No pre-
+                                                treatment    .L Alkali*
+                                                               reatment
+                                                                                  per treatment
+
+                                                                                                         .-
+                                                                             I-
+Trypsin...................         733                            910                 3,600                      2690            26.3
+Insulin.                           989                            998                 3,000                      2002            24.4
+Chymotrypsin.                      278                            425                 2,930                      2505            25.8
+Cytochrome c.                  .   703                            738                 2,495                      1757              1
+Human serum..                  .   329                            365                 2,120                      1755            21.4
+Bovine serum albumin.        .     312                            358                 2,050                      1692            21.8
+Gelatin.                       .    79                              78                1,145                      1067            18.0
+Tyrosine.       . .        . .I 13,700                         13,850                15,100                      1250
+                                                                            !-                           -
+   * 30 minutes in 0.1 N NaOH at room temperature        before addition                                                         of Folin
+reagent.
+   t Regular treatment as described under the procedure.
+   $ Not valid because of the color of the cytochrome c.
+
+                                                               TABLE        II
+                      Color Increments from Small Amounts    of Copper
+   Serum protein concentration,       12.1 y per ml. K and chromogenic-bound        copper
+(Cu-protein)    calculated from K = Cu X protein/Cu-protein        = (Cu(tota1 protein -
+Cu-protein))/Cu-protein        = (Cu(maximum     AO. D. * - ~0. D.))/AO.     D. (assuming
+that chromogenic copper bound to protein is proportioned         to AO. D.).
+                                                                          Ao. D., per cent                                  Cu-proteint
+   Total    Cu             0. D:   at 750 nut         AO. D.              of maximum A                           K          (calculated)
+
+     lo-’   Y                                                                                                 x IO-’
+            0                       78
+         8                         166                   88                          42                         2.9             0.05
+        20                         237                  159                          76                         3.0             0.10
+        40                         267                  189                          91                         2.8             0.12
+      2000             /           286                  208                         loo              I                          0.13
+
+   * Optical density.
+   t Moles per 117 gm. of protein,                          i.e. per amino acid residue.
+270           PROTEIN    MEASUREMENT         WITH   FOLIN   REAGENT
+
+
+each 4 amino acid residues, and Mehl et al. calculated dissociation con-
+stants for the reaction copper + protein * copper-protein       averaging 10
+times larger than the one reported herein for the formation of Folin-reac-
+tive material.    Thus, of the total possible sites for copper combination,
+it would appear that only about half produce significant reduction of the
+Folin reagent, and that furthermore this fraction has a considerably greater
+affinity for copper than the rest.
+
+
+
+
+                                                                                    Downloaded from www.jbc.org at Washington University on June 25, 2009
+         0          20        40                    80       00       120
+                                       &&s
+
+   FIN. 1. “Persistence of reactivity”   was measured by adding Folin reagent to
+protein-free alkali; after the given times, copper-treated protein was added in a
+small volume, and the color at 750 rnjr was measured 30 minutes later. “Color de-
+velopment”   refers to a sample of serum protein treated in the regular manner.
+The points on “optical     density 448 mp” are observed (no protein present); the
+curve is theoretical for a monomolecular reaction with a half time of 8 seconds.
+
+   Reduction of Folin Reagent-Three main points may be made as follows:
+(1) When the Folin reagent is added to the copper-treated protein, maxi-
+mum color results if the reduction occurs at about pH 10. (2) At this pH
+the reagent is only reactive for a short time (16). It is for this reason
+that even a few secondsdelay in complete mixing will lessenthe amount
+of color (Fig. 1). The decreasein reactivity of the reagent appears to be
+a function of the disappearance of the original yellow color of the phos-
+phomolybdate (half time of 8 seconds (Fig. 1)) and is presumably due to
+dissociation of the phosphate from the molybdate. Surprisingly, the color
+with protein continues to develop for a number of minutes after the re-
+agent itself has become unreactive to freshly added protein (Fig. 1). Pos-
+sibly the primary reduction product rearranges, since the absorption spec-
+trum changes in shape between 3 minutes and 30 minutes (Fig. 2). (3)
+                         LOWRY,           ROSEBROUGH,           FARR,         AND       RANDALL                        271
+
+During the 1st minute or so after the addition of the Folin reagent, extra
+acid is liberated (Fig. l), which also may result from the dissociation of
+the phosphomolybdate.      Thergfore, for maximum color, the solution must
+
+
+
+
+                                                                                                                                 Downloaded from www.jbc.org at Washington University on June 25, 2009
+                                    I             1             I                   I              I          I
+                     I
+                  400             500           600           700             800             900          1000
+                                                              mp
+  FIG.   2. Absorption      spectra   3 and 30 minutes                  after the         addition     of Folin    reagent
+to a solution    containing     23.3 ‘y of serum protein                 per ml.
+
+
+
+
+                                     I                    I               a                    I
+                 0                  .05                 10              .15                  .20             .25
+                                                    NaOH         NORMALITY
+      FIG.   3. Effect       of alkali      concentration          on final color development.              NaOH        con-
+ centration      is calculated        before addition           of 0.1 volume     of diluted      Folin reagent.         Ex-
+ cept as noted,         final concentration             of Folin      reagent    3 per cent and Na&03             1.6 per
+ cent.      All samples         (copper-treated           protein)      were identical       in composition       until      a
+few seconds         before     addition       of Folin      reagent      (see the text).       Final protein     concen-
+ tration     12 y per ml.
+
+be rather well buffered. It was found that a mixture of NaOH, sufficient
+to neutralize the excessphosphoric acid, and Na&03, to buffer the mixture
+near pH 10, gives more color than any amount of either reagent alone
+(Fig. 3).
+   Extinction Coeficients and Proportionality-Different pure proteins give
+272                    PROTEIN            MEASUREMENT                    WITH          FOLIN         REAGENT
+
+
+different extinction coefficients with the Folin reagent (Table I). The
+extremes were observed with trypsin and gelatin which differed by a factor
+of 3 in chromogenicity.     It will be seen that without copper much greater
+differences occur.    The variation in chromogenicity   must be kept in mind,
+but it is much less marked with mixtures of proteins as found in various
+tissues (Table III), and for many purposes is not a serious drawback.
+    The relation of color to protein concentration is not quite linear (Table
+IV).
+
+
+
+
+                                                                                                                                                    Downloaded from www.jbc.org at Washington University on June 25, 2009
+                                                           TABLE         III
+Apparent     Protein        Content   of Whole             Tissues (Rabbit)   and Tissue                          Extracts        Calculated
+                                  from Kjeldahl              N and from Folin    Color
+     The tissues    were homogenized       and precipitated      with 5 per cent trichloroacetic
+acid (TCA),      and the lipides     removed     by successive     extraction        with      0.1 N potas-
+sium    acetate   in ethanol,   ethanol,     and isopropyl     ether.       (The purpose          of the ace-
+tate is to neutralize     the acid and prevent        solution  of some protein           in the ethanol.)
+The N was determined          as in Table      I. The extinction        coefficients       were calculated
+ from the N and color of the extracted           precipitates.
+                                                                                          T
+                                                                                                                          -              -
+                       Material    analyzed                               Ektracted             TCA          Lipide           Whole
+                                                                              PPt.             extract    C rtracted          tissue
+--
+                                                                               per cenl        per cent    1be*    cent       ic, cent
+
+Brain                             Based       on   N X       6.25                9.5             1.08        1.05              11.8          1960
+                                     “         “   Folin      color              9.5             0.15        0.28               9.8
+Kidney                               “         “   N X       6.25               13.9                                           15.9          1865
+                                     “         “   Folin      color             13.9             0.30        0.21              14.5
+                                     “                                          17.1
+Liver                                          “   N X       6.25                                                              19.9          1875
+                                     “         “   Folin      color             17.1             0.49        0.28              18.0
+Skeletal    muscle                   ‘I        “   N X       6.25               17.8                                           20.1          1942
+                                     “         “   Folin      color             17.8             0.15        0.09              18.8
+Heart                                “         “   N X       6.25               13.0                                           15.3          1975
+                                     “         “   Folin      color             13.0             0.20        0.17              13.41
+
+     * See Table   I.
+     t By summation;              other       values   are      direct         determinations.
+
+    Specificity and Interfering Substances-Few      substances encountered in
+biological work cause serious interference.        Only a little color was ob-
+tained with either acid extracts or the lipides extracted from five different
+tissues (Table III).     Consequently measurements on non-extracted         whole
+tissue would be in error by only 3 t,o 6 per cent, whereas values based on N
+determination    would be overestimated    by 15 to 20 per cent.
+    Uric acid (16), guanine, and xanthine (21, 22) react with the Folin re-
+agent. Guanine gives about 50 per cent more color than serum protein,
+weight for weight.     The color is not enhanced by copper.      Curiously, gua-
+nosine does not react appreciably.       Hypoxanthine     gives no color if puri-
+fied (21). No more than a trace of color was obtained with adenine, ade-
+                             LOWRY,            ROSEBROUGII,                  FARR,        AND       RANDALL                             273
+
+nosine, cytosine, cytidine, uracil, thymine, or thymidine         (see also Funk
+and Macallum (22)).
+   Neither color nor interference with protein color development was ob-
+served with the following substances at the given &al            concentrations:
+urea (0.5 per cent), guanidine (0.5 per cent), sodium tungstate (0.5 per
+cent), sodium sulfate (1 per cent), sodium nitrate (1 per cent), perchloric
+acid (0.5 per cent neutralized),    trichloroacetic   acid (0.5 per cent neutra-
+lized), ethyl alcohol (5 per cent), ether (5 per cent), acetone (0.5 per cent),
+zinc sulfate (0.1 per cent), barium hydroxide (0.1 per cent).
+
+
+
+
+                                                                                                                                              Downloaded from www.jbc.org at Washington University on June 25, 2009
+   Most phenols, except nitrophenols,        reduce the reagent (16) ; t,herefore
+thymol and to a lesser degree sulfosalicylic acid interfere, whereas picric
+                                                                     TABLE     IV
+                  Measurement             oj Small Amounts of Protein from Rabbit Brain
+   Finn1    volume           0.082      ml.
+
+                        j$%                            Protein                                         El%               Protein
+ Optical*  den-                               ~-                             ptical’  densit:   Y
+sity at 750 mp            1 cm.                                                 at 150 Ill/I             1 cm.
+                     at 750 mp                Found              Present                            at 750 m&t   Found             Present
+                                                             -
+                                                   Y                 Y                                              Y                  Y
+   0.038                                      0.13                0.16           0.280                 229       0.98               1.00
+   0.044                                      0.15                0.16           0.292                 236       1.03               1.00
+   0.040                                      0.14                0.16           0.283                 233       0.99               1.00
+   0.089                 221                  0.33                0.33           0.365                 227       1.30               1.32
+   0.095                 236                  0.35                0.33           0.367                 228       1.31               1.32
+   0.091                 226                  0.34                0.33           0.365                 227       1.32               1.32
+   0.184                 228                  0.65                0.66           0.441                 219       1.60               1.66
+   0.191                 236                  0.67                0.66           0.443                 220       1.62               1.66
+   0.191                 236                  0.67                0.66           0.444                 221       1.61               1.66
+
+   * Corrected         for     blank.
+
+acid up to 0.1 per cent is permissible. Glycine (0.5 per cent) decreases
+the color with protein by 50 per cent. Hydrazine over 0.5 mg. per cent
+increases the blank.
+   Ammonium sulfate greater than 0.15 per cent final concentration de-
+creasescolor development. This is partly due to a decrease in alkalinity,
+and up to 0.25 per cent or so can be tolerated if an equivalent amount
+of extra alkali is added to the sample. Extra copper does not seem to
+help.
+   Microanalysis-With     final volumes less than 0.1 ml., the amount of
+color is proportionately less than on the macro scale, especially if the re-
+action is carried out in wide tubes. Extensive testing did not definitely
+identify the cause of the decreased color. Neither oxygen, carbon dioxide,
+nor glass surface seemed to be involved. The critical step is the period
+of standing with alkali and copper.
+274             PROTEIN   MEASUREMENT                WITH   FOLIN   REAGENT
+
+
+    The practical solution to this interesting difficulty seems to be to use
+slender tubes and to run standards under the same conditions.       Table IV
+illustrates the reproducibility  of protein measurements on small brain sam-
+ples. Rabbit brain was homogenized and diluted ZOO- to ZOOO-fold. Ali-
+quots of 3.6 ~1. were analyzed for protein at a final volume of 0.082 ml.
+The amount of protein present was calculated from macro analyses.          It
+is seen that the error is usually not over 0.02 y.
+
+                                        DISCUSSION
+
+
+
+
+                                                                                         Downloaded from www.jbc.org at Washington University on June 25, 2009
+   The measurement of protein with copper and the Folin reagent has cer-
+tain advantages.      (1) It is as sensitive as with Nessler’s reagent, yet re-
+quires no digestion.     (2) It is 10 or 20 times more sensitive than measure-
+ment of the ultraviolet absorption at X = 280 rnp and is much more specific
+and much less liable to disturbance by turbidities.           (3) It is several fold
+more sensitive than the ninhydrin reaction (23) and is somewhat simpler,
+as well as much easier to adapt for small scale analyses.                Free amino
+acids give much more color than proteins with the ninhydrin                 reaction,
+whereas the reverse is true with the Folin reagent.             (4) It is 100 times
+more sensitive than the biuret reaction.
+   There are two major disadvantages           of the Folin reaction.        (a) The
+amount of color varies with different proteins.            In this regard it is less
+constant than the biuret reaction, but more constant than the absorption
+at X = 280 rnp. (b) The color is not strictly proportional to concentration.
+   From a consideration of the advantages and disadvantages,             the reason-
+able applications    of the copper-Folin reaction would seem to include (1)
+measurement of protein during enzyme fractionations,             etc., (2) measure-
+ment of mixed tissue proteins, particularly        when absolute values are not
+needed, (3) measurement of very small absolute amounts of protein, or
+highly diluted protein (e.g. spinal fluid) or protein mixed with colored
+substances or other nitrogen-containing         substances, and (4) analyses of
+large numbers of similar protein samples, such as antigen-antibody                pre-
+cipitates.
+                                         SUMMARY
+
+    1. A study is presented of the measurement of proteins with the Folin
+phenol reagent after alkaline copper treatment.       The basic reactions have
+certain peculiarities which need to be taken into consideration in using
+this reagent.
+   2. Directions    are given for measurement     of proteins in solution and
+proteins which have been precipitated with acid, etc. A micro procedure
+is also described for the measurement of as little as 0.2 y of protein.
+    3. The differences in the amount of color obtained with a number of
+proteins is recorded.     Interfering substances are listed.
+                        LOWRY,       ROSEBROUGH,             FARR,   AND     RANDALL                         275
+
+ 4. The advantages of simplicity and sensitivity                               of this reaction recom-
+mend it for a number of biochemical purposes.
+
+                                              BIBLIOGRAPHY
+
+ 1.   Wu, H., J. Biol. Chem., 61, 33 (1922).
+ 2.   Wu, H., and Ling, S. M., Chinese J. Physiol.,                  1, 161 (1927).
+ 3.   Greenberg,        D. M., J. Biol. Chem., 82, 545 (1929).
+ 4.   Andersch,        M., and Gibson,       R. B., J. Lab. and Clin. Med., 18, 816 (1933).
+ 5.   Greenberg,        D. M., and Mirolubova,          T. N., J. Lab. and Clin. Med., 21,431 (1936).
+ 6.   Minot,      A. S., and Keller,       M., J. Lab. and Clin. Med., 21, 743 (1936).
+
+
+
+
+                                                                                                                     Downloaded from www.jbc.org at Washington University on June 25, 2009
+ 7.   Pressman,        D., Ind. and Eng. Chem., Anal. Ed., 16, 357 (1943).
+ 8.   Heidelberger,        M., and MacPherson,          C. F. C., Science, 97, 405 (1943).
+ 9.   Kabat,       E. A., and Mayer,         M. M., Experimental          immunochemistry,       Springfield,
+          321 (1948).
+10.   Sutherland,         E. W., Cori,     C. F., Haynes,      R., and Olsen,        N. S., J. Biol.     Chem.,
+          180, 825 (1949).
+11.   Folin,    O., and Ciocalteu,        V., J. Biol. Chem., 78, 627 (1927).
+12.   Lowry,       0. H., and Bessey, 0. A., J. Biol. Chem., 183, 633 (1946).
+13.   Levy,     M., Compt.-rend.       trav. Lab. Carlsberg,       SBrie chim., 21, 101 (1945).
+14.   Bessey,       0. A., Lowry,    0. H., and Brock,        M. J., J. Biol. Chem., 184, 321 (1946).
+15.   Bessey,      0. A., Lowry,     0. H., Brock,       M. J., and Lopez,       J. A., J. Biol. Chem.,       188,
+          177 (1946).
+16.   F&n,       O., and Denis, W., J. Biol. Chem., 12, 239 (1912).
+17.   Herriott,       R. M., J. Gen. Physiol.,         19, 283 (1935).
+18.   Herriott,       R. M., Proc. Sot. Ezp. Biol. and Med., 48,642 (1941).
+19.   Mehl,      J. W., Pacovska,      E., and Winzler,       R. J., J. Biol. Chem., 177, 13 (1949).
+20.   Rising,      M. M., and Yang, P. S., J. Biol. Chem., 99, 755 (1932-33).
+21.   Hitchings,        G. I-I., J. BioZ. Chem., 189, 843 (1941).
+22.   Funk,       C., and Macallum,         A. B., Biochem.     J., 7, 356 (1913).
+23.   Kunkel,        H. G., and Ward,        S. M., J. Biol. Chem., 182, 597 (1950).
+24.   Miller,      L., and Houghton,          J. A., J. Biol. Chem., 169, 373 (1945).
+25.   Weichselbaum,           T. E., Am. J. Clin.       Path., 16, Tech. Sect., 10, 40 (1946).
+

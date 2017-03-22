@@ -1,0 +1,805 @@
+INFECTION AND IMMUNITY, July 2002, p. 3371–3381                                                                                   Vol. 70, No. 7
+0019-9567/02/$04.00⫹0 DOI: 10.1128/IAI.70.7.3371–3381.2002
+Copyright © 2002, American Society for Microbiology. All Rights Reserved.
+
+
+
+ideR, an Essential Gene in Mycobacterium tuberculosis: Role of IdeR in
+  Iron-Dependent Gene Expression, Iron Metabolism, and Oxidative
+                           Stress Response†
+ G. Marcela Rodriguez,1 Martin I. Voskuil,2 Benjamin Gold,1,3 Gary K. Schoolnik,2 and Issar Smith1*
+   TB Center, The Public Health Research Institute, Newark, New Jersey 071031; Department of Microbiology and Immunology,
+   Stanford University School of Medicine, Stanford, California 943052; and Department of Microbiology, New York University
+                                         Medical Center, New York, New York 100163
+                     Received 16 November 2001/Returned for modification 14 January 2002/Accepted 25 March 2002
+
+
+
+
+                                                                                                                                                   Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+             The mycobacterial IdeR protein is a metal-dependent regulator of the DtxR (diphtheria toxin repressor)
+          family. In the presence of iron, it binds to a specific DNA sequence in the promoter regions of the genes that
+          it regulates, thus controlling their transcription. In this study, we provide evidence that ideR is an essential
+          gene in Mycobacterium tuberculosis. ideR cannot normally be disrupted in this mycobacterium in the absence of
+          a second functional copy of the gene. However, a rare ideR mutant was obtained in which the lethal effects of
+          ideR inactivation were alleviated by a second-site suppressor mutation and which exhibited restricted iron
+          assimilation capacity. Studies of this strain and a derivative in which IdeR expression was restored allowed us
+          to identify phenotypic effects resulting from ideR inactivation. Using DNA microarrays, the iron-dependent
+          transcriptional profiles of the wild-type, ideR mutant, and ideR-complemented mutant strains were analyzed,
+          and the genes regulated by iron and IdeR were identified. These genes encode a variety of proteins, including
+          putative transporters, proteins involved in siderophore synthesis and iron storage, members of the PE/PPE
+          family, a membrane protein involved in virulence, transcriptional regulators, and enzymes involved in lipid
+          metabolism.
+
+
+   Mycobacterium tuberculosis is an important human pathogen                 in the host is essential for virulence, failure to produce myco-
+that causes serious infection in immunocompetent hosts but is                bactin results in defective bacillary multiplication in macro-
+particularly virulent in immunocompromised patients. Im-                     phages (9).
+proved knowledge of mycobacterial pathogenesis is required to                   In addition to possessing the ability to acquire iron in the
+provide novel targets for intervention and to generate new                   host, successful pathogens and essentially all aerobic organisms
+vaccines.                                                                    must carefully control the levels of intracellular iron. Failure to
+   One physiological condition known to be important in M.                   regulate this amount of iron in the cell could be lethal due to
+tuberculosis infection is the availability of iron. As is the case           the ability of this metal to catalyze the production of toxic
+for most organisms, M. tuberculosis uses iron as a cofactor for              oxygen radicals in the presence of oxygen (21). Prokaryotes
+enzymes that are involved in redox reactions and other essen-                largely regulate intracellular iron levels by controlling its up-
+tial functions, and it fails to grow in the absence of this metal            take (20). This is done by modifying the transcription of genes
+(35). Free iron, however, is not readily available in the mam-               involved in iron acquisition, depending on the iron levels in the
+malian host, as it is mainly bound to high-affinity iron-binding             cell. Proteins that sense the levels of intracellular iron respond
+proteins. Human serum is tuberculostatic, and this effect can                accordingly by modulating gene expression. M. tuberculosis
+be reversed by the addition of iron (23). On the other hand,                 contains four potential iron-dependent regulators belonging to
+abnormally high iron levels in M. tuberculosis-infected humans               two different families of metalloregulatory proteins. Two
+are associated with exacerbation of the disease (8, 14). In                  genes, furA and furB, encode proteins of the Fur (ferric uptake
+response to iron limitation, M. tuberculosis, like many other                regulator) family, while IdeR and SirR are members of the
+bacteria, produces high-affinity iron chelators, i.e., sid-                  DtxR (diphtheria toxin repressor) family (18, 26, 36). IdeR is
+erophores, which in mycobacteria are defined as mycobactins.                 the only one of these mycobacterial proteins that has been well
+One type of mycobactin remains cell associated, while the
+                                                                             characterized as to structure and function. It is a metal and
+second (referred to as water-soluble mycobactin, carboxymy-
+                                                                             DNA binding protein (11, 12, 30, 36). Like Fur and DtxR,
+cobactin, or exochelin [9, 15, 33]) has a shorter alkyl substitu-
+                                                                             IdeR binds iron and then interacts with a specific sequence in
+tion, is more hydrophilic, and is released in the extracellular
+                                                                             the operator regions of iron-regulated genes to control their
+medium (15, 32). Supporting the concept that iron acquisition
+                                                                             transcription (10, 16, 34). The role of IdeR in iron regulation
+                                                                             was first demonstrated in the nonvirulent mycobacterium My-
+                                                                             cobacterium smegmatis, in which IdeR was found to be respon-
+  * Corresponding author. Mailing address: TB Center, The Public             sible for iron-dependent siderophore repression (11). The
+Health Research Institute, 225 Warren St., Newark, NJ 07103. Phone:
+(212) 578-0867. Fax: (212) 578-0804. E-mail: smitty@phri.org.
+                                                                             present study investigates the function of IdeR in M. tubercu-
+  † Publication no. 78 from the TB Center, The Public Health Re-             losis and provides evidence that ideR is an essential gene in this
+search Institute, Newark, NJ 07103.                                          mycobacterium. We analyzed the role of IdeR in iron-depen-
+
+                                                                      3371
+3372       RODRIGUEZ ET AL.                                                                                                                         INFECT. IMMUN.
+
+
+dent gene expression and examined the requirement for IdeR                             days, the bactericidal effect of each component was determined by measuring the
+in iron-dependent siderophore production and oxidative stress                          diameter of the halo of growth inhibition. Triplicate platings were done in each
+                                                                                       experiment, and the experiment was repeated at least three times.
+response.
+
+
+                         MATERIALS AND METHODS                                                                          RESULTS
+   Bacterial strains and media. Escherichia coli JM109 (43) was routinely used in         ideR is essential in M. tuberculosis. To assess the role of IdeR
+DNA-cloning procedures. M. tuberculosis strain H37Rv (American Type Culture
+                                                                                       in M. tuberculosis, we decided to inactivate ideR by allelic
+Collection) was maintained in Middlebrook 7H9 broth or on 7H10 agar (Difco)
+supplemented with 0.2% glycerol, 0.05% Tween 80, and 10% albumin-dextrose-             exchange. The system used for gene inactivation involves two
+NaCl complex (ADN) (22). When media with defined amounts of iron were                  steps of recombination and the use of the Bacillus subtilis
+needed, 7H9 and 7H10 were prepared omitting ferric ammonium citrate. We                levansucrase (sacB) as a counterselectable marker (29). In our
+refer to these media as reconstituted 7H9 (r7H9) or r7H10. These media were            modification of this system, a copy of the gene to be inactivated
+subsequently supplemented with the desired amount of iron in the form of FeCl3.
+Minimal medium (MM) was also used to grow cultures under defined iron
+                                                                                       is disrupted by insertion of a kanamycin resistance cassette
+conditions for the determination of mycobactin, growth curves (MM agar), and           (aph) and cloned in pSM270, a suicide vector carrying sacB and
+RNA extraction (MM broth). This medium contained 0.5% (wt/vol) asparagine,             a streptomycin resistance (Smr) marker (24) (Fig. 1A). A sin-
+
+
+
+
+                                                                                                                                                                          Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+0.5% (wt/vol) KH2PO4, 2% glycerol, 0.5 mg of ZnCl2 liter⫺1, 0.1 mg of MnSO4            gle-crossover event creates a Kanr Smr intermediate that is
+liter⫺1, and 40 mg of MgSO4 liter⫺1. It was supplemented with the desired
+                                                                                       sucrose sensitive (Sucs) (Fig. 1B). Growth of the strain carrying
+concentrations of FeCl3, and in the case of the broth, 0.05% Tween 80 and 10%
+ADN were included. Where indicated, antibiotics were included at the following         the single crossover in nonselective medium allows a second
+concentrations: kanamycin, 20 ␮g/ml; streptomycin, 20 ␮g/ml; and hygromycin,           recombination event between the wild-type gene in the chro-
+150 ␮g/ml.                                                                             mosome and the mutated version on the integrated plasmid
+   Construction of plasmids. The M. tuberculosis cosmid T144 was a kind gift of        (Fig. 1B). This results in excision of intervening vector se-
+Stewart Cole of the Pasteur Institute (Paris, France). T144 was digested, and a
+6.7-kb AgeI fragment containing ideR was ligated to XbaI-digested pSM270, a
+                                                                                       quences including both sacB and the Smr marker. Therefore,
+suicide vector that carries sacB and a streptomycin resistance cassette in the         the resulting colonies are Sucr and Sms. Depending on which
+plasmid backbone (24). A kanamycin resistance (Kanr) cassette (aph) was then           side of the kanamycin cassette the second crossover occurs on,
+introduced at the unique ApaI site of ideR to generate pSM283. A 1.2-kb PCR            the colonies obtained will have a wild-type or a mutated copy
+fragment containing ideR and its promoter region was cloned into pMV306 to
+                                                                                       of the target gene and a Kans or Kanr phenotype, respectively
+create pSM305. pMV306 carries a hygromycin resistance marker and the L5
+integrase attachment site (attP) (38). DNA manipulations were performed by             (Fig. 1C). If the sequences flanking the kanamycin cassette are
+standard procedures.                                                                   of similar lengths, the second crossover should occur at similar
+   Microarray analysis. DNA microarray analysis was used to measure the rel-           frequencies on both sides.
+ative mRNA levels during growth of M. tuberculosis strains under low-iron and             The ideR gene disrupted by the aph cassette was cloned into
+high-iron conditions. M. tuberculosis strains were grown in MM broth depleted of
+iron by treatment with Chelex 100 (Bio-Rad) or in the same medium supple-
+                                                                                       the vector pSM270, generating pSM283, which was electropo-
+mented with 50 ␮M FeCl3. RNA extraction was performed as described previ-              rated into M. tuberculosis H37Rv. Insertion of pSM283 by a
+ously (24).                                                                            single crossover at the ideR locus occurred in 100% (11 out of
+   Steps in M. tuberculosis DNA microarray gene expression analysis were per-          11) of the Kanr Smr colonies obtained, as determined by
+formed as described by Schoolnik et al. (37). Briefly, each gene in M. tuberculosis
+                                                                                       Southern blot analysis. However, after the second crossover,
+H37Rv was amplified by PCR, and the DNA amplicons were printed onto
+poly-L-lysine-coated glass microscope slides to make the DNA microarray. cD-           Sucr Kanr Sms mutant colonies were not obtained. This result
+NAs, made from two RNA samples labeled with either Cy3 or Cy5 (Amershan                suggested that inactivation of ideR could be lethal in M. tuber-
+Pharmacia Biotech) fluorochrome, were hybridized to the microarray. The mi-            culosis. Since essential genes can be disrupted only in the
+croarray was washed and then scanned using the GenePix 4000A (Axon Instru-             presence of a second functional copy of the gene (17, 27, 28),
+ments). The intensities of the two dyes at each spot were quantified using
+SCANALYZE, written by M. Eisen at Stanford University and available at
+                                                                                       we attempted to inactivate ideR by homologous recombination
+http://rana.stanford.edu/software. The overall reproducibility, both biological        in a merodiploid as well as in a haploid strain. One strain (ST9)
+and technical, of the microarray experiments was evaluated using the Signifi-          in which pSM283 had been inserted at the ideR locus by a
+cance Analysis of Microarrays (SAM) program (37). Six DNA microarray ex-               single crossover (see above) was selected as the haploid strain.
+periments, which compared identical RNAs on the same array, were compared
+                                                                                       A merodiploid strain (ST17) was created by transformation of
+to six microarray experiments on three biological sample sets for each condition.
+The SAM algorithm was set for two-class unpaired analysis with 500 permuta-            ST9 with an integrative plasmid (pSM305) carrying an intact
+tions and K-nearest imputer for missing data. Significantly regulated genes were       ideR gene. Selection was made for hygromycin-resistant colo-
+selected by adjusting the delta value to give a false discovery rate below 1%. In      nies, and insertion of pSM305 at the attB site of ST9 was
+each data set, all genes regulated 1.5-fold and greater were determined to be          confirmed by Southern blot analysis (data not shown). To
+significant with a false discovery rate of less than 1%, indicating a high degree of
+reproducibility. Additional details of microarray methods are available as sup-
+                                                                                       select for double crossovers, ST9 and ST17 were grown to
+plementary material at http://schoolniklab.stanford.edu/projects/tb.html.              logarithmic phase in liquid medium and plated on sucrose-
+   Mycobactin determination. Mycobacterial strains were grown to mid-logarith-         containing plates. No kanamycin was included so that both
+mic phase in 7H9 medium, and 0.7 ml of culture was spread on MM agar                   wild-type and ideR mutant colonies could be obtained. We
+containing the indicated concentrations of FeCl3. After incubation at 37°C for 10
+                                                                                       reasoned that if IdeR had a role in regulating iron uptake in M.
+days, the bacteria were scraped from the plate. Subsequently, mycobactin was
+extracted in ethanol and chloroform and quantified as previously described (19).       tuberculosis, as it does in M. smegmatis (11), an ideR mutant
+   Oxidative stress sensitivity assays. Growth inhibition by H2O2 and the super-       strain could be nonviable because it would face toxic iron
+oxide generator plumbagin was tested in zone inhibition assays as previously           overload. Therefore, reducing the amount of iron available in
+described (24). Briefly, M. tuberculosis strains were grown to logarithmic phase       the medium might allow survival of an ideR mutant. For this
+(an optical density at 595 nm of 0.4) in 7H9 medium, and approximately 3 ⫻ 107
+bacteria were plated on 7H10 medium and spread evenly. A 6.5-mm-diameter
+                                                                                       reason, growth of the recombinant cultures and selection in
+paper disk saturated with 10 ␮l of a solution of 600 mM hydrogen peroxide or 5         sucrose were done under two conditions: in r7H9 medium with
+mM plumbagin was placed in the center of the plate. After incubation for 10            a high iron content (50 ␮M) or in the same medium with 10
+VOL. 70, 2002                                                                                 ROLE OF IdeR IN M. TUBERCULOSIS               3373
+
+
+                                                                               of the haploid strain under both low- and high-iron conditions.
+                                                                               Out of the total of 379 recombinants obtained in these exper-
+                                                                               iments, only 3 had this phenotype (Table 1). The significant
+                                                                               difference (P ⬍ 0.0001) observed between the frequencies of
+                                                                               Kanr Sms colonies isolated from strains that were haploid and
+                                                                               merodiploid for ideR shows that the replacement of ideR with
+                                                                               ideR::aph is essentially observed only when a second functional
+                                                                               copy of the gene is present. These results strongly suggest that
+                                                                               ideR is an essential gene in M. tuberculosis. The three Sucr Kanr
+                                                                               Sms colonies derived from the haploid strain in these experi-
+                                                                               ments (Table 1) were further analyzed. Replacement of the
+                                                                               wild-type ideR by ideR::aph in these colonies was confirmed by
+                                                                               Southern blot analysis (Fig. 2A). In agreement with this result,
+                                                                               no IdeR protein was detected by Western blot analysis in
+                                                                               protein extracts obtained from one of the recombinants, ST22
+
+
+
+
+                                                                                                                                                    Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+                                                                               (Fig. 2B). We postulated that these rare mutants survived the
+                                                                               lethal effects of ideR inactivation by acquisition of a suppressor
+                                                                               mutation. In order to investigate the nature of this postulated
+                                                                               mutation, ST22 was complemented with a single copy of ideR
+                                                                               under the control of its own promoter, generating the strain
+                                                                               ST52. Wild-type expression of the IdeR protein was restored in
+                                                                               this strain (Fig. 2B). No significant difference was observed in
+                                                                               the growth properties of H37Rv, ST22, and ST52 under stan-
+                                                                               dard culture conditions (Middlebrook 7H9 or 7H10 medium)
+                                                                               (Fig. 3), except that cultures of ST22 showed a characteristic
+                                                                               orange pigment (data not shown), the reasons for which will be
+                                                                               discussed below. However, a significant difference was ob-
+                                                                               served when the strains were tested for the ability to grow
+                                                                               under low-iron conditions. The wild-type strain grew in low-
+                                                                               iron medium at a growth rate that was comparable to that in
+                                                                               iron-rich medium (Fig. 4A). In contrast, growth of the ideR
+                                                                               mutant (Fig. 4B) and the complemented strain ST52 (Fig. 4C)
+                                                                               was drastically affected by reducing the iron concentration in
+                                                                               the medium. ST19, a Sucr Kanr Sms strain derived from the
+                                                                               merodiploid strain in the previous experiment, was also tested.
+                                                                               This strain has the original ideR inactivated by insertion of the
+                                                                               aph cassette and a second copy of ideR at the attB site. ST19 is
+   FIG. 1. Construction of single-crossover and double-crossover
+                                                                               equivalent to ST52 but differs from it in that the recombination
+strains of M. tuberculosis. (A) The nonreplicative plasmid pSM283 was          event resulting in inactivation of ideR was carried out in the
+transformed into M. tuberculosis. Selection with kanamycin and strep-          presence of a second copy of ideR, thus avoiding selection for
+tomycin allows growth of strains in which pSM283 was inserted in the           a possible suppressor mutation. As shown in Fig. 4D, ST19 was
+chromosome by a single crossover. The single crossover can occur at            not deficient for growth under low-iron conditions and had the
+homologous regions on either side of the kanamycin cassette. Cross-
+over at position 1 is illustrated. (B) A second recombination event            same capacity for iron assimilation under iron-limiting condi-
+between duplicated sequences leads to resolution of the duplication            tions as the wild-type strain. From these results, we conclude
+and loss of the plasmid sequences. (C) Depending on where the second           that strain ST22, in which the ideR mutation occurred in the
+recombination event occurs, i.e., interval 2 or interval 3, it can result in   absence of a second copy of ideR, was only able to survive due
+either restoration of the wild-type gene (interval 2) or a mutant strain
+(interval 3) in which allelic exchange has occurred.
+                                                                               to a suppressor mutation associated with reduced availability
+                                                                               of intracellular iron. This mutation was still present in the
+                                                                               complemented strain, ST52, which shows the same phenotype
+                                                                               of poor growth under low-iron conditions.
+␮M FeCl3 (previously shown to be the minimum concentration                        IdeR and regulation of iron-dependent gene expression. In
+necessary to obtain normal-size colonies of M. tuberculosis on                 previous studies, we have demonstrated that IdeR is a metal-
+solid medium [data not shown]). In two independent experi-                     dependent DNA binding protein that recognizes a specific
+ments, 100 Sucr colonies derived from the haploid or mero-                     promoter sequence, or “iron box” (10, 16, 34). We have also
+diploid strain were analyzed for kanamycin and streptomycin                    demonstrated deregulated expression of some M. tuberculosis
+resistance. Recombinants without the disrupted ideR gene                       promoters containing iron boxes in an M. smegmatis ideR mu-
+(Kans Sms) and ideR mutants (Kanr Sms) resulting from double                   tant (34). A better knowledge of the regulatory function of
+crossovers were obtained at similar frequencies in the Sucr                    IdeR would help us understand the essential role of this pro-
+clones derived from the merodiploid strain (Table 1). However                  tein in M. tuberculosis. Thus, we reasoned that the ideR mutant
+Sucr Kanr Sms clones were clearly selected against in the case                 strain ST22 could provide valuable information about IdeR-
+3374       RODRIGUEZ ET AL.                                                                                                                              INFECT. IMMUN.
+
+
+                 TABLE 1. Frequency of ideR inactivation events in a merodiploid (ST17) versus a haploid (ST9) strain of ideR
+                                                                                         No. of transformantsa
+
+                                                      Merodiploid (ST17)                                                            Haploid (ST9)
+       Event
+                                        High iron                            Low iron                             High iron                              Low iron
+
+                               Expt 1               Expt 2          Expt 1              Expt 2           Expt 1               Expt 2           Expt 1               Expt 2
+
+Wild-type double                 48                  45              40                  45               94                   97                   94               94
+ crossoverb
+Mutant double                    52                  55              56                  55                 0                   0                   0                 3
+ crossoverc
+   a
+     Strains were plated in 8% sucrose in the absence of antibiotics. One hundred sucrose-resistant colonies from two independent experiments were tested for
+kanamycin and streptomycin resistance. The second crossover and selection in sucrose were allowed to occur in high-iron (50 ␮M) or low-iron (10 ␮M) concentrations.
+In these experiments, kanamycin-resistant, streptomycin-resistant colonies (spontaneous sucrose-resistant colonies presumably due to sacB mutations) occurred at a
+frequency of 6% or less. For the differences in the frequencies of mutant double crossover and wild-type double crossover between the merodiploid and the haploid
+strains, P was ⬍0.0001; ␹2 or Fisher’s exact test (two tailed) was used.
+
+
+
+
+                                                                                                                                                                             Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+   b
+     Kanamycin-sensitive, streptomycin-sensitive colonies.
+   c
+     Kanamycin-resistant, streptomycin-sensitive colonies.
+
+
+
+regulated genes even though it contained a suppressor muta-                             type strain grown under low- versus high-iron conditions.
+tion. IdeR-dependent genes could be identified as those whose                           Genes that required iron and IdeR for regulation were iden-
+regulation in response to iron was altered in the ideR mutant in                        tified by comparing the wild-type strain’s high-iron expression
+respect to the wild type and whose normal regulation was                                profile with the expression profiles of mutant and comple-
+restored by the presence of IdeR in the complemented strain.                            mented strains. Only high-iron RNA samples from the mutant
+For this purpose, we did global expression profiling with DNA                           and complemented strains were analyzed, since under high-
+microarrays comparing wild-type H37Rv with ST22 and ST52                                iron conditions, the three strains have comparable growth rates
+strains. Genes whose expression was modulated by iron were                              and changes in gene expression would not be affected by
+identified by comparing the transcriptional profile of the wild-                        growth rate differences. A total of 153 genes were found to be
+                                                                                        regulated by iron, and almost a third of them (51) were de-
+                                                                                        pendent on IdeR for regulation. For reasons of space, we
+                                                                                        tabulated genes that were affected (2.0-fold or more in Tables
+                                                                                        2, 3, and 4 and 1.6 or more in Table 5). A list of all genes
+                                                                                        regulated at least 1.5-fold under the conditions assayed can be
+                                                                                        obtained at http://schoolniklab.stanford.edu/projects/tb.html,
+                                                                                        and complete data sets are available upon request. Table 2
+                                                                                        shows genes that required IdeR for iron-dependent repression,
+                                                                                        as they were no longer repressed in the IdeR mutant under
+                                                                                        high-iron conditions. IdeR was also necessary for high levels of
+                                                                                        expression of some genes under high-iron conditions (Table 3).
+                                                                                        There were genes whose regulation was altered in both the
+
+
+
+
+   FIG. 2. Analysis of ideR mutant strains. (A) Chromosomal DNAs
+from the wild-type and the three ideR mutant colonies (1, 2, and 3)
+obtained were extracted, digested with AgeI, and analyzed by Southern
+blotting with a 32P-labeled probe corresponding to the 0.7-kb ideR. A
+6.7-kb AgeI fragment was detected with the ideR probe in the wild-type
+strain. The replacement of ideR by ideR::aph increases the size of the
+AgeI fragment to 8.0 kb. (B). Whole cell protein extracts were prepared                   FIG. 3. Growth of M. tuberculosis strains. M. tuberculosis strains
+from wild-type H37Rv, the ideR mutant ST22, and the complemented                        were grown in Middlebrook 7H9 medium, and at the indicated times,
+strain ST52; 50 ␮g of protein extracts was loaded in each lane. IdeR                    bacterial growth was monitored by measuring the change in optical
+was detected by immunoblot analysis using an anti-IdeR polyclonal                       density at 595 nm (O.D. 595). The experiment was performed at least
+antiserum as previously described (11). Purified IdeR migrates at a                     three times, and one representative experiment is shown. ⫹, H37Rv;
+corresponding molecular mass of 29 kDa (data not shown).                                E, ST22; 䊐, ST52.
+VOL. 70, 2002                                                                              ROLE OF IdeR IN M. TUBERCULOSIS                 3375
+
+
+
+
+                                                                                                                                                   Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+   FIG. 4. Iron requirements for growth of M. tuberculosis strains. Wild-type H37Rv (A), ST22 (ideR::aph) (B), ST52 (ideR-complemented
+mutant) (C), and ST19 (D) were grown in iron-deficient liquid medium to logarithmic phase and then diluted in MM plus 10% ADN containing
+2 (■) or 50 ␮M (F) FeCl3. Growth was monitored by changes in optical density. The experiment was performed at least three times, and the results
+shown are from one representative experiment.
+
+
+
+ideR mutant and the complemented strain. These included                   viously in computer analyses. IdeR was shown to bind to nine
+Rv0116c and Rv0587, whose normally repressed levels under                 of the iron boxes, which are operator sites for the following
+high-iron conditions were high in ST22 and ST52, as well as               genes: Rv2122c (hisE/irg-1), Rv2123 (irg-2), Rv3402, Rv1876
+bfrB, which was not expressed in ST22 or ST52 under high-iron             (bfrA), bfd, Rv 2386c (mbtI), Rv2384 (mbtA), Rv2383c (mbtB),
+conditions at the same level as in the wild type. Regulation of           Rv2382c (mbtC), Rv 3281c (mbtD), Rv2380c (mbtE), Rv2379c
+these genes was probably affected by the suppressor mutation              (mbtF), Rv2378c (mbtG), Rv 2377c (mbtH), and Rv2385 (lipK)
+present in both of the strains.                                           (16, 34). Therefore, the results obtained in the microarray
+   Iron-dependent but IdeR-independent genes are listed in                assays presented here and our previous biochemical studies of
+Tables 4 and 5. This group of genes was negatively (Table 4) or           the interaction of IdeR with these iron boxes support each
+positively (Table 5) regulated by iron in H37Rv, but its regu-            other and allow us now to better define the consensus binding
+lation was not affected by the ideR mutation, as none of the              site for IdeR. Figure 5 shows a comparison of all the iron boxes
+genes were found to be deregulated in the ideR mutant strain              found in the regulatory regions of the IdeR-controlled genes
+(data not shown).                                                         that we have identified and the consensus sequence deduced
+   All the IdeR-regulated genes identified in the microarray              for the 19-bp core region of the IdeR binding site.
+analysis listed in Table 2 have sequences resembling DtxR/                   Iron-dependent siderophore production is dependent on
+IdeR binding sites (iron boxes) in their upstream regions. In             IdeR. Our laboratory has previously demonstrated that mbtB
+several cases, one or two iron boxes are found in the intergenic          and mbtI, two of the 10 genes in the mycobactin synthesis gene
+region between two divergently transcribed genes or preceding             cluster, are induced in M. tuberculosis under iron-restrictive
+two or more open reading frames (ORFs) which appear to be                 conditions and during infection of macrophages (16). In addi-
+organized as an operon. These sequences were identified pre-              tion, we have shown the presence of two IdeR operators in this
+3376       RODRIGUEZ ET AL.                                                                                                                          INFECT. IMMUN.
+
+
+
+
+                                                         TABLE 2. Iron- and IdeR-repressed genesa
+                                                                mRNA ratio
+Rv no.               Gene                                                                                                          Gene productb
+                                        WT LI/HI           ST22 HI/WT HI             ST52 HI/WT HI
+
+0116c                                   2.3 ⫾ 0.3              2.1 ⫾ 0.3                2.7 ⫾ 0.6             CHMP
+
+0282                                    3.9 ⫾ 0.5              3.2 ⫾ 0.3                   1.0                CHP
+0283                                    2.9 ⫾ 0.6              2.9 ⫾ 0.5                   1.0                CHMP
+0284                                    4.1 ⫾ 0.6              3.7 ⫾ 0.5                   1.0                CHMP
+0285                                    3.0 ⫾ 0.5              2.7 ⫾ 0.1                   1.0                PE subfamily
+0286                                    2.6 ⫾ 0.3              2.3 ⫾ 0.2                   1.0                PPE subfamily
+0287                                    4.0 ⫾ 0.6              4.9 ⫾ 0.9                   1.0                Probable transcriptional regulator; PE subfamily
+0288                                    3.5 ⫾ 0.4              4.2 ⫾ 0.1                   1.0                CHP; ESAT-6 family
+0289                                    3.2 ⫾ 0.2              2.7 ⫾ 0.3                   1.0                CHP
+0290                                    2.0 ⫾ 0.2              1.9 ⫾ 0.2                   1.0                Unknown
+
+
+
+
+                                                                                                                                                                           Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+0291                                    3.0 ⫾ 0.3              2.3 ⫾ 0.4                   1.0                Probable secreted protease
+0292                                    2.7 ⫾ 0.3              1.8 ⫾ 0.2                   1.0                Unknown
+
+0766c                                   3.3 ⫾ 0.4              2.9 ⫾ 0.3                   1.0                Cytochrome P-450
+0450c           mmpL4                   2.1 ⫾ 0.3              2.5 ⫾ 0.1                   1.0                Conserved large membrane protein
+0451c           mmpS4                   3.1 ⫾ 0.4              3.6 ⫾ 0.6                   1.0                Conserved small membrane protein
+
+0587            yrbE2A                  2.2 ⫾ 0.2              2.1 ⫾ 0.2                2.5 ⫾ 0.3             Part of the mce2 operon
+
+1343c                                   2.5 ⫾ 0.5              2.1 ⫾ 0.2                   1.0                CHP
+
+1344                                    3.9 ⫾ 0.6              3.2 ⫾ 0.4                   1.0                Probable acyl carrier protein
+1345            fadD33                  3.4 ⫾ 0.4              2.7 ⫾ 0.5                   1.0                Acyl-CoA synthase
+1346            fadE14                  4.9 ⫾ 0.9              3.3 ⫾ 0.5                   1.0                Acyl-CoA dehydrogenase
+
+1347c*                                  7.9 ⫾ 1.7              6.4 ⫾ 0.5                   1.0                IucB-like protein
+
+1348*                                   5.1 ⫾ 0.7              5.3 ⫾ 1.0                   1.0                YbtP-like protein
+1349*                                   4.3 ⫾ 1.2              4.6 ⫾ 0.7                   1.0                YbtQ-like protein
+
+1519                                    3.7 ⫾ 0.4              2.9 ⫾ .03                   1.0                CHP
+2122c*          hisE                    3.1 ⫾ 0.3              2.5 ⫾ 0.4                   1.0                Phosphoribosyl-AMP cyclohydrolase
+2123                                   10.1 ⫾ 2.1             10.1 ⫾ 3.9                   1.0                PPE subfamily
+
+2377c           mbtH                    5.4 ⫾ 1.9              5.6 ⫾ 1.5                   1.0                Mycobactin synthesis
+2378c           mbtG                    5.5 ⫾ 1.5              4.7 ⫾ 0.8                   1.0                Lysine-N-oxygenase mycobactin synthesis
+2379c           mbtF                    3.6 ⫾ 0.7              2.4 ⫾ 0.4                   1.0                Peptide synthase; mycobactin synthesis
+2380c           mbtE                    7.1 ⫾ 0.9              5.4 ⫾ 1.1                   1.0                Peptide synthase; mycobactin synthesis
+
+2381c           mbtD                    9.9 ⫾ 1.8              7.5 ⫾ 0.9                1.8 ⫾ 0.1             Polyketide synthase; mycobactin synthesis
+2382c           mbtC                    5.3 ⫾ 0.4              3.6 ⫾ 0.8                   1.0                Polyketide synthase; mycobactin synthesis
+2383c           mbtB                    5.4 ⫾ 0.8              3.9 ⫾ 0.8                   1.0                Peptide synthase; mycobactin synthesis
+
+2384            mbtA                    1.9 ⫾ 0.3              1.8 ⫾ 0.2                   1.0                Salicylate-AMP ligase; mycobactin synthesis
+2385            lipK                    3.6 ⫾ 0.6              3.2 ⫾ 0.6                   1.0                Probable acetyl-hydrolase
+
+2386c           mbtI (trpE2)            8.6 ⫾ 1.8              9.3 ⫾ 1.8                1.9 ⫾ 0.2             Isochorismate synthase
+                                                                                                              Mycobactin synthesis
+
+3402c*                                  9.7 ⫾ 2.5              5.1 ⫾ 1.0                   1.0                EryCIV-like protein
+3403c                                   5.6 ⫾ 1.0              3.0 ⫾ 0.3                   1.0                Unknown
+
+3839                                   19.3 ⫾ 7.0             14.1 ⫾ 3.7                   1.0                Unknown
+3840                                    2.6 ⫾ 0.5              6.7 ⫾ 0.5                   1.0                Probable transcriptional regulator
+  a
+    A DNA microarray was used to measure mRNA levels in cultures of M. tuberculosis H37Rv (WT) during exponential growth under iron-deficient (2 ␮M FeCl3)
+(LI) or -sufficient (50 ␮M FeCl3) (HI) conditions and in exponential cultures of strains ST22 and ST52 grown in iron-sufficient medium. Differences in gene-specific
+RNA levels of twofold or more are listed. Genes contiguous to included genes and with a ratio of ⬎1.6 after the standard deviation was subtracted are also listed. Genes
+that required IdeR for repression were repressed under high-iron conditions in the wild-type strain (WT LI/HI ⬎ 2.0), derepressed in the ideR mutant ST22 under
+high-iron conditions (ST22 HI/WT HI ⬎ 2.0), and repressed in the mutant complemented strain ST52 under high-iron conditions to the same levels observed in the
+wild type under high iron conditions (ST52 HI/WT HI ⫽ 1.0). The genes are annotated as described by the Pasteur Institute on TUBERCULIST (http://
+genolist.pasteur.fr/Tuberculist), except for those indicated by an asterisk. Those genes are annotated based on individual BLAST searches. Genes that are separated
+by ⬍50 bp and probably coregulated are grouped.
+  b
+    CHP, conserved hypothetical protein. CHMP, conserved hypothetical membrane protein; CoA, coenzyme A.
+VOL. 70, 2002                                                                                           ROLE OF IdeR IN M. TUBERCULOSIS                        3377
+
+
+                                                        TABLE 3. Genes induced by iron and IdeRa
+                                                                    mRNA ratio
+Rv no.            Gene                                                                                                                   Gene product
+                                    WT HI/LI induced               WT HI/ST22 HI                WT HI/ST52 HI
+
+ 0009             ppiA                   2.7 ⫾ 0.1                    3.0 ⫾ 0.3                      1.0                    Peptidyl-prolyn-cis-trans isomerase
+0338c                                    2.8 ⫾ 0.2                    2.4 ⫾ 0.4                      1.0                    Iron-sulfur protein
+ 1552             bfrA                   2.1 ⫾ 0.1                    2.6 ⫾ 0.2                      1.0                    Bacterioferritin
+ 3841             bfrB                  11.5 ⫾ 1.8                    4.3 ⫾ 0.7                    3.8 ⫾ 0.6                Ferritin-like protein
+   a
+     A DNA microarray was used to measure mRNA levels in cultures of M. tuberculosis H37Rv during exponential growth under iron-deficient (2 ␮M FeCl3) (LI) or
+-sufficient (50 ␮M FeCl3) (HI) conditions and in exponential cultures of strains ST22 and ST52 grown in iron-sufficient medium. Differences in gene-specific mRNA
+levels of twofold and higher are listed. Iron- and IdeR-induced genes were identified as genes induced under high-iron conditions in the wild-type strain (WT HI/LI
+⬎ 2), not induced under high-iron conditions in the ideR mutant ST22 (WT HI/ST22 HI ⬎ 2), and induced under high-iron conditions in the complemented strain ST52
+to levels comparable to those in the wild type under high-iron conditions (WT HI/ST52 HI ⫽ 1.0). The Genes are annotated as described by the Pasteur Institute on
+TUBERCULIST (http://genolist.pasteur.fr/Tuberculist).
+
+
+
+
+                                                                                                                                                                        Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+gene cluster: one upstream of mbtI and one in the promoter                           was less than that observed by Gold et al. This could be due to
+region of the divergently transcribed mbtA and mbtB to -H                            the fact that cultures were starved for iron for a longer time in
+(16). Expression of each of the 10 genes present in the myco-                        the latter work. To validate the observations from the DNA
+bactin synthesis gene cluster is deregulated in the absence of                       microarray analysis, iron-dependent regulation of mycobactin
+IdeR (Table 2). The induction of mbtB and mbtI observed here                         production was tested by determining the amounts of cell-
+
+
+                                                     TABLE 4. IdeR-independent, iron-repressed genesa
+                                               mRNA ratio
+Rv no.                    Gene                                                                                   Gene productb
+                                              (WT LI/WT HI)
+
+0279c               PE-PGRS                      2.2 ⫾ 0.2                   PE-PGRS protein
+
+0464c                                            2.2 ⫾ 0.2                   CHP
+0465c                                            4.3 ⫾ 0.7                   Probable transcriptional regulator (PbsX/Xre family)
+
+0467                icl                          3.5 ⫾ 0.4                   Isocitrate lyase
+
+0676c               mmpL5                        2.8 ⫾ 0.2                   Conserved large membrane protein
+0677c               mmpS5                        3.2 ⫾ 0.3                   Conserved small membrane protein
+
+0692                                             2.7 ⫾ 0.2                   CHP
+0693                pqqE                         2.5 ⫾ 0.3                   Coenzyme PQQ synthesis protein E
+0694                lldD1                        2.3 ⫾ 0.2                   L-Lactate dehydrogenase (cytochrome)
+
+
+1169c                                            2.2 ⫾ 0.2                   PE protein
+1184c                                            2.2 ⫾ 0.1                   CHP
+1195                                             2.2 ⫾ 0.2                   PE protein
+1393c                                            2.4 ⫾ 0.3                   FAD-containing monooxygenase
+
+1461                                             4.7 ⫾ 0.4                   CHP
+1462                                             3.4 ⫾ 0.6                   CHP
+1463                                             3.3 ⫾ 0.5                   Probable ABC transporter
+1464                                             3.0 ⫾ 0.3                   NifS-like protein
+1465*                                            2.6 ⫾ 0.5                   NifU-like protein
+1466                                             3.2 ⫾ 0.6                   CHP
+
+1520                                             2.1 ⫾ 0.2                   Probable glycosyltransferase
+2621c                                            2.4 ⫾ 0.3                   Probable transcriptional regulator
+2794c                                            2.7 ⫾ 0.2                   CH; similar to proteins involved in vibriobactin and enterobactin synthesis
+
+3229c               desA3                        5.0 ⫾ 2.7                   Acyl[ACP] desaturase
+3230c                                            2.5 ⫾ 0.5                   Probable oxygenase
+3614c                                            2.1 ⫾ 0.1                   CHP
+3854c               ethA                         4.4 ⫾ 0.4                   Probable monooxygenase
+  a
+     A DNA microarray was used to measure mRNA levels in cultures of M. tuberculosis H37Rv during exponential growth under iron-deficient (2 ␮M FeCl3) (LI) or
+-sufficient (50 ␮M FeCl3) (HI) conditions and in exponential cultures of strains ST22 and ST52 in iron-sufficient medium. Differences in gene-specific RNA levels of
+twofold or more are listed. Genes contiguous to included genes and with a ratio of ⬎ 1.6 after the standard deviation was subtracted are also listed. Iron-dependent,
+IdeR-independent genes were derepressed under low-iron conditions in the wild-type (WT LI/HI ⬎ 2) and were not affected in their repression under high-iron
+conditions in the ideR mutant. All these genes showed a WT HI/ST22 HI ratio of 1.0 (not shown). The genes are annotated as described by the Pasteur Institute on
+TUBERCULIST (http://genolist.pasteur.fr/Tuberculist), except for that indicated by an asterisk. That gene is annotated based on an individual BLAST search. Genes
+that are separated by ⬍50 bp and are probably coregulated are grouped.
+   b
+     CHP, conserved hypothetical protein; CHMP, conserved hypothetical membrane protein.
+3378       RODRIGUEZ ET AL.                                                                                                                INFECT. IMMUN.
+
+
+          TABLE 5. IdeR-independent iron-induced genesa
+                          mRNA ratio
+Rv no.       Gene                                    Gene productb
+                          (WT HI/LI)
+
+0706      rplV             1.6 ⫾ 0.1      50S ribosomal protein L22
+1252c     IprE             1.6 ⫾ 0.1      Lipoprotein
+1305      atpE             1.6 ⫾ 0.1      ATP synthase c chain
+1908c     KatG             1.7 ⫾ 0.2      Catalase-peroxidase
+1943c                      1.7 ⫾ 0.1      CHP
+2526                       1.6 ⫾ 0.1      CHP
+2549c                      1.6 ⫾ 0.1      Unknown
+2550c                      2.0 ⫾ 0.2      Unknown
+2741      PE-PGRS          2.0 ⫾ 0.1      PE-PGRS subfamily
+2927c                      1.6 ⫾ 0.1      CHP
+3075c                      1.7 ⫾ 0.2      CHP
+
+3145      nuoA             1.7 ⫾ 0.3      NADH dehydrogenase chain           A
+3146      nuoB             1.8 ⫾ 0.1      NADH dehydrogenase chain           B
+
+
+
+
+                                                                                                                                                               Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+3147      nuoC             1.6 ⫾ 0.2      NADH dehydrogenase chain           C
+3148      nuoD             1.7 ⫾ 0.2      NADH dehydrogenase chain           D
+3152      nuoH             1.8 ⫾ 0.1      NADH dehydrogenase chain           H
+3153      nuoI             1.6 ⫾ 0.1      NADH dehydrogenase chain           I
+3155      nuoK             1.6 ⫾ 0.2      NADH dehydrogenase chain           K
+3156      nuoL             1.7 ⫾ 0.2      NADH dehydrogenase chain           L
+3157      nuoM             1.6 ⫾ 0.1      NADH dehydrogenase chain           M
+3158      nuoN             1.6 ⫾ 0.1      NADH dehydrogenase chain           N        FIG. 5. Comparison of the known IdeR operator sequences from
+3246      mtrA             2.0 ⫾ 0.3      Two-component response                   M. tuberculosis. The 19-bp consensus sequence was derived by com-
+                                            regulator                              paring the sequences of the promoter-operator sequences in all of the
+                                                                                   IdeR-regulated genes identified from Tables 2 and 3 and is shown
+3394                       1.7 ⫾ 0.2      Unknown                                  below the sequences. In cases where one IdeR binding site is found
+                                                                                   upstream of the first gene in a group of contiguous genes, only the first
+  a
+     A DNA microarray was used to measure mRNA levels in cultures of M.            ORF (Rv) is cited. N ⫽ A, C, G, or T; W ⫽ A or T; S ⫽ C or G; V ⫽
+tuberculosis H37Rv during exponential growth under iron-deficient (2 ␮M FeCl3)     A, C, or G. Solid boxes (black) indicate a predominance of one nu-
+(LI) or -sufficient (50 ␮M FeCl3) (HI) conditions and in exponential cultures of   cleotide in the IdeR binding site sequences. Actual binding of the IdeR
+strains ST22 and ST52 in iron-sufficient medium. Genes induced by 1.6-fold or      protein to the sequences marked with asterisks has been demonstrated
+more are listed. Iron-dependent, IdeR-independent genes were induced under
+                                                                                   by gel shift and DNase protection assays in previous studies (16, 34).
+high-iron conditions in the wild type (WT HI/LI ⬎ 1.6), and their expression
+under high-iron conditions was not affected in the ideR mutant. All these genes
+showed a WT HI/ST22 HI ratio of 1.0 (not shown). The genes are annotated as
+described by the Pasteur Institute on TUBERCULIST (http://genolist.pasteur.fr/
+Tuberculist). Genes that are separated by ⬍50 bp and are probably coregulated      genes, as well as other iron-dependent genes, could be mani-
+are grouped.                                                                       fested under lower iron concentrations. For this reason, we
+   b
+     CHP, conserved hypothetical protein; CHMP, conserved hypothetical mem-
+brane protein.                                                                     compared repression of mycobactin production in the wild-
+                                                                                   type and the complemented strain over a range of iron con-
+                                                                                   centrations (Fig. 7). Even though the concentration of iron
+associated mycobactin produced by the wild-type, ST22 (ideR),                      required to achieve total repression of mycobactin varied from
+and ST52 (ideR-complemented) strains when grown under                              experiment to experiment, probably due to variations in the
+low- and high-iron conditions. The wild-type and comple-
+mented strains repressed mycobactin production under high-
+iron conditions, while the ideR mutant strain failed to repress
+mycobactin synthesis and accumulated this siderophore in an
+iron-independent manner (Fig. 6). Accumulated ferric myco-
+bactin is likely to account for the orange pigment showed by
+this strain when grown in iron-rich medium. From these re-
+sults, we conclude that IdeR is the main regulator of mycobac-
+tin production in M. tuberculosis.
+   The repression of mycobactin genes and mycobactin produc-
+tion by high levels of iron in the complemented strain is con-
+tradictory to the postulated action of the suppressor mutation
+in iron assimilation. If this mutation affects iron assimilation,
+the available iron in the complemented strain should be re-
+duced and expression of iron-regulated genes should be af-
+fected. It is possible that 50 ␮M FeCl3, used in these experi-
+ments as high-iron conditions, was sufficient to allow efficient                      FIG. 6. Regulation of mycobactin production. Levels of cell-asso-
+iron uptake despite the suppressor mutation. As shown in Fig.                      ciated mycobactin extracted from wild-type H37Rv, ST22 (ideR::aph),
+                                                                                   and ST52 (ideR-complemented) strains cultured under low-iron (10
+4, this concentration was sufficient to allow normal growth of                     ␮M; solid bars) or high-iron (50 ␮M; open bars) conditions. The
+the IdeR mutant and complemented strains. However, an ef-                          experiment was repeated at least three times, and the values shown
+fect of iron deficiency in repression of mycobactin biosynthetic                   illustrate one representative experiment.
+VOL. 70, 2002                                                                          ROLE OF IdeR IN M. TUBERCULOSIS                  3379
+
+
+
+
+   FIG. 7. Iron and mycobactin repression. H37Rv and ST52 were
+
+
+
+
+                                                                                                                                                Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+cultivated in MM agar with increasing concentrations of FeCl3. Myco-
+bactin was extracted from each culture and quantified. The data are
+expressed as percentages of mycobactin produced in each concentra-
+tion of iron, 100% being the amount of mycobactin produced under
+the lowest iron concentration, which was 10 ␮M FeCl3. Shaded bars,
+H37Rv; open bars, ST52. The experiment was repeated five times, and
+the values shown illustrate one representative experiment.
+
+
+
+intracellular iron contents of plated cells and the agar medium,
+we consistently observed that more FeCl3 was required to
+repress mycobactin production in the complemented strain
+than in the wild-type strain. Maximum repression of mycobac-
+tin in the wild-type strain required 20 to 25 ␮M FeCl3, whereas
+the same effect in the complemented strain required 50 to 100
+␮M FeCl3. A representative experiment is presented in Fig. 7.
+This result agrees with the iron deficiency phenotype of strains
+ST22 and ST52 and supports the interpretation that a suppres-             FIG. 8. Sensitivity to oxidative stress. Shown are the diameters of
+                                                                       the zones of growth inhibition produced in the presence of 600 mM
+sor mutation associated with lower iron assimilation alleviated
+                                                                       hydrogen peroxide (A) and 5 mM plumbagin (B). Wild-type H37Rv,
+the effect of the IdeR mutation.                                       ST22 (ideR::aph), and ST52 (ideR complemented) were grown in 7H9
+   IdeR is necessary for an efficient response to oxidative            medium and plated in 7H10 medium. The values represent means plus
+stress. Inactivation of IdeR in M. smegmatis results in in-            standard deviations (the experiments were performed in triplicate).
+creased sensitivity to oxidative stress, apparently resulting from
+reduced levels of catalase-peroxidase and superoxide dis-
+mutase in the mutant strain (11). Therefore, we compared the           essentiality. The requirement for a major iron regulator like
+sensitivities of the wild type, the M. tuberculosis ideR mutant,       ideR is not unique to M. tuberculosis, since null mutations in
+and the complemented mutant strain to H2O2 and the super-              fur, a functional homologue of ideR, are known to be lethal in
+oxide generator plumbagin. The ideR mutant strain was found            several species of Pseudomonas (40), Vibrio (39), and Neisseria
+to be significantly more sensitive to both H2O2 and plumbagin          (2). ideR is not essential in all mycobacteria, as we previously
+than the wild-type strain (Fig. 8). This phenotype was due to          inactivated this gene in the saprophyte M. smegmatis (11). It
+inactivation of ideR, since resistance to oxidative stress was         will be interesting to determine whether the requirement for
+restored to wild-type levels in the complemented strain. How-          IdeR is a feature shared by other pathogenic mycobacteria.
+ever, in contrast to previous findings with M. smegmatis, nei-         The functions of IdeR that make it an essential protein in M.
+ther expression of katG and sodA nor the activity of the en-           tuberculosis are unknown. In this study, we isolated a rare
+zymes they encode is affected by IdeR inactivation (data not           recombinant (ST22) rescued from the lethal effects of ideR
+shown).                                                                inactivation by a suppressor mutation. This strain exhibits re-
+                                                                       stricted intracellular iron availability (Fig. 4B and 7). This
+                          DISCUSSION                                   suggests that the essential role of IdeR is related to regulation
+                                                                       of intracellular levels of iron. If the ideR mutation results in
+   In this study, we have investigated the role of IdeR, a reg-        unregulated iron uptake leading to iron toxicity, a suppressor
+ulator of genes responding to iron, in M. tuberculosis. Initial        mutation which lowers iron availability could prevent cell
+unsuccessful attempts to create an ideR mutant by allelic ex-          death.
+change using a two-step homologous-recombination strategy                 Restoring IdeR expression in ST22 by complementation
+suggested that this gene was essential. However, construction          with an integrative copy of ideR allowed us to identify pheno-
+of a merodiploid strain containing an integrated copy of ideR          types resulting directly from ideR inactivation. We identified
+allowed inactivation of the gene, providing formal proof for its       iron-modulated genes that were deregulated in the mutant
+3380     RODRIGUEZ ET AL.                                                                                             INFECT. IMMUN.
+
+
+strain but not in the complemented strain by comparing the         monooxygenase that has been postulated to activate the anti-
+levels of mRNA of all M. tuberculosis ORFs in the wild-type,       tuberculosis agent ethionamide (1, 7), was found to be induced
+mutant, and complemented mutant strains using DNA mi-              under low-iron conditions. In view of this result, it will be
+croarray technology. This is the first study that addresses the    important to examine the relative sensitivities of M. tuberculo-
+global genetic response of M. tuberculosis to different iron       sis to ethionamide under different iron conditions. mtrA, en-
+levels. In previous studies, several M. tuberculosis iron-regu-    coding the response regulator of the two-component system
+lated proteins were identified by one- (4) or two-dimensional      MtrA-MtrB, which has been shown to be essential in M. tuber-
+(42) gel electrophoresis combined with N-terminal sequencing       culosis (44), was induced twofold under high-iron conditions.
+or mass spectrometry, respectively. Our results confirmed iron-    Also noteworthy was the induction of icl under iron deficiency.
+induced transcription of ppiA, encoding a peptidyl-prolyl tran-    icl, also known as aceA, encoding isocitrate lyase, is important
+sisomerase previously found to be reduced under low-iron           for the survival of M. tuberculosis during the persistence phase
+conditions (42). Genes encoding the other proteins found in        of infection in mice (25). Since icl is also necessary for survival
+those studies to be modulated by iron did not come up in our       in activated macrophages, this gene has been postulated to be
+array assay. It is possible that iron-dependent expression of      required once a cell-mediated immune response is induced
+those proteins is controlled posttranscriptionally.                (25). One of the responses of mononuclear phagocytes to ac-
+
+
+
+
+                                                                                                                                         Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+   The IdeR-controlled genes identified in this study encode       tivation by gamma interferon is downregulation of the trans-
+proteins with diverse putative functions, including transporters   ferrin receptor, the major source of iron for the cell, a response
+(Rv0282, Rv0283, and Rv0284), enzymes involved in lipid me-        that could cause iron deficiency for the infecting bacteria (3).
+tabolism (Rv1344, Rv1345, and Rv1347), members of the gly-         Furthermore, we find that genes that are upregulated in vitro
+cine-rich PE/PPE protein family (Rv0285, Rv0286, and               under iron deficiency are also induced during macrophage
+Rv2123), and MmpL4 and MmpS4, which belong to a group of           infection, indicating that the macrophage is an iron-limiting
+conserved membrane proteins in M. tuberculosis sharing se-         environment (16). Based on these observations, it is tempting
+quence and structural similarities (6). MmpL4 was identified       to postulate that iron deprivation during macrophage infection
+by signature-tagged transposon mutagenesis as a potential vir-     can be a signal for induction of icl and possibly other genes
+ulence factor of M. tuberculosis (5). However, as expected, the    required for the persistence of M. tuberculosis.
+largest group of genes regulated by IdeR encode proteins that         Examining the promoter regions of the group of iron-regu-
+have or could have a function in iron metabolism. Included in      lated IdeR-independent genes did not reveal obvious con-
+this group are the 10 mbt genes encoding the enzymes for           served sequences. Since the sequences recognized by other
+mycobactin synthesis (31); bfrA, encoding a putative bacterio-     putative iron regulators, such as FurA/B and SirA, are un-
+ferritin; Rv1348 and Rv1349, encoding homologs of YbtP and         known, it is not possible to predict whether these genes would
+YbtQ, which are ABC transporters required for iron uptake in       be regulated by one of these proteins. Future studies should
+Yersinia pestis (13); Rv1347, encoding a protein similar (29%      address the mechanisms for their iron-dependent control.
+identity in a 161-amino-acid overlap) to the aerobactin synthe-       IdeR was found to be necessary for M. tuberculosis to re-
+sis protein IucB of Shigella boydii; and several membrane pro-     spond effectively to oxidative stress. Since expression of katG
+teins which might have roles in iron transport. As a validation    or sodA was not affected by the ideR mutation, we believe that
+of the results of the DNA microarray assays, we measured           the requirement for IdeR is indirect. It is possible that in the
+mycobactin production and showed that the repression of my-        absence of IdeR, the amount of redox-reactive iron is en-
+cobactin production under high-iron conditions is indeed de-       hanced. Further studies are required to understand how IdeR
+pendent on IdeR (Fig. 6). These results are consistent with our    specifically contributes to oxidative-stress defense in this my-
+previous observations demonstrating functional IdeR binding        cobacterium.
+sites in the promoter regions of mbt genes and induction of           In this study, we have extended our knowledge of the role of
+these genes under low-iron conditions (16). We also demon-         IdeR in M. tuberculosis and the response of this mycobacterium
+strated binding of IdeR to the regulatory region of bfrA and       to iron levels. Our results indicate that IdeR is an essential
+showed that under high-iron conditions bfrA is transcribed         regulator with a major role in controlling iron metabolism
+from a promoter that is activated in vitro by iron and binding     through its roles as a repressor of siderophore production and
+of IdeR (16). The induction of bfrA by high-iron conditions in     as a positive modulator of iron storage. The essential nature of
+the wild-type and complemented strains but not in the ideR         IdeR makes it a potential candidate for chemotherapy, al-
+mutant confirms the role of IdeR as a positive regulator of bfrA   though as shown in this study, mutations that overcome the
+expression.                                                        lethal effect of inactivating IdeR might arise under certain
+   Genes regulated by iron but independent of IdeR were also       conditions. Finally, investigating the role of IdeR-regulated
+identified (Tables 4 and 5). Genes encoding proteins involved      genes in iron acquisition will allow a better understanding of
+in intermediate metabolism, aerobic growth, transcriptional        the mechanisms used by M. tuberculosis to survive low-iron
+regulation, iron utilization, and transporters are part of this    environments encountered during infection and should pro-
+group. Notably, 10 out of the 14 genes encoding the polypep-       vide additional potential targets for therapeutic intervention.
+tide components of the NADH dehydrogenase were modestly
+induced by high-iron conditions. Since [Fe-S] clusters are evo-
+lutionarily conserved prosthetic groups in NADH dehydroge-                              ACKNOWLEDGMENTS
+nases (41), iron available for incorporation into these groups       We thank Jeanie Dubnau, Patricia Fontan, Shawn Walters, Ric-
+might serve as a signal for increased synthesis of NADH de-        cardo Manganelli, Barun Mathema, and Manuel Gomez for valuable
+hydrogenase polypeptides. Interestingly, ethA, encoding a          discussions.
+VOL. 70, 2002                                                                                              ROLE OF IdeR IN M. TUBERCULOSIS                          3381
+
+  This work was supported by NIH grant AI-44856 (awarded to I.S.),                          R. A. Udani, et al. 1991. Genetic systems for mycobacteria. Methods Enzy-
+The UNCF-Parke Davis and the Parker B. Francis postdoctoral fel-                            mol. 204:537–555.
+lowships (awarded to G.M.R.), the Walter V. and Idun Y. Berry                         23.   Kochan, I. 1971. Mechanisms of tuberculostasis in mammalian serum. Role
+Foundation postdoctoral fellowship (awarded to M.I.V.), and by NIH                          of transferrin in human serum tuberculostasis. J. Infect. Dis. 119:11–18.
+                                                                                      24.   Manganelli, R., M. I. Voskuil, G. K. Schoolnik, and I. Smith. 2001. The
+grant AI-44826 (awarded to G.K.S.).
+                                                                                            Mycobacterium tuberculosis ECF sigma factor ␴E role in global gene expres-
+                                                                                            sion and survival in macrophages. Mol. Microbiol. 41:423–437.
+                                 REFERENCES                                           25.   McKinney, J., K. Honer zu Bentrup, J. E. Munos-Elias, A. Miczac, B. Chen,
+ 1. Baulard, A. R., J. C. Betts, J. Engohan-Ndong, S. Quan, R. A. McAdams,                  W. T. Chan, D. Swenson, J. C. Sacchettini, W. R. Jacobs, Jr., and D. G.
+    P. J. Brennan, C. Loch, and G. S. Besra. 2000. Activation of the pro-drug               Russell. 2000. Persistence of Mycobacterium tuberculosis in macrophages and
+    ethionamide is regulated in Mycobacteria. J. Biol. Chem. 275:28326–28331.               mice requires the glyoxalate shunt enzyme isocitrate lyase. Nature 406:735–
+ 2. Berish, S. A., S. Subbarao, C. Y. Chen, D. L. Trees, and S. A. Morse. 1993.             738.
+    Identification and cloning of a fur homolog from Neisseria gonorrhoeae.           26.   Oguiza, J. A., X. Tao, A. T. Marcos, J. F. Martin, and J. R. Murphy. 1995.
+    Infect. Immun. 61:4599–4606.                                                            Molecular cloning, DNA sequence analysis, and characterization of the
+ 3. Byrd, T. F., and M. A. Horwitz. 1989. Interferon gamma-activated human                  Corynebacterium diphtheriae dtxR homolog from Brevibacterium lactofermen-
+    monocytes downregulate transferrin receptors and inhibit the intracellular              tum. J. Bacteriol. 177:465–467.
+    multiplication of Legionella pneumophila by limiting the availability of iron.    27.   Parish, T., and N. G. Stoker. 2000. glnE is an essential gene in Mycobacterium
+    J. Clin. Investig. 83:1457–1465.                                                        tuberculosis. J. Bacteriol. 182:5715–5720.
+ 4. Calder, K. M., and M. A. Horwitz. 1998. Identification of iron-regulated          28.   Pavelka, M. S., Jr., and W. R. Jacobs, Jr. 1996. Biosynthesis of diaminopime-
+    proteins of Mycobacterium tuberculosis and cloning of tandem genes encod-               late, the precursor of lysine and a component of peptidoglycan, is an essen-
+
+
+
+
+                                                                                                                                                                             Downloaded from http://iai.asm.org/ on December 15, 2015 by guest
+    ing a low iron-induced protein and a metal transporting ATPase with simi-               tial function of Mycobacterium smegmatis. J. Bacteriol. 178:6496–6507.
+    larities to two-component metal transport systems. Microb. Pathog. 24:133–        29.   Pelicic, V., J.-M. Reyrat, and B. Gicquel. 1996. Expression of the Bacillus
+    143.                                                                                    subtilis sacB gene confers sucrose sensitivity on mycobacteria. J. Bacteriol.
+ 5. Camacho, L. R., D. Ensergueix, E. Perez, B. Gicquel, and C. Guilhot. 1999.              178:1197–1199.
+    Identification of a virulence gene cluster of Mycobacterium tuberculosis by       30.   Pohl, E., R. K. Holmes, and W. G. J. Hol. 1999. Crystal structure of the
+    signature-tagged transposon mutagenesis. Mol. Microbiol. 34:257–267.                    iron-dependent regulator (IdeR) from Mycobacterium tuberculosis shows
+ 6. Cole, S. T., R. Brosch, J. Parkhill, et al. 1998. Deciphering the biology of            both metal binding sites fully occupied. J. Mol. Biol. 285:1145–1156.
+    Mycobacterium tuberculosis from the complete genome sequence. Nature              31.   Quadri, L. E. N., J. Sello, T. A. Keating, P. H. Weinreb, and C. T. Walsh.
+    393:537–544.                                                                            1998. Identification of a Mycobacterium tuberculosis gene cluster encoding
+ 7. DeBarber, A. E., K. Mdluli, M. Bosman, L. G. Bekker, and C. E. Berry III.               the biosynthetic enzymes for assembly of the virulence-conferring sid-
+    2000. Ethionamide activation and sensitivity in multidrug-resistant Mycobac-            erophore mycobactin. Chem. Biol. 5:631–645.
+    terium tuberculosis. Proc. Natl. Acad. Sci. USA 97:9677–9682.                     32.   Ratledge, C. 1999. Iron metabolism, p. 260–286. In C. Ratledge and J. Dale
+ 8. De Voss, J. J., K. Rutter, B. G. Schroeder, and C. E. Barry III. 1999. Iron             (ed.), Mycobacteria, molecular biology and virulence. Blackwell Scientific
+    acquisition and metabolism by mycobacteria. J. Bacteriol. 181:4443–4451.                Publications, Ltd., Oxford, United Kingdom.
+ 9. De Voss, J. J., K. Rutter, B. G. Schroeder, H. Su, Y. Zhu, and C. E. Barry III.   33.   Ratledge, C., and M. Ewing. 1996. The occurrence of carboxymycobactin, the
+    2000. The salicylate-derived mycobactin siderophores of Mycobacterium tu-               siderophore of pathogenic mycobacteria, as a second extracellular sid-
+    berculosis are essential for growth in macrophages. Proc. Natl. Acad. Sci.              erophore in Mycobacterium smegmatis. Microbiology 142:2207–2212.
+    USA 97:1252–1257.                                                                 34.   Rodriguez, G. M., B. Gold, M. Gomez, O. Dussurget, and I. Smith. 1998.
+10. Dussurget, O., M. Gomez, J. Timm, B. Gold, S. Yu, W. Jacobs, S. Z. Sabol,               Identification and characterization of two divergently transcribed iron reg-
+    R. K. Holmes, and I. Smith. 1999. Transcriptional control of the iron re-               ulated genes in Mycobacterium tuberculosis. Tuber. Lung Dis. 79:287–298.
+    sponsive fxbA gene by the mycobacterial regulator IdeR. J. Bacteriol. 181:        35.   Sauton, B. 1912. Sur la nutrition minerale du bacille tuberculeux. C. R.
+    3402–3408.                                                                              Hebd. Seances Acad. Sci. 155:860–861.
+11. Dussurget, O., G. M. Rodriguez, and I. Smith. 1996. An ideR mutant of             36.   Schmitt, M. P., M. Predich, L. Doukhan, I. Smith, and R. K. Holmes. 1995.
+    Mycobacterium smegmatis has a derepressed siderophore production and an                 Characterization of an iron-dependent regulatory protein (IdeR) of Myco-
+    altered oxidative-stress response. Mol. Microbiol. 22:535–544.                          bacterium tuberculosis as a functional homolog of the diphtheria toxin re-
+12. Dussurget, O., G. M. Rodriguez, and I. Smith. 1998. Protective role of the              pressor (DtxR) from Corynebacterium diphtheriae. Infect. Immun. 63:4284–
+    mycobacterial IdeR against reactive oxygen species and isoniazid toxicity.              4289.
+    Tuber. Lung Dis. 79:99–106.                                                       37.   Schoolnik, G. K., M. I. Voskuil, D. Schnappinger, F. H. Yildis, K. Meibom,
+13. Fetherston, J. D., V. J. Bertolino, and R. D. Perry. 1999. YbtP and YbtQ: two           N. A. Dolganov, M. A. Wilson, and K. H. Chong. 2001. Whole genome DNA
+    ABC transporters required for iron uptake in Yersinia pestis. Mol. Microbiol.           microarray expression analysis of biofilm development by Vibrio cholerae O1
+    32:289–299.                                                                             El Tor. Methods Enzymol. 336:3–18.
+14. Gangaidzo, I. T., M. V. Moyo, E. Mvundura, G. Aggrey, N. L. Murphree, H.          38.   Stover, C. K., G. P. Bansal, M. S. Hansen, J. E. Burlein, S. R. Palaszynski,
+    Khumalo, T. Saungweme, I. Kasuosve, I. Kasvoesve, Z. A. Gomo, T. Roualt,                J. F. Young, S. Koenig, D. B. Young, A. Sadziene, and A. G. Barbour. 1993.
+    J. R. Boelaert, and V. R. Gordeuk. 2001. Association of pulmonary tuber-                Protective immunity elicited by recombinant bacille Calmette-Guerin (BCG)
+    culosis with increased dietary iron. J. Infect. Dis. 184:936–939.                       expressing outer surface protein A (OspA) lipoprotein: a candidate Lyme
+15. Gobin, J., and M. Horwitz. 1996. Exochelins of Mycobacterium tuberculosis               disease vaccine. J. Exp. Med. 178:197–209.
+    remove iron from human iron-binding proteins and donate iron to myco-             39.   Tolmasky, M. E., A. M. Wertheimer, L. A. Actis, and J. H. Crosa. 1994.
+    bactins in the M. tuberculosis cell wall. J. Exp. Med. 183:1527–1532.                   Characterization of the Vibrio anguillarum fur gene: role in regulation of
+16. Gold, B., G. M. Rodriguez, M. P. Marras, M. Pentecost, and I. Smith. 2001.              expression of the FatA outer membrane protein and catechols. J. Bacteriol.
+    The Mycobacterium tuberculosis IdeR is a dual functional regulator that                 176:213–220.
+    controls transcription of genes involved in iron acquisition, iron storage and    40.   Venturi, V., C. Ottevanger, M. Bracke, and P. Weisbeek. 1995. Iron regula-
+    survival in macrophages. Mol. Microbiol. 42:851–865.                                    tion of siderophore biosynthesis and transport in Pseudomonas putida
+17. Gomez, M., G. Nair, L. Doukhan, and I. Smith. 1998. sigA is an essential                WCS358: involvement of a transcriptional activator and the Fur protein.
+    gene in Mycobacterium smegmatis. Mol. Microbiol. 29:617–628.                            Mol. Microbiol. 15:1081–1093.
+18. Gunter-Seeboth, K., and T. Schupp. 1995. Cloning and sequence analysis of         41.   Vinogradov, A. D. 2001. Respiratory complex I: structure, redox components
+    the Corynebacterium diphtheriae dtxR homologue from Streptomyces lividans               and possible mechanisms of energy transduction. Biochemistry 66:1086–
+    and Streptomyces pilosus encoding a putative iron repressor protein. Gene               1097.
+    166:117–119.                                                                      42.   Wong, D., B. Y. Lee, M. A Horwitz, and B. Gibson. 1999. Identification of
+19. Hall, R. M., and C. Ratledge. 1982. A simple method for the production of               Fur, aconitase and other proteins expressed by Mycobacterium tuberculosis
+    mycobactin, the lipid-soluble siderophore, from mycobacteria. FEMS Mi-                  under conditions of low and high concentrations of iron by combined two-
+    crobiol. Lett. 15:133–136.                                                              dimensional gel electrophoresis and mass spectrometry. Infect. Immun. 67:
+20. Hantke, K. 2001. Iron and metal regulation in bacteria Curr. Opin. Micro-               327–336.
+    biol. 4:172–177.                                                                  43.   Yanisch-Perron, C., J. Vieira, and J. Messing. 1985. Improved M13 phage
+21. Imlay, J. A., S. M. Chin, and S. Linn. 1988. Toxic DNA damage by hydrogen               cloning vectors and host strains: nucleotide sequences of the M13mp18 and
+    peroxide through the Fenton reaction in vivo and in vitro. Science 240:640–             pUC19 vectors. Gene 33:103–119.
+    642.                                                                              44.   Zahrt, T. C., and V. Deretic. 2000. An essential two-component signal trans-
+22. Jacobs, W. R., Jr., G. V. Kalpana, J. D. Cirillo, L. Pascopella, S. B. Snapper,         duction system in Mycobacterium tuberculosis. J. Bacteriol. 182:3832–3838.
+
+
+
+Editor: S. H. E. Kaufmann
+

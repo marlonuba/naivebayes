@@ -1,0 +1,577 @@
+                                                                                                                                                                    letters to nature
+Received 21 May; accepted 21 July 1998.                                                                                     higher eukaryotes. We have isolated 14 autophagy-defective (apg)
+1. Alberts, B. et al. in Molecular Biology of the Cell 1158 (Garland, New York, 1994).                                      mutants of the yeast Saccharomyces cerevisiae5 and examined the
+2. Schewe, T., Rapoport, S. M. & Ku¨hn, H. Enzymology and physiology of reticulocyte lipoxygenase:
+    comparison with other lipoxygenases. Adv. Enzymol. Relat. Areas Mol. Biol. 58, 191–272 (1986).
+                                                                                                                            autophagic process at the molecular level6–9. We show here that a
+3. Samuelsson, B., Haeggstrom, J. Z. & Wetterholm, A. Leukotriene biosynthesis. Ann. NY Acad. Sci. 629,                     unique covalent-modification system is essential for autophagy to
+    89–99 (1991).                                                                                                           occur. The carboxy-terminal glycine residue of Apg12, a 186-
+4. Ku¨hn, H. & Chan, L. The role of 15-lipoxygenase in atherogenesis: pro- and antiatherogenic actions.
+    Curr. Opin. Lipidol. 8, 111–117 (1997).                                                                                 amino-acid protein, is conjugated to a lysine at residue 149 of
+5. Schewe, T., Halangk, W., Hiebsch, C. & Rapoport, S. M. A lipoxygenase in rabbit reticulocytes which                      Apg5, a 294-amino-acid protein. Of the apg mutants, we found
+
+                                                                                                                                                                                                              8
+    attacks phospholipids and intact mitochondria. FEBS Lett. 60, 149–152 (1975).
+6. Ku¨hn, H., Belkner, J., Wiesner, R. & Brash, A. R. Oxygenation of biological membranes by the pure
+                                                                                                                            that apg7 and apg10 were unable to form an Apg5/Apg12 con-
+    reticulocyte lipoxygenase. J. Biol. Chem. 265, 18351–18361 (1990).                                                      jugate. By cloning APG7, we discovered that Apg7 is a ubiquitin-
+7. Brinckmann, R. et al. Membrane translocation of 15-lipoxygenase in hematopoietic cells is calcium-                       E1-like enzyme. This conjugation can be reconstituted in vitro
+    dependent and activates the oxygenase activity of the enzyme. Blood 91, 64–74 (1998).
+8. Watson, A. & Doherty, F. J. Calcium promotes membrane association of reticulocyte 15-lipoxygenase.                       and depends on ATP. To our knowledge, this is the first report of a
+    Biochem. J. 298, 377–383 (1994).                                                                                        protein unrelated to ubiquitin that uses a ubiquitination-like
+9. Jain, M. K. & Wagner, R. C. Introduction to Biological Membranes (Wiley, New York, 1980).
+10. Munro, S. & Pelham, H. R. A C-terminal signal prevents secretion of luminal ER proteins. Cell 48,
+                                                                                                                            conjugation system. Furthermore, Apg5 and Apg12 have mam-
+    899–907 (1987).                                                                                                         malian homologues, suggesting that this new modification system
+11. Hunt, T. On the translational control of suicide in red cell development. Trends Biochem. Sci. 14, 393–                 is conserved from yeast to mammalian cells.
+    394 (1989).
+12. Bassnett, S. & Mataic, D. Chromatin degradation in differentiating fiber cells of the eye lens. J. Cell                    In yeast, autophagy is induced by various starvation conditions,
+    Biol. 137, 37–49 (1997).                                                                                                and its progression is easily monitored under a light microscope1:
+13. Arora, J. K., Lysz, T. W. & Zelenka, P. S. A role for 12(s)-hete in the response of human lens epithelial
+    cells to epidermal growth factor and insulin. Invest. Ophthalmol. Vis. Sci. 37, 1411–1418 (1996).
+                                                                                                                            when wild-type cells were cultured under nitrogen-starvation con-
+14. Ishizaki, Y., Jacobson, M. D. & Raff, M. C. A role for caspases in lens fiber differentiation. J. Cell Biol.            ditions in the presence of phenylmethylsulphonyl fluoride (PMSF),
+    140, 153–158 (1998).                                                                                                    autophagic bodies accumulated in the vacuoles (arrows in Fig. 1a).
+15. Gouaux, E. Channel-forming toxins: tales of transformation. Curr. Opin. Struct. Biol. 7, 566–573 (1997).
+16. Palmer, M. et al. Assembly mechanism of the oligomeric streptolysin O pore: the early membrane                          The apg12-1 mutant did not accumulate autophagic bodies during
+    lesion is lined by a free edge of the lipid membrane and is extended gradually during oligomerization.                  starvation. We cloned the APG12 gene by the method described
+    EMBO J. 17, 1598–1605 (1998).
+17. Mayer, A., Siegel, N. R., Schwartz, A. L. & Ciechanover, A. Degradation of proteins with acetylated
+                                                                                                                            previously7,8. APG12 encodes a hydrophilic protein of 186 amino
+    amino termini by the ubiquitin system. Science 244, 1480–1483 (1989).                                                   acids with a predicted relative molecular mass (Mr) of 21K (Fig. 1b).
+18. Coux, O., Tanaka, K. & Goldberg, A. L. Structure and functions of the 20S and 26S proteasomes. Annu.
+    Rev. Biochem. 65, 801–847 (1996).
+19. Ostareck, D. H. et al. mRNA silencing in erythroid differentiation: hnRNP K and hnRNP E1 regulate
+    15-lipoxygenase translation from the 39 end. Cell 89, 597–606 (1997).
+20. Rapoport, S. M. et al. The lipoxygenase of reticulocytes. Purification, characterization and biological
+    dynamics of the lipoxygenase; its identity with the respiratory inhibitors of the reticulocyte. Eur. J.
+    Biochem. 96, 545–561 (1979).
+21. Jackson, R. J. & Hunt, T. Preparation and use of nuclease-treated rabbit reticulocyte lysates for the
+    translation of eukaryotic messenger RNA. Methods Enzymol. 96, 50–74 (1983).
+22. Steck, T. L. & Kant, J. A. Preparation of impermeable ghosts and inside-out vesicles from human
+    erythrocyte membranes. Methods Enzymol. 31A, 172–180 (1974).
+23. Walter, P. & Blobel, G. Preparation of microsomal membranes for cotranslational protein
+    translocation. Methods Enzymol. 96, 84–93 (1983).
+24. Bordier, C. Phase separation of integral membrane proteins in Triton X-114 solution. J. Biol. Chem.
+    256, 1604–1607 (1981).
+25. New, R. R. C. Liposomes: A Practical Approach 37–39 (Oxford Univ. Press, New York, 1990).
+26. Paul, A., Engelhardt, H., Jakubowski, U. & Baumeister, W. Two-dimensional crystallization of a
+    bacterial surface protein on lipid vesicles under controlled conditions. Biophys. J. 61, 172–188 (1992).
+
+Supplementary information is available on Nature’s World-Wide Web site (http:/www.nature.com) or as
+paper copy from the London editorial office of Nature.
+
+Acknowledgements. We thank D. Smith and J. Olesker for assistance in writing the manuscript; T. So¨llner,
+J. E. Rothman, P. Szabo, G. van Meer, D. Nikolov, A. Koff, G. Bacher, and members of the Wiedmann,
+Duvoisin and Rothman laboratories for discussions and comments; N. Min and L. Cohen-Gould for
+performing the initial immunohistochemistry and electron microscopy experiments. We thank P. Marks
+and R. Rifkind for suggesting the eye lens experiments. This work was supported by the Memorial Sloan-
+Kettering Cancer Center, a Fellowship by the Deutsche Forschungsgemeinschaft (to K.v.L.), and by the
+Samuel and May Rudin Foundation and a Tolly Vinik Pilot Grant Award (to R.M.D.).
+
+Correspondence and requests for materials should be addressed to M.W.
+
+
+
+
+A protein conjugation system
+essential for autophagy
+Noboru Mizushima*, Takeshi Noda*, Tamotsu Yoshimori*,
+Yae Tanaka†, Tomoko Ishii†, Michael D. George‡,
+Daniel J. Klionsky‡, Mariko Ohsumi† & Yoshinori Ohsumi*                                                                     Figure 1 Cloning of APG12 and phenotype of apg12 disruptant. a, Wild-type,
+* Department of Cell Biology, National Institute for Basic Biology,                                                         apg12-1 mutant and Dapg12 cells were cultured in nitrogen-starvation medium
+Okazaki 444-8585, Japan                                                                                                     containing 1 mM PMSF. After incubation for 6 h, cells were observed under a
+† Department of Biosciences, Teikyo University of Science & Technology,                                                     phase-contrast microscope. Arrows indicate autophagic bodies. b, Amino-acid
+Yamanashi 409-0193, Japan                                                                                                   sequence of Apg12. c, Wild-type (squares) and Dapg12 (circles) were cultured in
+‡ Section of Microbiology, University of California, Davis, California 95616, USA                                           nitrogen-starvation medium and their viability was determined by phloxine B
+.........................................................................................................................
+                                                                                                                            staining5. d, Quantification of autophagic activity of wild-type and Dapg12 cells by
+Autophagy is a process for the bulk degradation of proteins, in                                                             alkaline phosphatase (ALP) assay before (black bars) and after (white bars)
+which cytoplasmic components of the cell are enclosed by double-                                                            nitrogen starvation for 4 h. Error bars indicate s.d. of three independent
+membrane structures known as autophagosomes for delivery to                                                                 experiments. e, Homology between Apg12 and potential human and C. elegans\-
+lysosomes or vacuoles for degradation1–4. This process is crucial                                                           counterparts. C. elegans U32305 is 46% similar and 22% identical to amino acids
+for survival during starvation and cell differentiation. No mol-                                                            67–186 of yeast Apg12. A human cDNA (THC173313) encodes a protein that is
+ecules have been identified that are involved in autophagy in                                                               59% similar and 32% identical to amino acids 102–186 of Apg12.
+
+                                                                                                   Nature © Macmillan Publishers Ltd 1998
+NATURE | VOL 395 | 24 SEPTEMBER 1998                                                                                                                                                                      395
+letters to nature
+Gene disruption experiments revealed that APG12 is not essential                                     We have previously shown that the APG5 gene encodes a 294-
+for growth (data not shown) but is essential for autophagy (Fig. 1a)                              amino-acid protein6. Immunoblot analysis of 1 × HA-tagged Apg5
+and for maintaining viability during starvation (Fig. 1c). We                                     indicated that it also generated two bands in nearly equal amounts,
+confirmed this in an assay system for measuring autophagic activity                               one of the size of tagged Apg5 (32.5K) and the other at about 70K
+(Fig. 1d), in which a truncated form of pro-alkaline phosphatase                                  (Fig. 2c). In the Dapg12 strain, the higher band was not seen,
+expressed in the cytoplasm was delivered to vacuoles in an autop-                                 whereas the 32.5K band of Apg5 was slightly increased (Fig. 2c).
+hagy-dependent manner and processed to the active enzyme10. A                                     Immunoprecipitation analysis revealed that the 70K band included
+vacuolar enzyme, aminopeptidase I, is delivered from the cytoplasm
+to vacuoles constitutively to yield the mature, active enzyme11. This
+‘Cvt pathway’ is closely linked to the autophagic process12, and all
+apg mutants13, including Dapg12 cells, show defects in this pathway
+                                                                                                  both Apg5 and Apg12 (Fig. 2d). We concluded that it was a one-to-
+                                                                                                  one conjugate of Apg5 and Apg12.
+                                                                                                     To characterize the 70K band further, we did mutagenic analysis
+                                                                                                  of Apg12 (Fig. 3a). We found that the carboxy-terminal portion of
+                                                                                                                                                                                                                                    8
+(see Fig. 3d). The amino-acid sequence of Apg12 did not provide                                   Apg12 was important for the conjugation (Fig. 3b: D57 and D121).
+any insight into its function, but a BLAST search identified a
+potential Caenorhabditis elegans homologue whose function is
+unknown (Fig. 1e). In addition, a search of the EST (expressed-                                   a
+sequence tag) database identified several cDNA fragments encoding                                            3xHA
+                                                                                                  Apg12 WT                                                            FG
+parts of a potential human homologue (Fig. 1e).
+                                                                                                  Apg12 G186A                                                         FA
+   To detect Apg12, we constructed a 3 × haemagglutinin(HA)-
+                                                                                                  Apg12 ∆G                                                            F
+tagged APG12. On immunoblotting, Apg12 presented as a ladder of                                   Apg12 ∆57
+bands between 31K–32.5K (Fig. 2a). As phosphatase treatment of
+                                                                                                  Apg12 ∆121
+the lysate yielded a single band at 31K representing tagged Apg12                                                                                                 c
+
+
+
+
+                                                                                                                                                                      ALP activity (U)
+                                                                                                                                                                                         60
+(data not shown), we concluded that Apg12 is phosphorylated in
+
+
+
+
+                                                                                                                              ∆5 6A
+                                                                                                  b
+
+
+
+
+                                                                                                                                 21
+                                                                                                                                18
+                                                                                                                                 7
+                                                                                                                      T
+                                                                                                                     ∆G
+vivo. Furthermore, we found that about half of the Apg12 was
+
+
+
+
+                                                                                                                              ∆1
+                                                                                                                                                                                         40
+
+
+
+
+                                                                                                                  W
+
+
+                                                                                                                              G
+present as a much larger band of ,70K (asterisked in Fig. 2a, b).                                     Apg5/
+                                                                                                      Apg12                                                                              20
+Although the 31K Apg12 was detected in all apg mutant strains, the
+Dapg5, apg7-1 and apg10-1 strains did not show the 70K band                                                                                                                               0
+                                                                                                                                                                                                     r
+(Fig. 2b; Dapg1 is representative of the other mutants). These results                                                                                                                            to           T    ∆G         6A
+indicate that these three APG products are essential for the genera-                                  Apg12                                                                                   ve
+                                                                                                                                                                                                 c        W               18
+                                                                                                                                                                                                                         G
+tion of the 70K band.
+
+
+
+
+                                                                                                                                                                                                                             6A
+                                                                                                                                                                                                         or
+                                                                                                                                                                                                     ct
+
+
+
+
+                                                                                                                                                                                                                         18
+                                                                                                  Apg12∆57                                                        d
+
+
+
+
+                                                                                                                                                                                                                   ∆G
+                                                                                                                                                                                                              T
+                                                                                                                                                                                                 ve
+
+                                                                                                                                                                                                          W
+
+
+                                                                                                                                                                                                                        G
+                                                                                                                                                                  proAPI
+ a                                             b
+                                12
+
+
+
+
+                                                                                                                                                                      API
+                                                                  1 -1
+                             G
+
+
+
+
+                                                             g5 7- 10 g1
+                           AP
+
+
+
+
+                                                           ap apg apg ap
+                      A-
+
+
+
+
+                                                    T
+
+
+
+
+  Mr(K)                                                                                           Figure 3 The C-terminal Gly residue of Apg12 is essential for interaction with
+                                                   W
+                    H
+
+
+
+
+                                                                             ∆
+                                                       ∆
+
+
+
+
+     83                                                                                           Apg5 and for autophagy. a, Diagram of Apg12 C-terminal mutants. b, Dapg12 cells
+     62                          *                                                                were transformed with the mutant plasmids and their lysates were immunoblotted
+                                                                                  *
+                                                                                                  with anti-HA antibody. c, Autophagic activity was measured as described for Fig.1d.
+     47.5                                                                                         d, Transport of pro-API to the vacuole was examined by immunoblotting with anti-
+                                                                                                  API antiserum. The positions of pro-API and mature API are indicated.
+     32.5                        HA-                                               HA-
+                                 Apg12                                             Apg12
+                                                                                                                                      R
+      25                                                                                          a
+                                                                                                                                     K149                                                                294
+                                                                                                                                    APG5
+                                                                                                                                                                                                          1xHA
+                                                        anti-Myc
+
+
+
+
+ c                      12                     d
+                                                                   anti-HA
+
+
+
+
+                       g
+                    ap
+             T
+
+
+                           T
+
+
+
+
+                                                                                                                                  R
+            W
+
+
+                        W
+
+
+
+
+                                                                                                                     or
+                ∆
+
+
+
+
+                                                                                                  b                                        c
+                                                                                                                               49
+
+
+
+
+                                               IP Ab –
+                                                                                                                  ct
+
+                                                                                                                          T
+                                                                                                                              K1
+
+
+
+
+ HA-APG5 +        +         -
+                                                                                                                ve
+
+                                                                                                                          W
+
+
+
+
+                                                       anti-Myc                                                                                                   80
+                                                                                                                                               ALP activity (U)
+
+
+
+
+    83                                          Blot
+                                     *                                                             Apg5/                                                          60
+       62                                                                        Myc-Apg12/        Apg12
+                                                                                 HA-Apg5                                                                          40
+     47.5                                                                        IgG                                                                              20
+     32.5                            HA-Apg5                                 Myc-Apg12                                                                                0
+                                                                                                                                                                                         vector WT K149R
+                                                                                                   Apg5
+       25
+                                                                                                                                                                                                                           R
+                                                                                                                                                                                                     or
+
+
+
+
+                                                                                                                                           d
+                                                                                                                                                                                                                        49
+                                                                                                                                                                                                ct
+
+                                                                                                                                                                                                           T
+
+                                                                                                                                                                                                                    K1
+                                                                                                                                                                                           ve
+
+                                                                                                                                                                                                          W
+
+
+
+
+Figure 2 Apg12 is conjugated to Apg5. a, b, Lysates from Dapg12 cells carrying
+                                                                                                                                            proAPI
+only vector or 3 × HA-APG12 (a), and Dapg5, apg7-1, apg10-1 and Dapg1 cells
+                                                                                                                                                            API
+carrying 3 × HA-Apg12 plasmid (b) were immunoblotted using anti-HA antibody.
+The positions of 3 × HA-Apg12 and the larger product (asterisks) are indicated. c,
+Immunoblot analysis of wild-type and Dapg12 cells harbouring HA-APG5 plasmid.                     Figure 4 Apg5K149R is unable to generate Apg5/Apg12 conjugate and is defective
+d, Dapg5 Dapg12 cells were co-transformed with Myc-APG12 and HA-APG5.                             in autophagy. a, Position of the putative Apg12-interacting Lys residue. Dapg5
+Their lysates were immunoprecipitated with anti-Myc or anti-HA antibodies and                     cells were transformed with vector alone, wild-type APG5 or APG5K149R, and then
+detected by immunoblotting using anti-Myc antibody. The position of the                           immunoblotted with anti-HA (b) and anti-API (d). Autophagic activity was
+crossreacting IgG heavy chain is indicated.                                                       determined by alkaline phosphatase assay (c).
+
+                                                                                 Nature © Macmillan Publishers Ltd 1998
+396                                                                                                                                                NATURE | VOL 395 | 24 SEPTEMBER 1998
+                                                                                                                                       letters to nature
+Even a single Gly 186 deletion at the C terminus (Apg12DG) caused                          may function as an enzyme system for conjugation. Cloning of the
+complete loss of the Apg12/Apg5 conjugate, although free Apg12DG                           APG7 gene revealed that it encodes a 630-amino-acid protein with
+was detected in an amount comparable to that in the wild type                              predicted Mr of 71.4K (Fig. 5a). The region containing amino acids
+(Fig. 3b: DG). Apg12G186A, in which the Gly 186 is replaced by                             322–392 of Apg7 shows significant homology with the correspond-
+alanine, was incorporated into the higher band inefficiently, but still                    ing region in E1, the ubiquitin-activating enzyme in S. cerevisiae
+significantly (Fig. 3b: G186A). This indicates that Gly 186 is impor-                      (Fig. 5b) and in other species (data not shown). This region
+tant for Apg5/Apg12 conjugation. We next assessed the functional                           encompasses a putative ATP-binding site (GxGxxG)17, suggesting
+activities of these mutants. Apg12DG showed an Apg-negative
+phenotype (Fig. 3c), and was also unable to produce mature
+aminopeptidase I (Fig. 3d), indicating that the Apg5/Apg12 con-
+jugate is required for both autophagy and cytosol-to-vacuole
+                                                                                           that Apg7 may be an Apg12-activating enzyme. Although the
+                                                                                           sequence around the active-site cysteine is less conserved, align-
+                                                                                           ments between Apg7 and other E1-like enzymes indicate that
+                                                                                           Cys 507 is a putative active-site cysteine (Fig. 5b). Apg10 might be
+                                                                                                                                                                              8
+targeting of this enzyme. The Apg12G186A mutant showed an                                  an E2 ubiquitin-conjugating enzyme type of protein because its size
+almost normal phenotype for autophagy and for maturation of                                is similar to various E2 enzymes and one of its cysteine residues is
+aminopeptidase I (Fig. 3c, d), suggesting that a small amount of                           essential for its function (T. Shintani et al., unpublished results). We
+Agp5/Apg12 conjugate is enough for it to function normally.                                reconstituted the conjugation reaction in vitro. Lysates of Dapg5
+   By analogy with ubiquitin14–16, conjugation of Apg5 and Apg12                           cells and Dapg12 cells were mixed in vitro and incubated with or
+probably occurs through formation of an isopeptide bond between                            without ATP. Figure 5c shows that the 70K band appeared in a time-
+the C-terminal Gly 186 of Apg12 and an e-amino group of one of the                         dependent and ATP-dependent manner. The conjugation was
+19 lysine residues in Apg5. To test this, we systematically replaced                       sensitive to 1 mM N-ethylmaleimide (data not shown). These
+each lysine residue of Apg5 with arginine. Both free Apg5 and the                          results show that the Apg12 conjugation pathway contains an
+Apg5/Apg12 conjugate were detected in 18 mutants (data not                                 ATP-dependent step, which is probably the activation of Apg12 by
+shown). The Apg5K149R variant had no conjugate at all, but a                               Apg7.
+higher amount of free Apg5K149R (Fig. 4a, b), indicating that the                             Autophagy involves a dynamic membrane rearrangement2–4.
+Lys 149 residue of Apg5 is the acceptor site for Apg12 conjugation.                        Morphological studies have indicated that all APG products func-
+As expected, Apg5K149R was defective in both autophagy and in                              tion at or before the autophagosome formation step (M. Baba and
+generating mature aminopeptidase I (Fig. 4c, d), whereas the other                         Y.O., unpublished results). Some Apg proteins are present on
+18 mutants were normal (data not shown). Starvation did not alter                          membrane structures9. Most of the Apg5 and Apg5/Apg12 con-
+the relative amounts of free Apg5, free Apg12 or of the Apg5/Apg12                         jugate, and more than half of the free Apg12, were present in
+conjugate. We conclude that the conjugate functions as a common                            100,000g pellet fractions (data not shown), suggesting that they
+machinery in both pathways: for the autophagic pathway during                              associate with some membrane compartments. We therefore exam-
+starvation and for the Cvt pathway in the growing phase.                                   ined their intracellular localization by sucrose density-gradient
+   As shown in Fig. 2, the apg7 and apg10 mutants failed to                                centrifugation analysis and found that free Apg5 and the Apg5/
+conjugate Apg5 and Apg12, suggesting that these two APG products                           Apg12 conjugate co-fractionated (Fig. 6); in contrast, most of the
+
+a                                                                                                            ADH ALP              Kex2         Sec12
+    MSSERVLSYAPAFKSFLDTSFFQELSRLKLDVLKLDSTCQPLTVNLDLHN                          50
+    IPKSADQVPLFLTNRSFEKHNNKRTNEVPLQGSIFNFNVLDEFKNLDKQL                         100
+    FLHQRALECWEDGIKDINKCVSFVIISFADLKKYRFYYWLGVPCFQRPSS                         150                     0.3
+    TVLHVRPEPSLKGLFSKCQKWFDVNYSKWVCILDADDEIVNYDKCIIRKT                         200                                        Apg5/Apg12
+    KVLAIRDTSTMENVPSALTKNFLSVLQYDVPDLIDFKLLIIRQNEGSFAL                         250                                                                     Apg12
+                                                                                                              Apg5
+    NATFASIDPQSSSSNPDMKVSGWERNVQGKLAPRVVDLSSLLDPLKIADQ                         300
+                                                                                            Recovery
+
+
+
+
+    SVDLNLKLMKWRILPDLNLDIIKNTKVLLLGAGTLGCYVSRALIAWGVRK                         350                     0.2
+    ITFVDNGTVSYSNPVRQALYNFEDCGKPKAELAAASLKRIFPLMDATGVK                         400
+    LSIPMIGHKLVNEEAQHKDFDRLRALIKEHDIIFLLVDSRESRWLPSLLS                         450
+    NIENKTVINAALGFDSYLVMRHGNRDEQSSKQLGCYFCHDVVAPTDSLTD                         500
+    RTLDQMCTVTRPGVAMMASSLAVELMTSLLQTKYSGSETTVLGDIPHQIR                         550                     0.1
+    GFLHNFSILKLETPAYEHCPACSPKVIEAFTDLGWEFVKKALEHPLYLEE                         600
+    ISGLSVIKQEVERLGNDVFEWEDDESDEIA                                             630
+b                                                                                                      0.0
+                                                                                                                              5              10                        15
+                                            Cys 507
+      Apg7
+                                                                  506   MCTV   Apg7                                            Fraction number
+                                                                  599   LCTL   Uba1
+                                                                                                             TOP                                                BOTTOM
+                                         Cys 600                  176   VCTI   Uba2
+                                                                  167   MCTI   Uba3
+Uba1
+                                                                                           Figure 6 Apg5/Apg12 conjugate co-fractionates with free Apg5 but not free
+                                                                                           Apg12. Spheroplasts were generated from cells expressing either HA-Apg12 or
+322 IKNTKVLLLGAGTLGCYVSR--ALIAWGVRK---ITFVDNGTVSYSNPVRQALYNFEDCGKPKAELAAASLKRIFP Apg7      HA-Apg5. Their lysates were mixed and layered on top of a 10-step (18–54 % w/w)
+    | |:|| |:|:| :|| : : ||: |        |   || :: || || |: :| || |:| || :: : |
+432 IANSKVFLVGSGAIGCEMLKNWALLGLGSGSDGYIVVTDNDSIEKSNLNRQFLFRPKDVGKNKSEVAAEAVCAMNP Uba1      sucrose gradient, and centrifuged at 174,000g for 2.5 h (ref. 29). Fifteen fractions
+                                                                                           were collected and the positions of free Apg5, free Apg12 and Apg5/Apg12
+c
+                        ∆apg12
+
+
+
+
+                                                                                           conjugate were examined by western blotting. The peak fractions of alcohol
+                ∆apg5
+
+
+
+
+                                     +ATP          -ATP
+                                                                                           dehydrogenase (ADH)(cytosol), ALP (vacuole), Kex2 (Golgi) and Sec12 (endo-
+                                 0   2   10 30        30 (min)                             plasmic reticulum) are indicated by arrows.
+                                                            Apg5/Apg12HA
+                 1         2     3   4   5     6      7
+
+Figure 5 Apg7 is an E1-like protein and Apg12 is conjugated to Apg5 in an ATP-                               ATP   AMP   Ap                              Ap
+                                                                                                   C
+dependent manner. a, Amino-acid sequence of Apg7. b, Homology between
+                                                                                                                           g1                              g1
+                                                                                                  Apg7                        2                               2
+Apg7 and Uba1, S. cerevisiae E1 enzyme. Black circles indicate a putative ATP-
+                                                                                                                                           (Apg10?)
+                                                                                                                                  G                               G
+                                                                                                                                   –                               –
+binding site (GxGxxG). The putative active-site Cys residue of Apg7 is indicated. c,                                                   C                               K149
+                                                                                                         Apg12     G
+In vitro conjugation of Apg5 and Apg12. A cell lysate of Dapg12 carrying HA-APG5                                                  Apg7                                 Apg5
+(lane 1) was incubated with an equal amount of lysate from Dapg5 carrying HA–
+APG12 (2 m plasmid) (lane 2) at 30 8C with (lane 4–6) or without (lane 7) 5 mM ATP.
+Samples were mixed with SDS-sample buffer at the times indicated.                          Figure 7 Model of the Apg12-conjugation system.
+
+                                                                        Nature © Macmillan Publishers Ltd 1998
+NATURE | VOL 395 | 24 SEPTEMBER 1998                                                                                                                                        397
+letters to nature
+Apg12 was in the denser fractions. These results indicate that the                                                          12. Baba, M., Osumi, M., Scott, S. V., Klionsky, D. J. & Ohsumi, Y. Two distinct pathways for targeting
+                                                                                                                                proteins from the cytoplasm to the vacuole/lysome. J. Cell Biol. 139, 1687–1695 (1997).
+conjugation of Apg5 and Apg12 is associated with a change in the                                                            13. Scott, S. V. et al. Cytoplasm-to-vacuole targeting and autophagy employ the same machinery to
+subcellular localization of Apg12.                                                                                              deliver proteins to the yeast vacuole. Proc. Natl Acad. Sci. USA 93, 12304–12308 (1996).
+                                                                                                                            14. Hochstrasser, M. Ubiquitin-dependent protein degradation. Annu. Rev. Genet. 30, 405–429 (1996).
+   We have described a new covalent modification system that is                                                             15. Varshavsky, A. The ubiquitin system. Trends Biochem. Sci. 22, 383–387 (1997).
+required for autophagy in yeast. Four of 14 APG products function                                                           16. Weissman, A. M. Regulating protein degradation by ubiquitination. Immunol. Today 18, 189–198
+in this pathway. Our model is shown in Fig. 7: Apg12 is activated by                                                            (1997).
+                                                                                                                            17. McGrath, J. P., Jentsch, S. & Varshavsky, A. UBA1: an essential yeast gene encoding ubiquitin-
+binding to Apg7 via a high-energy thioester bond; through transfer                                                              activating enzyme. EMBO J. 10, 227–236 (1991).
+to an E2-like molecule (possibly Apg10), Apg12 is finally conjugated
+to Lys 149 of Apg5 via an isopeptide bond. Although the steps in this
+conjugation pathway are similar to those that occur in ubiquitina-
+tion14–16 and in the modification by other ubiquitin-like proteins
+                                                                                                                            18. Matunis, M. J., Coutavas, E. & Blobel, G. A novel ubiquitin-like modification modulates the
+                                                                                                                                partitioning of the Ran-GTPase-activating protein RanGAP1 between the cytosol and the nuclear
+                                                                                                                                pore complex. J. Cell Biol. 135, 1457–1470 (1996).
+                                                                                                                            19. Mahajan, R., Delphin, C., Guan, T., Gerace, L. & Melchior, F. A small ubiquitin-related polypeptide
+                                                                                                                                involved in targeting RasGAP1 to nuclear pore complex protein RanBP2. Cell 88, 97–107 (1997).
+                                                                                                                                                                                                                                                        8
+                                                                                                                            20. Mahajan, R., Gerace, L. & Melchior, F. Molecular characterization of the SUMO-1 modification of
+such as SUMO-1 (refs 18–21), Smt3 (ref. 22), Rub1 (refs 23, 24) and                                                             RanGAP1 and its role in nuclear envelope association. J. Cell Biol. 140, 259–270 (1998).
+Nedd8 (ref. 25), Apg12 has several unique features. It has no                                                               21. Matunis, M. J., Wu, J. & Blobel, G. SUMO-1 modification and its role in targeting the Ran GTPase-
+                                                                                                                                activating protein, RanGAP1, to the nuclear pore complex. J. Cell Biol. 140, 499–509 (1998).
+significant homology to ubiquitin and is much larger than ubiquitin                                                         22. Johnson, E. S., Schwienhorst, I., Dohmen, R. J. & Blobel, G. The ubiquitin-like protein Smt3p is
+and ubiquitin-related modifiers18–25. Only a single specific substrate,                                                         activated for conjugation to other proteins by an Aos1p/Uba2p heterodimer. EMBO J. 16, 5509–5519
+Apg5, has been found. Apg12 homologues in human and C. elegans                                                                  (1997).
+                                                                                                                            23. Liakopoulos, D., Doenges, G., Matuschewski, K. & Jentsch, S. A novel protein modification pathway
+have a glycine residue at the C terminus (Fig. 1c). We have cloned                                                              related to the ubiquitin system. EMBO J. 17, 2208–2214 (1998).
+human Apg12 and found that it is conjugated to human Apg5                                                                   24. Lammer, D. et al. Modification of yeast Cdc53p by the ubiquitin-related protein Rub1p affects
+                                                                                                                                function of the SCFCdc4 complex. Genes Dev. 12, 914–926 (1998).
+(N.M., H. Sugita, T.Y. and Y.O., manuscript in preparation). Human                                                          25. Osaka, F. et al. A new Nedd8-ligating system for cullin-4A. Genes Dev. (in the press).
+Apg5 was recently cloned as ‘apoptosis specific protein’ by another                                                         26. Hammond, E. M. et al. Homology between a human apoptosis specific protein and the product of
+group26, although its physiological significance is not clear yet. This                                                         APG5, a gene involved in autophagy in yeast. FEBS Lett. 425, 391–395 (1998).
+                                                                                                                            27. Noda, T. & Ohsumi, Y. Tor, a phosphatidylinositol kinase homologue, controls autophagy in yeast. J.
+conjugation system is conserved from yeast to mammalian cells, and                                                              Biol. Chem. 273, 3963–3966 (1998).
+may be critical for autophagy in every eukaryote.                    M                                                      28. Kamada, Y. et al. Activation of yeast protein kinase C by Rho1 GTPase. J. Biol. Chem. 271, 9193–9196
+.........................................................................................................................       (1996).
+                                                                                                                            29. Antebi, A. & Fink, G. R. The yeast Ca2+-ATPase homologue, PMR1, is required for normal Golgi
+Methods                                                                                                                         function and localizes in a novel Golgi-like distribution. Mol. Biol. Cell 3, 633–654 (1992).
+Yeast strains. The Saccharomyces cerevisiae strains used for cloning and
+                                                                                                                            Acknowledgements. We thank Y. Wada for the genomic library. N.M. is a research fellow of the Japan
+immunochemical analysis were MT3-4-4(MATa apg12-1 ura3), MT87-4-                                                            Society for the Promotion of Science.
+5(MATa apg7-1 ura3), MT91-4-2(MATa apg10-1 ura3), SKD5-1D(MATa ura3
+                                                                                                                            Correspondence and requests for materials should be addressed to Y.O. (e-mail: yohsumi@nibb.ac.jp).
+leu2 trp1 Dapg5::LEU2) and YYK36(MATa ura3 leu2 trp1 his3 Dapg1::LEU2).                                                     The sequences of APG12 and APG7 are available from GenBank under accession numbers Z36086 (ORF
+Gene disruptions of APG5 and APG12 were performed with YW5-1B(MATa                                                          YBR217w) and U00027 (ORF YHR171w), respectively.
+
+ura3 leu2 trp1) or KA31(MATa ura3 leu2 trp1 his3).
+Alkaline phosphatase assay. The APG12 or APG5 gene was disrupted in
+TN125(MATa ura3 leu2 trp1 his3 ade2 lys2 PHO8::pho8D60), and the assay was
+done as described27.                                                                                                        Retinoid-X receptor signalling
+Immunochemical procedures. Whole-cell extracts were prepared by
+suspending cells in 0.2 M NaOH, 0.5% b-mercaptoethanol, and precipitated                                                    in the developing spinal cord
+with acetone. Extracts were separated by SDS–PAGE, followed by immuno-
+blotting using anti-HA antibody (16B12, BAbCO) or anti-API (aminopepti-                                                     Ludmila Solomin*, Clas B. Johansson†, Rolf H. Zetterstro¨m‡,
+dase I) polyclonal antibody. Immunoprecipitation was done as described28                                                    Reid P. Bissonnette§, Richard A. Heyman§, Lars Olson‡,
+using 16B12 or anti-Myc antibody (9E10).                                                                                    Urban Lendahl†, Jonas Frise´n† & Thomas Perlmann*
+Site-directed mutagenesis. Mutation and deletion constructs were generated                                                  * The Ludwig Institute for Cancer Research, Stockholm Branch, PO Box 240,
+by PCR-based site-directed mutagenesis and confirmed by automated DNA                                                       S-171 77 Stockholm, Sweden
+sequencing.                                                                                                                 Departments of † Cell and Molecular Biology and ‡ Neuroscience,
+In vitro Apg12 conjugation assay. Total cell lysates were prepared from                                                     Karolinska Institute, S-171 77 Stockholm, Sweden
+Dapg12 strain expressing HA-Apg5 and Dapg5 strain expressing HA-Apg12                                                       § Ligand Pharmaceuticals, 10275 Science Center Drive, San Diego,
+after spheroplasting. Both lysates (30 mg ml−1) were mixed in 50 mM Tris (pH                                                California 92121, USA
+7.5), 100 mM NaCl, 10 mM MgCl2, 1 mM DTT, 0.3 mM PMSF and 2 mg ml−1                                                         .........................................................................................................................
+
+pepstatin, and incubated at 30 8C for the indicated times with or without 5 mM                                              Retinoids regulate gene expression through the action of retinoic
+ATP. The reaction was stopped by mixing with SDS–PAGE buffer and boiling.                                                   acid receptors (RARs) and retinoid-X receptors (RXRs), which
+                                                                                                                            both belong to the family of nuclear hormone receptors1,2. Reti-
+Received 20 May; accepted 29 June 1998.                                                                                     noids are of fundamental importance during development2, but it
+1. Takeshige, K., Baba, M., Tsuboi, S., Noda, T. & Ohsumi, Y. Autophagy in yeast demonstrated with                          has been difficult to assess the distribution of ligand-activated
+    proteinase-deficient mutants and condtions for its induction. J. Cell Biol. 119, 301–311 (1992).                        receptors in vivo. This is particularly the case for RXR, which is a
+2. Baba, M., Takeshige, K., Baba, N. & Ohsumi, Y. Ultrastructural analysis of the autophagic process in
+    yeast: Detection of autophagosomes and their characterization. J. Cell Biol. 124, 903–913 (1994).                       critical unliganded auxiliary protein for several nuclear receptors,
+3. Seglen, P. O. & Bohley, P. Autophagy and other vacuolar protein degradation mechanisms. Experientia                      including RAR1, but its ligand-activated role in vivo remains
+    48, 158–172 (1992).
+4. Dunn, W. A. Jr Autophagy and related mechanisms of lysome-mediated protein degradation. Trends
+                                                                                                                            uncertain. Here we describe an assay in transgenic mice, based
+    Cell Biol. 4, 139–143 (1994).                                                                                           on the expression of an effector fusion protein linking the ligand-
+5. Tsukada, M. & Ohsumi, Y. Isolation and characterization of autophagy-defective mutants of                                binding domain of either RXR or RAR to the yeast Gal4 DNA-
+    Saccharomyces cerevisiae. FEBS Lett. 333, 169–174 (1993).
+6. Kametaka, S., Matsuura, A., Wada, Y. & Ohsumi, Y. Structural and functional analyses of APG5, a gene                     binding domain, and the in situ detection of ligand-activated
+    involved in autophagy in yeast. Gene 178, 139–143 (1996).                                                               effector proteins by using an inducible transgenic lacZ reporter
+7. Matsuura, A., Tsukada, M., Wada, Y. & Ohsumi, Y. Apg1p, a novel protein kinase required for the
+    autophagic process in Saccharomyces cerevisiae. Gene 192, 245–250 (1997).
+                                                                                                                            gene. We detect receptor activation in the spinal cord in a pattern
+8. Funakoshi, T., Matsuura, A., Noda, T. & Ohsumi, Y. Analyses of APG13 gene involved in autophagy in                       that indicates that the receptor functions in the maturation of
+    yeast, Saccharomyces cerevisiae. Gene 192, 207–213 (1997).                                                              limb-innervating motor neurons. Our results reveal a specific
+9. Kametaka, S., Okano, T., Ohsumi, M. & Ohsumi, Y. Apg14p and Apg6p/Vps30p form a protein
+    complex essential for autophagy in the yeast Saccharomyces cerevisiae. J. Biol. Chem. (in the press).                   activation pattern of Gal4–RXR which indicates that RXR is a
+10. Noda, T., Matsuura, A., Wada, Y. & Ohsumi, Y. Novel system for monitoring autophagy in the yeast                        critical bona fide receptor in the developing spinal cord.
+    Saccharomyces cerevisiae. Biochem. Biophys. Res. Commun. 210, 126–132 (1995).
+11. Klionsky, D. J., Cueva, R. & Yaver, D. S. Aminopeptidase I of Saccharomyces cerevisiae is localized to the
+                                                                                                                               Ligands for retinoid receptors are all-trans retinoic acid (RA),
+    vacuole independent of the secretory pathway. J. Cell Biol. 119, 287–299 (1992).                                        which binds to RAR, and 9-cis RA, which binds both RAR and
+
+                                                                                                     Nature © Macmillan Publishers Ltd 1998
+398                                                                                                                                                                                         NATURE | VOL 395 | 24 SEPTEMBER 1998
+

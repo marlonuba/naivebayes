@@ -1,0 +1,745 @@
+                                                                                                               Vol 444 | 16 November 2006 | doi:10.1038/nature05284
+
+
+
+
+LETTERS
+A protein interaction network for pluripotency of
+embryonic stem cells
+Jianlong Wang1, Sridhar Rao1, Jianlin Chu1, Xiaohua Shen1, Dana N. Levasseur1, Thorold W. Theunissen1
+& Stuart H. Orkin1,2
+
+
+Embryonic stem (ES) cells are pluripotent1,2 and of therapeutic                          identified by whole-lane liquid chromatography–tandem mass spec-
+potential in regenerative medicine3,4. Understanding pluripotency                        trometry (LC–MS/MS) are summarized in Fig. 1d (left panel; see also
+at the molecular level should illuminate fundamental properties of                       Supplementary Data). With criteria described in the Supplementary
+stem cells and the process of cellular reprogramming. Through cell                       Methods, putative Nanog-associated proteins were chosen (Fig. 1d,
+fusion the embryonic cell phenotype can be imposed on somatic                            right panel). The candidates, which are predominantly transcription
+cells, a process promoted by the homeodomain protein Nanog5,                             factors or components of transcriptional complexes, include proteins
+which is central to the maintenance of ES cell pluripotency6,7.                          previously studied in an ES cell context (for example Oct4 or Dax1)
+Nanog is thought to function in concert with other factors such                          and fall into three groups. The first group includes proteins present in
+as Oct4 (ref. 8) and Sox2 (ref. 9) to establish ES cell identity. Here                   at least two of three independent one-step purifications and tandem
+we explore the protein network in which Nanog operates in mouse                          purification. These proteins (Sall1, Sall4, Rif1, Tif1b, Mybbp, Dax1
+ES cells. Using affinity purification of Nanog under native condi-                       and Nac1) are prime interaction candidates. The second group
+tions followed by mass spectrometry, we have identified physically                       includes proteins (Zfp281, Err2, Elys, Oct4, Zfp198, NF45 and
+associated proteins. In an iterative fashion we also identified                          HDAC2) that may be part of unstable or transient complexes that
+partners of several Nanog-associated proteins (including Oct4),                          dissociate during tandem purification. Proteins in the third group
+validated the functional relevance of selected newly identified                          (REST, Sp1 and Wapl) seem ‘masked’ in one-step purifications
+components and constructed a protein interaction network. The                            but are recovered in the tandem procedure. Proteins identified by
+network is highly enriched for nuclear factors that are individually                     our approach may interact directly with Nanog, or more often indir-
+critical for maintenance of the ES cell state and co-regulated on                        ectly through their association with other components of a protein
+differentiation. The network is linked to multiple co-repressor                          complex.
+pathways and is composed of numerous proteins whose encoding                                 We then validated selected Nanog-interacting candidates by per-
+genes are putative direct transcriptional targets of its members.                        forming co-immunoprecipitation experiments. Interactions between
+This tight protein network seems to function as a cellular module                        Nanog and Dax1, Nac1, Zfp281 and Oct4 were confirmed in hetero-
+dedicated to pluripotency.                                                               logous 293T (Supplementary Fig. S2) and ES (Fig. 2a–d) cells tran-
+   To recover Nanog with its associated proteins, we used a biotiny-                     siently transfected with constructs as indicated (see the figure legend
+lation/proteomics approach10. Nanog complementary DNA bearing                            for details). In addition, we generated ES cells expressing biotinylated
+an amino-terminal Flag epitope and a short peptide tag that serves as                    Nac1, Zfp281, Dax1 and Oct4, at or below endogenous protein levels
+a substrate for in vivo biotinylation (Fig. 1a) was expressed at about                   (Supplementary Fig. S3), for affinity capture with anti-streptavidin-
+20% of the endogenous level in ES cells previously engineered to                         agarose and western blotting with anti-streptavidin–horseradish per-
+express Escherichia coli biotin ligase BirA (Fig. 1b, left). Low-level                   oxidase (HRP) antibody. We confirmed that Nanog co-purifies with
+                                                                                         bio
+expression reduces the likelihood that non-physiological interactions                       Nac1, bioZfp281, bioDax1 and bioOct4 (Fig. 2e) and that Nac1 co-
+will be identified or that the stoichiometry of protein complexes will                   purifies with bioNanog (Fig. 2f). Furthermore, we confirmed the
+be perturbed11. Biotinylated Nanog (bioNanog) is efficiently recov-                      association of Rif1 with endogenous Nanog (Fig. 2g), as well as ecto-
+ered from ES cell nuclear extracts with streptavidin (SA)-agarose                        pically expressed Nanog (Fig. 2h, i).
+(Fig. 1b right), and is biologically active, because its expression                          To test the functional relevance of selected components, we
+attenuates the dependence of ES cells on leukaemia inhibitory factor                     employed inhibition of endogenous RNAs by short hairpin RNA
+(LIF; Supplementary Fig. S1). Cells coexpressing BirA and bioNanog                       (shRNA; Supplementary Fig. S4). If Nanog-associated proteins influ-
+are functionally equivalent to wild-type ES cells in stem-cell marker                    ence Nanog’s transcriptional activity, their loss of function would be
+gene expression (Supplementary Fig. S1). On size fractionation of ES                     expected to affect ES cell pluripotency. We first examined shRNAs
+cell nuclear extracts, bioNanog and endogenous Nanog behave simi-                        directed to Dax1 and Sall4 in ES cells that express green fluorescent
+larly, broadly distributed with an apparent molecular mass of more                       protein (GFP) under the control of Oct4 regulatory elements. In both
+than 160 kDa to 1 MDa, far greater than that of the predicted poly-                      instances a loss of pluripotency was observed, as revealed by dimin-
+peptide (34 kDa) (Fig. 1c).                                                              ished Oct4 expression and concomitant derepression of selected lin-
+   To identify Nanog-associated proteins we used single-step capture                     eage-specific markers (Supplementary Fig. S5). Recent conditional
+on streptavidin beads10, as well as tandem purification with anti-Flag                   gene targeting of Dax1 (ref. 12) and Sall4 (ref. 13) provides inde-
+immunoprecipitation followed by capture with streptavidin. Nuclear                       pendent support for their crucial function in ES cells.
+extracts of ES cells expressing either BirA alone or BirA plus bioNanog                      Further functional validation included shRNA inhibition of
+were processed in parallel. Total peptides sequenced and proteins                        two Nanog-associated proteins, Nac1 and Zfp281, not previously
+1
+  Division of Hematology–Oncology, Children’s Hospital and Dana Farber Cancer Institute, Harvard Medical School, Harvard Stem Cell Institute, 2Howard Hughes Medical Institute,
+Boston, Massachusetts 02115, USA.
+364
+                                                                    ©2006 Nature Publishing Group
+NATURE | Vol 444 | 16 November 2006                                                                                                                                                                                                                                               LETTERS
+
+
+examined in ES cells. Nac1 is a BTB-domain containing protein14,15                                                                                                           and S6). To assess the relevance of Nac1 and Zfp281 with respect to
+related to Drosophila bric-a-brac/tramtrack, which prevents inappro-                                                                                                         transcriptional control, we examined chromatin occupancy of these
+priate neural gene expression. Zfp281, the mouse homologue of                                                                                                                proteins at the Gata6 promoter in wild-type ES cells. As shown in
+human zinc-finger protein ZBP99, may regulate cell proliferation,                                                                                                            Fig. 3d, Nac1 and Zfp281, as well as Nanog, are highly enriched at the
+differentiation and oncogenesis16. We infected wild-type ES cells with                                                                                                       Gata6 promoter. These data strongly implicate Nac1 and Zpf281,
+retrovirus containing an shRNA vector carrying a GFP cassette                                                                                                                along with Nanog, in the tight control of this crucial target gene
+(Supplementary Fig. S4) and isolated GFPhigh clones harbouring                                                                                                               and also show that derepression of Gata6 expression in knockdown
+Nac1 and Zfp281 shRNAs. Two clones each with similar extents of                                                                                                              cells is not due to off-target effects of shRNAs.
+RNA knockdown (about 80% for Nac1 and about 70% for Zfp281;                                                                                                                      The broad pattern of Nanog on size fractionation, and the iden-
+Fig. 3a) were studied in detail. Nac1 or Zfp281 knockdown cells                                                                                                              tification and validation, both physically and functionally, of asso-
+maintained on a feeder layer formed small colonies, yet they retained                                                                                                        ciated proteins suggest that Nanog is a component of multiple
+proper ES cell morphology (Fig. 3b, top panels). On passage to gela-                                                                                                         protein complexes. By performing similar proteomic analyses on
+tin in the presence of LIF, knockdown cells grew poorly and formed                                                                                                           several of the Nanog-associated proteins, as well as another stem-
+disorganized clumps of small cells (Fig. 3b, bottom panels). Striking                                                                                                        cell marker protein Rex1 (ref. 17), we sought to identify additional
+derepression of primitive endoderm (Gata6/4), mesoderm/visceral                                                                                                              previously unknown proteins and components shared between
+endoderm (Bmp2) and neuroectoderm (Isl1) markers was observed,                                                                                                               complexes and to develop a protein network (Fig. 4a). The size
+despite normal expression of the stem-cell markers (Nanog, Oct4                                                                                                              distributions of complexes containing Oct4, Dax1, Nac1, Zfp281
+and Rex1; Fig. 3c). Validation of these findings was achieved through                                                                                                        and Rex1 overlap that of Nanog (Supplementary Fig. S7). We
+the use of an independent shRNA directed to Zfp281 and by exam-                                                                                                              employed ES cell lines expressing bioDax1, bioNac1, bioZfp281,
+ination of gene-targeted Nac11/2 ES cells (Supplementary Figs S4                                                                                                             bio
+                                                                                                                                                                                 Oct4 and bioRex1 (Fig. 2e, and Supplementary Fig. S3) for the
+
+
+                                                                                                                                                  NE IP anti-SA-
+a                                                                                                           b            Total lysates                agarose
+                                                                                                                                                                                                      5                                                     V5
+                                                                                                                                                                                                 V5 V
+                              MSGLNDIFEAQKIEWHEGAPSSR
+                                                                                                                  BirA –        +    +            BirA + +                                                                5 V5                       V 5 81                       5
+                                                                                                                                                                                                                                                                                AV ct4V
+                                                                                                                                                                                                                                                                                        5
+                                                                                                                                                                             a                 rA ax1         b        A V c1  c                 i rA fp2      d
+                                                                                                                                                                                                                                                                          Bir
+                                                                                                                                                                                                                   Bi r Na
+                                                                                                            bioNanog   –        –    +                                                       i
+                                                Bio
+                                                                                                                                             bioNanog –    +                                B D                                                B      Z                           O    WB
+     BirA                                                  bioNanog
+                                           +                                                                                               endbioP
+                                                                                                                                                                             IP anti-V5
+
+                                               FL                                                                                                                                                                                                                                   Anti-Nanog
+Co-express in J1 ES Cells
+                    cells                                                                                                                 bioNanog
+                                                                                                                                                                                                                                                                                    Anti-V5
+Purify biotinylated protein                                                                                              Anti-SA–HRP bio                                                                                                                                            <BirA
+         using SA                                                                                                                       Nanog
+                                                                                                                                                                 bioNanog
+                                                                                                                                          endNanog
+                                                                                                                           1 2 3                         1 2                                                                                                                        Anti-Nanog
+                                                                                                                          Anti-Nanog                 Anti-SA–HRP
+                                                                                                                                                                             Input
+
+
+
+
+c                                                   Void                                                                700 kDa 440 kDa 232 kDa          158 kDa                                       *                                                                            Anti-V5
+     Anti-                                                                                                                                                       bioNanog                                                                                                           <BirA
+    Nanog                                                                                                                                                      = end
+                                                                                                                                                                     Nanog
+ Anti-SA                                                                                                                                                       - bioNanog    e               BirA BirA            BirA     BirA           BirA           f          BirA + +
+                                                                                                                                                                                                                                                           bioNanog      – +
+                                                                                                                                                                                              – bioNac1       bioZfp281 bioDax1 bioOct4
+                                                                                                                                                                                                                                                                                     WB
+
+
+
+
+                                                                                                                                                                                                                                                                 (bioNanog)
+d                                                                                                           Protein ID           Peptide nos          Peptide nos
+                                                                                                                                                                                    IP SA
+
+
+
+
+                                                                                                                                                                                                                                                                                    Anti-Nac1
+
+
+
+
+                                                                                                                                                                                                                                                                     IP SA
+                                                                                                                               (MS1+MS2+MS3)           (Tandem)
+                                           10 168 98                                                                                                                                                                                             Nanog
+                                                                                                                Nanog                4+7+8                4
+                                                                                                                                                                                                           WB anti-Nanog                                                            Nac1
+                                                                                                                Sall1                3+2+1                1
+                                            One-step
+                                                                                                                                                                                    Input
+
+
+
+
+                                             (MS1)                                                              Sall4                4+2+14               8
+     Total 2,530 peptides (178 proteins)
+
+
+
+
+                                                                      Total 3,410 peptides (266 proteins)
+
+
+
+
+                                                                                                                                                                                                                                                                      Input
+                                                                                                                                                                                                                                                 Nanog                              Anti-SA
+                                                                                                                 Rif1                12+5+5               3
+                                                                                                                                                                                                           WB anti-Nanog
+                                                                                                                Tif1β               11+16+13              15                                                                                                                        bioNanog
+                                                                                                                                                                                                                g
+
+
+
+
+                                           20 132 66
+                                                                                                                                                                                                             no
+
+
+
+
+                                                                                                                Mybbp               8+14+15               2                  g                                                                               i
+                                                                                                                                                                                                                                                       5
+
+
+
+                                                                                                                                                                                                                                h
+                                                                                                                                                                                                    An rum
+                                                                                                                                                                                                    An if1
+
+
+
+
+                                                                                                                                                                                                                                                 gV
+
+
+
+
+                                                                                                                                                                                                                                                                    BirA + +
+                                                                                                                                                                                                          Na
+
+
+
+
+                                                                                                                                                                                                                                            Na 5
+                                                                                                                                                                                                          R
+
+
+
+
+                                                                                                                                                                                                                                                V
+                                                                                                                                                                                                                                              no
+
+
+
+
+                                                                                                                Dax1                 0+1+2                1
+                                                                                                                                                                                                      se
+
+
+
+
+                                                                                                                                                                                               IP
+                                                                                                                                                                                                      ti-
+                                                                                                                                                                                                      ti-
+
+
+
+
+                                                                                                                                                                                                                                                             bioNanog
+                                                                                                                                                                                                                                             rA
+
+
+
+
+                                            One-step                                                                                                                                                                                                                     – +          WB
+                                                                                                                                                                                                                                          Bi
+                                                                                                                                                                                                                              anti-V5
+                                                                                                                                                                                                  PI
+
+
+
+
+                                                                                                                Nac1                 2+0+2                2                           WB                                                                                               Rif1
+                                                                                                                                                                                                                                                                  (bioNanog)
+
+
+                                             (MS2)
+                                                                                                                                                                                                                                IP
+
+
+
+
+                                                                                                                                                                                                                                                                      IP SA
+
+
+
+
+                                                                                                                Zfp281               1+2+4                0                           Anti-                         Rif1                         Rif1
+                                                                                                                 Err2                7+2+1                0                            Rif1                                          WB anti-Rif1                                    Anti-Rif1
+                                                                                                                                                                                                                   bioNanog/lgG
+                                           10 107 88                                                             Elys                1+2+1                0                           Anti-
+                                                                                                                                                                                                       *
+                                                                                                                                                                                                                                  Input
+
+
+
+
+                                                                                                                Oct4                 2+0+1                0
+                                                                                                                                                                                     Nanog                         endNanog
+                                                                                                                                                                                                                                                                       Input
+
+
+
+
+                                                                                                                                                                                          Anti-                                                  Rif1                                Anti-SA
+                                            One-step                                                            Zfp198               0+2+5                0                                                         Rif1
+                                                                                                                                                                                                                                     WB anti-Rif1
+                                                                                                                                                                               Input
+
+
+
+
+                                             (MS3)                                                              NF45                 4+0+1                0                                Rif1
+                                                                                                             HDAC2                   2+1+0                0                               Anti-                    bioNanog                                                          bioNanog
+                                                                                                                                                                                            SA
+                                                                                                                REST                 0+0+1                12
+                                           1 10 30
+                                                                                                                 Sp1                 0+1+0                1                  Figure 2 | Confirmation of Nanog association by co-immunoprecipitation
+                                            Tandem                                                              Wapl                 0+0+1                1                  in ES cells. a–d, Co-immunoprecipitation of Nanog and Dax1 (a), Nac1
+                                                                                                                                                                             (b), Zfp281 (c) and Oct4 (d) in ES cells expressing BirA without (a, b) or with
+Figure 1 | Protein complexes containing Nanog protein in mouse ES cells.                                                                                                     (c, d) bioNanog. The asterisk marks a faint band in a. IP,
+a, Strategy for biotinylation of Nanog in ES cells. Flag (FL) and 23-amino-                                                                                                  immunoprecipitation. e, f, Co-immunoprecipitation of Nanog and Nac1,
+acid biotin (Bio) tags are indicated. SA, streptavidin. b, Western blot                                                                                                      Zfp281, Dax1 and Oct4 in ES cells expressing bioNac1, bioZfp281, bioDax1,
+analyses of expression of biotinylated Nanog (bioNanog) as well as                                                                                                           bio
+                                                                                                                                                                                Oct4 (e) and bioNanog (f). g–i, Co-immunoprecipitation of Nanog and
+endogenous Nanog (endNanog) (left), and binding of bioNanog to SA beads                                                                                                      Rif1 in ES cells. In g, nuclear extracts from ES cells expressing BirA and
+                                                                                                                                                                             bio
+(right). IP, immunoprecipitation. c, Western blots of fractions using anti-                                                                                                     Nanog were incubated with preimmune (PI) serum, anti-Rif1 antibody,
+Nanog (top) and anti-SA–HRP antibodies (bottom). d, Summary of LC–MS/                                                                                                        and anti-Nanog antibody, respectively, followed by capture with protein-A/
+MS results from three independent one-step purifications and a tandem                                                                                                        G agarose. The asterisk indicates endogenous Nanog immunoprecipitated
+purification. Total peptides sequenced and proteins identified in BirA (black                                                                                                by anti-Rif1 antibody. Note that bioNanog migrates together with the IgG
+circles) and bioNanog (red circles) samples are indicated. Components of                                                                                                     band. Antibodies for IP and western blot (WB) analyses are indicated. In
+Nanog complexes selected with the criteria described in Supplementary                                                                                                        h and i, experiments similar to those in a and f were performed except that
+Methods are listed in the table.                                                                                                                                             different constructs and antibodies were used.
+                                                                                                                                                                                                                                                                                            365
+                                                                                                                                                       ©2006 Nature Publishing Group
+LETTERS                                                                                                                                                                                                        NATURE | Vol 444 | 16 November 2006
+
+
+
+                                                                                                                         Mock                                        Nac1.2872 shRNA                 Zfp281.1691 shRNA
+                            a                                                                      b
+                                                                        Zfp281
+
+
+
+
+                           shRNA/mock
+
+
+
+
+                                                                        0.34
+                                              Nac1
+
+
+
+
+                                                                                      0.31
+                                                           0.19
+                                             0.16
+                                             1             2            1             2
+                                o       ne          on
+                                                       e
+                                                               o   ne          on
+                                                                                  e
+                             Cl               Cl            Cl          Cl
+
+                            c                                                                                                                      d
+
+
+
+
+                                                                                                                                                                                                               101.6
+                                                                                                                                            15.0
+                                                                        11.9
+                                                                                 9.0
+
+
+
+
+                                                                                                                   8.8
+                                                                                                             6.6
+
+
+
+
+                                                                                                                                                                                            69.6
+                                                                                                                                4.2
+
+
+
+
+                                                                                                                                                    Biotin-tagged/BirA
+                                                                                                       2.5
+                                                                                             1.7
+                                                     1.9
+                                         1.8
+
+
+                                                               1.8
+
+
+
+
+                                                                                                                                      1.0
+                                                                                                                          0.9
+                           shRNA/mock
+
+
+
+
+                                                                        46.6
+                                                                                  25.9
+
+
+
+
+                                                                                                                                                                         21.9
+                                                                                                                                             9.9
+                                                                                                                   8.6
+                                                                                                       4.0
+                                                                                             2.4
+
+
+                                                                                                             0.8
+                                                               2.1
+
+
+
+
+                                                                                                                                      0.9
+                                                                                                                          1.6
+                                         1.7
+
+
+
+
+                                                                                                                                0.9
+                                                     1.1
+
+
+
+
+                                                                                                                                                                                                   1.6
+                                                                                                                                                                                                         2.2
+
+
+
+
+                                                                                                                                                                                                                             1.3
+                                                                                                                                                                                                                       1.1
+                                                                                                                                                                                0.8
+                                                                                                                                                                                      1.0
+                                   og
+
+                                                    4
+                                                  x1
+
+                                             G 6
+                                            H a4
+                                            La 4a
+                                           ac b1
+
+                                             Bm y
+                                             Bm 2
+                                             C 4
+                                                    2
+                                                  f5
+                                                   l1
+                                                 ur
+                                                ct
+
+
+                                                  a
+
+
+
+
+                                                 p
+                                                 p
+                                                dx
+
+
+                                                Is
+                                              Fg
+                                              Re
+
+                                               at
+                                               at
+
+                                                F
+                           an
+
+
+
+
+                                         Br m
+                                             hy
+                                              O
+
+
+
+
+                                             N
+                                             G
+                          N
+
+
+
+
+                                                                                                                                                                          bioNac1           bioNanog           bioZfp281
+
+
+Figure 3 | Functional validation by RNA-mediated interference.                                                                                     RT–PCR analysis of stem-cell markers as well as lineage-specific markers as
+a, Quantitative reverse transcriptase–polymerase chain reaction (RT–PCR)                                                                           indicated in Nac1.2872 knockdown cells (top) and Zfp281.1691 knockdown
+analysis of Nac1 and Zfp281 gene expression (two clones each) after shRNA-                                                                         cells (bottom). d, Quantitative real-time chromatin immunoprecipitation of
+mediated knockdown in wild-type ES cells. b, Morphology of ES cells                                                                                biotin-tagged proteins on Gata6 (black bars) as well as Gapdh (grey bars) and
+infected with virus containing empty shRNA vector (Mock; left), Nac1                                                                               b2 microglobulin (white bars) promoter sequences (as negative controls).
+shRNA (middle) or Zfp281 shRNA (right). ES cells were grown either on                                                                              Results are shown as means and s.e.m. from two clones in c and three
+feeders (top) or on gelatin in the presence of LIF (bottom). c, Quantitative                                                                       independent experiments in d.
+
+
+affinity purification of complexes, as described for bioNanog.                                                                                     for the network proteins relative to Rex1. For comparison, a ‘control’
+Proteins were identified with the criteria applied for the selection                                                                               set of randomly chosen gene transcripts was similarly analysed
+of Nanog-associated proteins and are summarized in Fig. 4a.                                                                                        (Supplementary Fig. S8). We chose Rex1 as a comparator because
+Multiple proteins are shared between the different complexes. A                                                                                    it is abruptly and extensively downregulated on the differentiation of
+protein interaction map (or mini-interactome)18 summarizes these                                                                                   ES cells. Co-regulation of genes in the network is consistent with their
+observations (Fig. 4b). Several features suggest that the network is                                                                               participation in a common cellular function or pathway.
+specialized to establish and/or maintain ES cell pluripotency.                                                                                         Third, in reinforcement of this hypothesis, we find that many (at
+   First, the network is remarkably enriched for proteins that have                                                                                least 56%) of the genes encoding proteins of the mini-interactome
+been shown, or are likely, to be required individually for controlling                                                                             have been reported as putative Nanog and/or Oct4 targets in
+the survival or differentiation of the inner cell mass, or aspects of early                                                                        recent ChIP-on-chip20 or ChIP-PET19 analyses of chromatin
+development. These include 15 proteins (Fig. 4b, green circles) with                                                                               occupancy in human or mouse ES cells (Supplementary Table S2).
+known phenotypic alleles in published knockout studies or commu-                                                                                   Thus, ‘downstream’ gene targets of Nanog and Oct4 also serve as
+nicated to us (Supplementary Table S1), and 4 proteins (blue circles)                                                                              ‘upstream’ effectors in the pluripotency network. Although this fea-
+from shRNA-mediated inhibition described previously19 or in this                                                                                   ture may stabilize aspects of the ES cell state, it also renders the
+study (Fig. 3, and Supplementary Figs S5 and S6). Three other pro-                                                                                 network vulnerable to attack at multiple points rather than at very
+teins (yellow circles) have known phenotypes that are not consistent                                                                               few21.
+with an early requirement in development (Supplementary Table                                                                                          Fourth, the network is linked to several cofactor pathways, which
+S1). Thus, more than 80% of proteins for which knockout or knock-                                                                                  are largely involved in mediating transcriptional repression. These
+down studies have been performed seem essential for early devel-                                                                                   include the histone deacetylase NuRD (P66b and HDAC2), poly-
+opment and/or ES cell properties. To approximate the ‘expected’                                                                                    comb group (YY1, Rnf2 and Rybp) and SWI/SNF chromatin remod-
+fraction of essential genes, we curated 300 random transcription                                                                                   elling (BAF155) complexes. Of potential interest, Rex1 and Oct4, as
+factor genes and found that less than 15% of those expressed in ES                                                                                 contrasted with Nanog or its closest partners (for example Dax1,
+cells had knockout phenotypes consistent with an early requirement                                                                                 Sall4 and Nac1), are associated with polycomb components. Nanog
+(data not shown).                                                                                                                                  is linked to HDAC/NuRD through its association with Sall1/4 (ref.
+   Second, most genes encoding the proteins within the network are                                                                                 22) and Nac1 (ref. 23). The involvement of multiple co-repressor
+co-regulated, and specifically downregulated, on ES cell differenti-                                                                               complexes provides both a method of regulating different sets of
+ation. In Fig. 4c, a rank order depicts the expression of transcripts                                                                              target genes and a fail-safe mechanism to prevent differentiation
+366
+                                                                                                                   ©2006 Nature Publishing Group
+NATURE | Vol 444 | 16 November 2006                                                                                                                                                               LETTERS
+
+
+
+
+                                                         a      Nanog                                                                                          Rex-1
+
+
+
+
+                                                                                         Dax1             Nac1             Zfp281             Oct4
+
+
+                                                                 Nanog              Dax1                  Nac1           Zfp281            Oct4                 Rex1
+                                                               complexes          complexes             complexes      complexes         complexes            complexes
+                                                                    Nanog                                                                                       Rex1
+                                                                    Oct4                                  Oct4                                 Oct4             Oct4
+                                                                    Sall1                                 Sall1                               RYBP              YY1
+                                                                    Nac1                                  Nac1              EWS                EWS              Nac1
+                                                                    Zfp281            Zfp609             Zfp281            Zfp281             Zfp219            Etl1
+                                                                    Zfp198                                Ari3a                                                 Rai14
+                                                                     Elys                                Arid3b                               Arid3b            Prmt1
+                                                                    NF45                                Btbd14a                               NF45              Rnf2
+                                                                    Wapl                                                                                        Wapl
+                                                                HDAC2                  PELO                                                   HDAC2
+                                                                    REST               REST               P66β                                 P66β
+                                                                     Sp1                 Sp1             Wdr18                                 Sp1             Wdr18
+                                                                    Dax1               Dax1              BAF155             Cdk1              Cdk1             BAF155
+                                                                     Err2                Err2                             Requiem            Requiem          Requiem
+                                                                    Sall4                Sall4            Sall4             Sall4              Sall4
+                                                                    Tif1β              Tif1β                                                                    Tif1β
+                                                                     Rif1              (Rif1)             (Rif1)            (Rif1)
+                                                                    Mybbp                                (Mybbp)
+
+
+                    b                                                                                  Rybp                                               c
+                                                                                                                 Zfp219                                                   Time (days)
+                                                                    Requiem
+                                                                                                                                                               0.25
+
+                                                                                                                                                               0.75
+                                                                                                                                                               0.5
+
+
+                                                                                                                                                               1.5
+                                                                                                                            Cdk1
+
+
+
+
+                                                                                                                                                               14
+                                                                                                                                                               0
+
+
+
+                                                                                                                                                               1
+
+                                                                                                                                                               2
+                                                                                                                                                               4
+                                                                                                                                                               7
+                                                                                                                                                               9
+                                Rai14     YY1     Rnf2
+                                                                     Arid3b                                                                                                             Rex1
+                        Prmt1                                                                                                        EWS
+                                                                                                                                                                                        Dax1
+                                                             P66β
+                                                                                                                                                                                        Mybbp
+                                                                                                                                                                                        Etl1
+                                                                                                       Oct4                                    NF45                                     Err2
+                    Etl1                                                                                                                                                                Oct4
+                                                                                                                                                                                        Tif1β
+                                                                                                                                                   HDAC2
+                                                                                                                                                                                        Elys
+                                        Rex1                            Wapl                                                                                                            Prmt1
+                                                                                            Sall4
+                                                                                                                                                                                        Wdr18
+                                                                                                                          Zfp281
+                                                                                                                                                                                        REST
+                                         Wdr18                                                                                                                                          Rif1
+                        BAF155
+                                                                                                                                                                                        BAF155
+                                                                                                                                                                                        Zfp281
+                                                                                                                                             Sp1                                        EWS
+                                                                                                                                                   Elys                                 Rai14
+                                                                                                                                                                                        Sall1
+                                                                                                                      Nanog                                                             Sall4
+                                                              Nac1                                                                                   Zfp198                             Nanog
+                                         Arid3a                                                 Rif1                                                                                    Nac1
+                                                                                 Tif1β
+                                                                                                                                                   Err2
+                                                                                                                                                                                        NF45
+                                                    Btbd14a                                                                                                                             HDAC2
+                                                                                                                                                                                        Wapl
+                                                                              Sall1                                                                                                     Sp1
+                                                                                                Mybbp                                          REST                                     Zfp219
+                                                                                                                       Dax1
+                                                                                                                                                                                        Btbd14a
+                                                                                                                                                                                        Cdk1
+                                                                                                               Pelo                 Zfp609                                              Zfp609
+                                                                                                                                                                                        P66β
+                                                                                                                                                                                        Requiem
+                                                                                                                                                                                        YY1
+                                                                                                                                                                                        Rnf2
+                                                                                                                                                                                        Pelo
+                                                                                                                                                                                        Zfp198
+                                                                                                                                                                                        Rybp
+                                                                                                                                                                                        Arid3b
+                                                                                                                                                                                        Arid3a
+
+Figure 4 | A protein interaction network in ES cells. a, Schematic depiction                                          tagged baits for affinity purification. Green lines indicate interactions
+of the strategy for mapping protein–protein interaction network in ES cells.                                          confirmed by co-immunoprecipitation and the red line indicates interaction
+Starting with the primary tagged baits Nanog and another stem-cell marker                                             confirmed in the literature27. Green circles indicate proteins whose knockout
+protein Rex1, interaction partners of both Nanog and Rex1 were identified.                                            results in defects in proliferation and/or survival of the inner cell mass or
+The validated interactors such as Dax1, Nac1, Zfp281 and Oct4 served as                                               other aspects of early development; blue circles indicate proteins whose
+secondary tagged baits for the identification of tertiary interacting partners.                                       reduction by RNA-mediated interference results in defects in self-renewal
+Selected high-confidence components of multiprotein complexes are listed                                              and/or differentiation of ES cells; yellow circles are proteins whose knockout
+in the table. Proteins shared by multiple tagged baits are shaded similarly.                                          results in later developmental defects; white circles denote proteins for which
+Proteins in parentheses are present predominantly in tagged samples with                                              no loss-of-function data are available. c, Co-regulation of proteins in the
+some peptide presence in one of the controls during one-step purifications.                                           network on differentiation. Microarray data were curated from the
+b, Depiction of the features of the interactome. Proteins with red labels are                                         literature28 and are presented in rank order relative to Rex1.
+                                                                                                                                                                                                      367
+                                                                                      ©2006 Nature Publishing Group
+LETTERS                                                                                                                                    NATURE | Vol 444 | 16 November 2006
+
+
+
+along different lineages, which is a requisite for maintaining the                           5.    Silva, J., Chambers, I., Pollard, S. & Smith, A. Nanog promotes transfer of
+                                                                                                   pluripotency after cell fusion. Nature 441, 997–1001 (2006).
+pluripotent state.
+                                                                                             6.    Mitsui, K. et al. The homeoprotein Nanog is required for maintenance of
+   Last, the multiple interactions between critical factors also predict                           pluripotency in mouse epiblast and ES cells. Cell 113, 631–642 (2003).
+that proteins within the network influence the function of other                             7.    Chambers, I. et al. Functional expression cloning of Nanog, a pluripotency
+members, either positively or negatively, and that the stoichiometry                               sustaining factor in embryonic stem cells. Cell 113, 643–655 (2003).
+within complexes is important for maintaining pluripotency. This                             8.    Nichols, J. et al. Formation of pluripotent stem cells in the mammalian embryo
+                                                                                                   depends on the POU transcription factor Oct4. Cell 95, 379–391 (1998).
+latter conclusion is consistent with dosage-dependent effects for Oct4                       9.    Avilion, A. A. et al. Multipotent cell lineages in early mouse development depend
+(ref. 24) and Nanog25. Given the numerous gene targets of the pro-                                 on SOX2 function. Genes Dev. 17, 126–140 (2003).
+teins within the network, it is likely that subsets of targets are regu-                     10.   de Boer, E. et al. Efficient biotinylation and single-step purification of tagged
+lated by different complexes. We have shown that Gata6 promoter                                    transcription factors in mammalian cells and transgenic mice. Proc. Natl Acad. Sci.
+                                                                                                   USA 100, 7480–7485 (2003).
+sequences are bound by Nac1, Zfp281 and Nanog. Presumably, pro-
+                                                                                             11.   Krogan, N. J. et al. Global landscape of protein complexes in the yeast
+teins within the network, such as Dax1 and Sall4, also bind other                                  Saccharomyces cerevisiae. Nature 440, 637–643 (2006).
+targets with Nanog, Oct4 and/or Sox2 (among other proteins).                                 12.   Niakan, K. K. et al. Novel role for the orphan nuclear receptor Dax1 in
+Accordingly, the combinatorial control of target genes will be far                                 embryogenesis, different from steroidogenesis. Mol. Genet. Metab. 88, 261–271
+greater in complexity than suggested by recent chromatin occupancy                                 (2006).
+                                                                                             13.   Sakaki-Yumoto, M. et al. The murine homolog of SALL4, a causative gene in
+studies19,20.                                                                                      Okihiro syndrome, is essential for embryonic stem cell proliferation, and
+   Starting from a central regulator of transcription in ES cells,                                 cooperates with Sall1 in anorectal, heart, brain and kidney development.
+namely Nanog, followed by iterative tagging and purification of                                    Development 133, 3005–3013 (2006).
+Nanog-associated proteins, we have developed a protein interaction                           14.   Mackler, S. A., Homan, Y. X., Korutla, L., Conti, A. C. & Blendy, J. A. The mouse
+                                                                                                   nac1 gene, encoding a cocaine-regulated Bric-a-brac Tramtrac Broad complex/
+network. Taken together, the extraordinary enrichment for essential                                Pox virus and Zinc finger protein, is regulated by AP1. Neuroscience 121, 355–361
+genes, the coexpression of most genes, and their roles as both targets                             (2003).
+and effectors indicate that this mini-interactome might serve as a                           15.   Mackler, S. A. et al. NAC-1 is a brain POZ/BTB protein that can prevent cocaine-
+functional module committed to maintaining ES cell pluripotency.                                   induced sensitization in the rat. J. Neurosci. 20, 6210–6217 (2000).
+Whereas proteins of the network cooperate to maintain pluripo-                               16.   Law, D. J., Du, M., Law, G. L. & Merchant, J. L. ZBP-99 defines a conserved family
+                                                                                                   of transcription factors and regulates ornithine decarboxylase gene expression.
+tency, their interdependence renders the cell susceptible to rapid loss                            Biochem. Biophys. Res. Commun. 262, 113–120 (1999).
+of pluripotency on the downregulation, or inactivation, of any one of                        17.   Thompson, J. R. & Gudas, L. J. Retinoic acid induces parietal endoderm but not
+many components. How differences between mouse and human ES                                        primitive endoderm and visceral endoderm differentiation in F9 teratocarcinoma
+cells are reflected in the network, and whether components of the                                  stem cells with a targeted deletion of the Rex-1 (Zfp-42) gene. Mol. Cell.
+                                                                                                   Endocrinol. 195, 119–133 (2002).
+network that are not strictly specific to ES cells are employed by other                     18.   Batagelj, V. & Mrvar, A. Pajek—program for large network analysis. Connections
+types of stem cells for controlling self-renewal versus differentiation,                           21, 47–57 (1998).
+are topics worthy of future study. Last, the network provides a frame-                       19.   Loh, Y. H. et al. The Oct4 and Nanog transcription network regulates pluripotency
+work for exploring the combinations of factors that may permit                                     in mouse embryonic stem cells. Nature Genet. 38, 431–440 (2006).
+faithful reprogramming of differentiated cells to an ES cell state26.                        20.   Boyer, L. A. et al. Core transcriptional regulatory circuitry in human embryonic
+                                                                                                   stem cells. Cell 122, 947–956 (2005).
+                                                                                             21.   Albert, R., Jeong, H. & Barabasi, A. L. Error and attack tolerance of complex
+METHODS                                                                                            networks. Nature 406, 378–382 (2000).
+In vivo biotinylation, affinity purification and mass spectrometry. J1 ES cells              22.   Lauberth, S. M. & Rauchman, M. A conserved twelve amino acid motif in sall1
+were transfected with a plasmid construct expressing BirAV5his followed by selec-                  recruits nuRD. J. Biol. Chem. 281, 23922–23931 (2006).
+tion with G418 (300 mg ml21). Clones were picked and expanded for western                    23.   Korutla, L., Wang, P. J. & Mackler, S. A. The POZ/BTB protein NAC1 interacts with
+blotting by using anti-V5–HRP (Invitrogen). A BirA-expressing ES clone was then                    two different histone deacetylases in neuronal-like cultures. J. Neurochem. 94,
+used for transfection with plasmid constructs containing biotin (or Flag–biotin)-                  786–793 (2005).
+tagged cDNAs. ES cells expressing tagged cDNA were identified by western blot-               24.   Niwa, H., Miyazaki, J. & Smith, A. G. Quantitative expression of Oct-3/4 defines
+                                                                                                   differentiation, dedifferentiation or self-renewal of ES cells. Nature Genet. 24,
+ting with anti-streptavidin–HRP of the total lysates or nuclear extracts. One-step
+                                                                                                   372–376 (2000).
+affinity purification with streptavidin-agarose was performed as described10. In             25.   Hatano, S. Y. et al. Pluripotential competence of cells associated with Nanog
+brief, nuclear extracts from ES cells expressing BirA and biotin-tagged cDNA were                  activity. Mech. Dev. 122, 67–79 (2005).
+incubated with streptavidin-agarose in a buffer containing 1 3 Tris-buffered saline          26.   Takahashi, K. & Yamanaka, S. Induction of pluripotent stem cells from mouse
+(TBS), 350 mM NaCl and 0.3% Nonidet P40. Binding was performed at 4 uC for                         embryonic and adult fibroblast cultures by defined factors. Cell 126, 663–676
+1 h to overnight on a rocking platform, followed by six washes in binding solution.                (2006).
+Bound material was eluted by boiling for 5 min in Laemmli buffer, fractionated on            27.   Lee, J., Rhee, B. K., Bae, G. Y., Han, Y. M. & Kim, J. Stimulation of Oct-4 activity by
+a 10% SDS-polyacrylamide gel, and subjected to LC–MS/MS sequencing and data                        Ewing’s sarcoma protein. Stem Cells 23, 738–751 (2005).
+analysis (see Supplementary Methods for details).                                            28.   Perez-Iratxeta, C. et al. Study of stem cell function using microarray experiments.
+                                                                                                   FEBS Lett. 579, 1795–1801 (2005).
+   For tandem purification, nuclear extracts were incubated overnight with anti-
+M2 Flag-agarose (Sigma) at 4 uC on a rocking platform. On day 2, after extensive             Supplementary Information is linked to the online version of the paper at
+washing with 1 3 TBS, bound materials were eluted by using Flag peptide                      www.nature.com/nature.
+(Sigma). The pooled eluate was then used for streptavidin-agarose capture as
+                                                                                             Acknowledgements We thank A. Cantor for biotin tagging constructs and for
+described above.                                                                             advice on affinity purification and chromatography; Y. Fujiwara and M. Kaku for
+   Details of other methods are provided in Supplementary Materials.                         technical assistance and for Oct4–GFP ES cells; T. De Lange for Rif1 antibody;
+                                                                                             S. Mackler for Nac1 antibody; S. Lowe and S. Elledge for shRNA vectors; M. Vidal
+Received 10 April; accepted 27 September 2006.                                               and A.-L. Barabasi for advice and discussion on networks; and R. Tomaino and
+Published online 8 November 2006.                                                            S. Gygi for performing LC–MS/MS and for providing advice and assistance in data
+1.    Martin, G. R. Isolation of a pluripotent cell line from early mouse embryos cultured   collection and analysis. S.H.O. is an Investigator of the HHMI.
+      in medium conditioned by teratocarcinoma stem cells. Proc. Natl Acad. Sci. USA         Author Contributions S.R. and J.C. contributed equally to this study. J.W. and
+      78, 7634–7638 (1981).                                                                  S.H.O. conceived and initiated the study. J.W., J.C., X.S., D.N.L. and T.W.T.
+2.    Evans, M. J. & Kaufman, M. H. Establishment in culture of pluripotential cells from    performed the experiments. S.R. and J.W. analysed data and bioinformatics of the
+      mouse embryos. Nature 292, 154–156 (1981).                                             network. J.W. and S.H.O. wrote the manuscript.
+3.    Donovan, P. J. & Gearhart, J. The end of the beginning for pluripotent stem cells.
+      Nature 414, 92–97 (2001).                                                              Author Information Reprints and permissions information is available at
+4.    Prelle, K., Zink, N. & Wolf, E. Pluripotent stem cells—model of embryonic              www.nature.com/reprints. The authors declare no competing financial interests.
+      development, tool for gene targeting, and basis of cell therapy. Anat. Histol.         Correspondence and requests for materials should be addressed to S.H.O.
+      Embryol. 31, 169–186 (2002).                                                           (stuart_orkin@dfci.harvard.edu).
+
+
+
+
+368
+                                                                        ©2006 Nature Publishing Group
+

@@ -1,0 +1,545 @@
+sis_11_2*:Layout 1    23.04.2009      14:02 Uhr     Seite 30
+
+
+
+
+        Growing crystals
+        from protein
+        Beat Blattmann and Patrick Sticher from
+        the University of Zürich, Switzerland,
+        explain the science behind protein
+        crystallography and provide a protocol
+        for growing your own crystals from
+        protein – an essential method used by
+        scientists to determine protein structures.
+
+
+
+
+        I  n 1959, Max Perutz and John
+           Kendrew published an article on
+        the three-dimensional structure of
+                                                        Chemistry in 1962w1. Fifty years later,
+                                                        however, it is still a challenge to
+                                                        obtain protein crystals for structural
+        whale myoglobin, which is a small               studies.
+        protein responsible for the transport
+        of oxygen in whale cells. By investi-           What are proteins?
+        gating the protein’s structure, the two            Proteins are the largest group of
+        scientists wanted to understand the             non-aqueous components in living
+        oxygen-carrying mechanism at the                cells. Almost every biochemical reac-
+        molecular level. They grew crystals             tion requires a specific protein, called
+        from this protein and managed to                an enzyme. Other types of proteins
+        determine its structure by analysing            have mechanical and structural func-
+        the X-ray diffraction pattern of the            tions (e.g. collagen in connective tis-
+        crystal. A number of myoglobins from            sue), or mediate cell signalling (e.g.
+        other species had been tested before            hormone receptors), immune respons-
+        with little success, until Perutz and           es (e.g. antibodies) or the transport of
+        Kendrew obtained a useable diffrac-             small molecules (e.g. ion channels).
+        tion pattern with whale myoglobin               The variety is immense: more than
+        crystals. This pioneering work was              20 000 different proteins are known to
+        awarded the Nobel Prize in                      exist in humans alone.
+
+
+        30   Science in School Issue 11 : Spring 2009                                              www.scienceinschool.org
+sis_11_2*:Layout 1     23.04.2009     14:02 Uhr                                                             Seite 31
+
+
+
+
+                                                                                                                                                                                                                            Teaching activities
+
+
+
+
+                                           Image courtesy of Gaby Sennhauser, University of Zürich
+        Protein crystals are small                                                                                                                                      Despite this variety, all proteins         Structure is function: what does
+        and fragile objects, less                                                                                                                                     share an identical structural principle.     the three-dimensional structure
+        than a millimetre in
+                                                                                                                                                                      They consist of 20 different building        of a protein tell us?
+        diameter and difficult to
+        grow. Yet they are essen-
+                                                                                                                                                                      blocks, called amino acids, which are           The function of a particular protein
+        tial for structural biology                                                                                                                                   arranged in a linear chain connected         depends on its three-dimensional struc-
+        studies by X-ray analysis                                                                                                                                     by covalent bonds between adjacent           ture. Only when the protein is folded,
+                                                                                                                                                                      amino acids (see figure below). The          the specific amino acids of the protein
+                                                                                                                                                                      length of the protein chain varies           are close enough to enable the forma-
+                                                                                                                                                                      from a few dozen to thousands of             tion of an active site. These sites can
+                                                                                                                                                                      amino acids. In cells, each protein is       catalyse biochemical reactions, as in the
+                                                                                                                                                                      assembled using the information              case of enzymes, or form a specific
+                                                                                                                                                                      encoded in its corresponding gene.           binding site, as in the case of antibod-
+                                                                                                                                                                      The assembly is performed by a ribo-         ies. Investigating the structural details
+                                                                                                                                                                      some, which is a complex molecular           of a protein is of great importance to
+                                                                                                                                                                      machinery consisting of proteins and         understand how fundamental process-
+                                                                                                                                                                      RNA.                                         es of life function at a molecular level:
+                                                                                                                                                                                                                   this is the research area of structural
+                                                                                                                                                                      Proteins are folded into distinct            biologists. One of the major challenges
+                                                                                                                                                                      three-dimensional structures                 in structural biology today is the eluci-
+                                                                                                                                                                        Under natural conditions, the linear       dation of the structure, function and
+                                                                                                                                                                      chains of amino acids spontaneously          interaction of huge macromolecular
+                                                                                                                                                                      fold into distinct three-dimensional         complexes and membrane proteinsw2.
+                                                                                                                                                                      structures. Stretches of amino acids         Due to their complexity, these proteins
+                                                                                                                                                                      form typical secondary structural ele-       are experimentally extremely challeng-
+                                                                                                                                                                      ments. The most prominent elements           ing, and every time the structure of a
+                                                                                                                                                                      are α-helices and β-sheets (see figure       protein is determined, it is a major
+                                                                                                                                                                      below), which are typically stabilised       achievement. Nevertheless, since they
+                                                                                                                                                                      by hydrogen bonds between individ-           are involved in fundamental biological
+                                                                                                                                                                      ual amino-acid residues. The entire          processes, there is a great interest in
+                                                                                                                                                                      protein forms a tertiary structure con-      better understanding their structure
+                                                                                                                                                                      sisting of a variety of such structure       and function, and scientists keep trying
+                                                                                                                                                                      elements.                                    to crystallise them.
+
+
+                                                                                                                                                                       a
+                                                                                                                                                                                                                                         a. Proteins are built
+                                                                                                                                                                                                                                            from amino
+                                                                                                                                                                                                                                            acids, which
+                                                                                                                                                                                                                                            are covalently
+                                                                                                                                                                                                                                            linked to form
+                                                                                                                                                                                                                                            a linear chain
+                                                                                                     Image courtesy of Marc Leibundgut, ETH Zürich, and www.pdb.org
+
+
+
+
+                                                                                                                                                                                                                                         b. Proteins are
+                                                                                                                                                                                                                                            folded to a
+                                                                                                                                                                                                                                            three-dimension-
+                                                                                                                                                                                                                                            al structure that
+                                                                                                                                                                       b                                                                    determines their
+                                                                                                                                                                                                                                            function. Small
+                                                                                                                                                                                                                                            stretches of the
+                                                                                                                                                                                                                                            amino-acid
+                                                                                                                                                                                                                                            chain form typi-
+                                                                                                                                                                                                                                            cal folds. Two
+                                                                                                                                                                                                                                            prominent struc-
+                                                                                                                                                                                                                                            tural elements
+                                                                                                                                                                                                                                            are α-helices
+                                                                                                                                                                                                                                            and β-sheets
+
+
+        www.scienceinschool.org                                                                                                                                                                                  Science in School   Issue 11 : Spring 2009   31
+sis_11_2*:Layout 1           23.04.2009               14:02 Uhr               Seite 32
+
+
+
+
+        Image courtesy of Beat Blattmann and Patrick Sticher
+
+
+
+                    Protein                                                   Crystal                            Structure
+
+
+
+                  Selection                                                    Protein                           Refinement
+                 Production                                                crystallization                       Validation
+                                                                                                                                                Workflow for protein
+                Purification                                              Data acquisition                   Biological context                 structure determination
+                                                                                                                                                by X-ray diffraction
+                   Analysis                                               Structure solution
+
+
+
+
+        Proteins are too small for direct                                      tre (1 m = 1 thousandth of a mm).                       As more than 90% of all protein
+        observation                                                              Three major technologies are avail-                 structures deposited in the publicly
+          Proteins are tiny structures, measur-                                able to make protein structures                       accessible protein database of bio-
+        ing only a few nanometres (1 nm = 1                                    ‘visible’:                                            logical macromoleculesw3 have been
+        millionth of a mm). Particles that size
+        cannot be observed even with the
+                                                                               · X-ray diffraction of protein crystals               determined by X-ray diffraction, we
+                                                                                                                                     will concentrate on this method. To
+        strongest light microscope, which has
+                                                                               · Nuclear magnetic resonance (NMR)                    learn more about the history of crys-
+        a maximum resolution of 1 microme-                                     · Electron crystallography                            tallography and the journey of a
+
+
+
+        Crystals grow from an
+
+
+
+
+                                                                                                                                                                                 Image courtesy of Nicola Graf
+        aqueous protein solu-
+        tion, which is brought                                                                                       Precipitation zone
+        into supersaturation.                                                             Supersaturation
+        Crystallisation proceeds
+        in two phases, nucle-
+        ation and growth. After                                                                                                                   II
+        nucleation, it is impor-
+        tant to reach what is
+        known as the
+                                                                                                              Su
+
+
+
+
+        ‘metastable zone’, in
+                                                                                                                pe
+                                                  Protein concentration
+
+
+
+
+        which the best condi-
+                                                                                                                  rso
+
+
+
+
+        tions are found for the                                                                                                      Nucleation zone
+                                                                                                                     lu
+                                                                                                                       bi
+
+
+
+
+        growth of large well-                                                                                            ity
+                                                                                                                 I
+                                                                                                                         l
+
+
+
+
+        ordered crystals. Two                                                                                                  cu
+                                                                                                So
+
+
+
+
+        competing processes                                                                                                         rv
+                                                                                                  lub
+
+
+
+
+                                                                                                                                       e
+        decrease the protein
+                                                                                                     ili
+                                                                                                        ty
+
+
+
+
+        concentration in the                                                                             cu
+        supersaturated state:                                                                              rv
+                                                                                                             e        Metastable zone
+        (I) crystallisation,
+        (II) precipitation
+
+
+
+
+                                                                             Undersaturated Zone
+
+
+
+                                                                                         Adjustable parameter (such as salt concentration)
+
+
+        32      Science in School Issue 11 : Spring 2009                                                                                               www.scienceinschool.org
+sis_11_2*:Layout 1                                                      23.04.2009   14:02 Uhr   Seite 33
+
+
+
+
+                                                                                                                                                             Teaching activities
+
+
+
+
+                                  a                                                       b                                     c
+
+
+
+
+                                                                                                                                                                       The vapour diffusion
+                                                                                                                                                                       method is the most
+                                                                                                                                                                       frequently used tech-
+                                                                                                                                                                       nique to grow protein
+                                                                                                                                                                       crystals.
+                                                                                               1.0 μl           1.0 μl                                                 a. A small amount of
+                                                                                              reservoir         protein
+       Image courtesy of Beat Blattmann and Patrick Sticher
+
+
+
+
+                                                                                              solution         solution                 Clear sealing tape             a crystallisation solu-
+                                                                                                                                                                       tion is put into a small
+                                                                Sitting drop post                                                                                      reservoir.
+                                                                                                                                                                       b. A drop of protein
+                                                                                                                                                                       solution and a drop
+                                                                                                                                                                       of crystallisation
+                                                                                                                                                                       solution are placed
+                                                                                                                                                                       onto the sitting drop
+                                                                                                                                                                       post in the chamber.
+                                                                0.5 ml reservoir
+                                                                    solution                                                                                           c. The chamber is
+                                                                                                                                                                       sealed to start the
+                                                                                                                                                                       crystallisation process
+
+
+
+
+                                                 protein from lab to lab, until its                 pipetted onto the sitting drop post            for X-ray analysis. Crystallisation and
+                                                 structure is solved, see the article               that is located in the centre of this          precipitation are competing processes,
+                                                 by Dominique Cornuéjols in this                    chamber.                                       so it is extremely important to find
+                                                 issue (pages 70-76).                                  Immediately after adding all solu-          the optimal conditions favouring
+                                                    Crystallising proteins is a tricky              tions, the chamber is sealed to avoid          crystallisation.
+                                                 task, because it is difficult to deter-            evaporation. Since the concentration
+                                                 mine the right conditions under                    of salt ions is higher in the crystallisa-
+                                                 which each new protein will crys-                  tion solution than in the mixture on
+                                                 tallise – sometimes, it even seems                 the sitting drop post, solvent mole-
+                                                 impossible. So to ensure reproducible              cules will move from the protein drop
+                                                 crystal quality (i.e. that equally good            to the reservoir by vapour diffusion in
+                                                 crystals can be grown again), scien-               the gas phase. During this process,
+                                                 tists use controlled experimental set-             the solubility of the protein in the
+                                                 ups to crystallise their proteins. The             drop decreases. The protein solution
+                                                 most frequently used method in pro-                in the drop eventually becomes
+                                                 tein crystallography is the vapour dif-            supersaturated, which is a thermody-
+                                                 fusion method (see image above): in                namically unstable state. This causes
+                                                 this method, a small amount of a                   some of the protein in the drop either
+                                                 crystallisation solution is added to the           to form crystal nuclei that finally
+                                                 reservoir of the crystallisation cham-             grow into larger protein crystals (see
+                                                 ber. A drop of protein solution and a              image on page 32), or to precipitate as
+                                                 drop of the crystallisation solution are           amorphous protein which is useless
+
+
+                                                          www.scienceinschool.org                                                                Science in School   Issue 11 : Spring 2009    33
+sis_11_2*:Layout 1                                  23.04.2009        14:02 Uhr        Seite 34
+
+
+
+
+                                                    Lysozyme crystals in the classroom                                           Chemicals
+                                                    In this practical activity, students learn more about                        · Lysozyme (SigmaAldrich Product #62971,
+                                                    modern X-ray crystallography by determining the opti-                          BioChemika grade – lysozyme from a different
+                                                    mal crystallisation conditions for a protein. They inves-                      source will probably also do, but this one has been
+                                                    tigate the formation of lysozyme crystals as a function                        thoroughly tested with the protocol, so it is recom-
+                                                    of pH and salt concentration.                                                  mended, to be on the safe side)
+                                                                                                                                 · Sodium chloride (NaCl) (table salt from the super-
+                                                    Lysozyme                                                                       market will do)
+                                                    Lysozyme is a protein belonging to a family of anti-                         · Citric acid
+                                                    bacterial enzymes which damage bacterial cell walls.                         · Sodium acetate
+                                                    In humans, it is abundant in a number of secretions,
+                                                    such as tears, saliva and mucus. Large amounts of
+                                                                                                                                 · Sodium phosphate, monobasic
+                                                    lysozyme can also be found in chicken egg whites.
+                                                                                                                                 · Sodium hydroxide solution
+                                                                                                                                 · Glacial acetic acid
+                                                    Equipment and materials
+                                                                                                                                 · Deionised water (DI-water)
+                                                    · One or two Cryschem™ crystallisation plates                                Stock solutions
+                                                      (Hampton Research) per class
+                                                                                                                                 The following aqueous stock solutions should be pre-
+                                                    · Crystal clear sealing tape (5 cm) (Hampton                                 pared in advance by the teacher:
+                                                      Research)
+                                                    · 1 ml and 1 l manual pipettes                                               · 50 mg/ml lysozyme stock solution in water
+                                                    · A microscope to observe the crystals                                       · 3 M sodium chloride
+                                                                                                                                   Dissolve 17.53 g NaCl in 100 ml
+                                                    · Storage space at 20 °C                                                       DI-water.
+
+
+
+                                                                                   1                     2                   3                    4                    5                   6
+
+                                                                           2.0 ml of 3M NaCl     3.0 ml of 3M NaCl 4.0 ml of 3M NaCl       5.0 ml of 3M NaCl 6.0 ml of 3M NaCl 7.0 ml of 3M NaCl
+                                                                           stock solution (end   stock solution (end stock solution (end   stock solution (end stock solution (end stock solution (end
+                                                                           conc. 0.6 M)          conc. 0.9 M)        conc. 1.2 M)          conc. 1.5 M)        conc. 1.8 M)        conc. 2.1 M)
+                                                                           7.0 ml DI-water       6.0 ml DI-water     5.0 ml DI-water       4.0 ml DI-water     3.0 ml DI-water     2.0 ml DI-water
+             C L A S S R O O M AC T I V I T Y
+
+
+
+
+                                                      1.0 ml sodium
+                                                      citrate
+                                                A                                A1                      A2                   A3                 A4                  A5                  A6
+                                                      (end conc. 0.1 M),
+                                                                                                                                                                                                         pH increases from 3.5 to 6.5
+
+
+
+                                                      pH 3.5
+
+                                                      1.0 ml sodium
+                                                      acetate
+                                                B                                B1                      B2                   B3                 B4                  B5                  B6
+                                                      (end conc. 0.1 M),
+                                                      pH 4.5
+
+                                                      1.0 ml sodium
+                                                C     acetate
+                                                      (end conc. 0.1 M),         C1                      C2                   C3                 C4                  C5                  C6
+                                                      pH 5.5
+
+                                                      1.0 ml sodium
+                                                D     citrate
+                                                                                 D1                      D2                   D3                 D4                  D5                  D6
+                                                      (end conc. 0.1 M),
+                                                      pH 6.5
+
+                                                                                                       NaCl end concentration increases from 0.6 to 2.1 M
+
+                                                                                                                                       Pipetting scheme for the crystal growth experiment
+
+
+
+        34                             Science in School Issue 11 : Spring 2009                                                                                            www.scienceinschool.org
+sis_11_2*:Layout 1    23.04.2009     14:02 Uhr     Seite 35
+
+
+
+
+                                                                                                           Teaching activities
+
+
+
+
+                                                                         8. By comparing the results from the 24 reservoirs, deter-
+        · 1 M sodium citrate, pH 3.5                                        mine the optimal conditions for crystallisation.
+          Dissolve 19.24 g citric acid in 100 ml DI-water. Adjust
+          the pH with sodium hydroxide solution to pH 3.5.
+        · 1 M sodium acetate, pH 4.5                                     Have your crystals measured by X-ray
+          Dissolve 13.6 g sodium acetate in 100 ml DI-water.             When your class has successfully grown protein crystals,
+          Adjust the pH with glacial acetic acid to pH 4.5.              please contact Dr Patrick Sticher at sticher@bioc.uzh.ch.
+        · 1 M sodium acetate, pH 5.5                                     The Swiss NCCR (National Center of Competence in
+                                                                         Research) Structural Biologyw2 has offered to produce an X-
+          Dissolve 13.6 g sodium acetate in 100 ml DI-water.
+          Adjust the pH with glacial acetic acid to pH 5.5.              ray diffraction image for the first 10 school classes that suc-
+                                                                         cessfully grow protein crystals using this protocol. X-ray
+        · 1 M sodium phosphate, pH 6.5                                   measurements can be made either directly from school
+          Dissolve 15.6 g sodium phosphate in 100 ml DI-water.
+                                                                         samples, or, if shipment is a problem, by reproducing the
+          Adjust the pH with sodium hydroxide solution to pH
+                                                                         optimised crystallisation conditions found in your class and
+          6.5.
+                                                                         measuring those crystals. Together with the diffraction
+                                                                         image, the scientists offer to send additional information on
+        Crystal growth experiment                                        what they would do next with this information to obtain
+        1. From the stock solutions, prepare the 24 reservoir            the actual structure, and a certificate if required.
+           solutions for the crystallisation experiments according
+           to the table on the left. The students can be split into
+           small groups, each preparing some of the 24 different
+                                                                         Chat with scientists
+           solutions. All groups can use the same stock solutions.       Students can chat online with the scientists via Skypew4,
+                                                                         after performing their own experiments. To make an
+        2. Using the table for reference, pipette 0.5 ml of the
+                                                                         appointment, email Patrick Sticher (sticher@bioc.uzh.ch) to
+           corresponding reservoir solution into each of the 24
+                                                                         chat with him using the Skype account ‘proteincrystallog-
+           reservoir wells of a Cryschem™ plate (‘a’ in figure on
+                                                                         raphy’.
+           page 33). The table on the left summarises the condi-
+           tions in each well and shows the position of the wells
+           on the plate.
+        3. Pipette 1μl of the reservoir solution into the crystallisa-
+           tion cup on the sitting drop post in each well (‘b’ in
+           figure on page 33).
+        4. Add 1μl of lysozyme stock solution to each 1μl reser-
+           voir solution drop (‘b’ in figure on page 33).
+        5. Immediately after adding the drops of protein solution,
+           close the crystallisation vessel with crystal clear sealing
+           tape to prevent evaporation from the vessel (‘c’ in fig-
+           ure on page 33).
+        6. Store the plate at 20 °C. The crystals will start to grow
+           immediately in some wells, and growth can be
+           observed directly under the microscope at 1-2 hour
+           intervals. The plates may be stored until the next lesson
+           for final analysis. After about 1-2 weeks, crystals will
+           have grown to their final size. A sealed plate will keep
+           up to a year, sometimes even longer.
+        7. Analyse the size, number and distribution of lysozyme
+           crystals. The crystals may be too small to be observed
+           with the naked eye, so a good magnifying glass or –
+           even better – a microscope would be very useful.
+
+
+
+        www.scienceinschool.org                                                                 Science in School   Issue 11 : Spring 2009   35
+sis_11_2*:Layout 1     23.04.2009      14:03 Uhr     Seite 36
+
+
+
+
+        Download additional teaching                     Gilson Inc:                              w5 – Additional teaching resources
+        material                                           · 1 ml and 1 μl manual pipettes         are available here:
+                                                                                                   www.structuralbiology.uzh.ch/
+          A set of Powerpoint® slides,                   Sigma Aldrich:
+        images and further experiments                                                             teacher
+        are available onlinew5.
+                                                           · Lysozyme, Product #62971               Login: crystallization,
+                                                           · Sodium chloride, Product #71380        Password: xraybeam2008
+        Suppliers                                          · Citric acid, Product #27488            This site will be updated regularly.
+          The following suppliersw6 provide                · Sodium acetate, Product #71190       w6 – The websites of suppliers are as
+        the required materials and chemicals:              · Sodium phosphate, monobasic,          follows:
+          Hampton Research:                                  Product #71502                         Hampton Research:
+          · Cryschem™ 24-1 SBS plate, Cat.               References
+                                                                                                    www.Hamptonresearch.com
+             No. HR1-002 (We recommend                                                              Gilson Inc.: www.gilson.com
+             using this type of plate. One plate         Cornuéjols D (2009) Biological
+                                                                                                    Sigma-Aldrich:
+             costs about US$3.)                           crystals: at the interface between
+                                                                                                    www.sigmaaldrich.com
+                                                          physics, chemistry and biology.
+          · Crystal Clear Sealing Tape (5 cm),            Science in School 11: 70-76.
+             Cat. No. HR4-511
+                                                          www.scienceinschool.org/2009/           Resources
+                                                          issue11/crystallography                 Abad-Zapatero C (2002) Crystals and
+                                                                                                   Life: A Personal Journey. La Jolla, CA,
+                                                         Web references                            USA: International University Line.
+                                                         w1 – Additional information about         ISBN: 978-0972077408
+                   This article provides a                the 1962 Nobel laureates in chem-       Here are some recommended
+                   good introduction to the               istry and their pioneering work can      protocols for growing non-protein
+                   study of protein crystals              be found on the website of the           crystals with younger students:
+                   by X-ray diffraction. As               Nobel Prize Committee:                    www.msm.cam.ac.uk/
+                   such, it provides an inter-            http://nobelprize.org/nobel_prizes        phase-trans/2002/crystal/a.html
+                   esting     comprehension               /chemistry/laureates/1962/
+                                                                                                    www.waynesthisandthat.com/
+                   exercise for biology,                 w2 – The Swiss National Center of          crystals.htm
+                   chemistry and physics –                Excellence in Research (NCCR)
+                                                                                                  http://chemistry.about.com/od/
+                                                          Structural Biology is a consortium
+                   showing       good     links                                                     growingcrystals/
+                                                          of scientists dedicated to the eluci-
+                   between the three sci-                                                           Growing_Crystals.htm
+                                                          dation of structure-function rela-
+                   ences. It can be used to
+                                                          tionships of membrane proteins and
+                   discuss how to look at the             supra-molecular complexes:
+                   very small, and why we                 www.structuralbiology.uzh.ch              Beat Blattmann is a chemist in
+                   need to study things at this                                                   charge of the high-throughput
+                                                           Selected research highlights can be
+                   level. The article also pro-            found here:                            crystallisation facility at the NCCR
+                   vides good background                                                          Structural Biology. This system allows
+                                                           www.structuralbiology.uzh.ch/
+                   reading for teachers who                                                       5000 crystallisation conditions to be
+                                                           research004.asp
+                   are not aware of the use of                                                    tested per day.
+                                                         w3 – New structures of biological
+                   diffraction as an analytical                                                     Patrick Sticher has a PhD in micro-
+                                                          macromolecules (proteins and
+                   tool.                                  nucleic acids) are deposited in the     biology. He is the scientific officer of
+                   The practical looks like it            Protein DataBank (PDB). The             the NCCR and is responsible for
+                   will take a little time to set         website offers a number of interest-    education, technology transfer and
+                   up and obtain results, but             ing teaching resources:                 programme coordination.
+                   the offer of having the                 www.pdb.org
+         REVIEW
+
+
+
+
+                   results analysed at a uni-              Another valuable resource for
+                   versity gives it a different            protein information is:
+                   dimension to other practi-              www.proteopedia.org
+                   cals.
+                                                         w4 – To download and install Skype,
+                          Mark Robertson, UK              see: www.skype.com
+
+
+
+        36    Science in School Issue 11 : Spring 2009                                                              www.scienceinschool.org
+

@@ -1,0 +1,379 @@
+THEJOURNAL    OF BIOLOGICAL  CHEMISTRY                                                                Vol . 267:, No. 27, Issue of September 25, pp. 19596-19599,1992
+0 1992 by The American Society for Biochemistry and Molecular Biology, Inc.                                                                          Printed in U.S.A.
+
+
+
+Neurocalcin: a Novel Calcium-binding Protein from Bovine Brain*
+                                                                                                             (Received for publication, April 18, 1992)
+
+                Motomu Terasawa, Akio Nakano, Ryoji Kobayashi, and Hiroyoshi Hidaka3
+                From the Department of Pharmacology, Nagoya University School of Medicine, Tsurumai 65, Showa-ku, Nagoya 466, Japan
+
+
+
+  A novel calcium-binding protein (molecular weight          Calmodulin antagonists, such as W-7l [N-(6-aminohexyl)-
+23,000-24,000, PI 5.3-5.5), which we term neuro- 5-chloro-l-naphthalenesulfonamide)],             are useful tools for elu-
+calcin, was identified in bovine brain. Using calcium- cidating the physiological function of calmodulin and other
+dependent drug affinity chromatography ((S)-P-(2- calcium-binding proteins (Endo et al., 1981; Tanaka et al.,
+aminoethyloxy)-N-[2-(4-benzyloxycarbonylpipera-1984;Hidaka and Tanaka, 1985;Umekawa et al., 1985).We
+zinyl)-l-(P-methoxybenzyl)ethyl]-N-methylbenzene- reported that W-7 interacted with calmodulin ina Ca2’-
+sulfonamide dihydrochloride, W-77, -coupled Sepha- dependent manner and inhibited Ca2’/calmodulin-dependent
+rose 6B), we purified neurocalcin from bovine brain. enzymes such as cyclic nucleotide phosphodiesterase (Hidaka
+The partial amino acid sequence of neurocalcin re- et al., 1978) and myosin light chain kinase (Hidaka et al.,
+vealed itto be an as yet unidentified protein with three 1980).W-7-coupled Sepharose can be used for purification of
+putative calcium binding sites (EF-hands). Further pu- S-100protein from bovine tissues (Endo et al., 1981).In the
+rification and sequence analysis demonstrated the present study we attempted to purify Ca2+-bindingproteins
+presence of four isoprotein forms designated CY,    8, yl, of the EF-hand motif using a newly synthesized calmodulin
+and 7 2 . When the 165 sequenced residues of neuro- antagonist, W-77 ((S)-P-(2-aminoethyloxy)-N-[2-(4-benzy-
+calcin are compared with sequences of other proteins, loxycarbonylpiperazinyl)-l-(P-methoxybenzyl)ethyl]-N-
+neurocalcin 8 has a 38.2% sequence homology with methylbenzene sulfonamidedihydrochloride) coupled to
+visinin and 45.5%with recoverin(Yamagata, K., Goto, Sepharose. A novel Ca2+-binding protein, neurocalcin, was
+K., Kuo, C.-H., Kondo, H., and Miki, N. (1990) Neuron purified from a bovine brain homogenate using the affinity
+2,469-476; Dizhoor, A. M., Ray, S., Kumar, S., Niemi, column. Comparison of the partial amino acid sequence of
+G., Spencer, M., Brolley, D., Walsh, K.A., Philipov, P. neurocalcin with known protein sequences revealed that it is
+P., Hurley, J. B., and Stryer, L. (1991) Science 251, a newly identified Ca2+-binding protein with at least three
+915-918). Both visinin and recoverin are expressed         putative EF-hand domains.
+specifically in retinal photoreceptors and are not found
+in brain. Unlike visinin and recoverin, neurocalcin is                     EXPERIMENTALPROCEDURES
+purified not only from retina but also from bovine           Materials-W-77 was synthesized by the method of Hidaka et al.
+brain. Our results suggest that neurocalcin is a recov- (1984). The coupling of W-77 to epoxy-activatedSepharose6B
+erin-like protein expressed inbovine brain.                (Pharmacia LKBBiotechnology Inc.) was carried out as described by
+                                                                                 Endo et al. (1981).
+                                                                                    Purification of Neurocalcin-All steps, except affinity chromatog-
+                                                                                 raphy on a W-77-coupled Sepharose 6B column, were performed at
+                                                                                 4 “C. Bovine brain obtained from a local slaughterhouse was homog-
+   It is generally accepted that intracellular calcium-binding                   enized for 2 min with a mixer in 4 volumes of 40 mM Tris-HC1, pH
+proteins play a critical and central role in various biological                  7.5, containing 2 mM EGTA. The homogenate was centrifuged at
+events as a initial step of the calcium messenger system. A                      20,000 X g for 30 min, and the supernatantfluid was filtered through
+                                                                                 glass wool. To this filtrate, CaCL and NaCl were added at final
+class of calcium-binding proteins exhibits general structural                    concentrations of 1 mM and 0.5 M, respectively, and the solution was
+principles, the so-called EF-hand structures,which are pres-                     centrifuged at 20,000 X g for 30 min. The supernatant obtained was
+ent in multiple forms and bind calcium selectively with high                     applied to a W-77-coupled Sepharose 6B column (3 X 4.5 cm) equil-
+affinity (Kretsinger, 1980).A consensus amino acid sequence                      ibrated with a solution containing 1 mM CaC12, 0.5 M NaCl, and 40
+                                                                                 mM Tris-HC1, pH 7.5, at room temperature, and then the column
+for this motif has aided the identification of new members of                    was washed with 1 liter of the same solution. Bound proteins were
+this family of EF-hand proteins, which now has about 170                         eluted from the W-77-Sepbarose column with a solution containing
+members (Heizmann and Hunziker, 1991). Calmodulin is                             5 mM EGTA, 0.5 M NaC1, and 40 mM Tris-HCI, pH 7.5. Further
+present in most cells, but most other calcium-binding proteins                   purification steps are described under “Results.”
+are expressed in acell type-specific manner (Celio, 1990).The                       Analytical Methods-Tricine-SDS-PAGEwas performed according
+                                                                                 to the method of Schagger and von Jagow (1987). The isoelectric
+cell type-specific pattern of expression of different calcium-                   point was measured by isoelectric focusing gel electrophoresis (Amph-
+binding proteins in the central nervous system suggests that                     oline Pagplate, pH 3.5-9.5 from Pharmacia). Protein concentration
+these proteins maybe responsible for different regulatory                        was determined by the method of Bradford (1976) using bovine serum
+roles within the cell. However, except for calmodulin, the                       albumin as a standard.
+                                                                                    Analytical gel filtration was performed on a TSK G 3000SW HPLC
+exact biological functions and thetarget proteins of EF-hand
+proteins remain unknown.
+                                                                                     The abbreviations used are: W-7, [N-(6-aminohexyl)-5-chloro-l-
+                                                                                 naphthalenesulfonamide)]; W-77, (S)-P-(2-aminoethyloxy)-N-[2-(4-
+   * The costs of publication of this article were defrayed in part by           benzyloxycarbonylpiperazinyl)-l-(P-methoxybenzyl)ethyl]-N-meth-
+the payment of page charges. This article must therefore be hereby               ylbenzenesulfonamide dihydrochloride; EGTA,      [ethylenebis(ox-
+marked “aduertisement” in accordance with 18 U.S.C. Section 1734                 yethylenenitri1o)ltetraacetic acid; Tricine, N-[2-hydroxy-l,l-bis(hy-
+solely to indicate this fact.                                                    droxymethyl)ethyl]glycine; SDS, sodium dodecyl sulfate;PAGE,
+   $ To whom all correspondence should be addressed. Tel.: 52-741-               polyacrylamide gel electrophoresis; HPLC, high performance liquid
+2111; Fax: 52-733-4774.                                                          chromatography.
+
+                                                                              19596
+                                                Neurocalcin:A Novel Calcium-binding Protein                                                 19597
+column (TOSOH) equilibrated with      50 mM sodium phosphate buffer,
+pH 7.0, containing 0.1 M NaCI. The following proteins were used as
+molecular mass markers; bovine serum albumin (67 kDa), ovalbumin
+(43 kDa), andribonuclease A (14 kDa).
+   Detection of calcium binding by"Ca autoradiography was per-
+formed accordingto Maruyamaet al. (1984). Aftergel electrophoresis,                                                               CKCN I
+                                                                                                                                       .
+                                                                                                                                       /
+                                                                                                                                       .)
+proteins were blotted on a nitrocellulose membrane using a semidry
+blot method. After transfer, thenitrocellulose membrane was washed                                                                50
+with a buffer containing 60 mM KCI, 10 mM imidazol, pH 6.8, 5 mM
+MgCI, for 40-60 min withtwo changes of the buffer. Then the
+membrane was incubated in the samebuffer containing 45Ca(0.5 Ci/
+mmol; Amersham Corp.) for 5 min a t room temperature. Finally the
+membrane waswashedwithdistilled
+exposed to Kodak X-Omat x-ray filmsfor48h
+                                         water for 5 min, dried, and
+                                                     a t -80 "Cusing
+                                                                                                                       .   Smin
+                                                                                                                                  0
+
+
+intensifying screens. The stoichiometry of Ca2+ binding neurocalcin
+                                                            to
+was measured by means of equilibrium dialysis, using a microdialysis
+cell(Crouch and Klee, 1980). Free Ca'+ concentration wasvaried
+with Ca''-EGTA buffer, adopting the apparent binding constant of
+8.45 X lo5      (Harafujiand Ogawa, 1980).
+   Proteolytic digestion of neurocalcin p was performed with Staph-
+ylococcus aureus protease (V8 protease) (Takara Shuzo) and Achro-
+rnobacter lyticus protease I (lysyl endopeptidase) (Wako) for 4 h a t
+37 "C. Proteases were added at a ratio of 1:20 (w/w) V8 protease/
+neurocalcin, and a t a ratio of 1:50 (w/w) lysyl endopeptidase/neuro-
+calcin, respectively. Neurocalcin a, yI, and y2 were separated in
+Tricine-SDS-PAGE and electroblotted onto a nitrocellulose mem-
+brane and were digested with lysyl endopeptidase at an enzyme to
+substrate ratio of 1:20 (w/w), as described (Aebersold et al., 1987).
+Protelytic fragments were separated by a CIR reverse phase column                                OM   yr   '   1   ~   B
+(STR ODS-M,4.6 X 150 mm) on Shimadzu HPLC system (LC4A)
+with a linear gradient of0-60% CH&N in the presence of 0.1%                FIG. 2. A, separation of neurocalcinisoproteins by CIR reverse
+trifluoroacetic acid for 60 min. The protein sequence of each proteo-   phase column chromatography.The pooled neurocalcin fractions
+lytic fragment was analyzed by an Applied Biosystems 473A Protein       from the W-77-Sepharose affinity column were applied to a C1R
+Sequencer.                                                              reverse phase column. B, neurocalcin isoproteins were identified by
+                                                                        SDS-PAGE. The peak I protein was calmodulin (CaM).The peak I1
+                              RESULTS                                   protein was designated neurocalcin y2. The peak 111 included neuro-
+                                                                        calcin CY (23 kDa) and y1 (24 kDa), and the peak IV protein was
+  Purification of Ca2+-binding Proteins from Bovine Brain-              designated neurocalcin p.
+The initial stepof purification of Ca2+-bindingproteins from
+bovine brain was performed by Ca2+-dependentaffinity chro-              The second peak is neurocalcin yz, the third neurocalcin a
+matography on a Sepharose6B column coupled with synthetic               (lower band)and y, (upper band),whereas the fourthpeak is
+compound, W-77 (see "Experimental Procedures"). Fractions               neurocalcin p.
+of 6 ml were collected, and their absorption at 280 nm was                 Tissue Distribution of Neurocalcin in Various Bovine Tis-
+monitored. The elution profile from the W-77-Sepharose (Fig.            sues-Extracts from bovine brain, retina, heart, lung, aorta,
+1) showed a single peak. SDS-PAGE of the EGTA-eluted                    and spleen were applied to W-77-Sepharose 6B columns (0.8
+fraction revealed that the two major components (23 and 24              x 4.5 cm) according to the same method as described under
+kDa, neurocalcin) and a minor component (17 kDa, calmod-                "Experimental Procedures." As shown in Fig. 3A, EGTA-
+ulin) were eluted in this fraction.About 0.5 mg of Ca2+-                elutable protein peaks were observed when extracts from brain
+binding proteinswas obtained from 130 g of bovine brain. In             or retina were applied to the columns. We obtained 20 pg of
+the next step, the fraction obtained was applied to a CIS               proteins from 8 g of bovine retina. Fig. 3B shows an SDS-
+reverse phase column (4.6 x 150 mm) and eluted    with a linear         PAGE patternof the isolated proteins stainedwith Coomassie
+gradient of 25-65% CH&N (acetonitrile) in the presence of               Brilliant Blue. When the proteins from the retina were ex-
+0.1% trifluoroacetic acid. As shown in Fig. 2 A , four protein          amined on SDS-PAGE, 26-, 24-, and a small amount of 23-
+peaks (I-IV) were observed in the elution profile. Fractions            kDa proteins were visible in the fractions. These results
+corresponding to the protein peaks were subjected to SDS-               suggest that neurocalcin is not a brain-specific protein and
+PAGE (Fig. 2 B ) . Calmodulin was eluted as the first peak.             that neurocalcin or retinal-type isoproteins may be expressed
+                                                                        in retina. Although the 26-kDa protein is not yet identified,
+                    I           koa                                     it may be recoverin. No proteins were detected on SDS-PAGE
+                                   >-
+                                                                        when respective extracts from heart, lung, aorta, and spleen
+                                   I-                                   were applied to the columns.
+                                   I-                                      Physicochemical Properties and Ca2+Binding Ability-An-
+                                   !-    ""
+                                                                        alytical gel filtration of neurocalcin isoproteins on a TSK G
+                                                                        3000SW HPLC column revealed a molecular weight of 23,000.
+                                                                        The isoelectric focusing of neurocalcin isoproteins yielded
+                                                                        three isoelectric bands pH 5.3-5.5. To determine whether
+                                                                        neurocalcin binds Ca", the neurocalcin isoproteins were sub-
+                          5      10      15      20
+                                                                                                                    to
+                                                                        jected to SDS-PAGE and transferreda nitrocellulose       mem-
+                              Fractton number                           brane. The membrane was incubated in a buffer containing
+                                                                        45Ca. As shown in Fig. 4, all neurocalcin isoproteins were
+   FIG. 1. W-77-Sepharose affinity chromatography of neu-               labeled with 45Ca.Calmodulin was used as control and is seen
+rocalcin. The extract from bovine brain was applied to the W-77-
+Sepharose column.Bound proteins were eluted with an EGTA-               in lane a. Equilibrium dialysis showed that 1 mol of neuro-
+containing buffer. Fractions of 6 ml were collected. The inset shows    calcin p bound to 0.138 f 0.023 mol of Ca2+in the presence
+a n SDS-polyacrylamide gel run with 10 pl of the 4th-10th fractions.    of       M Ca2+. Once neurocalcin        was separated by CIS
+19598                                         Neurocalcin:Calcium-binding
+                                                           A Novel
+                                                                Protein
+A                                                 B
+    0.05   I          -                               kDa
+                                                               a    b
+                                                                                    A
+                               0 brain
+                                                        97-
+                                                        66-
+                                                        43-
+                                                        31-
+                                                        22-
+                                                        14-
+                                                              --
+       0 1 '
+                           5                 10
+                                                                                        0.32
+                               Fraction number
+  FIG. 3. W-77-Sepharose 6B column chromatography of
+various bovine tissues. The EGTA extract from bovine various
+tissues (brain, retina, heart,lung, aorta, and spleen) was applied to a
+W-77-Sepharose affinity column. Details of the condition are de-
+scribed under "Experimental Procedures." Fractions of 1 ml were
+collected, and their absorption a t 280 nm was monitored. The EGTA-
+elutable protein peak was observed when the EGTA extract from
+brain or retina was applied to each column ( A ) (brain, 0,retina, W).
+The protein peak was not observed when the EGTA extract from
+heart, lung, aorta, or spleen was applied to each column. B, SDS-
+polyacrylamide gel electrophoresis of 3 pg of the third fraction pro-
+teins from retina (lane a ) and 3 pg of neurocalcin from brain ( l a n e
+b).
+                                                                            LAPEVLEDLV QNTEFYEQEL KQLYKCFLKD CPACILNLEE FQQLYIKFFP YCDAXKFAQH
+
+                      A                  B                                  ___
+                                                                            L-2         I" " 1                    L-7                                                          L-9
+                                                                                                                                              """ I I
+                          a b c da b c d                                    "
+                                                                                                                                                  I- v4 I                                            I
+               kDa
+                                                                            AFRTFDKNCD CTIDFLEFIQ ALSVTDRCXF EQKLNWAFEM YDLDGDCRIT RLEMLEIIEA
+                97-
+                66.                                                                                      L-5
+                                                                            -I "I                                                       I        I--     L4                I
+                43-                                                         "
+                                                                            -                                v-7
+                31.
+                                                                            IYKMVCTVIM MRMNQDCLTP QQRVDKIFKK MDPDKDDQIT LEEFK
+                22-
+                14-                                                                                  I                 11                   11           31           41             51
+                                                                           DVISIOI~                         REVLQILRM
+                                                                                                     IGISRSSALS
+                                                                                                                  . . . . . .'IRITKIILSR
+                                                                                                                                  . . . .WECIQRQCS
+                                                                                                                                             . .                . . . . .
+                                                                                                                                                       . . RIYO*tIP*S
+                                                                                                                                                      DGRIRCDEIE
+
+                                                                                                                  LA .PIVLIDLVQI
+                                                                            I.YI.OC.Icln         1                               . . . . . LYUGrLKDCP
+                                                                                                                  . . . . . . 'IEIYEQILKQ             . .. .. .. .. ..QLYIKIIPYG
+                                                                                                                                           . . . . . .AGILWLdEIQ       .. ..
+  FIG. 4. Binding of 46Cato 2 pg of neurocalcin isoproteins                 Resor.rlm                IGIISKSCILS
+                                                                                                             KEILEELQW                      'IKPTIKKLSS W Q S I L K E C P SCRITRQEIQ 'IIYSKIIPEA
+(lanes b, yz; lanes c, y, and a;lanes d , B), 1.5 pg of calmodulin
+(lanes a). A , blot stained with Amido Black. B, blot probed with                                    61         71         81                  91         111         111
+
+45Ca.
+                                                                            VISIDlO
+                                                                                                              . . . . . . . . . . . . . . . . . . . . . . . .. .. ..
+                                                                                                     KPQCYARHVI RSIDTRDDCT L D I R t l I I A L HLTSSCKTHL KLEIAISLIDVDRffiEVSKS
+
+                                                                            neUr06alcIn 1
+                                                                                                     . . . . . . . . . . . . . . .. .. .. ..S V..T..D R..G..X .W. ..U .W.A.I E.M .Y-.D. LDGDGRITRL
+                                                                                                     D A X K I A Q WR W D U I C D G TI D I U I I Q A L
+                                                                                                                                                                                        ..
+                                                                            ReCOI.rIm                DPKATAQHVI RS?DANSDG'I LDIKIYVIAL l a l T S A G R * Q KLEVAIBLYD VDGffi'IISU*
+reverse phase column chromatography, neurocalcin was
+likely to be insoluble in buffer solution. This insolubility of                                      I11                131                 141        151        161           111
+neurocalcin 0 prevented us from determining the exact dis-                  V1.l.ID                  KVLIIITAIIKIIIPIIIRLQ                  LPEDMISPQK RADKLVATt* K C m K I U C EIIDCRIKND
+
+sociation constant of neurocalcin with Ca2+.
+   Partial Sequence Determination-Partial amino acid se-
+quence analysis was performedwith purified neurocalcin iso-
+                                                                                                     181        1Yl                         101
+proteins. Since the amino termini of the isoproteins were                   v1.1.1.                  AIHRLIQTIP KK
+blocked, the proteins were digested with proteases prior to                 I.arocalc1n          1
+Edman sequencing. Neurocalcin0was digested with V8 pro-                     R.cow.rln                I I U L I Q W P QKVKIKLKIK KL
+tease or lysyl endopeptidase, and the peptides were separated
+using a Cl8 reverse phase column (Fig. 5, A and B ) . Aligned                 FIG. 5. Analytical HPLC peptide maps of neurocalcin B di-
+sequences of overlapping peptide fragments of neurocalcin 0                gested with lysyl endopeptidase ( A ) and V 8 protease ( B ) .
+                                                                           Digested samples (120 pgof neurocalcin j3)were applied to Clereverse
+are shown in Fig. 5C. A search of the National Biochemical                 phase column and eluted with a linear gradient of 0-60% CHICN in
+Research Foundation data base and the Swiss-Prot data base                 the presence of 0.1% trifluoroacetic acid. The flow rate was 1 ml/
+revealed neurocalcin to be a newly identified protein. The                 min. Eluted peptides were monitored at 215 nm. C,the partial amino
+partial amino acid sequence of neurocalcin 0 was compared                  acid sequence of neurocalcin j3 determined by Edman degradation is
+with sequences of known calcium-bindingproteins (Fig. 5 0 ) .              given in single letter code. The peptide fragments from neurocalcin j3
+There was 38.2% homologyto visinin and 45.5%to recoverin,                  are denoted according to their isolation either by lysyl endopeptidase
+                                                                           cleavage ( L )or V8 protease cleavage ( V ) .D, comparison of the amino
+two recently described calcium-binding proteins (Yamagata                  acid sequences among neurocalcin j3, visinin, and recoverin. Amino
+et al., 1990; Dizhoor et al., 1991). Accordingto criteria defined          acids identical to those of neurocalcin j3 are indicated by a colon (:).
+by Kretsinger (1980), there are three potential Ca2+-binding               Three calcium binding loops of neurocalcin 0 are underlined.
+EF-hands in the neurocalcin 0sequence (Fig.50, underlined).
+   Neurocalcin a, yl,and y2 were subjected to SDS-PAGE,
+                                         Neurocalcin: A Novel
+                                                   Calcium-binding
+                                                          Protein                                                                             19599
+                                                  Neurocalcina       LAPEVMEDLV KSTEFNEAEL K
+                                                             B       LAPEVLEDLV QNTEFYEQEL KQLYKGFLKD GPAGILNLEE FQQLYIKFFP YGDAXKFAQH
+                                                             Y1      LWEVLQDLR
+                                                                            ENTEFTDHEL LSLEE
+                                                                                    QEXYK FIKIYHNFFP
+                                                                                                  YGDHSK
+
+                                                             Y2   YGDAXK
+                                                                   IYANFFP
+                                                                   LEPEVLQDLR
+                                                                     ENTEFTDAEL
+                                                                       QEXYK
+  FIG. 6. Partial amino acid se-
+quences of neurocalcin isoproteins.
+Intact isoproteinscouldnot         be se-         Neurocalclna                                                    LNWAFNM YDLDGDGKIT PVEMLEIIEA
+quenced directly because of their modi-                      B       AFRTFDKNGD GTIDFLEFIQ ALSVTDRGXF EQKLNWAFEM YDLDGDGRIT RLEMLEIIEA
+fied amino termini. Instead, neurocalcin                     Y1                                          WAFSM YDLDGNGYIX RXEMLXIVQA
+CY,yl, a n d y2 were digested with lysyl                                                                                                   AEMLEIVQA
+endopeptidase. The amino acid sequence
+                                                             r2
+of obtained fragments is aligned with  the
+corresponding sequenceof neurocalcin 8.           Neurocalclna       IYK
+
+                                                              B      IYKMVGTVIM MRMNQDGLTP QQRVDKIFKK MDQDKDDQIT LEEFK
+                                                             Yl      IYK
+                                                             YZ      IYK
+
+
+
+electroblotted onto nitrocellulose membranes, and incubated           high Ca2+ concentration(Tokumitsu et al., 1991). On the
+with lysyl endopeptidase at a 1:20 (w/w) enzyme to substrate          other hand, neurocalcin bound to the W-77-coupled epoxy-
+ratio. Peptides were separated by reverse phase column chro-          activated Sepharose at a lowered Ca2+ concentration. The
+matography and sequenced. Comparison of the sequences of              reason neurocalcin bound to theW-77 column more efficiently
+the obtainedfragments from each isoprotein with the se-               than other Ca2+-binding proteins in brain (calmodulin or S-
+quence of neurocalcin @ revealed that neurocalcin is composed         100) remains unclear. However, the possibility exists that the
+of four distinct buthighly homologous isoproteins (Fig. 6).           nature of the affinity matrix might play an important role in
+                                                                      neurocalcin binding to theW-77-epoxy-Sepharose. The Ca2+-
+                           DISCUSSION                                 dependent affinity chromatographic isolation procedure pre-
+   We purified a novel Ca2+-binding protein, termed neuro-            sented here provides a rapid purification procedure for neu-
+calcin, by a simple affinity chromatographic procedure and            rocalcin and appears to be most effective when a small amount
+demonstrated that the protein shared extensive homology               of starting material is available. Furthermore, W-77 and its
+with retinal photoreceptor-specific Ca2+-binding proteins,    vis-    derivatives may be useful tools for elucidating the biological
+                                                                      functions of neurocalcin.
+inin andrecoverin. Recoverin is present in bothrod and cone
+photoreceptors and activatesguanylate cyclase when free                                                REFERENCES
+calcium is lowered from 450 to 40 nM (Dizhoor et al., 1991).          Aebersold, R. H., Leavitt, J., Saavedra, R. A., Hood, L. E., and Kent, S. B. H.
+                                                                        (1987)Proc. Natl. Acad. Sci. U. S. A . 84,6970-6974
+It is 59% identical to visinin, a cone-specific Ca2+-binding          Barraclough, R., Savin, J., Dube, S. K., and Rudlland, P. S. (1987)J. Mol. Biol.
+protein from chicken retina(Hatakenaka              et al., 1983;       198.13-20
+                                                                      Bradford, M. M. (1976)Anal. Biochem. 72,248-254
+Yamagata et al., 1990). According to thetheory of Kretsinger          Calabretta, B., Battini, R., Kaczmarek, L., de Riel, J. K., and Baserga, R. (1986)
+(1980), neurocalcin has at least three potential Ca2+binding            J. Biol. Chem. 261.12628-12632
+                                                                      Celio, M. R. (1990)Ai,uroscience 36, 375-475
+sites like the EF-hands incalbindin, troponin C, and calmod-          Crouch, T. H., and Klee, C. B. (1980)Biochemistry 19,3692-3698
+ulin. These correspond to the consensus sequence of the EF-           Dizhoor, A. M., Ray, S., Kumar, S., Niemi, G., Spencer, M., Brolley, D., Walsh,
+                                                                        K. A,, Philipov, P. P., Hurley, J. B., and Stryer, L. (1991)Science 261,915-
+hand structure, which consists of29 amino acid residues                    918
+arranged in a helx-loop-helix conformation. The structural            Endo, T., Tanaka, T., Isobe, T., Kasai, H., Okuyama, T., and Hidaka, H. (1981)
+                                                                        J. Biol. Chem. 266,12485-12489
+similarity among these proteins suggests that neurocalcin may         Ferrari, S., Calabretta, B., de Riel, J. K., Battini, R., Ghezzo, F., Lauret, E.,
+be a Ca2+-sensitive  regulator of the neural signal transduction         Griffin, C., Emanuel, B. S., Gurrieri, F., and Baserga, R. (1987)J. Biol. Chem.
+                                                                         262.8325-8332
+                                                                               ,  ~~~~ ~ . "
+system.                                                               Go<O,-K., Endo, H., and Fujiyoshi, T. (1988)J. Biochem. (Tokyo) 103,48-53
+                                                                      Harafuji, H., and Ogawa, Y. (1980)J. Biochem. (Tokyo)87,1305-1312
+   Our results demonstrated the presence of four isoprotein           Hatakenaka, S., Kuo, C.-H., and Miki, N. (1983)Deu. Brain Res. 10,155-163
+forms of neurocalcin, a,@,   yl,and 7 2 . From the facts that (i)     Heizmann, C. W., and Hunziker, W. (1991)Trends Biochem. Sci. 16,98-103
+                                                                      Hidaka, H., and Tanaka, T. (1985)in Calmodulin Antagonists and Cellular
+the isoprotein forms could be partially separated by Cls re-            Physiology (Hidaka, H., and Hartshorne, D. J., eds) pp. 13-23,Academic
+                                                                                                                                 "
+
+
+verse phase column chromatography and (ii) the partial     amino         Press, New York
+                                                                      Hidaka, H., Yamaki, T., Asano, M., and Totsuka, T. (1978)Blood Vessels 16,
+acid sequences of the isoproteins revealed a high degree of             55-64
+sequence homology, we distinguished these four isoproteins.           Hidaka, H., Yamaki, T., Naka, M., Tanaka, T., Hayashi, H., and Kobayashi,
+                                                                         R. (1980)Mol. Pharmacal. 17,66-72
+   Recently, using a drug affinity chromatographic technique,         Hidaka, H., Inagaki, M., Kawamoto, S., and Sasaki,Y. (1984)Biochemistry 23,
+we identified members of the S-100 protein family, calcyclin            5036-5041
+                                                                           ~~~~   ~~~~
+
+
+
+
+                                                                      Jackson-Grusby, L. L., Swiergiel, J., and Linger, D. I. H. (1987)Nucleic Acids
+(a product of growth-regulated gene calcyclin or 2A9                    Res. 16,6677-6690
+                                                                      Kretsinger, R. H. (1980)CRC Crit. Reu. Biochem. 8,119-174
+(Calabretta et al., 1986; Ferrari et al., 1987)) from rabbit lung     Maruyama, K., Mikawa, T., and Ebashi, S. (1984)J. Biochem. (Tokyo) 96,
+(Tokumitsu et al., 1991), calvasculin (an encoded protein from          511-519
+                                                                      Masiakowski, P., and Shooter, E. M. (1988)Proc. Natl. Acad. Sci. U. S. A. 86,
+mRNA pEL98 (Goto et al., 1988), 18A2 (Jackson-Grusby et                 1277-1281
+al.,1987), 42A (Masiakowski and Shooter, 1988), or p9kA               Sch" ger, H , and von J a ow G (1987)Anal. Biochem. 166, 368-379
+                                                                      T a n x a , T.; Umekawa, %.,'Ohmura, T., and Hidaka, H. (1984) Biochim.
+(Barraclough et al., 1987)) from bovine aorta (Watanabe et              B ~ O D ~ActaV S .787. 158-164
+al.,1991), and a novel Ca2+-binding protein,calgizzarin, from         Todoioki, H., Kobayashi, R., Watanabe, M., Minami, H., and Hidaka, H. (1991)
+                                                                        J. Biol. Chem. 266, 18668-18673
+chicken gizzard and rabbit lung (Todoroki et al., 1991). The          Tokumitsu, H., Kobayashi, R., and Hidaka, H. (1991)Arch. Biochem. Biophys.
+essential method for purification of neurocalcin from bovine            "-,~ 9n9-9n7
+                                                                        3    s ',",
+                                                                      Umekawa, H., Naka, M., Inagaki, M., and Hidaka, H. (1985)in Calmodulin
+brain was hydrophobic chromatography on a Sepharose 6B                 Antagonists and Cellular Physiology (Hidaka, H., and Hartshorne,D. J., eds)
+                                                                       pp. 511-524,Academic Press, New York
+coupled with a newly synthesized compound, W-77. Interest-            Watanabe, Y., Kobayashi, R., Ishikawa, T.,and Hidaka, H. (1992)Arch.
+ingly, calmodulin and calcyclin from rabbit lung bound to the          Biochem. Biophys. 292,563-569
+                                                                      Yamagata, K., Goto, K., Kuo, C.-H., Kondo, H., and Miki, N. (1990)Neuron
+W-77-coupled cyanogen bromide-activatedSepharose at a                  2,469-476
+

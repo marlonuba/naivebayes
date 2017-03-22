@@ -1,0 +1,624 @@
+                                                     International Journal for Parasitology 36 (2006) 47–56
+                                                                                                                                  www.elsevier.com/locate/ijpara
+
+
+
+
+                 Phytomonas serpens: cysteine peptidase inhibitors interfere
+                       with growth, ultrastructure and host adhesion
+           Andre´ L.S. Santos *, Claudia M. d’Avila-Levy, Felipe A. Dias, Rachel O. Ribeiro,
+           Fernanda M. Pereira, Camila G.R. Elias, Thaı¨s Souto-Padro´n, Angela H.C.S. Lopes,
+                    Celuta S. Alviano, Marta H. Branquinha, Rosangela M.A. Soares
+            Departamento de Microbiologia Geral, Instituto de Microbiologia Prof. Paulo de Go´es (IMPPG), Centro de Cieˆncias da Sau´de (CCS),
+               Universidade Federal do Rio de Janeiro (UFRJ), Ilha do Funda˜o, Cidade Universita´ria, Rio de Janeiro, RJ, 21941-590, Brazil
+                                Received 12 July 2005; received in revised form 8 September 2005; accepted 9 September 2005
+
+
+
+Abstract
+   In this study, we report the ultrastructural and growth alterations caused by cysteine peptidase inhibitors on the plant trypanosomatid
+Phytomonas serpens. We showed that the cysteine peptidase inhibitors at 10 mM were able to arrest cellular growth as well as promote alterations
+in the cell morphology, including the parasites becoming short and round. Additionally, iodoacetamide induced ultrastructural alterations, such as
+disintegration of cytoplasmic organelles, swelling of the nucleus and kinetoplast–mitochondrion complex, which culminated in parasite death.
+Leupeptin and antipain induced the appearance of microvillar extensions and blebs on the cytoplasmic membrane, resembling a shedding process.
+A 40 kDa cysteine peptidase was detected in hydrophobic and hydrophilic phases of P. serpens cells after Triton X-114 extraction. Additionally,
+we have shown through immunoblotting that anti-cruzipain polyclonal antibodies recognised two major polypeptides in P. serpens, including a
+40 kDa component. Flow cytometry analysis confirmed that this cruzipain-like protein has a location on the cell surface. Ultrastructural
+immunocytochemical analysis demonstrated the presence of the cruzipain-like protein on the surface and in small membrane fragments released
+from leupeptin-treated parasites. Furthermore, the involvement of cysteine peptidases of P. serpens in the interaction with explanted salivary
+glands of the phytophagous insect Oncopeltus fasciatus was also investigated. When P. serpens cells were pre-treated with either cysteine
+peptidase inhibitors or anti-cruzipain antibody, a significant reduction of the interaction process was observed. Collectively, these results suggest
+that cysteine peptidases participate in several biological processes in P. serpens including cell growth and interaction with the invertebrate vector.
+q 2005 Australian Society for Parasitology Inc. Published by Elsevier Ltd. All rights reserved.
+
+Keywords: Phytomonas serpens; Trypanosomatids; Cysteine peptidase inhibitors; Peptidases; Cell surface; Growth; Cellular interaction; Ultrastructural alterations;
+Cruzipain
+
+
+1. Introduction                                                                    Phytomonas to distinguish them from trypanosomes isolated
+                                                                                   from animals (Donovan, 1909).
+   Trypanosomatids are flagellate parasites with a wide range                          The plant flagellates inhabit the phloem (phloemicola), latex
+of hosts including insects, mammals, plants and other protists.                    (lacticola), flowers (floricola) and fruits (fructicola) of many
+Plant trypanosomatids are parasites of several families of                         plant families (Dollet, 1984; Camargo et al., 1990; Camargo,
+plants with a wide geographical distribution, being present in                     1999). In many cases, this parasitism exists without any
+South America, Africa, Europe and Asia (Dollet, 1984;                              apparent pathogenicity (Cunha et al., 2000). However, these
+Camargo et al., 1990). Infection of plants with trypanosomatids                    flagellates have attracted attention because they can be
+has been known since 1909 (Lafont, 1909). Immediately after                        responsible for significant economic losses in agriculture. For
+their discovery, Donovan proposed the generic name                                 instance, phloem-dwelling phytomonads cause acute and
+                                                                                   chronic yellowing of leaves in coffee plants, ‘hartrot’ in
+                                                                                   coconut palms and ‘marchitez wilt’ in oil palms, while the
+                                                                                   latex-associated Phytomonas franc¸ai causes ‘chochamento das
+ * Corresponding author. Tel.:C55 21 2562 6740; fax: C55 21 2560 8344.             raı´zes’ (empty roots) in manioc (reviewed by Camargo, 1999).
+   E-mail address: andre@micro.ufrj.br (A.L.S. Santos).                            These parasites are transmitted by phytophagous hemipteran
+0020-7519/$30.00 q 2005 Australian Society for Parasitology Inc. Published by Elsevier Ltd. All rights reserved.
+doi:10.1016/j.ijpara.2005.09.004
+48                                  A.L.S. Santos et al. / International Journal for Parasitology 36 (2006) 47–56
+
+insects of the families Coreidae, Lygaeidae, Pyrrhocoridae and               2.2. Microorganisms and culture conditions
+Pentatomidae (Camargo, 1999). In addition, a recent report
+showed that Phytomonas serpens, a tomato parasite, shares                       Phytomonas serpens (isolate 9T; CT-IOC-189), isolated
+antigens with Trypanosoma cruzi, which were strongly                         from tomato (Lycopersicon esculentum), was provided by Dr
+recognised by human sera from patients with Chagas’ disease,                 Maria Auxiliadora de Sousa (Colec¸a˜o de Tripanosomatı´deos,
+and induced a protective immunity in BALB/c mice (Bregano´                   Instituto Oswaldo Cruz, Rio de Janeiro). The plant flagellate
+et al., 2003).                                                               was grown in 50 ml Erlenmeyer flasks containing 20 ml of
+   The functionally diverse cysteine peptidases of various                   brain heart infusion (BHI) medium, pH 7.4, at 26 8C (Santos
+pathogens have received special attention as potential targets               et al., 2002). The flagellate T. cruzi (Dm28c strain) is part of
+for chemotherapeutic intervention because they play important                our laboratory collection, and epimastigote forms were
+roles in facilitating the survival and growth of the parasites in            cultured in liver infusion trypticase (LIT) medium, for 72 h
+hosts (Sajid and McKerrow, 2002). For instance, our research                 at 26 8C (Souto-Padro´n et al., 1990). Both culture media were
+group demonstrated that cysteine peptidases are preferentially               supplemented with 10% (v/v) heat-inactivated FCS.
+expressed in virulent as opposed to avirulent Leishmania
+amazonensis promastigotes (Soares et al., 2003). Additionally,               2.3. Effects of CPIs on the growth rate
+Leishmania mexicana null mutants for the multicopy cysteine
+peptidase gene family lmpcb have their infectivity to                           The experiments were performed in 10!100 mm glass
+macrophages reduced by 80% and produced subcutaneous                         tubes containing 1 ml of BHICFCS medium. The inoculum
+lesions in BALB/c mice at a slower rate than wild-type                       consisted of 10% (v/v) of a 48 h culture containing about 2.0!
+parasites (Mottram et al., 1996). Proteolytic inhibitor                      106 P. serpens cells. All CPIs (antipain, cystatin, leupeptin,
+compounds are an interesting alternative to facilitate the                   E-64 and iodoacetamide) were dissolved in water at 1 mM, and
+cost-effective development of new anti-parasitic chemotherapy                then filter-sterilised in 0.22 mm membranes (Millipore). The
+(Selzer et al., 1999; Cazzulo et al., 2001). In this sense, cysteine         parasites were grown at 26 8C for periods ranging from 24 to
+peptidase inhibitors (CPIs) have been shown to kill T. cruzi                 96 h, in the absence or presence of each peptidase inhibitor at
+(Ashal et al., 1990; Franke de Cazzulo et al., 1994),                        10 mM. Alternatively, parasites grown for 48 h in the presence
+Trypanosoma congolense (Mbawa et al., 1992), Trypanosoma                     of each peptidase inhibitor were washed five times in cold PBS
+brucei (Troeberg et al., 1999), Leishmania major (Selzer et al.,             (150 mM NaCl, 20 mM phosphate buffer, pH 7.2) prior to
+1999) and Trichomonas vaginalis (Irvine et al., 1997).                       resuspension in a drug-free fresh medium and allowed to grow
+   In the present work, the susceptibility of P. serpens to a                for another 48 h. Cellular growth was estimated daily by
+panel of five different CPIs was determined by analyzing their               counting the flagellates in a Neubauer chamber (Santos et al.,
+effects on the cellular growth pattern, on the ultrastructural               2003).
+level and on the adhesion index to explanted salivary glands of
+the phytophagous insect Oncopeltus fasciatus. In addition, the               2.4. Effects of CPIs on the ultrastructure of the flagellates
+cellular proteolytic profile was analysed including the
+relationship of P. serpens proteins to cruzipain, the major                     Control and CPI-treated phytomonads were grown for 48 h
+cysteine peptidase from T. cruzi (reviewed by Cazzulo et al.,                at 26 8C, collected by centrifugation for 15 min at 1500!g at
+2001).                                                                       4 8C, washed three times with PBS and fixed for 2 h with 1.5%
+                                                                             glutaraldehyde and 4% paraformaldehyde in 0.05 M cacody-
+2. Material and methods                                                      late buffer pH 7.2 containing 1 mM CaCl2. The cells were then
+                                                                             rinsed in cacodylate buffer and postfixed for 1 h in a solution
+2.1. Chemicals                                                               containing 1% osmium tetroxide and 0.8% potassium
+                                                                             ferricyanide in 0.1 M cacodylate buffer pH 7.2 supplemented
+   Media constituents, reagents used in electrophoresis, buffer              with 1 mM CaCl2. After being rinsed in the same buffer, the
+components, nitrocellulose membrane and reagents for                         parasites were dehydrated in graded acetone and embedded in
+chemiluminescence detection were purchased from Amersham                     Epon resin. Ultrathin sections were stained with uranyl acetate
+Life Science (Little Chalfont, England). Low molecular mass                  and lead citrate and observed in a Zeiss Em-900 transmission
+standards were acquired from GIBCO BRL (Grand Island, NY,                    electron microscope operating at 80 kV (Souto-Padro´n et al.,
+USA). Dithiothreitol (DTT), gelatin, all proteolytic inhibitors              1990).
+(antipain, cystatin, leupeptin, trans-epoxysuccinyl L-leucy-
+lamido-(4-guanidino) butane [E-64], iodoacetamide, 1,10-                     2.5. Detergent extraction of proteins
+phenanthroline and phenyl-methyl sulfonyl-fluoride [PMSF])
+and the secondary antibodies were purchased from Sigma                          Phytomonas serpens cells (1.0!108) were harvested as
+Chemical Co. (St Louis, MO, USA). The anti-cruzipain                         described before and then lysed in 200 ml of 2% (w/v)
+polyclonal antibody was a gift from Dr Juan-Jose Cazzulo                     precondensed Triton X-114 in TBS (150 mM NaCl, 10 mM
+(Instituto de Investigaciones Biotecnologicas, Universidad                   Tris, pH 7.4) in a vortex by alternating 1 min shaking and 2 min
+Nacional de General San Martin, Buenos Aires, Argentina).                    cooling intervals. Insoluble material was precipitated (10,
+All other reagents were analytical grade.                                    000!g for 30 min at 4 8C) and the supernatant was incubated
+                                    A.L.S. Santos et al. / International Journal for Parasitology 36 (2006) 47–56                         49
+
+at 37 8C to induce detergent phase separation. After centrifu-               2.8. Immunoblotting assay
+gation for 15 min at 10,000!g at 25 8C, the complete
+separation of the detergent-rich and the aqueous phases was                     Samples containing cellular extracts (equivalent to 1.0!107
+achieved. The separated phases were washed three times with                  cells) were added to SDS-PAGE sample buffer and mixed with
+TBS and 5% Triton X-114, respectively. Alternatively, the                    10% (v/v) b-mercaptoethanol, followed by heating at 100 8C
+washing steps were omitted, the hydrophilic/hydrophobic                      for 5 min. Thereafter, protein extracts were separated in 12%
+interface was discharged and each phase was supplemented                     SDS-PAGE and the polypeptides electrophoretically trans-
+with 10 mM 1,10-phenanthroline and 1 mM PMSF (Bran-                          ferred at 4 8C at 100 V/300 mA for 2 h to a nitrocellulose
+quinha et al., 1996). To obtain total cellular protein extracts,             membrane. The membrane was blocked in 5% (w/v) low-fat
+1.0!108 cells were resuspended in 30 ml of PBS and lysed by                  dried milk in TBS containing 0.5% Tween 20 (TBS/Tween) for
+the addition of 70 ml of SDS-PAGE sample buffer (125 mM                      1 h at room temperature. Then, membranes were washed three
+Tris, pH 6.8, 4% SDS, 20% glycerol and 2% bromophenol                        times (10 min each) with the blocking solution and incubated
+blue) (Santos et al., 2003).                                                 with the anti-cruzipain polyclonal antibody at 1:1000 dilution
+                                                                             in TBS/Tween for 2 h. The secondary antibody used was
+                                                                             peroxidase-conjugated goat anti-rabbit Fc at 1:2500 followed
+2.6. Gelatin-SDS-PAGE
+                                                                             by immunodetection by chemiluminescence (d’Avila-Levy
+                                                                             et al., 2005).
+   Peptidases were assayed and characterised by electrophor-
+esis on 10% SDS-PAGE with 0.1% co-polymerised gelatin as
+                                                                             2.9. Flow cytometry analysis
+substrate (Heussen and Dowdle, 1980). The gels were loaded
+with the equivalent to 1.0!107 cells per slot and following
+                                                                                Parasites (1.0!107 cells) used for these experiments were
+electrophoresis at a constant voltage of 200 V at 4 8C they were
+                                                                             fixed at 4 8C in 2% (v/v) paraformaldehyde in PBS (pH 7.2) for
+soaked for 1 h at 25 8C in 2.5% Triton X-100. The gels were
+                                                                             30 min, followed by extensive washing in the same buffer.
+then incubated for 72 h at 37 8C in 50 mM sodium phosphate
+                                                                             Alternatively, the fixed cells were permeabilised by 0.01%
+buffer, pH 5.5, supplemented with 2 mM DTT in the absence
+                                                                             (v/v) Triton X-100 in PBS for 15 min at room temperature and
+and in the presence of 10 mM E-64. The gels were stained for
+                                                                             then washed twice in PBS. The fixed and/or permeabilised cells
+1 h with 0.2% Coomassie brilliant blue R-250 in methanol-
+                                                                             maintained their morphological integrity, as verified by optical
+acetic acid-water (50:10:40) and destained in the same solvent
+                                                                             microscopic observation. After this step, the cells were
+(d’Avila-Levy et al., 2005). The molecular mass of the
+                                                                             incubated for 1 h at room temperature with a 1:250 dilution
+peptidases was calculated by comparison with the mobility of
+                                                                             of rabbit anti-cruzipain polyclonal antibody and then incubated
+low molecular mass standards.
+                                                                             for an additional hour with a 1:250 dilution of fluorescein
+                                                                             isothiocyanate (FITC)-labeled goat anti-rabbit IgG. Finally,
+2.7. Effects of proteolytic inhibitors on cysteine                           these cells were washed three times in PBS and examined in a
+peptidase activity                                                           fluorescence-activated cell sorter (FACS) FACSCalibur (BD
+                                                                             Bioscience, USA) equipped with a 15 mW argon laser emitting
+   Parasites (1.0!107 cells) were incubated for 30 min at                    at 488 nm. Untreated cells and those treated only with the
+37 8C with each CPI at a final concentration of 10 mM in 500 ml              secondary antibody were used as controls. The mapped
+of PBS supplemented with 18.5 mg/100 ml BHI. The cells                       population (nZ10,000) was then analysed for log green
+were then washed three times in cold PBS, resuspended in                     fluorescence by using a single-parameter histogram.
+500 ml of PBS and disrupted by sonication lysis at 4 8C
+following centrifugation at 5000!g for 10 min. The super-                    2.10. Immunocytochemistry
+natants obtained correspond to the parasite cellular extracts.
+For assaying proteolytic activity, gelatin (0.5 mg/ml), 8 mM                    The parasites cultured for 48 h in the absence or presence of
+DTT and 50 mg of the parasite cellular extract were added to a               10 mM leupeptin were collected by centrifugation, washed
+microcentrifuge tube (350 ml) and incubated in 50 mM                         twice in PBS and fixed in a solution containing 0.1%
+phosphate buffer (pH 5.5) for 2 h at 26 8C. After this                       glutaraldehyde, 2% formaldehyde in 0.1% cacodylate buffer,
+incubation, three 100 ml aliquots of the reaction mixture were               pH 7.2. After 1 h fixation, cells were washed in PBS,
+transferred to wells on a microtiter plate containing 50 ml of               dehydrated in methanol and embedded in Lowicryl K4M
+water and 100 ml of a Coomassie brilliant blue solution                      resin at K20 8C. Ultrathin sections were collected in nickel
+(0.025% Coomassie brilliant blue G-250, 11.75% ethanol and                   grids and incubated in 0.1 M TBS followed by a 15 min
+21.25% phosphoric acid). After 10 min to allow dye binding,                  incubation in 50 mM ammonium chloride. After three
+the plate was read on a Molecular Devices Thermomax                          washings in TBS, the grids were incubated with the rabbit
+microplate reader at an absorbance of 595 nm. The results were               anti-cruzipain antibody diluted at 1:50 in TBS, 1% BSA, 1%
+expressed as the relative percentage of activity of each CPI-                Tween 20 (TBSBT). Grids were washed three times in TBSBT
+treated parasite cellular extract subtracted from the activity of a          and subsequently incubated with gold-labeled goat anti-rabbit
+non-treated cellular extract (Buroker-Kilgore and Wang,                      IgG (15 nm, dilution 1:10) for 60 min. Ultrathin sections were
+1993).                                                                       stained with uranyl acetate and lead citrate and observed in
+50                                A.L.S. Santos et al. / International Journal for Parasitology 36 (2006) 47–56
+
+a Zeiss ETM 10 C transmission electron microscope (TEM)                    P. serpens with different patterns of inhibition (Fig. 1A). For
+(Souto-Padro´n et al., 1990).                                              instance, leupeptin, antipain, cystatin and E-64 promoted a
+                                                                           significant reduction on the cellular growth rate by approxi-
+2.11. Influence of CPIs and anti-cruzipain on the                          mately 50% after 72 h, while iodoacetamide-treated parasites
+P. serpens-salivary glands interaction                                     showed the strongest toxic effect, since this inhibitor
+                                                                           completely arrested P. serpens replication (Fig. 1A).
+    Adult O. fasciatus (Hemiptera: Lygaeidae) from the original               All drugs had a reversible effect on P. serpens growth since
+colony established by Dr N. Ratcliffe (Swansea University,                 parasites that were transferred to a drug-free fresh medium
+UK) were a gift of Dr Alexandre Romeiro (Instituto de                      were still capable of normal development, except for flagellates
+Biofı´sica Carlos Chagas Filho, UFRJ, Brazil). The insects were            pre-treated with iodoacetamide, which even after 2 days of re-
+kept at room temperature in plastic pitchers and fed with peeled           cultivation showed no increase in the cell number (Fig. 1B).
+and toasted sunflower seeds and distilled water (Romeiro et al.,           Corroborating these results, optical microscopy observations
+2000). The parasites (1.0!107 cells) were incubated for                    showed lysis of promastigote cells after treatment of the
+30 min at 26 8C with antipain, iodoacetamide, leupeptin,                   parasites with 10 mM iodoacetamide for 48 h (Fig. 1A, inset c).
+cystatin and E-64 at a final concentration of 10 mM in 500 ml              The drastic reduction of P. serpens growth induced by
+of PBS supplemented with 18.5 mg/100 ml BHI. Alternatively,                iodoacetamide showed to be concentration-dependent
+the same number of parasites was treated for 1 h with anti-                (Fig. 1B, inset).
+cruzipain antibody (1:1000 and 1:2500) and with an irrelevant
+antibody (1:1000) (kindly provided by Dr Marcio L.                         3.2. Effects of CPIs on the ultrastructure of P. serpens
+Rodrigues, Universidade Federal do Rio de Janeiro, Brazil).
+The viability of the organisms throughout the experiment was                  All the CPIs at 10 mM, except for E-64, promoted some
+assessed by mobility, trypan blue dye exclusion and by                     alterations on the cell morphology at optical microscopy level
+monitoring lactate dehydrogenase, an intracellular enzyme, in              such as the flagellates becoming short and round after treatment
+the supernatant from the incubation systems (d’Avila-Levy et               with antipain, cystatin and leupeptin (a representative image is
+al., 2005). The cells were then washed three times in cold PBS,            shown in Fig. 1A, inset b). Therefore, we carried out a study of
+resuspended in PBS (5.0!106 cells in 100 ml) and added to                  the cell morphology by ultrastructural analysis of P. serpens
+dissected salivary glands (10 per group). The parasites were               following treatment of the flagellates with the CPIs at 10 mM
+allowed to bind for 1 h at room temperature in PBS. After the              for 48 h (Fig. 2). The normal morphology and the ultrastructure
+interaction period the salivary glands were extensively washed             of the cellular membranes and organelles in a P. serpens
+with PBS, individually transferred to microcentrifuge tubes                promastigote form is shown for comparison (Fig. 2A). The
+containing 50 ml of PBS and homogenised (Fampa et al., 2003).              inhibitors E-64 and cystatin did not promote any detectable
+The released trypanosomatids were counted in a Neubauer                    alteration at the ultrastructural level of P. serpens (data not
+chamber. The results are shown as the meanGstandard error of               shown). However, antipain promoted the appearance of
+the mean (SEM) of three experiments.                                       discrete microvillar extensions of the cell surface membrane
+                                                                           (Fig. 2D), while leupeptin-treated flagellates showed micro-
+2.12. Statistical analysis                                                 villar projections all over the cell surface membrane (Fig. 2C)
+                                                                           and, in some cells, these projections were detected specifically
+   The experiments were performed in triplicate, in three                  in the flagellar pocket region (Fig. 2B), the site where
+independent experimental sets. The data was analysed                       endocytosis and exocytosis take place in trypanosomatids. In
+statistically by means of Student’s t-test. Alternatively, the             some cases, blebs detaching from the entire cell surface were
+analysis of variance between groups was made by means of                   observed, indicating a shedding of the parasite surface
+ANOVA test using EPI-INFO 6.04 (Database and Statistics                    (Fig. 2C). The parasites treated with 10 mM iodoacetamide
+Program for Public Health) computer software. P-values of                  showed the most severe morphological alterations, resembling
+0.05 or less were considered statistically significant.                    a necrotic cell with disintegration of cytoplasmic organelles
+                                                                           and nucleus, as well as swelling of the kinetoplast-mitochon-
+                                                                           drion complex (Fig. 2E).
+3. Results
+                                                                           3.3. Partition of P. serpens cellular peptidases
+3.1. Effect of CPIs on the cellular growth rate                            after Triton X-114 extraction
+
+   Five different CPIs (antipain, cystatin, E-64, iodoacetamide               The cell-associated proteolytic profile of P. serpens
+and leupeptin) were added to replicating P. serpens promas-                comprised two major bands migrating at 40 and 38 kDa
+tigote forms as a single dose, as previously determined by other           (Fig. 3A, lane 1). The analysis of the cellular peptidases after
+studies (Bonaldo et al., 1991; Engel et al., 1998; Franke de               Triton X-114 extraction showed that both peptidases partitioned
+Cazzulo et al., 1994; Harth et al., 1993; Troeberg et al., 1999;           in the aqueous phase (Fig. 3A, lane 2). However, a very faint
+Santos et al., 2003) and the cellular growth was monitored for             band was detected in the hydrophobic phase (Fig. 3A, lane 3).
+4 days. Our results showed that all CPIs arrested the growth of            In an attempt to improve the detection of this
+                                                                 A.L.S. Santos et al. / International Journal for Parasitology 36 (2006) 47–56                                      51
+
+
+                                A                        7
+                                                                  (a)                                                                          control cells
+                                                                                                                                               cystatin
+                                                         6                                                                                     leupeptin
+                                                                                                                                               E-64
+                                                                  (b)                                                                          antipain
+                                                         5
+                                                                                                                                               iodoacetamide
+                                Number of cells x 107
+                                                         4
+                                                                  (c)
+
+                                                         3        10 µm
+
+
+
+                                                         2
+
+
+                                                         1
+
+
+                                                         0
+                                                             0                               24                   48                 72                   96
+
+                                B                       16
+                                                                          100
+
+                                                        14                       80
+                                                                  % of control
+
+
+
+
+                                                                                 60
+                                                        12
+                                                                                 40
+                                Number of cells x 107
+
+
+
+
+                                                        10                       20
+
+                                                                                  0
+                                                         8                            10    1     0.1 0.01 0.001 0.0001
+                                                                                           Iodoacetamide [µM]
+
+                                                         6
+
+
+                                                         4
+
+
+                                                         2
+
+
+                                                         0
+                                                                                                                  48                                      96
+                                                                                                                 Time (hours)
+
+Fig. 1. Effect of different cysteine peptidase inhibitors (CPIs) on the growth rate of Phytomonas serpens. (A) Growth pattern of P. serpens when cultivated at 26 8C in
+the absence (control cells) or in the presence of CPIs (cystatin, leupeptin, E-64, antipain and iodoacetamide). The insets show the phase-contrast images of control
+P. serpens (picture labeled (a) or cells treated with leupeptin (b) and iodoacetamide (c). For simplicity, the image of the parasite treated with E-64, which did not
+show any morphological alterations, and the images of the flagellates treated with antipain or cystatin, which are similar to the parasites treated with leupeptin, are
+not shown. (B) Mechanism of CPI action. The parasites were grown in the absence or in the presence of CPIs for 48 h, then harvested, washed and transferred to fresh
+drug-free medium, followed by incubation for additional 2 days (total of 96 h). The inset shows the effect of different concentrations of iodoacetamide on the growth
+rate of P. serpens cultivated in brain heart infusion supplemented with FCS at 26 8C for 48 h. Data shown are meansGstandard deviations of three independent
+experiments, which were performed in triplicate and analysed using Student’s t-test (P!0.05 were considered statistically significant).
+
+
+membrane-associated proteolytic activity, we performed a                                                               suggested that both proteolytic activities were cysteine
+detergent extraction avoiding the washing steps after the                                                              peptidases, based on their entire inhibition by E-64 (Fig. 3C).
+detergent phase separation. The hydrophilic/hydrophobic inter-
+face was discharged in order to prevent contamination of both                                                          3.4. Effect of peptidase inhibitors on the parasite
+phases and metallo and serine peptidase inhibitors were added to                                                       cysteine peptidases
+each sample immediately after the separation of the phases. This
+procedure improved the detection of the 40 kDa component in                                                               The five CPIs used in the present study inhibited P. serpens
+the detergent-rich phase (Fig. 3B, lane 3). The inhibition profile                                                     cysteine peptidases by approximately 90%. The residual
+52                                         A.L.S. Santos et al. / International Journal for Parasitology 36 (2006) 47–56
+
+
+
+
+Fig. 2. Effect of cysteine peptidase inhibitors on the ultrastructural morphology of Phytomonas serpens. Parasites were cultivated for 48 h in the absence (A) or in the
+presence of the following cysteine peptidase inhibitors at 10 mM: leupeptin (B–C), antipain (D) and iodoacetamide (E). Arrows in C indicate the microvillar
+extension on the cell surface membrane; arrowheads in B indicate the small membrane fragments suggesting a shedding of the parasite surface; asterisk in E indicates
+the swelling of the kinetoplast and large arrow indicates disintegration of nuclear membrane. n, nucleus; k, kinetoplast and f, flagellum.
+
+activity of the proteolytic activity was 9.0, 7.0, 10.0, 9.0 and                      The anti-cruzipain strongly recognised a 50 kDa polypeptide in
+10.0% after treating live parasites with cystatin, leupeptin, E-                      the epimastigote forms of T. cruzi, which was included as a
+64, antipain and iodoacetamide, respectively, at 10 mM for                            positive control (data not shown). Two major polypeptides (38
+30 min.                                                                               and 40 kDa) from P. serpens were recognised by the anti-
+                                                                                      cruzipain polyclonal antibodies through western blotting
+                                                                                      analysis (Fig. 4, inset a). Curiously, one of them was
+3.5. Detection of a cruzipain-like molecule in P. serpens
+                                                                                      partitioned in the P. serpens membrane-rich fraction (Fig. 4,
+   Phytomonas serpens produced a 40 kDa cysteine peptidase
+that possesses similar biochemical properties with cruzipain,                               256
+the major cysteine peptidase produced by T. cruzi. To explore                                                                     40
+this fact, we verified the possible immunological cross-                                                                          38
+
+reactivity between P. serpens and cruzipain from T. cruzi.                                                                   b1
+                                                                                                                                        (a)       (b)     (c)
+                                                                                            Cell count
+
+
+
+
+          A                     B                      C                                                           a              2     c
+                                                                                                                                              3
+     97
+     66
+
+
+     45
+                                                                                                         0
+     30                                                                                                      100       101                  102                 103
+                                                                                                                       Fluorescence intensity
+              1    2      3         1      2     3          1     2     3
+                                                                                      Fig. 4. Flow cytometric analysis showing the anti-cruzipain antibody binding to
+Fig. 3. Proteolytic enzymes in Phytomonas serpens cells analysed on gelatin-          Phytomonas serpens. Paraformaldehyde-fixed cells were permeabilised (3) or
+SDS-PAGE. Fractions: total cellular extract (1), hydrophilic (2) and                  not (1, 2) with Triton X-100, to permit the access of the antibody to the
+hydrophobic (3) phases after Triton X-114 extraction. The Triton X-114                intracellular environment of the parasite cells. These cells were subsequently
+extraction was performed according to Branquinha et al. (1996) (A), or adapted        incubated in the absence (1) or in the presence (2, 3) of anti-cruzipain antibody
+to enhance the detection of hydrophobic peptidases, as described under                as described under Section 2 and then analysed by flow cytometry. The inset
+Section 2 (B, C). Gel strips were incubated for 72 h at 37 8C in 50 mM sodium         demonstrates the reactive polypeptides detected in the total cellular extract (a),
+phosphate, pH 5.5, supplemented with 2 mM dithiothreitol in the absence (A,           hydrophilic (b) and hydrophobic (c) fractions of P. serpens through western
+B) and in the presence of 10 mM E-64 (C). The numbers on the left indicate            blotting analysis using anti-cruzipain antibody. The numbers on the left
+relative molecular mass markers expressed in kilodaltons.                             indicate the relative molecular masses expressed in kilodaltons.
+                                           A.L.S. Santos et al. / International Journal for Parasitology 36 (2006) 47–56                                           53
+
+inset c). Corroborating these results, flow cytometric analysis                      3.7. Effect of CPIs and anti-cruzipain on
+showed cruzipain-like molecules on the cell surface of                               the P. serpens-salivary glands interaction
+P. serpens promastigotes (Fig. 4). Moreover, a significant
+augment in the fluorescence intensity was observed when                                  Based on the effects of CPIs on P. serpens, we tested the
+P. serpens cells were previously permeabilised with Triton                           influence of these inhibitors on the interaction of P. serpens
+X-100, showing that cruzipain-like molecules were preferen-                          with O. fasciatus salivary glands in vitro. The parasites
+tially located in cytoplasmic compartments (Fig. 4), which is in                     maintained their viability after treatment for 30 min with each
+agreement with Triton X-114 extraction (Fig. 3).                                     CPI at 10 mM as judged by their mobility, trypan blue dye
+                                                                                     exclusion (in which more than 99% of the parasites were
+3.6. Immunocytochemistry                                                             viable) and by the absence of lactate dehydrogenase, an
+                                                                                     intracellular enzyme, in the supernatant from the incubation
+   Phytomonas serpens promastigote forms were immuno-                                systems (data not shown). After incubation of P. serpens
+cytochemically labeled with anti-cruzipain antibodies associ-                        promastigotes with explanted salivary glands of adult O.
+ated with colloidal gold and analysed by TEM. The results                            fasciatus, many parasites were seen adhered to the salivary
+showed a faint labeling of the membrane lining the cell body                         glands by their flagella (data not shown). Parasites pre-treated
+and the flagellum (Fig. 5A). Gold particles could be also                            with the CPIs showed a significant reduction (P!0.05) in their
+observed in the cytoplasm of the parasite (Fig. 5A). A similar                       capacity to adhere to the salivary glands (Fig. 6A), especially
+labeling pattern was observed in the CPIs-treated parasites                          after treatment with iodoacetamide (P!0.01) at 10 (Fig. 6A)
+(data not shown). Shedding of cytoplasmic membrane                                   and 1 mM (Fig. 6A, inset). Similarly, pre-treatment of parasites
+associated with cysteine peptidase was observed in CPIs-                             with anti-cruzipain antibody at 1:1000, a concentration that did
+treated P. serpens. Representative images of cell surface,                           not promote parasite agglutination, also considerably dimin-
+intracellular labeling and release of membrane fragments (from                       ished the interaction process (Fig. 6B). To test the anti-
+leupeptin-treated parasites) are shown in the Fig. 5B–E.                             cruzipain antibody specificity, an irrelevant antibody and
+
+
+
+
+Fig. 5. Electron microscopy immunocytochemical analysis of Phytomonas serpens. Thin sections of untreated (control) (A) and leupeptin-treated (B–E)
+promastigotes of P. serpens were incubated in the presence of anti-cruzipain (1:50) and subsequently in the presence of gold-labeled antibodies. Faint labeling of the
+membrane enclosing the cell body and the flagellum as well as throughout the cytoplasm was evident (A). Gold particles were also detected in cell surface and in
+intracellular compartment (B) as well as in membrane fragments detached from leupeptin-treated parasites (arrows in C–E). k, kinetoplast and f, flagellum. Bar:
+4 mm.
+54                                          A.L.S. Santos et al. / International Journal for Parasitology 36 (2006) 47–56
+
+
+                 A                                                                              of phytopathogenic microorganisms can cleave antimicrobial
+                                                                 80
+                                                                                                proteins of plants and rapidly degrade their cell wall proteins
+
+
+
+
+                                                (% of control)
+     iodoacetamide
+
+
+
+
+                                                 Interaction
+                                                                 60
+                                                                 40
+                                                                                                (reviewed by Mosolov et al., 2001).
+          antipain                                               20
+                                                                                                    Phytomonas serpens promastigote cells synthesised two
+                                                                  0                             cysteine peptidases of 38 and 40 kDa active at acidic pH (5.5).
+                                                                        1 0.1 0.01 0.001
+              E-64                                                                              These activities were mainly detected in the hydrophilic
+                                                                      Iodoacetamide [µm]
+                                                                                                fraction after Triton X-114 extraction, suggesting a cyto-
+         leupeptin
+                                                                                                plasmic location. Cysteine peptidases are frequently detected
+                                                                                                in acidic cytoplasmic compartments, mainly lysosome or
+           cystatin
+                                                                                                lysosome-like organelles, in a vast number of trypanosomatids
+            control                                                                             (Souto-Padro´n et al., 1990; Branquinha et al., 1996; Coombs
+                                                                                                and Mottram, 1997; Sajid and McKerrow, 2002). On the other
+                                                                                                hand, cysteine peptidase activity associated to cell surface is
+                      0          10            20                        30                40
+                                                                                                well characterised in T. cruzi by biochemical and ultra-
+                                Protozoa x 103 / salivary glands
+                                                                                                structural methodologies (Souto-Padro´n et al., 1990; Coombs
+                                                                                                and Mottram, 1997; Cazzulo et al., 2001). Here, we
+                 B
+                                                                                                demonstrated that the 40 kDa cysteine peptidase was also
+     irrelevant IgG                                                                             partitioned in the detergent fraction, showing a probable
+     anti-cruzipain                                                                             interaction with membrane domains. Flow cytometry and
+           (1:2500)                                                                             ultrastructure immunocytochemical analyses corroborated this
+     anti-cruzipain                                                                             result. Recent evidence suggests that membrane-bound
+           (1:1000)                                                                             peptidases are multifunctional proteins. It has become clear
+            control                                                                             that non-catalytic effects of membrane-bound peptidases are
+                                                                                                also of great importance in some biological regulations,
+                                                                                                including signal transduction and adhesion (Sedo et al., 1996).
+                      0          10            20                         30               40
+                                                                                                    A number of sophisticated studies have been conducted on
+                                Protozoa x 103 / salivary glands
+                                                                                                trypanosomatid cysteine peptidases because they are potential
+Fig. 6. Effect of cysteine peptidase inhibitors and anti-cruzipain antibody in the              drug targets. For instance, CPIs interfere with the differen-
+interaction process between Phytomonas serpens and explanted salivary glands                    tiation of T. cruzi (Fanke de Cazzulo et al., 1994), T. brucei
+of Oncopeltus fasciatus. The parasites (1.0!107 cells) were treated for 30 min                  (Muttomba and Wang, 1998) and Herpetomonas samuelpes-
+at 26 8C with antipain, iodoacetamide, leupeptin, cystatin and E-64 at a final                  soai (Santos et al., 2003), are active against Leishmania
+concentration of 10 mM (A) or incubated for 1 h with the anti-cruzipain or an
+irrelevant antibody (B). The viability of the parasites was not affected by the
+                                                                                                growing intracellularly in vitro (Mottram et al., 1996; Selzer
+treatments used in this set of experiments. Following interaction with salivary                 et al., 1999; Mahmoudzadeh-Niknam and McKerrow, 2004),
+gland cells, the released trypanosomatids were counted in a Neubauer chamber.                   block Plasmodium falciparum invasion of host cell erythro-
+The results are shown as the meanGSEM. of three independent experiments.                        cytes (Greenbaum et al., 2002) and interfere with Entamoeba
+The treatment with iodoacetamide at 10 mM significantly inhibited parasite                      hystolytica trophozoite adhesion, thus making amoebas
+adhesion. The inset in A shows the percentage of adhesion after treatment for
+30 min of parasite cells with different iodoacetamide concentrations. Parasites                 deficient in substrate degradation and cell damage (Franco
+treated with CPIs and anti-cruzipain antibody at 1:1000 dilution had an                         et al., 1999). The CPIs used in our experiments arrested the
+adhesion index significantly different from untreated (control) cells using                     promastigote growth of P. serpens. E-64 showed the weakest
+ANOVA test (*, P!0.05, and **, P!0.01).                                                         effect on the plant trypanosomatid growth. This strong cysteine
+a higher dilution of anti-cruzipain were pre-incubated with                                     inhibitor is thought to be unable to cross membranes and so is
+parasites and the interaction process was very similar to that                                  likely to be denied access to many cell compartments (Bonaldo
+obtained with non-treated parasites (Fig. 6B).                                                  et al., 1991). However, it may be taken up by fluid phase
+                                                                                                endocytosis and so enter lysosomes/phagosomes and inhibit
+                                                                                                the peptidases within those compartments (Irvine et al., 1997).
+4. Discussion                                                                                       In our study, we detected some peculiar alterations in the
+                                                                                                cell morphology of plant flagellates when treated with CPIs
+   Plant-associated microorganisms play essential roles in                                      (exception for E-64), such as cells becoming round and short.
+agriculture and food safety as well as contribute to the                                        Ashall et al. (1990) and Troeberg et al. (1999) reported a
+environmental equilibrium (Mosolov et al., 2001). Phytopatho-                                   similar phenomenon and postulated that it indicates osmotic
+genic microorganisms produce, in addition to other enzymes,                                     stress caused by peptidase inhibition, although such changes
+active peptidases. In certain cases, a correlation was found                                    could also be the consequence of disruptions of the intracellular
+between the activity of the phytopathogen peptidases and the                                    scaffolding of the proteins (Fuchs and Cleveland, 1998).
+severity of the host plant disease. Proteolytic enzymes not only                                Therefore, the killing activity of these CPIs suggests that a
+supply the parasites with peptides and amino acids required for                                 cysteine peptidase is required for the viability of plant
+their growth and development, they also play important roles in                                 trypanosomatid flagellates. Iodoacetamide showed the most
+crossing the plant protective barriers. For instance, peptidases                                profound effects on the parasite growth rate, suggesting
+                                   A.L.S. Santos et al. / International Journal for Parasitology 36 (2006) 47–56                                         55
+
+irreversible metabolic injury. These results were corroborated              P. serpens including cellular growth and interaction with the
+by observations of the lysis of promastigote cells.                         invertebrate vector.
+    Some of the CPIs (antipain and leupeptin) caused major
+alterations of the cellular membrane (including the flagelar                Acknowledgements
+pocket region) in P. serpens cells, but no abnormalities were
+noted in the Golgi complex or other intracellular organelles of                The authors thank Celina Monteiro Abreu for her technical
+P. serpens when treated with cystatin, leupeptin, antipain and              assistance. The authors are indebted to Dr. Juan-Jose Cazzulo
+E-64. Since at least one cysteine peptidase activity (40 kDa)               for donating the valuable anti-cruzipain antibody. This work
+was identified on the cell surface of P. serpens, we postulated             was supported by grants from the Brazilian Agencies:
+that the shedding of the cell surface membrane detected in                  Fundac¸a˜o Universita´ria Jose´ Bonifa´cio (FUJB), Financiadora
+parasites treated with leupetin and antipain could be a defense             de Estudos e Projetos (FINEP), Conselho Nacional de
+mechanism from the parasites, which released the complex of                 Desenvolvimento Cientı´fico e Tecnolo´gico (CNPq), Conselho
+cysteine peptidase bound to the inhibitor to the extracellular              de Ensino para Graduados e Pesquisa (CEPG/UFRJ) and
+environment for neutralising the cysteine peptidase inhibitor               Fundac¸a˜o de Amparo a` Pesquisa do Estado do Rio de Janeiro
+effects. This hypothesis was corroborated by the ultrastructure             (FAPERJ).
+immunocytochemical analysis, which showed the presence of
+the cruzipain-like protein on the cell surface and in small
+                                                                            References
+membrane fragments released by the parasites. Mechanisms
+previously associated with decreased sensitivity or resistance              Ashall, F., Harris, D., Roberts, H., Healy, N., Shaw, E., 1990. Substrate
+to chemotherapy in parasitic protozoa include decreased drug                   specificity and inhibitor sensitivity of a trypanosomatid alkaline peptidase.
+uptake, increased export of drugs, decrease in drug activation,                Biochim. Biophys. Acta 1035, 293–299.
+and alterations of the target enzyme to decrease drug-binding               Bonaldo, M.C., D’Escoffier, L.N., Salles, J.M., Goldenberg, S., 1991.
+(Borst and Ouellette, 1995). Conversely, iodoacetamide                         Characterization and expression of protease during Trypanosoma cruzi
+                                                                               metacyclogenesis. Exp. Parasitol. 73, 44–51.
+destroyed the parasite cellular structure, leading to a complete            Borst, P., Ouellette, M., 1995. New mechanisms of drug resistance in parasitic
+disruption of nuclear and kinetoplast chromatin, followed by                   protozoa. Annu. Rev. Microbiol. 49, 426–460.
+cell lysis.                                                                 Branquinha, M.H., Vermelho, A.B., Goldenberg, S., Bonaldo, M.C., 1996.
+    The involvement of cysteine peptidases of P. serpens in the                Ubiquity of cysteine- and metalloproteinase activities in a wide range of
+interaction with explanted salivary glands of the phytophagous                 trypanosomatids. J. Eukaryot. Microbiol. 43, 131–135.
+                                                                            Bregano´, J.W., Pica˜o, R.C., Grac¸a, V.K., Menolli, R.A., Jankevicius, S.I.,
+insect O. fasciatus was also observed in experiments using
+                                                                               Filho, P.P., Jankevicius, J.V., 2003. Phytomonas serpens, a tomato parasite,
+CPIs and anti-cruzipain antibody. Our results indicate that all                shares antigens with Trypanosoma cruzi that are recognized by human sera
+CPIs as well as anti-cruzipain antibody significantly interfered               and induce protective immunity in mice. FEMS Immunol. Med. Microbiol.
+with the ability of the trypanosomatid to adhere to the insect                 39, 257–264.
+salivary gland epithelial cells, suggesting that the cysteine               Buroker-Kilgore, M., Wang, K.K.W., 1993. A Coomassie brilliant blue G-250-
+                                                                               based colorimetric assay for measuring activity of calpain and other
+peptidase are relevant to this process. Similarly, the treatment
+                                                                               proteases. Anal. Biochem. 208, 387–392.
+of T. cruzi trypomastigotes with different CPIs resulted in a               Camargo, E.P., 1999. Phytomonas and other trypanosomatid parasites of plants
+considerable decrease in adhesion to Vero cells (Franke de                     and fruit. Adv. Parasitol. 42, 29–112.
+Cazzulo et al., 1994), fibroblasts (Piras et al., 1985) and heart           Camargo, E.P., Kastelein, P., Roitman, I., 1990. Trypanosomatid parasites of
+muscle cells (Meirelles et al., 1992). The CPIs may act                        plants (Phytomonas). Parasitol. Today 6, 22–25.
+                                                                            Cazzulo, J.J., Stoka, V., Turk, V., 2001. The major cysteine proteinase of
+indirectly, inhibiting the intracellular processing of surface
+                                                                               Trypanosoma cruzi: a valid target for chemotherapy of Chagas disease.
+precursor proteins possibly engaged in host cell recognition.                  Curr. Pharmacol. Des. 7, 1143–1156.
+An extracellular function for the peptidase cannot be ruled out             Coombs, G.H., Mottram, J.C., 1997. Parasite proteinases and amino acid
+because this cysteine peptidase is found on the P. serpens                     metabolism: possibilities for chemotherapeutic exploitation. Parasitology
+surface and there are circumstantial data supporting the                       114, S61–S80.
+                                                                            Cunha, M., Gomes, V.M., Xavier-Filho, J., Attias, M., de Souza, W., Miguens,
+involvement of peptidases in the penetration process (Piras
+                                                                               F.C., 2000. The laticifer system of Chamaesyce thymifolia: a closed host
+et al., 1985; Meirelles et al., 1992; Franke de Cazzulo et al.,                environment for plant trypanosomatids. Biocell 24, 123–132.
+1994).                                                                      d’Avila-Levy, C.M., Arau´jo, F.M., Vermelho, A.B., Soares, R.M.A., Santos,
+    The biological functions filled by peptidases in plant                     A.L.S., Branquinha, M.H., 2005. Proteolytic expression in Blastocrithidia
+trypanosomatids are still largely unknown. Our study provided                  culicis: influence of the endosymbiont and similarities with virulence
+                                                                               factors of pathogenic trypanosomatids. Parasitology 130, 413–420.
+clear evidence that cysteine peptidases from P. serpens might
+                                                                            Dollet, M., 1984. Plant diseases caused by flagellate protozoa (Phytomonas).
+be effective targets for some CPIs. Therefore, the results                     Ann. Rev. Phytopathol. 22, 115–132.
+described above add P. serpens to the list of trypanosomatids               Donovan, C., 1909. Kala azar in Madras especially with regard to its connection
+whose cellular growth seems to be correlated with peptidase                    with the dog and the bug (Conorrhinus). Lancet 177, 1495–1496.
+expression. Consequently, these enzymes can be considered                   Engel, J.C., Doyle, P.S., Palmer, J., Hsieh, I., Bainton, D.F., McKerrow, J.H.,
+                                                                               1998. Growth arrest of T. cruzi by cysteine protease inhibitors is
+potential targets for immunotherapeutic and chemotherapeutic
+                                                                               accompanied by alterations in Golgi complex and ER ultrastructure.
+agents and as serodiagnostic reagents for detection of parasitic               J. Cell Sci. 111, 597–606.
+diseases. Collectively, our results suggest that cysteine                   Fampa, P., Correˆa-da-Silva, M.S., Lima, D.C., Oliveira, S.M.P., Motta,
+peptidases participate in several biological processes in                      M.C.M., Saraiva, E.M.B., 2003. Interaction of insect trypanosomatids with
+56                                           A.L.S. Santos et al. / International Journal for Parasitology 36 (2006) 47–56
+
+    mosquitoes, sand fly and the respective insect cell lines. Int. J. Parasitol. 33,   Mottram, J.C., Souza, A.E., Hutchison, J.E., Carter, R., Frame, M.J., Coombs,
+    1019–1026.                                                                              G.H., 1996. Evidence from disruption of the lmcpb gene array of
+Franco, E., Soares, R.M.A., Meza, I., 1999. Specific and reversible                         Leishmania mexicana that cysteine proteinases are virulence factors.
+    inhibition of Entamoeba histolytica cysteine-proteinase activities by                   Proc. Natl Acad. Sci. USA 93, 6008–6013.
+    Zn2C: implications for adhesion and cell damage. Arch. Med. Res. 30,                Mutomba, M.C., Wang, C.C., 1998. The role of proteolysis during
+    82–88.                                                                                  differentiation of Trypanosoma brucei from the bloodstream to the
+Franke de Cazzulo, B.M., Martı´nez, J., North, M.J., Coombs, G.H., Cazzulo,                 procyclic form. Mol. Biochem. Parasitol. 93, 11–22.
+    J.J., 1994. Effects of proteinase inhibitors on the growth and differentiation      Piras, M.M., Henriquez, D., Piras, R., 1985. The effect of proteolytic enzymes
+    of Trypanosoma cruzi. FEMS Microbiol. Lett. 124, 81–86.                                 and protease inhibitors on the interaction Trypanosoma cruzi-fibroblasts.
+Fuchs, H., Cleveland, J., 1998. A structural scaffolding of intermediate                    Mol. Biochem. Parasitol. 14, 151–163.
+    filaments in health and disease. Science 279, 514–519.                              Romeiro, A., Sole´-Cava, A., Sousa, M.A., De Souza, W., Attias, M., 2000.
+Greenbaum, D.C., Baruch, A., Grainger, M., Bozdech, Z., Medzihradszky,                      Ultrastructural and biochemical characterization of promastigotes and cytic
+    K.F., Engel, J., DeRisi, J., Holder, A.A., Bogyo, M., 2002. A role for the              form of Leptomonas wallacei n. sp. isolated from the intestine of its natural
+    protease falcipain 1 in host cell invasion by the human malaria parasite.               host Oncopeltus fasciatus (Hemiptera: Lygaeidae). J. Eukaryot. Microbiol.
+    Science 298, 2002–2006.                                                                 47, 208–220.
+Harth, G., Andrews, N., Miles, A.A., Engel, J.C., Smith, R., McKerrow, J.H.,            Sajid, M., McKerrow, J.H., 2002. Cysteine proteases of parasitic organisms.
+    1993. Peptide-fluoromethyl ketones arrest intracellular replication and
+                                                                                            Mol. Biochem. Parasitol. 120, 1–21.
+    intracellular transformation of Trypanosoma cruzi. Mol. Biochem.
+                                                                                        Santos, A.L.S., Alviano, C.S., Soares, R.M.A., 2002. Detection of sialoglyco-
+    Parasitol. 58, 17–24.
+                                                                                            molecules in five plant trypanosomatids and in an insect phytophagous
+Heussen, C., Dowdle, E.B., 1980. Electrophoretic analysis of plasminogen
+                                                                                            isolate. FEMS Microbiol. Lett. 214, 19–23.
+    activators in polyacrilamide gels containing sodium dodecyl sulphate and
+                                                                                        Santos, A.L.S., Rodrigues, M.L., Alviano, C.S., Angluster, J., Soares, R.M.A.,
+    copolymerized substrates. Anal. Biochem. 102, 196–202.
+                                                                                            2003. Herpetomonas samuelpessoai: dimethylsulfoxide-induced differen-
+Irvine, J.W., North, M.J., Coombs, G.H., 1997. Use of inhibitors to identify
+                                                                                            tiation is influenced by proteinase expression. Curr. Microbiol. 46, 11–17.
+    essential cysteine proteinases of Trichomonas vaginalis. FEMS Microbiol.
+                                                                                        Sedo, A., Mandys, V., Krepela, E., 1996. Cell membrane-bound proteases: not
+    Lett. 149, 45–50.
+                                                                                            ‘only’ proteolysis. Physiol. Res. 45, 169–176.
+Lafont, A., 1909. Sur la pre´sence d’un parasite de la classe des flagelle´s dans le
+    latex de l’Euphorbia pilulifera. C. R. Soc. Biol. 66, 1011–1013.                    Selzer, P.M., Pingel, S., Hsieh, I., Ugele, B., Chan, V.J., Engel, J.C., Bogyo, M.,
+Mahmoudzadeh-Niknam, H., McKerrow, J.H., 2004. Leishmania tropica:                          Russell, D.G., Sakanari, J.A., McKerrow, J.H., 1999. Cysteine protease
+    cysteine proteases are essential for growth and pathogenicity. Exp.                     inhibitors as chemotherapy: lessons from a parasite target. Proc. Natl Acad.
+    Parasitol. 106, 158–163.                                                                Sci. USA 96, 11015–11022.
+Mbawa, Z.R., Gumm, I.D., Shaw, E., Lonsdale-Eccles, J.D., 1992.                         Soares, R.M.A., Santos, A.L.S., Bonaldo, M.C., Andrade, A.F.B., Alviano, C.S.,
+    Characterisation of a cysteine protease from bloodstream forms of                       Angluster, J., Goldenberg, S., 2003. Leishmania (Leishmania) amazonensis:
+    Trypanosoma congolense. Eur. J. Biochem. 204, 371–379.                                  differential expression of proteinases and cell-surface polypeptides in
+Meirelles, M.N.L., Juliano, L., Carmona, E., Silva, S.G., Costa, E.M.,                      avirulent and virulent promastigotes. Exp. Parasitol. 104, 104–112.
+    Murta, A.C.M., Scharfstein, J., 1992. Inhibitors of the major cysteinyl             Souto-Padro´n, T., Campetella, O.E., Cazzulo, J.J., De Souza, W., 1990. Cysteine
+    proteinase (GP57/51) impair host cell invasion and arrest the                           proteinase in Trypanosoma cruzi: immunocytochemical localization and
+    intracellular development of Trypanosoma cruzi in vitro. Mol.                           involvement in parasite–host cell interaction. J. Cell Sci. 96, 485–490.
+    Biochem. Parasitol. 52, 175–184.                                                    Troeberg, L., Morty, R.E., Pike, R.N., Lonsdale-Eccles, J.D., Palmer, J.T.,
+Mosolov, V.V., Grigor’eva, L.I., Valueva, T.A., 2001. Involvement of                        McKerrow, J.H., Coetzer, T.H.T., 1999. Cysteine proteinase inhibitors kill
+    proteolytic enzymes and their inhibitors in plant protection. Appl. Biochem.            cultured bloodstream forms of Trypanosoma brucei brucei. Exp. Parasitol.
+    Microbiol. 37, 115–123.                                                                 91, 349–355.
+

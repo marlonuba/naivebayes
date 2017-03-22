@@ -1,0 +1,718 @@
+               Downloaded from genome.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+RECOMB Special/Review
+
+Protein networks in disease
+Trey Ideker1 and Roded Sharan2,3
+1
+ Department of Bioengineering, University of California at San Diego, La Jolla, California 92093, USA; 2School of Computer
+Science, Tel-Aviv University, Tel-Aviv 69978, Israel
+
+
+       During a decade of proof-of-principle analysis in model organisms, protein networks have been used to further the
+       study of molecular evolution, to gain insight into the robustness of cells to perturbation, and for assignment of new
+       protein functions. Following these analyses, and with the recent rise of protein interaction measurements in
+       mammals, protein networks are increasingly serving as tools to unravel the molecular basis of disease. We review
+       promising applications of protein networks to disease in four major areas: identifying new disease genes; the study
+       of their network properties; identifying disease-related subnetworks; and network-based disease classification.
+       Applications in infectious disease, personalized medicine, and pharmacology are also forthcoming as the available
+       protein network information improves in quality and coverage.
+
+With the completion of the Human Genome Project, focus has                   sets. A proof-of-concept study has applied coimmunoprecipita-
+shifted from cataloging the “parts list” of genes and proteins to            tion, followed by mass spectrometry, to characterize the interac-
+mapping the networks of interactions that take place among                   tors of 338 proteins that were selected based on their putative
+them. Understanding this network is important because proteins               involvement in disease (Ewing et al. 2007). In addition to experi-
+do not function in isolation, but rather interact with one another           mentation, several efforts have attempted to build large networks
+and with DNA, RNA, and small molecules to form molecular                     of human protein interactions curated from prior studies in the
+machines. These machines are modular, involve both static and                literature (Ramani et al. 2005; Gandhi et al. 2006) (for review, see
+dynamic assemblies of macromolecules, and transmit as well as                Mathivanan et al. 2006). The effort by Gandhi et al. summarized
+respond to intra- and extracellular signals (Hartwell et al. 1999).          in the HPRD database (www.hprd.org), currently catalogs over
+     Just as genome sequencing was first demonstrated in model               38,000 human protein interactions.
+organisms, analysis of protein networks has progressed initially                   With the increase in availability of human protein interac-
+and most rapidly in the yeast Saccharomyces cerevisiae. Due to its           tion data, the focus of bioinformatics development has shifted
+ease of genetic manipulation, yeast has been an ideal test bed for           from understanding networks encoded by model species to un-
+efforts to increase the throughput and scale of protein interac-             derstanding the networks underlying human disease (Kann
+tion measurements, with the ultimate goal of obtaining complete              2007). Many of these newer studies are directly inspired by earlier
+coverage of all interactions encoded by an organism. Although it             developments in yeast network analysis, while others are
+is unlikely that the current network coverage of yeast is saturat-           “uniquely human.” In the remainder of this review, we briefly
+ing, yeast nonetheless has available the greatest number of net-             describe some foundations of network analysis that have
+works, and many of the largest generated for any organism.                   emerged from studies in yeast, and then address more recent
+These data include yeast two-hybrid (Y2H) interaction networks               developments in network analysis of human disease. These latter
+(Uetz et al. 2000; Ito et al. 2001), maps of immunoprecipitated              developments fall into four categories: the study of network
+protein complexes (Gavin et al. 2006; Krogan et al. 2006), a large-          properties of human disease genes; the use of protein networks to
+scale network of protein–DNA interactions (Harbison et al. 2004),            implicate additional genes in disease; the identification of dis-
+a kinase–substrate interaction map (Ptacek et al. 2005), and nu-             ease-related subnetworks; and the network-based classification of
+merous large synthetic–lethal networks (Tong et al. 2001, 2004;              case-control studies.
+Schuldiner et al. 2005; Pan et al. 2006; Collins et al. 2007). These
+yeast networks have provided a superb resource for development
+of new algorithmic approaches and conceptual frameworks for
+                                                                             Network analysis in yeast: A brief tour
+analyzing molecular interactions.                                            Although numerous methods have been applied to analyze gene
+     In just the past two to three years, large biomolecular inter-          and protein networks in yeast, they are best understood accord-
+action networks have also become available for humans. Two                   ing to their ultimate goals of analysis. A first set of methods
+studies have applied the Y2H system to test for interactions                 (Jansen et al. 2003; von Mering et al. 2003; Bader et al. 2004; Lee
+among large sets of human proteins (Rual et al. 2005; Stelzl et al.          et al. 2004; Myers and Troyanskaya 2007) was developed to clean
+2005). These studies used full-length human open reading frames              the noise from raw interaction measurements, leading to higher-
+(ORFs) (Rual et al. 2005) or a combination of ORF-based clones               confidence networks with quantitative measures of accuracy as-
+and cDNA libraries (Stelzl et al. 2005) to clone human genes                 sociated with each interaction. Typically, these methods inte-
+within Y2H bait and prey constructs. Using a prey pooling strat-             grate many sources of evidence for protein interaction, using
+egy, an “interaction space” of ∼8100 ⳯ 8100 protein pairs was                them as features for a classifier of interactions/noninteractions.
+tested by Rual et al. (2005) versus 4500 ⳯ 5500 by Stelzl et al.             The classifier is trained on a gold-standard set of true and false
+(2005), yielding over 5000 novel interactions across the two data            interactions and assigns to each possible interaction a confidence
+                                                                             score. Given a high-confidence weighted network, a second set of
+3
+ Corresponding author.                                                       methods was developed to predict new annotations for proteins,
+E-mail roded@post.tau.ac.il; fax 972-3-6409357.
+Article is online at http://www.genome.org/cgi/doi/10.1101/gr.071852.107.    such as protein function, localization, and functional orthology,
+Freely available online through the Genome Research Open Access option.      based on the protein’s network neighbors and other network
+
+
+644     Genome Research                                   18:644–652 ©2008 by Cold Spring Harbor Laboratory Press; ISSN 1088-9051/08; www.genome.org
+           www.genome.org
+              Downloaded from genome.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+                                                                                                           Protein networks in disease
+
+
+information (Letovsky and Kasif 2003; Vazquez et al. 2003; Es-            in which a transcription factor directly regulates its own gene).
+padaler et al. 2005; Leone and Pagnani 2005; Bandyopadhyay et             Some have argued that each type of network motif encodes a
+al. 2006; Lee et al. 2006).                                               specific biological function: For instance, feed-forward loops may
+      The remaining efforts in yeast fall into two categories, which      correspond to sign-sensitive accelerators, which speed up the re-
+might be called “synthetic” and “divisive,” respectively. Syn-            sponse in an off-to-on direction, but not in an on-to-off direction
+thetic methods attempt to synthesize global properties of biology         (Mangan and Alon 2003).
+through analysis of molecular interaction networks. Many analy-                 Beyond enriched motifs, methods have been devised to
+ses in this category have examined how the number of interac-             identify all sorts of network structures, such as densely connected
+tions per protein (the “degree” of each protein) is distributed over      network regions (for review, see Brohee and van Helden 2006),
+all proteins in the network. In yeast protein–protein interaction         which are suggestive of protein complexes, and paths of interac-
+networks, the degree was found to follow a power law (Yook et al.         tions connecting membrane proteins to transcription factors
+2004) or a truncated power-law distribution (Huang et al. 2007).          (Steffen et al. 2002; Scott et al. 2006), which are suggestive of
+In complex systems, power laws are often interpreted as signa-            signaling pathways. In cases in which interaction data are avail-
+tures of hierarchy and robustness (see Box 1; for review, see Bar-        able across several species, there is now a burgeoning area of
+abasi and Oltvai 2004). Some of these authors also showed that            algorithm development aimed at detecting subnetwork struc-
+proteins with high degree are likely to be essential for growth           tures that are evolutionarily conserved across multiple networks
+(Jeong et al. 2001). Later, Said et al. (2004) and Shachar et al.         (for review, see Sharan and Ideker 2006). Finally, there is a rich
+(2007) showed that protein degree correlates with other pheno-            yeast literature on methods for integrating gene-expression data
+types in addition to essentiality. Said et al. (2004) investigated        with molecular networks and pathways, with the goal of identi-
+proteins required for the response to genotoxic agents, showing           fying network “hot spots” or “expression-activated modules”
+that these lay in the “middle” between nonessential and essential         (Zien et al. 2000; Ge et al. 2001; Ideker et al. 2001, 2002; Hanisch
+proteins with respect to their average degree, network distance,          et al. 2002). Expression-activated modules are sets of proteins
+size of connected components, and clustering coefficient (Box 1).         enriched for both interaction and coexpression across several
+Similar conclusions were reported by Shachar et al. (2007) for            conditions; they provide an important means of distilling the
+genes involved in maintenance of telomere length.                         thousands of interactions present in a typical molecular network
+      In contrast to the above synthetic methods, divisive meth-          to arrive at a smaller number of discrete modules of activity.
+ods attempt to decompose or partition networks into smaller
+building blocks (Alon 2006). Uri Alon and colleagues (Milo et al.
+2002) searched a yeast transcriptional interaction network (link-         Network analysis in human: Properties of disease
+ing transcription factors to the genes they regulate) for instances       genes
+of each possible subnetwork topology containing three or four
+proteins. They showed that certain subnetworks, which they                Inspired by the findings that essential yeast proteins tend to have
+called network “motifs,” were highly enriched compared with               high network degrees, several groups have now tailored such
+randomized networks (an example is the “feed-forward circuit,”            analyses to focus on phenotypes related to human disease. Wachi
+in which one transcription factor regulates another along with            et al. (2005) studied genes that are differentially expressed in
+the second factor’s regulated genes; another is “autoregulation,”         lung squamous cancer tissues (Fig. 1). They tested the degree
+                                                                          distribution and centrality of the set of differentially expressed
+                                                                          genes in a human PPI network, obtained by combining curated
+                                                                          interactions with interactions that were transferred from model
+                                                                          organisms (so-called “interologs”) (Matthews et al. 2001). As a
+   Box 1.   Network properties
+                                                                          centrality measure, they used the fraction of differentially ex-
+                                                                          pressed genes that were present in a k-core of the network (see
+   Given a protein network, one can characterize a set of genes           Box 1). Up-regulated genes in the cancerous tissues tended to be
+   related to a phenotype by projecting them onto the network and         highly connected and central. The authors explained this finding
+   testing their network properties. These properties can be com-         by suggesting that up-regulated genes are essential for prolifera-
+   pared with those computed for random gene sets of the same size
+   to evaluate the significance of the findings. Let G = (V,E) denote a   tion of the cancerous tissue and, hence, share the topological
+   network on a set of vertices (or nodes) V and a set of edges E. The    characteristics of essential genes.
+   degree of a node is the number of edges adjacent to it. The                  Jonsson and Bates (2006) investigated the network position
+   distance between two vertices is the length of the shortest path       of 346 genes that had been implicated in a comprehensive census
+   connecting them in the network. G is said to be connected if there
+                                                                          of all human cancer genes (Futreal et al. 2004). They showed that
+   is a path between every pair of vertices in G. An unconnected
+   network can be partitioned into its connected components. A            these proteins tended to have, on average, twice as many inter-
+   subset S of the vertices induce a subnetwork, whose edges are          action partners as noncancer proteins. In a clustering of the net-
+   those edges in E that connect two vertices from S. The k-core of G     work (into overlapping subnetworks), the cancer proteins tended
+   is obtained by successively removing from G vertices of degree
+                                                                          to reside in larger clusters. Moreover, such proteins tended to
+   less than k, until no further vertices can be removed. Given a
+   source vertex set and a target vertex set, the betweeness centrality   participate in more clusters than noncancer proteins.
+   of a vertex is the relative number of shortest paths that go from a          Goh et al. (2007) created a network of human disease/
+   source vertex to a target vertex. The clustering coefficient of a      human gene associations, in which each genetic disease is con-
+   vertex v is the fraction of edges that exist among pairs of neigh-     nected to the genes known to cause it, as documented in the
+   bors of v (of all possible pairs of neighbors). The distribution of
+   node degrees P(d) can be investigated for its power-law property.      database of Online Mendelian Inheritance in Man (Hamosh et al.
+   The degree d follows a power-law distribution if P(d) ⬀d-k, where      2005). They found that disease genes exhibit an increased ten-
+   k > 1 is a constant.                                                   dency for their protein products to interact with one another,
+                                                                          tend to be coexpressed in specific tissues, and display coherent
+
+
+                                                                                                               Genome Research           645
+                                                                                                                  www.genome.org
+               Downloaded from genome.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+Ideker and Sharan
+
+
+                                                                                                            ative genes had been identified, while
+                                                                                                            for other genetic factors, only locus in-
+                                                                                                            formation was available. This scenario is
+                                                                                                            typical of large gene association studies,
+                                                                                                            in which several significant loci are usu-
+                                                                                                            ally found (containing polymorphic
+                                                                                                            markers associated with disease), but the
+                                                                                                            specific causative gene in each locus is
+                                                                                                            not easily identified. For a given disease,
+                                                                                                            Oti et al. (2006) predicted new disease
+                                                                                                            genes as those that fell within one of the
+                                                                                                            significant loci and had a protein inter-
+                                                                                                            action with a gene already well known
+                                                                                                            to cause disease. They showed that pre-
+                                                                                                            dictions using this method are 10-fold
+                                                                                                            enriched in true disease-causing genes,
+Figure 1. Differentially expressed cancer genes tend toward higher network connectivity. Human              as compared with a random selection of
+proteins of each network degree (X-axis) were analyzed to compute their fraction of genes up-
+regulated (A) or down-regulated (B) in the microarray profiles of five lung cancer tissue biopsies. Both    genes at the same locus.
+up- and down-regulated genes show significant positive correlation to protein degree, in contrast to              Franke et al. (2006) devised the Pri-
+the set of all genes on the microarray (C). Reproduced from Wachi et al. (2005) and reprinted with          oritizer algorithm based on similar prin-
+permission from Oxford University Press © 2005.                                                             ciples. Their algorithm ranks a set of can-
+                                                                                                            didate disease-causing genes in multiple
+functions with respect to all three branches of the Gene Ontol-                susceptibility loci for further sequence or association analysis. To
+ogy hierarchy (Harris et al. 2004). They also found that the vast              this end, they constructed a functional human gene network
+majority of disease genes are nonessential and, in contrast to the             based on known molecular interactions as well as computation-
+above studies, have no tendency toward higher degree in the                    ally predicted functional relations. The network was used to rank
+human protein–protein interaction network. In a related work,                  the candidate genes on the basis of their interactions, assuming
+some of the same authors performed a similar analysis of a hu-                 that the causative genes for any one disorder will be involved in
+man gene/drug network, composed of gene-drug associations                      only a few distinct biological pathways. This assumption implies
+known to the USA Food and Drug Administration (Yildirim et al.                 that genes from different susceptibility loci would cluster, result-
+2007).                                                                         ing in shorter network distances (see Box 1) between disease
+      Combining these network-based disease studies with the                   genes than the random expectation.
+original analyses of network properties in yeast, the overriding                      Finally, Lage et al. (2007) extended the above works by using
+conclusion is that genes associated with a particular phenotype                information on several related diseases to tackle the prediction
+or function, including the progression of disease, are not ran-                task. Specifically, they devised a phenotype similarity score and
+domly positioned in the network. Rather, they tend to exhibit                  used it to look for protein complexes whose genes were associ-
+high connectivity, cluster together, and occur in central network              ated with similar phenotypes. The search for protein complexes
+locations. In yeast (Said et al. 2004; Shachar et al. 2007), one sees          was conducted on a network of protein–protein interactions, in-
+that their network property values, such as overall degree or av-              cluding reported interactions and interactions that were trans-
+erage distance to one another, tend to lie between those of the                ferred from model organisms. Each candidate protein was ranked
+essential genes and those of the nonessential ones. In humans,                 by the phenotype similarity score of the diseases associated with
+some groups report an elevated degree for disease genes (Wachi et              the protein and its direct network neighbors. The biological in-
+al. 2005; Jonsson and Bates 2006), while others do not (Goh et al.             terpretation of a high-scoring candidate was that this protein was
+2007). Further work will be needed to resolve this discrepancy                 likely to be involved in the molecular pathology of a disorder of
+and carefully examine the different studies for possible sources of            interest, since it is part of a high-confidence candidate complex
+bias. For instance, one possible explanation is that the former                in which some proteins are known to be involved in highly simi-
+two studies focused on cancer genes in particular, while Goh et                lar (or identical) disorders.
+al. (2007) investigated disease in general. A potential source of                     Thus, the idea that proteins close to one another in a net-
+bias, especially in literature-curated networks, is that disease-              work cause similar diseases is becoming an increasingly impor-
+causing proteins may have higher degrees simply because they                   tant factor in the hunt for disease genes. Different approaches
+are better studied.                                                            tackle the prediction problem using different kinds of integrated
+                                                                               data, but all of them involve superimposing a set of candidate
+                                                                               genes alongside a set of known disease genes on a physical or
+Prediction of disease-causing genes
+                                                                               functional network. “De-novo” approaches that do not depend
+A second area in which biomolecular interaction networks have                  on prior knowledge of disease genes are yet to be developed.
+informed the study of human disease is in prediction of new
+disease-associated genes. The key assumption in these studies is               Identification of disease-related subnetworks
+that a network-neighbor of a disease-causing gene is likely to
+cause either the same or a similar disease (Goh et al. 2007; Oti               In addition to predicting individual disease proteins, a biomo-
+and Brunner 2007). This concept is illustrated in Figure 2.                    lecular network can also be used to predict disease-related sub-
+      Oti et al. (2006) aimed to predict disease-causing genes for             networks. Subnetworks are significant because, in contrast to in-
+genetically heterogeneous diseases in which some of the caus-                  dividual proteins, they provide concrete hypotheses as to the
+
+
+646     Genome Research
+           www.genome.org
+               Downloaded from genome.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+                                                                                                                  Protein networks in disease
+
+
+                                                                                their expression profiles exceeded a certain threshold. This net-
+                                                                                work was then integrated with genetic marker data from the
+                                                                                same individuals, indicating which genetic loci had association
+                                                                                with 22 different physiological traits such as body weight. Vari-
+                                                                                ous subnetwork “modules” of the coexpression network were
+                                                                                found to be enriched for genes in loci with strong associations to
+                                                                                a physiological trait, yielding a matrix of module/trait associations.
+                                                                                     Lim et al. (2006) used Y2H screens to construct a PPI net-
+                                                                                work around 23 proteins involved in inherited ataxias. The re-
+                                                                                sulting network was expanded by literature-curated interactions
+                                                                                and interologs and contained a total of ∼7000 interactions
+                                                                                among ∼3500 proteins. The network was found to be highly con-
+                                                                                nected, and the mean distance between the ataxia-causing pro-
+                                                                                teins in the network was much lower than in a network nucle-
+                                                                                ated around 30 disease proteins sampled independent of pheno-
+                                                                                types. The authors demonstrated the network’s utility in
+                                                                                uncovering novel ataxia-causing genes and genetic modifiers for
+                                                                                ataxia.
+                                                                                     In a conceptually similar study (Pujana et al. 2007), a breast
+                                                                                cancer-related network was constructed starting with four known
+Figure 2. A gene-phenotype network. Shown is a combined gene–                   breast cancer-associated genes: BRCA1, BRCA2, ATM, and CHEK2.
+gene, gene–phenotype, and phenotype–phenotype interaction network.              To form the network, proteins were linked based on coexpres-
+In this hypothetical example, diseases 1, 2, and 3 have known causative
+genes (genes A, C, and E, respectively), and are all phenotypically related     sion, phenotypic similarity, and genetic or physical interactions
+to disease 4, which lacks an identified causative gene. If the known caus-      among orthologs of the proteins in other species. The network
+ative genes are functionally closely related, as in this case, then candidate   neighbors of the starting four disease genes implicated additional
+genes (genes B and D) can be hypothesized for disease 4 due to their            factors important for breast cancer progression, including a
+close functional relationships to the known genes of the phenotypically
+related diseases. Black lines of varying thickness indicate the degree of
+                                                                                new gene, HMMR, which was shown by the authors to be asso-
+phenotypic and functional similarity between diseases and genes, respec-        ciated with a higher risk of breast cancer in two case-control
+tively. Reproduced from Oti and Brunner (2007) and reprinted with per-          studies.
+mission from Blackwell Publishing Ltd. © 2007 (www.blackwell-                        Common to all of the above studies is the understanding
+synergy.com).
+                                                                                that integrating disease genes with physical or functional net-
+                                                                                works can lead to the identification of additional disease-related
+molecular complexes, signaling pathways, and other mecha-                       genes and generate subnetworks that offer mechanistic hypoth-
+nisms that impact the disease outcome. As one example, Goehler                  eses about the causes of disease. The interactions within such
+et al. (2004) constructed a PPI subnetwork around HTT, muta-                    subnetworks are often suggestive of functional signaling cas-
+tions that cause Huntington disease (Fig. 3). Each direct interac-              cades, metabolic pathways, or molecular complexes that are ei-
+tor of HTT was tested for its ability to enhance HTT aggregation,               ther causes or effects of the disease phenotype. They help to
+which is linked to disease progression (Sanchez et al. 2003). This              explain the influence of the many genetic and environmental
+screen identified a new enhancer of HTT aggregation, GIT1, and                  factors influencing a disease in the context of a smaller number
+additional tests verified its role in disease pathogenesis.                     of discrete modules.
+      Calvano et al. (2005) assembled an endotoxin inflammatory
+response network by integrating functional interactions curated
+                                                                                Network-based classification of case-control studies
+from the literature with gene-expression information. Here,
+gene-expression profiling was used to identify genes responsive                 A final emerging application of molecular network analysis is the
+to endotoxin administration. The response network enabled the                   use of networks to improve the task of disease classification. Clas-
+identification of new endotoxin-responsive modules and re-                      sification has long been an important technique for identifying
+vealed a reprioritization of the transcriptional regulatory pro-                biomarkers able to separate “cases” from “controls.” In disease
+gram in leukocytes in response to endotoxin, suppressing mito-                  research in particular, cases versus controls are used to separate
+chondrial energy production and protein synthesis machinery.                    individuals who have a disease versus those who do not, to pre-
+More generally, the theme of interpreting expression profiles as                dict individuals likely to have severe disease outcomes versus
+hot spots of activity within a protein network has potential ap-                those who may be treated less aggressively, or to distinguish be-
+plication to many disease studies; moving forward, it might ben-                tween different diseases that might otherwise appear superficially
+efit substantially by drawing on the earlier methods developed in               similar (Quackenbush 2006). In terms of biomarker identifica-
+yeast to identify expression-activated network modules (see                     tion, large-scale profiling experiments (mRNA, protein, and
+above).                                                                         small-molecular) provide quantitative measurements for thou-
+      While the above approach specifies a subnetwork by over-                  sands of molecules; however, a major challenge has been to de-
+laying expression profiles as states on a functional network, ex-               velop methods able to sift through the enormous number of
+pression profiles have also been used to define the network itself,             potential markers to identify the particular set having the highest
+which is then integrated with other types of data. For instance,                predictive ability (Sotiriou and Piccart 2007). One solution to this
+Ghazalpour et al. (2006) constructed a gene coexpression net-                   problem may be to integrate the search for biomarkers with a
+work using microarray profiles gathered from the livers of a panel              network-level map of the cell, which focuses the search around
+of mice, in which genes were linked if the correlation between                  sets of markers functioning in the same pathway.
+
+
+                                                                                                                      Genome Research            647
+                                                                                                                         www.genome.org
+               Downloaded from genome.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+Ideker and Sharan
+
+
+
+
+Figure 3. A protein interaction network for Huntington disease. (Red diamonds) Y2H interactors of huntingtin (HTT) newly identified by the Goehler
+et al. (2004) study. (Blue squares) Previously published interactors. (Green triangles) Interactors culled from human protein interaction databases (HRPD)
+(Gandhi et al. 2006), MINT (Chatr-aryamontri et al. 2007), and BIND (Bader et al. 2003). (Red squares) HTT interactors that were both newly identified
+and previously reported. Reproduced from Goehler et al. (2004) and reprinted with permission from Elsevier Ltd. © 2004.
+
+
+     As one example, Tuck et al. (2006) examined the utility of                      Chuang et al. (2007) applied a network-based classifier to
+local features of a transcriptional interaction network in classify-           the prognosis of breast cancer metastasis. According to their
+ing disease states. As the features for classification, they consid-           method, the gene-expression profiles of metastatic and nonmeta-
+ered both single transcriptional interactions and sets of interac-             static patients are superimposed on a human protein–protein in-
+tions incident to the same regulated gene. For a given sample, a               teraction network. Subnetworks are identified whose expression
+transcriptional interaction feature was said to be “active” (i.e.,             levels correlate with metastasis, where the expression level of a
+activity = 1) if the corresponding transcription factor and gene               subnetwork is defined as a function of the expression levels of its
+were coexpressed in the sample. The activity of a set of interac-              member genes (Fig. 4). They found that subnetwork markers were
+tions was defined as the sum of their activities. These features               more reproducible than individual marker genes selected with-
+were successfully used for classifying patients to disease states.             out network information, and that they achieved higher accu-
+The authors noted that the network-based classification com-                   racy in the classification of metastatic versus nonmetastatic tu-
+pared favorably with gene-expression–based classification. More-               mors.
+over, they observed that genes that optimally classify samples                       Efroni et al. (2007) performed a related study, in which they
+(based on their set of incident interactions) are close to one an-             sought to identify pathways associated with cancer gene-
+other in the network.                                                          expression data sets. Expression data were used to score known
+     Ma et al. (2007) used this same notion, i.e., that informative            pathways (taken from curated databases) for the level of activity
+genes fall into the same network neighborhoods, to identify                    and consistency of their interactions in a given sample. These
+genes predictive of Alzheimer’s disease. Their method, termed                  scores were then used as features for classifying samples to disease
+“combining gene expression and protein interaction data” (CGI),                states, subsequently deriving small collections of pathways that
+uses the protein interaction network to define a Markov Random                 distinguish the phenotypes with high accuracy. The main differ-
+Field, in which the score of association between a gene’s expres-              ence versus Chuang et al. (2007) is that curated pathways were
+sion level and the disease class depends on the scores of its net-             used rather than subnetworks dynamically extracted from a pro-
+work neighbors according to a diffusion kernel. CGI was reported               tein network.
+to perform better than when gene-expression data were used as                        Thus, protein networks are proving to be a powerful source
+the sole source of information.                                                of information for disease classification. Typically, one superim-
+
+
+648     Genome Research
+           www.genome.org
+              Downloaded from genome.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+                                                                                                             Protein networks in disease
+
+
+                                                                                                       complex networks of human disease.
+                                                                                                       One such area is protein network evolu-
+                                                                                                       tionary comparison. In yeast, there is
+                                                                                                       now a sizable literature reporting meth-
+                                                                                                       ods to align, contrast, and compare pro-
+                                                                                                       tein networks across species spanning a
+                                                                                                       wide range of evolutionary distances
+                                                                                                       (see above and Sharan and Ideker 2006).
+                                                                                                       In humans, network comparative meth-
+                                                                                                       ods are receiving significant attention in
+                                                                                                       the study of infectious disease. An in-
+                                                                                                       creasing number of protein interaction
+                                                                                                       networks are becoming available for mi-
+                                                                                                       crobial pathogens, including Helicobacter
+                                                                                                       pylori (Rain et al. 2001), Campylobacter
+                                                                                                       jejuni (Parrish et al. 2007), and Plasmo-
+                                                                                                       dium falciparum (LaCount et al. 2005).
+                                                                                                       Comparison to the human protein net-
+                                                                                                       work is providing useful insights by
+                                                                                                       identifying which protein interactions
+                                                                                                       are common between pathogen and
+                                                                                                       host and, more importantly from the
+                                                                                                       standpoint of drug development, which
+                                                                                                       interactions might be wired differently.
+                                                                                                       For instance, Suthram et al. (2005) ana-
+                                                                                                       lyzed an interaction map of the malarial
+                                                                                                       pathogen P. falciparum and showed that
+                                                                                                       it was significantly divergent from the
+                                                                                                       interaction maps of other eukaryotes.
+                                                                                                            Network-level analyses of viral
+                                                                                                       pathogens are also underway (Flajolet et
+                                                                                                       al. 2000; McCraith et al. 2000; von
+                                                                                                       Schwedler et al. 2003; Uetz et al. 2006;
+                                                                                                       Calderwood et al. 2007). Projects to map
+                                                                                                       protein networks among viral proteins,
+                                                                                                       or between viral and host proteins, are
+                                                                                                       appealing because of the greatly reduced
+                                                                                                       number of proteins and protein interac-
+                                                                                                       tions that must be tested—i.e., even the
+                                                                                                       largest viral genomes encode no more
+                                                                                                       than 1000 proteins (Raoult et al. 2004),
+                                                                                                       versus the more than 20,000 that must
+                                                                                                       be considered in higher eukaryotes.
+                                                                                                       Comparison of these networks to each
+Figure 4. Discriminative subnetworks enriched with hallmarks of cancer. Vertices and edges repre-
+                                                                                                       other and with the human protein net-
+sent human proteins and protein interactions, respectively. The color of each node scales with the     work may be able to elucidate key
+change in expression of the corresponding gene for metastatic (red) versus nonmetastatic (green)       mechanisms of infection: Toward this
+cancer. The shape of each node indicates whether its gene is significantly differentially expressed    goal, Uetz et al. (2006) used interactions
+(diamond; P <0.05 from a two-tailed t-test) or not (circle). The predominant cellular functions are
+                                                                                                       between herpesviral and human pro-
+indicated next to each module, and known breast cancer susceptibility genes are marked by a blue
+asterisk. Reproduced from Chuang et al. (2007) with permission from Macmillan Publishers Ltd. © 2007.  teins to connect the viral interactome
+                                                                                                       into the known human protein interac-
+                                                                                                       tion network and to simulate infection.
+poses gene-expression data onto the network to identify links, or                  Another important area to watch will be the application of
+more composite subnetwork structures, whose aggregate expres-                protein interaction networks to interpret the effects of genetic
+sion discriminates between disease states. These discriminating              and environmental perturbations on human populations. In
+subnetworks are more reproducible than single genes and can                  yeast, genetic perturbations have been profiled by expression
+improve the prediction accuracy.                                             profiling of gene knockout strains (Hughes et al. 2000; Workman
+                                                                             et al. 2006; Hu et al. 2007) or by analysis of expression quanti-
+                                                                             tative trait loci (eQTLs) (Brem and Kruglyak 2005), which iden-
+The future of networks and disease
+                                                                             tifies associations between polymorphic genomic markers and
+One means of charting the road ahead is to recognize emerging                gene-expression changes. In both of these cases, perturbed genes
+studies in yeast that are just beginning to be adapted to the more           (either explicitly by gene deletion or implicitly through popula-
+
+
+                                                                                                                 Genome Research            649
+                                                                                                                    www.genome.org
+              Downloaded from genome.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+Ideker and Sharan
+
+
+tion genetics) are linked to genes downstream whose expression           lecular interaction networks has revolutionized this view by
+levels are affected by perturbation. For integrative analysis of         demonstrating the importance not only of the proteins them-
+these data, a number of network-based approaches have been               selves, but of their inter-relationships. If the recent progress in
+proposed that map the molecular interaction pathways leading             the field is any indicator, exploiting these networks is also des-
+from each causal gene to its affected genes (Yeang et al. 2004,          tined to revolutionize our view of fundamental human biology
+2005; Ourfali et al. 2007; Shachar et al. 2007). These approaches        as well as disease progression, diagnosis, and treatment.
+typically model a signaling pathway as a path of interactions
+through a protein–protein or protein–DNA interaction network,
+in which each interaction is associated with a direction of infor-       Acknowledgments
+mation flow and a regulatory influence (activating “+” or repress-       T.I. is a David and Lucille Packard Fellow and is supported by NIH
+ing “ⳮ”). The most plausible pathway explanations for each               grants ES14811 and GM070743. R.S. is supported by an Alon
+cause-and-effect relationship are inferred from the data, along          fellowship and by the Israel Science Foundation (grant no. 385/
+with the likely direction and regulatory influence of each path-         06).
+way interaction. Recently, two studies have taken a network-
+based approach to eQTL analysis in particular, relying on the idea
+that the causal gene should be well connected to the affected            References
+genes in the network (Tu et al. 2006; Suthram et al. 2007).
+       In humans, network analysis may offer a powerful means of         Alon, U. 2006. Introduction to systems biology: Design principles of
+                                                                             biological circuits. Chapman and Hall, London, UK.
+mapping the molecular mechanisms underlying the genetic and              Bader, G.D., Betel, D., and Hogue, C.W. 2003. BIND: The Biomolecular
+environmental perturbations at the heart of disease. During the              Interaction Network Database. Nucleic Acids Res. 31: 248–250.
+past few years, a substantial body of cause-and-effect pertubation       Bader, J.S., Chaudhuri, A., Rothberg, J.M., and Chant, J. 2004. Gaining
+                                                                             confidence in high-throughput protein interaction networks. Nat.
+data have been generated in humans, including a number of
+                                                                             Biotechnol. 22: 78–85.
+eQTL studies (Dixon et al. 2007; Goring et al. 2007; Stranger et al.     Bandyopadhyay, S., Sharan, R., and Ideker, T. 2006. Systematic
+2007). As for yeast, interpretation of human eQTLs could greatly             identification of functional orthologs based on protein network
+benefit from integration with protein–protein and transcrip-                 comparison. Genome Res. 16: 428–435.
+                                                                         Barabasi, A.L. and Oltvai, Z.N. 2004. Network biology: Understanding
+tional interactions. However, despite the availability of human              the cell’s functional organization. Nat. Rev. Genet. 5: 101–113.
+protein–protein interaction networks, large-scale measurements           Berger, M.F., Philippakis, A.A., Qureshi, A.M., He, F.S., Estep 3rd, P.W.,
+of human transcriptional interactions are still underway, mainly             and Bulyk, M.L. 2006. Compact, universal DNA microarrays to
+                                                                             comprehensively determine transcription-factor binding site
+using systematic chromatin immunoprecipitation experiments                   specificities. Nat. Biotechnol. 24: 1429–1435.
+in human cell lines and in-vitro technologies such as the protein-       Brem, R.B. and Kruglyak, L. 2005. The landscape of genetic complexity
+binding microarray (PBM) (Berger et al. 2006). As human tran-                across 5,700 gene expression traits in yeast. Proc. Natl. Acad. Sci.
+                                                                             102: 1572–1577.
+scriptional networks become available, the approaches demon-             Brohee, S. and van Helden, J. 2006. Evaluation of clustering algorithms
+strated in yeast may also provide a powerful means for identify-             for protein-protein interaction networks. BMC Bioinformatics 7: 488.
+ing human disease genes and their associated transcriptional                 doi: 10.1186/1471-2105-7-488.
+                                                                         Calderwood, M.A., Venkatesan, K., Xing, L., Chase, M.R., Vazquez, A.,
+regulatory pathways.                                                         Holthaus, A.M., Ewence, A.E., Li, N., Hirozane-Kishikawa, T., Hill,
+       Yet another direction in which network-based analysis                 D.E., et al. 2007. Epstein-Barr virus and virus human protein
+might inform human disease is in pharmacology, i.e., drug dis-               interaction maps. Proc. Natl. Acad. Sci. 104: 7606–7611.
+                                                                         Calvano, S.E., Xiao, W., Richards, D.R., Felciano, R.M., Baker, H.V., Cho,
+covery and targeting. Pioneering work in yeast (Parsons et al.
+                                                                             R.J., Chen, R.O., Brownstein, B.H., Cobb, J.P., Tschoeke, S.K., et al.
+2004, 2006) has demonstrated the utility of combining molecu-                2005. A network-based analysis of systemic inflammation in
+lar interaction networks with measurements of chemical–genetic               humans. Nature 437: 1032–1037.
+interactions (in which the combination of a chemical agent with          Chatr-aryamontri, A., Ceol, A., Palazzi, L.M., Nardelli, G., Schneider,
+                                                                             M.V., Castagnoli, L., and Cesareni, G. 2007. MINT: The Molecular
+a gene knockout leads to cell death). These studies are based on             INTeraction database. Nucleic Acids Res. 35: D572–D574.
+the observation that the chemical–genetic interaction profile of         Chuang, H.Y., Lee, E., Liu, Y.T., Lee, D., and Ideker, T. 2007.
+an agent is similar to the genetic interaction profile of genes in its       Network-based classification of breast cancer metastasis. Mol. Syst.
+                                                                             Biol. 3: 140. doi: 10.1038/msb4100180.
+target pathway. Moreover, gene deletions that result in hyper-           Collins, S.R., Miller, K.M., Maas, N.L., Roguev, A., Fillingham, J., Chu,
+sensitivity to a specific drug can identify pathways that buffer the         C.S., Schuldiner, M., Gebbia, M., Recht, J., Shales, M., et al. 2007.
+cell against the toxic effects of the drug, providing clues about its        Functional dissection of protein complexes involved in yeast
+                                                                             chromosome biology using a genetic interaction map. Nature
+mode of action.                                                              446: 806–810.
+       All of these and other applications of molecular networks to      Dixon, A.L., Liang, L., Moffatt, M.F., Chen, W., Heath, S., Wong, K.C.,
+disease will continue to face technological, biological, and algo-           Taylor, J., Burnett, E., Gut, I., Farrall, M., et al. 2007. A genome-wide
+                                                                             association study of global gene expression. Nat. Genet.
+rithmic challenges. Human network data remain sparse, and                    39: 1202–1207.
+many important types of networks, such as networks of regula-            Efroni, S., Schaefer, C.F., and Buetow, K.H. 2007. Identification of key
+tory and synthetic–lethal or chemical–genetic interactions, are              processes underlying cancer phenotypes using biologic pathway
+                                                                             analysis. PLoS ONE 2: e425. doi: 10.1371/journal.pone.0000425.
+still forthcoming. Issues of data collection and interpretation are
+                                                                         Espadaler, J., Aragues, R., Eswar, N., Marti-Renom, M.A., Querol, E.,
+complicated by the large size of the proteome in human and its               Aviles, F.X., Sali, A., and Oliva, B. 2005. Detecting remotely related
+diversity of cells and tissues. In addition, existing computational          proteins by their interactions and sequence similarity. Proc. Natl.
+frameworks are ill-suited to cope with the ongoing explosion in              Acad. Sci. 102: 7151–7156.
+                                                                         Ewing, R.M., Chu, P., Elisma, F., Li, H., Taylor, P., Climie, S.,
+network-level measurements and information.                                  McBroom-Cerajewski, L., Robinson, M.D., O’Connor, L., Li, M., et al.
+       Nonetheless, elucidating the mechanisms of human disease              2007. Large-scale mapping of human protein-protein interactions by
+remains a holy grail of bioinformatics. Most previous studies in             mass spectrometry. Mol. Syst. Biol. 3: 89. doi: 10.1038/msb4100134.
+                                                                         Flajolet, M., Rotondo, G., Daviet, L., Bergametti, F., Inchauspe, G.,
+this regard have analyzed single genes and the changes they ex-              Tiollais, P., Transy, C., and Legrain, P. 2000. A genomic approach of
+hibit in the diseased state. The recent availability of human mo-            the hepatitis C virus generates a protein interaction map. Gene
+
+
+
+650     Genome Research
+          www.genome.org
+               Downloaded from genome.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+                                                                                                                      Protein networks in disease
+
+
+    242: 369–379.                                                                   and centrality in protein networks. Nature 411: 41–42.
+Franke, L., Bakel, H., Fokkens, L., de Jong, E.D., Egmont-Petersen, M.,         Jonsson, P.F. and Bates, P.A. 2006. Global topological features of cancer
+    and Wijmenga, C. 2006. Reconstruction of a functional human gene                proteins in the human interactome. Bioinformatics 22: 2291–2297.
+    network, with an application for prioritizing positional candidate          Kann, M.G. 2007. Protein interactions and disease: Computational
+    genes. Am. J. Hum. Genet. 78: 1011–1025.                                        approaches to uncover the etiology of diseases. Brief. Bioinform.
+Futreal, P.A., Coin, L., Marshall, M., Down, T., Hubbard, T., Wooster, R.,          8: 333–346.
+    Rahman, N., and Stratton, M.R. 2004. A census of human cancer               Krogan, N.J., Cagney, G., Yu, H., Zhong, G., Guo, X., Ignatchenko, A.,
+    genes. Nat. Rev. Cancer 4: 177–183.                                             Li, J., Pu, S., Datta, N., Tikuisis, A.P., et al. 2006. Global landscape of
+Gandhi, T.K., Zhong, J., Mathivanan, S., Karthick, L., Chandrika, K.N.,             protein complexes in the yeast Saccharomyces cerevisiae. Nature
+    Mohan, S.S., Sharma, S., Pinkert, S., Nagaraju, S., Periaswamy, B., et          440: 637–643.
+    al. 2006. Analysis of the human protein interactome and                     LaCount, D.J., Vignali, M., Chettier, R., Phansalkar, A., Bell, R.,
+    comparison with yeast, worm and fly interaction datasets. Nat.                  Hesselberth, J.R., Schoenfeld, L.W., Ota, I., Sahasrabudhe, S.,
+    Genet. 38: 285–293.                                                             Kurschner, C., et al. 2005. A protein interaction network of the
+Gavin, A.C., Aloy, P., Grandi, P., Krause, R., Boesche, M., Marzioch, M.,           malaria parasite Plasmodium falciparum. Nature 438: 103–107.
+    Rau, C., Jensen, L.J., Bastuck, S., Dumpelfeld, B., et al. 2006.            Lage, K., Karlberg, E.O., Storling, Z.M., Olason, P.I., Pedersen, A.G.,
+    Proteome survey reveals modularity of the yeast cell machinery.                 Rigina, O., Hinsby, A.M., Tumer, Z., Pociot, F., Tommerup, N., et al.
+    Nature 440: 631–636.                                                            2007. A human phenome-interactome network of protein complexes
+Ge, H., Liu, Z., Church, G.M., and Vidal, M. 2001. Correlation between              implicated in genetic disorders. Nat. Biotechnol. 25: 309–316.
+    transcriptome and interactome mapping data from Saccharomyces               Lee, I., Date, S.V., Adai, A.T., and Marcotte, E.M. 2004. A probabilistic
+    cerevisiae. Nat. Genet. 29: 482–486.                                            functional network of yeast genes. Science 306: 1555–1558.
+Ghazalpour, A., Doss, S., Zhang, B., Wang, S., Plaisier, C., Castellanos,       Lee, H., Tu, Z., Deng, M., Sun, F., and Chen, T. 2006. Diffusion
+    R., Brozell, A., Schadt, E.E., Drake, T.A., Lusis, A.J., et al. 2006.           kernel-based logistic regression models for protein function
+    Integrating genetic and network analysis to characterize genes                  prediction. OMICS: A Journal of Integrative Biology 10: 40–55.
+    related to mouse weight. PLoS Genet. 2: e130. doi:                          Leone, M. and Pagnani, A. 2005. Predicting protein functions with
+    10.1371/journal.pgen.0020130.                                                   message passing algorithms. Bioinformatics 21: 239–247.
+Goehler, H., Lalowski, M., Stelzl, U., Waelter, S., Stroedicke, M., Worm,       Letovsky, S. and Kasif, S. 2003. Predicting protein function from
+    U., Droege, A., Lindenberg, K.S., Knoblich, M., Haenig, C., et al.              protein/protein interaction data: A probabilistic approach.
+    2004. A protein interaction network links GIT1, an enhancer of                  Bioinformatics (Suppl. 1) 19: i197–i204.
+    huntingtin aggregation, to Huntington’s disease. Mol. Cell                  Lim, J., Hao, T., Shaw, C., Patel, A.J., Szabo, G., Rual, J.F., Fisk, C.J., Li,
+    15: 853–865.                                                                    N., Smolyar, A., Hill, D.E., et al. 2006. A protein-protein interaction
+Goh, K.I., Cusick, M.E., Valle, D., Childs, B., Vidal, M., and Barabasi,            network for human inherited ataxias and disorders of Purkinje cell
+    A.L. 2007. The human disease network. Proc. Natl. Acad. Sci.                    degeneration. Cell 125: 801–814.
+    104: 8685–8690.                                                             Ma, X., Lee, H., Wang, L., and Sun, F. 2007. CGI: A new approach for
+Goring, H.H., Curran, J.E., Johnson, M.P., Dyer, T.D., Charlesworth, J.,            prioritizing genes by combining gene expression and protein-protein
+    Cole, S.A., Jowett, J.B., Abraham, L.J., Rainwater, D.L., Comuzzie,             interaction data. Bioinformatics 23: 215–221.
+    A.G., et al. 2007. Discovery of expression QTLs using large-scale           Mangan, S. and Alon, U. 2003. Structure and function of the
+    transcriptional profiling in human lymphocytes. Nat. Genet.                     feed-forward loop network motif. Proc. Natl. Acad. Sci.
+    39: 1208–1216.                                                                  100: 11980–11985.
+Hamosh, A., Scott, A.F., Amberger, J.S., Bocchini, C.A., and McKusick,          Mathivanan, S., Periaswamy, B., Gandhi, T.K., Kandasamy, K., Suresh,
+    V.A. 2005. Online Mendelian Inheritance in Man (OMIM), a                        S., Mohmood, R., Ramachandra, Y.L., and Pandey, A. 2006. An
+    knowledgebase of human genes and genetic disorders. Nucleic Acids               evaluation of human protein-protein interaction data in the public
+    Res. 33: D514–D517.                                                             domain. BMC Bioinformatics (Suppl. 5) 7: S19. doi:
+Hanisch, D., Zien, A., Zimmer, R., and Lengauer, T. 2002. Co-clustering             10.1186/1471-2105-7-S5-S19.
+    of biological networks and gene expression data. Bioinformatics             Matthews, L.R., Vaglio, P., Reboul, J., Ge, H., Davis, B.P., Garrels, J.,
+    (Suppl. 1) 18: S145–S154.                                                       Vincent, S., and Vidal, M. 2001. Identification of potential
+Harbison, C.T., Gordon, D.B., Lee, T.I., Rinaldi, N.J., Macisaac, K.D.,             interaction networks using sequence-based searches for conserved
+    Danford, T.W., Hannett, N.M., Tagne, J.B., Reynolds, D.B., Yoo, J., et          protein-protein interactions or “interologs.” Genome Res.
+    al. 2004. Transcriptional regulatory code of a eukaryotic genome.               11: 2120–2126.
+    Nature 431: 99–104.                                                         McCraith, S., Holtzman, T., Moss, B., and Fields, S. 2000. Genome-wide
+Harris, M.A., Clark, J., Ireland, A., Lomax, J., Ashburner, M., Foulger, R.,        analysis of vaccinia virus protein-protein interactions. Proc. Natl.
+    Eilbeck, K., Lewis, S., Marshall, B., Mungall, C., et al. 2004. The Gene        Acad. Sci. 97: 4879–4884.
+    Ontology (GO) database and informatics resource. Nucleic Acids Res.         Milo, R., Shen-Orr, S., Itzkovitz, S., Kashtan, N., Chklovskii, D., and
+    32: D258–D261.                                                                  Alon, U. 2002. Network motifs: Simple building blocks of complex
+Hartwell, L.H., Hopfield, J.J., Leibler, S., and Murray, A.W. 1999. From            networks. Science 298: 824–827.
+    molecular to modular cell biology. Nature 402: C47–C52.                     Myers, C.L. and Troyanskaya, O.G. 2007. Context-sensitive data
+Hu, Z., Killion, P.J., and Iyer, V.R. 2007. Genetic reconstruction of a             integration and prediction of biological networks. Bioinformatics
+    functional transcriptional regulatory network. Nat. Genet.                      23: 2322–2330.
+    39: 683–687.                                                                Oti, M. and Brunner, H.G. 2007. The modular nature of genetic diseases.
+Huang, H., Jedynak, B.M., and Bader, J.S. 2007. Where have all the                  Clin. Genet. 71: 1–11.
+    interactions gone? Estimating the coverage of two-hybrid protein            Oti, M., Snel, B., Huynen, M.A., and Brunner, H.G. 2006. Predicting
+    interaction maps. PLoS Comput. Biol. 3: e214. doi:                              disease genes using protein-protein interactions. J. Med. Genet.
+    10.1371/journal.pcbi.0030214.                                                   43: 691–698.
+Hughes, T.R., Marton, M.J., Jones, A.R., Roberts, C.J., Stoughton, R.,          Ourfali, O., Shlomi, T., Ideker, T., Ruppin, E., and Sharan, R. 2007.
+    Armour, C.D., Bennett, H.A., Coffey, E., Dai, H., He, Y.D., et al.              SPINE: A framework for signaling-regulatory pathway inference from
+    2000. Functional discovery via a compendium of expression profiles.             cause-effect experiments. Bioinformatics 23: i359–i366.
+    Cell 102: 109–126.                                                          Pan, X., Ye, P., Yuan, D.S., Wang, X., Bader, J.S., and Boeke, J.D. 2006. A
+Ideker, T., Thorsson, V., Ranish, J.A., Christmas, R., Buhler, J., Eng, J.K.,       DNA integrity network in the yeast Saccharomyces cerevisiae. Cell
+    Bumgarner, R., Goodlett, D.R., Aebersold, R., and Hood, L. 2001.                124: 1069–1081.
+    Integrated genomic and proteomic analyses of a systematically               Parrish, J.R., Yu, J., Liu, G., Hines, J.A., Chan, J.E., Mangiola, B.A.,
+    perturbed metabolic network. Science 292: 929–934.                              Zhang, H., Pacifico, S., Fotouhi, F., DiRita, V.J., et al. 2007. A
+Ideker, T., Ozier, O., Schwikowski, B., and Siegel, A.F. 2002. Discovering          proteome-wide protein interaction map for Campylobacter jejuni.
+    regulatory and signalling circuits in molecular interaction networks.           Genome Biol. 8: R130. doi: 10.1186/gb-2007-8-7-r130.
+    Bioinformatics (Suppl. 1) 18: S233–S240.                                    Parsons, A.B., Brost, R.L., Ding, H., Li, Z., Zhang, C., Sheikh, B., Brown,
+Ito, T., Chiba, T., Ozawa, R., Yoshida, M., Hattori, M., and Sakaki, Y.             G.W., Kane, P.M., Hughes, T.R., and Boone, C. 2004. Integration of
+    2001. A comprehensive two-hybrid analysis to explore the yeast                  chemical-genetic and genetic interaction data links bioactive
+    protein interactome. Proc. Natl. Acad. Sci. 98: 4569–4574.                      compounds to cellular target pathways. Nat. Biotechnol. 22: 62–69.
+Jansen, R., Yu, H., Greenbaum, D., Kluger, Y., Krogan, N.J., Chung, S.,         Parsons, A.B., Lopez, A., Givoni, I.E., Williams, D.E., Gray, C.A., Porter,
+    Emili, A., Snyder, M., Greenblatt, J.F., and Gerstein, M. 2003. A               J., Chua, G., Sopko, R., Brost, R.L., Ho, C.H., et al. 2006. Exploring
+    Bayesian networks approach for predicting protein-protein                       the mode-of-action of bioactive compounds by chemical-genetic
+    interactions from genomic data. Science 302: 449–453.                           profiling in yeast. Cell 126: 611–625.
+Jeong, H., Mason, S.P., Barabasi, A.L., and Oltvai, Z.N. 2001. Lethality        Ptacek, J., Devgan, G., Michaud, G., Zhu, H., Zhu, X., Fasolo, J., Guo,
+
+
+
+                                                                                                                           Genome Research               651
+                                                                                                                              www.genome.org
+                Downloaded from genome.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+Ideker and Sharan
+
+
+    H., Jona, G., Breitkreutz, A., Sopko, R., et al. 2005. Global analysis of    Suthram, S., Sittler, T., and Ideker, T. 2005. The Plasmodium protein
+    protein phosphorylation in yeast. Nature 438: 679–684.                           network diverges from those of other eukaryotes. Nature
+Pujana, M.A., Han, J.D., Starita, L.M., Stevens, K.N., Tewari, M., Ahn,              438: 108–112.
+    J.S., Rennert, G., Moreno, V., Kirchhoff, T., Gold, B., et al. 2007.         Suthram, S., Beyer, A., and Ideker, T. 2007. eQED: An efficient method
+    Network modeling links breast cancer susceptibility and centrosome               for interpreting eQTL associations using protein networks. In Proc.
+    dysfunction. Nat. Genet. 39: 1338–1349.                                          RECOMB satellite workshop on systems biology. Columbia University,
+Quackenbush, J. 2006. Microarray analysis and tumor classification. N.               NY.
+    Engl. J. Med. 354: 2463–2472.                                                Tong, A.H., Evangelista, M., Parsons, A.B., Xu, H., Bader, G.D., Page, N.,
+Rain, J.C., Selig, L., De Reuse, H., Battaglia, V., Reverdy, C., Simon, S.,          Robinson, M., Raghibizadeh, S., Hogue, C.W., Bussey, H., et al. 2001.
+    Lenzen, G., Petel, F., Wojcik, J., Schachter, V., et al. 2001. The               Systematic genetic analysis with ordered arrays of yeast deletion
+    protein-protein interaction map of Helicobacter pylori. Nature                   mutants. Science 294: 2364–2368.
+    409: 211–215.                                                                Tong, A.H., Lesage, G., Bader, G.D., Ding, H., Xu, H., Xin, X., Young, J.,
+Ramani, A.K., Bunescu, R.C., Mooney, R.J., and Marcotte, E.M. 2005.                  Berriz, G.F., Brost, R.L., Chang, M., et al. 2004. Global mapping of
+    Consolidating the set of known human protein-protein interactions                the yeast genetic interaction network. Science 303: 808–813.
+    in preparation for large-scale mapping of the human interactome.             Tu, Z., Wang, L., Arbeitman, M.N., Chen, T., and Sun, F. 2006. An
+    Genome Biol. 6: R40. doi: 10.1186/gb-2005-6-5-r40.                               integrative approach for causal gene identification and gene
+Raoult, D., Audic, S., Robert, C., Abergel, C., Renesto, P., Ogata, H., La           regulatory pathway inference. Bioinformatics 22: e489–e496.
+    Scola, B., Suzan, M., and Claverie, J.M. 2004. The 1.2-megabase              Tuck, D.P., Kluger, H.M., and Kluger, Y. 2006. Characterizing disease
+    genome sequence of Mimivirus. Science 306: 1344–1350.                            states from topological properties of transcriptional regulatory
+Rual, J.F., Venkatesan, K., Hao, T., Hirozane-Kishikawa, T., Dricot, A., Li,         networks. BMC Bioinformatics 7: 236. doi: 10.1186/1471-2105-7-236.
+    N., Berriz, G.F., Gibbons, F.D., Dreze, M., Ayivi-Guedehoussou, N., et       Uetz, P., Giot, L., Cagney, G., Mansfield, T.A., Judson, R.S., Knight, J.R.,
+    al. 2005. Towards a proteome-scale map of the human                              Lockshon, D., Narayan, V., Srinivasan, M., Pochart, P., et al. 2000. A
+    protein-protein interaction network. Nature 437: 1173–1178.                      comprehensive analysis of protein-protein interactions in
+Said, M.R., Begley, T.J., Oppenheim, A.V., Lauffenburger, D.A., and                  Saccharomyces cerevisiae. Nature 403: 623–627.
+    Samson, L.D. 2004. Global network analysis of phenotypic effects:            Uetz, P., Dong, Y.A., Zeretzke, C., Atzler, C., Baiker, A., Berger, B.,
+    Protein networks and toxicity modulation in Saccharomyces cerevisiae.            Rajagopala, S.V., Roupelieva, M., Rose, D., Fossum, E., et al. 2006.
+    Proc. Natl. Acad. Sci. 101: 18006–18011.                                         Herpesviral protein networks and their interaction with the human
+Sanchez, I., Mahlke, C., and Yuan, J. 2003. Pivotal role of                          proteome. Science 311: 239–242.
+    oligomerization in expanded polyglutamine neurodegenerative                  Vazquez, A., Flammini, A., Maritan, A., and Vespignani, A. 2003. Global
+    disorders. Nature 421: 373–379.                                                  protein function prediction from protein-protein interaction
+Schuldiner, M., Collins, S.R., Thompson, N.J., Denic, V., Bhamidipati,               networks. Nat. Biotechnol. 21: 697–700.
+    A., Punna, T., Ihmels, J., Andrews, B., Boone, C., Greenblatt, J.F., et      von Mering, C., Huynen, M., Jaeggi, D., Schmidt, S., Bork, P., and Snel,
+    al. 2005. Exploration of the function and organization of the yeast              B. 2003. STRING: A database of predicted functional associations
+    early secretory pathway through an epistatic miniarray profile. Cell             between proteins. Nucleic Acids Res. 31: 258–261.
+    123: 507–519.                                                                von Schwedler, U.K., Stuchell, M., Muller, B., Ward, D.M., Chung, H.Y.,
+Scott, J., Ideker, T., Karp, R.M., and Sharan, R. 2006. Efficient algorithms         Morita, E., Wang, H.E., Davis, T., He, G.P., Cimbora, D.M., et al.
+    for detecting signaling pathways in protein interaction networks. J.             2003. The protein network of HIV budding. Cell 114: 701–713.
+    Comput. Biol. 13: 133–144.                                                   Wachi, S., Yoneda, K., and Wu, R. 2005. Interactome-transcriptome
+Shachar, R., Unger, L., Kupiec, M., Ruppin, R., and Sharan, R. 2007. A               analysis reveals the high centrality of genes differentially expressed
+    systems-level approach to mapping the telomere-length                            in lung cancer tissues. Bioinformatics 21: 4205–4208.
+    maintenance gene circuitry. In Proc. RECOMB satellite workshop on            Workman, C.T., Mak, H.C., McCuine, S., Tagne, J.B., Agarwal, M., Ozier,
+    systems biology. Columbia University, NY.                                        O., Begley, T.J., Samson, L.D., and Ideker, T. 2006. A systems
+Sharan, R. and Ideker, T. 2006. Modeling cellular machinery through                  approach to mapping DNA damage response pathways. Science
+    biological network comparison. Nat. Biotechnol. 24: 427–433.                     312: 1054–1059.
+Sotiriou, C. and Piccart, M.J. 2007. Taking gene-expression profiling to         Yeang, C.H., Ideker, T., and Jaakkola, T. 2004. Physical network models.
+    the clinic: When will molecular signatures become relevant to                    J. Comput. Biol. 11: 243–262.
+    patient care? Nat. Rev. Cancer 7: 545–553.                                   Yeang, C.H., Mak, H.C., McCuine, S., Workman, C., Jaakkola, T., and
+Steffen, M., Petti, A., Aach, J., D’Haeseleer, P., and Church, G. 2002.              Ideker, T. 2005. Validation and refinement of gene-regulatory
+    Automated modelling of signal transduction networks. BMC                         pathways on a network of physical interactions. Genome Biol. 6: R62.
+    Bioinformatics 3: 34. doi: 10.1186/1471-2105/3/34.                               doi: 10.1186/gb-2005-6-7-r62.
+Stelzl, U., Worm, U., Lalowski, M., Haenig, C., Brembeck, F.H., Goehler,         Yildirim, M.A., Goh, K.I., Cusick, M.E., Barabasi, A.L., and Vidal, M.
+    H., Stroedicke, M., Zenkner, M., Schoenherr, A., Koeppen, S., et al.             2007. Drug-target network. Nat. Biotechnol. 25: 1119–1126.
+    2005. A human protein-protein interaction network: a resource for            Yook, S.H., Oltvai, Z.N., and Barabasi, A.L. 2004. Functional and
+    annotating the proteome. Cell 122: 957–968.                                      topological characterization of protein interaction networks.
+Stranger, B.E., Nica, A.C., Forrest, M.S., Dimas, A., Bird, C.P., Beazley, C.,       Proteomics 4: 928–942.
+    Ingle, C.E., Dunning, M., Flicek, P., Koller, D., et al. 2007.               Zien, A., Kuffner, R., Zimmer, R., and Lengauer, T. 2000. Analysis of
+    Population genomics of human gene expression. Nat. Genet.                        gene expression data with pathway scores. Proc. Int. Conf. Intell. Syst.
+    39: 1217–1224.                                                                   Mol. Biol. 8: 407–417.
+
+
+
+
+652      Genome Research
+           www.genome.org
+       Downloaded from genome.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+
+Protein networks in disease
+Trey Ideker and Roded Sharan
+
+Genome Res. 2008 18: 644-652
+Access the most recent version at doi:10.1101/gr.071852.107
+
+
+      References         This article cites 96 articles, 35 of which can be accessed free at:
+                         http://genome.cshlp.org/content/18/4/644.full.html#ref-list-1
+
+    Open Access          Freely available online through the Genome Research Open Access option.
+
+        Creative         This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the
+       Commons           first six months after the full-issue publication date (see
+         License         http://genome.cshlp.org/site/misc/terms.xhtml). After six months, it is available under
+                         a Creative Commons License (Attribution-NonCommercial 3.0 Unported License), as
+                         described at http://creativecommons.org/licenses/by-nc/3.0/.
+
+   Email Alerting        Receive free email alerts when new articles cite this article - sign up in the box at the
+         Service         top right corner of the article or click here.
+
+
+
+
+To subscribe to Genome Research go to:
+http://genome.cshlp.org/subscriptions
+
+
+
+Copyright © 2008, Cold Spring Harbor Laboratory Press
+

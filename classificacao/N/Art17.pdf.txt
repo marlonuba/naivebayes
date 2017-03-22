@@ -1,0 +1,1115 @@
+                                                                                                       REVIEWS
+                                    Maximizing mouse cancer models
+                                    Kristopher K. Frese and David A. Tuveson
+                                    Abstract | Animal models of cancer provide an alternative means to determine the causes of
+                                    and treatments for malignancy, thus representing a resource of immense potential for cancer
+                                    medicine. The sophistication of modelling cancer in mice has increased to the extent that
+                                    investigators can both observe and manipulate a complex disease process in a manner
+                                    impossible to perform in patients. However, owing to limitations in model design and
+                                    technology development, and the surprising underuse of existing models, only now are we
+                                    realising the full potential of mouse models of cancer and what new approaches are needed
+                                    to derive the maximum value for cancer patients from this investment.
+
+
+Xenograft
+                                   Cancer represents an increasing cause of morbidity and         description and ultimate discovery of transforming
+Tumour tissue or cell lines from   mortality throughout the world as health advances con‑         genes, thereby laying the groundwork for the field of
+one species propagated in          tinue to extend the life spans of our populations. Although    cancer biology and cell biology. However, many of our
+immunodeficient mice in            our basic understanding of cancer has increased consid‑        initial observations are now being re‑evaluated owing to
+ectopic or orthotopic sites.
+                                   erably since 1971, when United States President Richard        our recent appreciation of cancer as a complex disease
+Genetically engineered mice        Nixon initiated the ‘War on Cancer’, our ability to trans‑     with intricate interactions between transformed cells
+(GEM). Mice harbouring             late this knowledge into a health benefit for patients has     that harbour oncogenic mutations (commonly referred
+genetic modifications designed     been restricted to certain malignancies and often only         to as the cell autonomous compartment) and surrounding
+to express either exogenous or     temporarily. Importantly, specific hypotheses developed        non-cell autonomous constituents, such as normal cells,
+endogenous mutated genes. In
+cancer modelling, these are
+                                   from our knowledge of cancer biology can be tested in          stromal cells and immune cells1. Indeed, several facets
+frequently oncogenes or            increasingly complex model systems ranging from cell           of tumorigenesis, including angiogenesis and metastasis,
+tumour-suppressor genes.           culture to genetically engineered mouse models, and            are not possible to assess in cell culture. Improvements in
+                                   such investigations should prove invaluable in discover‑       tissue sampling, genomics and biostatistics have enabled
+Cell autonomous
+                                   ing new methodologies for the detection, management            the direct characterization of primary human tumours;
+A trait engendered only in cells
+harbouring the mutation. In
+                                   and treatment of cancer in humans.                             however, these analyses are limited and still do not take
+the case of a carcinoma, a cell                                                                   into account the contributions of the entire body.
+autonomous function occurs         The evolution of cancer modelling                                  The development of xenograft models enabled the
+only in the mutant tumour          The laboratory mouse (Mus musculus) is one of the              rapid and facile in vivo assessment of tumour tissue
+epithelial cells.
+                                   best model systems for cancer investigations owing to          and cell lines in immunocompromised mice2. Indeed,
+Non-cell autonomous                various factors including its small size and propensity        patient-specific models have recently been proposed
+A trait engendered in cells that   to breed in captivity, lifespan of 3 years, extensive physi‑   as a means to prospectively personalize treatment
+do not harbour the mutation.       ological and molecular similarities to humans, and an          regimens3,4. However, several crucial differences exist
+In the case of a carcinoma, a
+                                   entirely sequenced genome. M. musculus cancer models           when comparing tumour xenografts with patient-
+non-cell autonomous function
+occurs in stromal, immune and
+                                   have progressed through several phases of increasing           derived specimens or autochthonous murine tumours,
+endothelial cells.                 complexity, including xenograft tumours derived from           including the derangement of the normal tumour
+                                   tumour cell lines or explants, chemical and viral car‑         architecture and diminished genetic heterogeneity that
+Cambridge Research                 cinogens, and several variations of genetically engineered     is inherent to autochthonous tumours. Crucial features
+Institute, Cancer Research UK
+                                   mice (GEM). Each approach has its own advantages and           of the tumour microenvironment that are altered or lost in
+and University of Cambridge
+Department of Oncology,            disadvantages, and it is important to choose the most          xenograft tumours include nearby normal tissues, stro‑
+Cambridge, CB2 0RE, UK.            appropriate system for particular questions.                   mal cells, vasculature and lymphatic circulation, and
+Correspondence to D.A.T.                                                                          immune cells5,6. The cell-autonomous feature that is
+e‑mail: david.tuveson@             Tissue culture and ‘animal culture’                            most often misrepresented in tumour xenografts is the
+cancer.org.uk
+doi:10.1038/nrc2192
+                                   The establishment of cell lines from human and animal          expansion of a certain clonal constituent of polyclonal
+Published online                   tumours is largely responsible for our early progress in       tumours owing to the selective pressures of cell culture
+9 August 2007                      cancer research. For example, these studies led to the         or tissue explantation7–9. These differences in tumour
+
+
+nature reviews | cancer	                                                                                                volume 7 | September 2007 | 645
+                                                            © 2007 Nature Publishing Group
+REVIEWS
+
+ At a glance                                                                                  Genetically engineered models
+                                                                                              GEM are the most sophisticated animal models of
+ •	The laboratory mouse (Mus musculus) is one of the best model systems for                   human cancer, and many now exist that accurately
+   investigations of cancer biology in vivo, ranging from basic models such as                mimic the pathophysiological and molecular features of
+   xenograft tumours derived from tumour cell lines or explants, to highly complex
+                                                                                              human malignancies (TABLE 1). Despite the diverse tech‑
+   genetically engineered mice (GEM).
+                                                                                              nical approaches used17, GEM can be simply classified
+ •	We suggest that xenografts should no longer be referred to as mouse cancer                 as either transgenic or endogenous. This distinction is
+   models. Xenografts represent an intermediate step between cell culture and
+                                                                                              not merely semantic but is highly relevant, because the
+   mouse cancer models, and could be more accurately termed ‘animal culture’.
+                                                                                              type of GEM can determine the experimental outcome
+ •	GEM can be classified as either transgenic or endogenous. This distinction is not          in certain situations.
+   merely semantic but is highly relevant, because the type of GEM can determine
+   the experimental outcome in certain situations.
+                                                                                              Transgenic GEM. Mutant mice that express oncogenes
+ •	Transgenic GEM are mutant mice that express oncogenes or dominant-negative
+                                                                                              or dominant-negative tumour-suppressor genes in a
+   tumour-suppressor genes (TSGs) in a non-physiological manner owing to ectopic
+   promoter and enhancer elements. Advantages of transgenic GEM include the
+                                                                                              non-physiological manner owing to ectopic promoter
+   ability to reversibly control target-gene expression with exogenous ligands. One           and enhancer elements are broadly termed transgenic
+   disadvantage is that it might be difficult to elicit the exquisite control necessary       GEM18 (FIG. 1). In its simplest form, this describes the
+   to express oncogenes at physiological levels.                                              classical transgenic mice generated by pronuclear injec‑
+ •	Endogenous GEM represent mutant mice that lose the expression of TSGs or                   tion of cDNA constructs that contain promoter elements
+   express dominant-negative TSGs or oncogenes from their native promoters                    designed to restrict tissue tropism. Transgenic GEM reca‑
+   through the use of knockout and knockin technology. Conditional GEM models                 pitulate the genetic features of translocated or amplified
+   rely on the use of site-specific recombinases, such as Cre, to control the                 proto-oncogenes, and such mice have been extremely
+   spatiotemporal mutation of the mouse genome. The use of these conditional                  informative in establishing and confirming the basic ten‑
+   models will prove to be key in addressing important molecular and therapeutic              ets of cancer biology and in laying the groundwork for the
+   questions.                                                                                 development of more refined GEM. Transgenic GEM can
+ •	Modern GEM are poised to explore facets of cancer biology and medicine that are            be produced by the direct injection of fertilized oocytes
+   difficult or impossible to pursue clinically. However, all GEM described so far have       or through gene targeting and lentiviral transduction in
+   certain shortcomings in mimicking human malignancy. Several issues (such as                embryonic stem cells. However, the promoter fragments
+   humanizing mice) and practical considerations concerning GEM will need to be
+                                                                                              typically used represent the minimal sequence absolutely
+   addressed in order to meet our objectives.
+                                                                                              required, and do not necessarily accurately recapitulate
+                                                                                              the exquisite control conveyed by endogenous regula‑
+                                                                                              tory elements19. Indeed, many transcription factor and
+                                  cells and the microenvironment are probably relevant        microRNA binding sites are present within untranslated
+                                  in the therapeutic evaluation of compounds, as, fre‑        regions of a gene20, and would therefore not be present
+                                  quently, anti-neoplastics with demonstrable activity in     in a typical transgene. Furthermore, transgenes often
+                                  xenografts are ineffective in the clinical setting10, and   integrate as large concatamers that invariably promote
+                                  some evidence suggests that the converse is also true11.    overexpression. Owing to the random nature of trans‑
+                                  Indeed, we would suggest that xenografts should no          gene integration, chromosomal positional effects can
+                                  longer be referred to as mouse cancer models. Rather,       result in variegation and incomplete penetrance, thus
+                                  xenografts are an intermediate step between cell culture    potentially confounding results21; although insertion
+                                  and mouse cancer models, and could be more accurately       of the transgene into a well-characterized euchromatic
+                                  termed ‘animal culture’.                                    locus such as Rosa26 can overcome this limitation. In
+Autochthonous tumour                                                                          addition, this approach relies on the availability of appro‑
+An endogenous or in situ          Environmentally-induced cancer models                       priate promoters to obtain the desired effect (BOX 1).
+tumour that evolves from          Certain strains of mice develop cancer either spontane‑     Therefore, both expression levels and cell tropism may
+normal cells of a tumour-
+                                  ously12 or following various ‘environmental’ exposures,     not completely reflect that of the endogenous gene. An
+bearing animal. This is in
+contrast to animal cultures in    including radiation13, chemicals14, pathogenic viruses15    approach that attempts to address some of these issues is
+which exogenous tumour cells      and microbial flora16. These models have collectively       the transgenic introduction of episomal artificial chro‑
+are implanted into a non-         been useful for various genetic and preclinical stud‑       mosomes that harbour oncogenes to create multiple or
+tumour-bearing animal.            ies, including the identification of oncogenes and          single-copy transgenic mice22. Nonetheless, the artificial
+Tumour microenvironment
+                                  tumour-suppressor genes (TSGs), the mapping of              chromosomes are often integrated and expression levels
+The stroma and supporting         tumour susceptibility traits, commonly referred to as       may not be predictable23.
+milieu surrounding the tumour     modifier genes, and the assessment of the carcinogenic          Advantages of transgenic GEM include the ability to
+that consists of fibroblasts,     or chemopreventative effects of various compounds.          reversibly control target-gene expression with exogenous
+immune cells and endothelial
+                                  However, such models develop a restricted subset of         ligands, such as doxycycline24 or interferon25 (FIG. 1). The
+cells.
+                                  tumour types and grades with incomplete penetrance          most widely used system takes advantage of the tetracy‑
+Oncogene addiction                and variable latency. These significant limitations         cline operon. Further increasing its usefulness, this system
+The hypothesis that tumours       prompted the development of new technologies to             has been engineered so that tetracycline, or its non-toxic
+arising as a result of a          provide mouse cancer models that accurately reflect         analogue doxycycline, can either promote or inhibit tran‑
+particular oncogenic lesion are
+exquisitely dependent on
+                                  the common forms of human cancer and that allow             scription as determined by tissue-specific expression of the
+continued expression of that      the systematic investigation of tumour genetics and         tetracycline-regulated transcription factors. These systems
+oncogene.                         gene–environment interactions.                              have been used to study the concept of oncogene addiction26
+
+
+646 | September 2007 | volume 7	                                                                                        www.nature.com/reviews/cancer
+                                                          © 2007 Nature Publishing Group
+                                                                                                                                  REVIEWS
+
+                            Table 1 | Examples of genetically engineered mouse models that recapitulate human solid cancers
+                            Organ               Histopathology                                   Genetics
+                            Lung                Adenocarcinoma                                   Kras55
+                                                Squamous cell carcinoma                          NA
+                                                Large cell carcinoma                             NA
+                                                Small cell carcinoma                             Rb1;Trp53 (REF. 167)
+                            Colon               Polypoid adenocarcinoma                          Kras;Apc168
+                                                Hereditary non-polyposis carcinoma               Msh6169
+                            Breast              Ductal carcinoma                                 Brca2;Trp53 (REF. 170)
+                                                Lobular carcinoma                                Cdh1;Trp53 (REF. 171)
+                            Pancreas            Ductal adenocarcinoma                            Kras; Cdkn2a172, Kras;Trp53 (REF. 173)
+                                                Mucinous cystic neoplasm                         Kras;Dpc4 (REF. 96)
+                                                Intraductal papillary mucinous neoplasia         NA
+                            Prostate            Prostate carcinoma                               Pten174, Pten;Nkx.1 (REF. 175), Rb1;Trp53 (REF. 176)
+                            Liver               Hepatocellular carcinoma                         Apc177, Myc;Trp53 (REF. 178), Myc;TGFA179
+                            Ovary               Endometrioid carcinoma                           Kras;Pten180, Apc;Pten181
+                                                Serous carcinoma                                 NA
+                                                Mucinous carcinoma                               NA
+                            Oesophagus          Squamous cell carcinoma                          Pten;Dpc4 (REF. 182); Ccnd1;Trp53 (REF. 183)
+                                                Adenocarcinoma                                   NA
+                            Bladder             Transitional cell carcinoma                      Hras184
+                            Kidney              Renal cell carcinoma                             Apc;Trp53 (REF. 185)
+                            Brain               Astrocytoma                                      Pten;Rb1 (REF. 186)
+                                                Glioblastoma                                     Nf1;Trp53 (REF. 198)
+                            Stomach             Gastric carcinoma                                Wnt;Ptgs2;Ptges188
+                            Skin                Melanoma                                         HRAS;Ink4a27
+                                                Squamous cell carcinoma                          Xpd*189
+                            * Requires exposure to UVB light. NA, none available.
+
+
+                           (and the feasibility of treating different cancers with thera‑   that restoration of p53 function can promote tumour
+                           peutics that target crucial oncogenes) by demonstrating a        regression35,36. Although this line of experimentation
+                           requirement for Hras, Kras, Myc, Bcr–Abl and Erbb2 (also         has only been used for nuclear proteins in mouse mod‑
+                           known as Neu) in the maintenance of melanoma27, lung             els, success in cell culture indicates that it is possible to
+                           adenocarcinoma28, acute myeloid leukaemia and T-cell             similarly regulate cytoplasmic proteins. These alleles
+                           lymphoma29, B-cell lymphoma/leukaemia30 and breast               can prove very powerful because they may be expressed
+                           cancer31, respectively. One limitation of this system is that    from either ectopic or endogenous promoters, and
+                           it may be difficult to elicit the exquisite control necessary    function can be easily temporally regulated; however,
+                           to express oncogenes at physiological levels, an impor‑          extensive characterization is required to demonstrate
+                           tant consideration as many oncogenes cause toxic effects         that the activated fusion protein behaves exactly like
+                           including senescence32 or apoptosis33 when overexpressed         the activated wild-type protein.
+                           in vivo.                                                             Although most transgenic GEM are propagated by
+                               Oestrogen receptor fusion proteins represent an              vertical transmission, two versions arise somatically
+                           additional mechanism by which oncogene or TSG                    and thereby minimize the time and resource investment
+                           function can be inducibly regulated (FIG. 1). In this            required to generate new mouse models — estimated to
+                           case, the fusion protein is translated, but remains inac‑        be at least 12 months and US$100,000 in some studies37.
+                           tive in the cytoplasm because the oestrogen receptor             One approach is the use of recombinant avian sarcoma
+                           (ER) ligand-binding domain causes misfolding and                 leukosis virus (ASLV) to deliver cDNA constructs into
+                           sequestration by heat shock proteins. On treatment               murine tissues that express the ASLV receptor TVA.
+                           with Tamoxifen, the ER domain is released by the heat            This system offers the possibility of simultaneously tar‑
+                           shock proteins and the fusion protein can translocate            geting one organ with various oncogenes (or dominant-
+                           into the nucleus and rapidly mediate its effects. This           negative TSGs), and has been used to generate models
+                           technique has been used to demonstrate a requirement             of glioblastoma38, ovarian39, pancreatic40 and liver can‑
+                           for MYC in tumour maintenance 34 and, conversely,                cer 41. This system suffers from non-physiological
+
+
+nature reviews | cancer	                                                                                           volume 7 | September 2007 | 647
+                                                      © 2007 Nature Publishing Group
+REVIEWS
+
+a Constitutive transgenes                   TSP      Oncogene               or    TSP          DN TSG
+
+
+
+                                                                                                                  + Dox
+b Tetracycline-inducible          Tet on    TSP          rTta                    tetO Pro           Tg                             tetO Pro           Tg
+  transgenes
+
+
+
+
+                                  Tet off   TSP          tTa                     tetO Pro           Tg
+                                                                                                                  + Dox                               Tg
+                                                                                                                                   tetO Pro
+
+
+
+                                                                                                                  + Tam
+
+
+
+
+                                                                                                                                          HSP
+                                                                                             HSP
+c Tamoxifen-regulatable proteins            TSP      Oncogene ERT                Onco -ERT                                                         Onco -ERT
+
+                                    Figure 1 | Transgenic GEM. Constitutive (a) or inducible (b) transgenes represent the first generation of genetically
+                                    engineered mice (GEM) in which gene expression is controlled by an exogenous promoter. The    Nature  Reviews |(Tet)
+                                                                                                                                     tetracycline   Cancer
+                                                                                                                                                         on
+                                    or off systems are shown. The transgene is only expressed in the presence (Tet on) or absence (Tet off) of
+                                    doxycycline (Dox). Transgene expression can also be regulated at the protein level (c). The active form of tamoxifen
+                                    (4-hydroxytamoxifen;Tam) is used to regulate protein activity through modifying the interaction of the oestrogen
+                                    receptor fusion protein (onc-ERT) with heat shock protein (HSP) chaperones. In the absence of Tam, onco-ERT is
+                                    inactive. In the presence of Tam onco-ERT no longer interacts with HSP and is functional. DN TSG, dominant-
+                                    negative tumour-suppressor gene; rTta, tetracycline-regulatable transcription factors; Tg, transgene; TSP, tissue-
+                                    specific promoter.
+
+
+                                    expression of delivered genes as well as the inability          throughout the mouse. This can lead to developmental
+                                    to express oncogenes in non-dividing cells. Although            defects, undesirable effects outside tissues of interest,
+                                    the latter has been overcome by pseudotyping a len‑             or compensation from related gene products or those
+                                    tivirus with the ASLV envelope protein 42, this has             in the same pathway46–48. Therefore, in terms of model‑
+                                    not been shown in vivo. A second method of somatic              ling human disease these germline mutations are more
+Loss of heterozygosity              mutation through retrovirus insertional mutagenesis             useful in studying familial cancer diseases such as the
+Mutation or ‘loss’ of the
+remaining wild-type allele in a
+                                    strategies have been used to identify genes involved in         Li‑Fraumeni syndrome. Unfortunately, many TSG
+heterozygous GEM.                   tumorigenesis in a non-biased manner43. Many alleles            mutant GEM commonly develop mesodermal-derived
+                                    described to date are presumptive proto-oncogenes and           tumours rather than the carcinomas that frequently
+Haploinsufficiency                  TSGs that are aberrantly expressed or disrupted owing           afflict human patients. Despite these caveats, these
+A phenotypic state that results
+                                    to retroviral insertion, accompanied by whole genome            models represented an essential method to functionally
+from loss of one functional
+allele of any given gene in         losses and gains.                                               characterize individual genes, before the introduction
+diploid cells. Sometimes also                                                                       of RNA interference approaches.
+called allelic insufficiency.       Endogenous GEM. Endogenous GEM represent mutant                     The advent of conditional models heralded a key
+                                    mice that lose the expression of TSGs or express domi‑          advance in the generation of cancer-prone GEM. These
+Conditional models
+GEM that rely on site-specific
+                                    nant-negative TSGs or oncogenes from their native pro‑          models rely on the use of site-specific recombinases (SSR) to
+recombinase systems to              moters18 (FIG. 2). Gene ‘knockout’ approaches entail the        control the spatiotemporal mutation of the genome. The
+engender gene expression in a       replacement of endogenous embryonic stem cell chroma‑           most common conditional system uses the bacteriophage
+spatially and/or temporally         tin by a targeting vector that disrupts this allele, and were   Cre-Lox system in which Cre recombinase recognizes a
+restricted manner.
+                                    the first methods used to generate such mice44. Germline        pair of inverted repeat DNA elements, or LoxP sites, and
+Site-specific recombinase           biallelic disruptions of TSGs often cause embryonic             catalyses recombination resulting in deletion or inversion
+(SSR). An enzyme, such as           lethality, identifying previously unrecognized roles of         of the intervening sequence49. Further temporal control
+bacterial Cre, that catalyses       these genes in normal murine development. Therefore,            can be achieved with a ligand-regulatable SSR such as
+recombination between two           heterozygous mutant mice are often used to deter‑               CreERT, in which the recombinase remains inactive before
+specific inverted repeat
+sequences (such as LoxP).
+                                    mine the tumorigenic potential of TSG mutant alleles,           induction. Conditional inactivation of a TSG is achieved
+                                    with either the somatic loss of heterozygosity (LOH)            by flanking exons of interest with LoxP sites arranged in
+CreERT                              or haploinsufficiency identified as crucial mediators of        the same orientation. Exposure to the SSR excises these
+A general term for a                tumorigenesis. Alternatively, embryonic lethality can be        exons, resulting in a non-functional or unstable gene
+tamoxifen-inducible Cre
+                                    bypassed in chimeric mice using embryonic stem cells            product (FIG. 2). Ideal conditional alleles exhibit normal
+recombinase in which the Cre
+cDNA is fused to the oestrogen      that harbour homozygous TSG disruptions to gener‑               gene expression following the intronic insertion of LoxP
+receptor ligand-binding             ate novel GEM45. Although these models were initially           sites, and in this setting conditional alleles can be har‑
+domain. This fusion protein is      designed to model human disease, this has often proven          boured either heterozygously or homozygously and have
+sequestered in the cytoplasm        difficult. In part, this is due to the fact that, unlike most   no effect on mouse development.
+by heat shock proteins until
+exposure to Tamoxifen
+                                    human cancers in which somatic mutations promote                    Endogenous GEM that express oncogenes in the
+promotes nuclear                    malignancies in the context of a normal organ, the              mouse germline are infrequently described50,51, reflect‑
+translocation.                      germline mutations in GEM are constitutively present            ing the paucity of such mutations in familial cancer
+
+
+648 | September 2007 | volume 7	                                                                                               www.nature.com/reviews/cancer
+                                                                © 2007 Nature Publishing Group
+                                                                                                                                        REVIEWS
+
+  Box 1 | Tissue-specific promoters                                                                 require the use of a tissue-specific SSR mouse. However,
+                                                                                                    using this endogenous GEM strategy, it is currently not
+  Tissue-specificity in conditional models is determined by Cre transgenes expressed                possible to modify the onset of tumour formation or the
+  from tissue-specific promoters. Unfortunately, these promoters are often not                      tumour spectrum.
+  exclusively active in the cell or tissue of interest, or in the desired kinetic fashion. For
+                                                                                                        Whereas many endogenous GEM correspond to spe‑
+  example, the two primary Cre alleles used to study pancreatic cancer are expressed
+                                                                                                    cific TSGs or oncogenes implicated in human cancer,
+  from the promoters of the Pdx1 homeobox transcription factor and the Ptf1a (also
+  known as p48) helix-loop-helix transcription factor, both of which are active in the              there is also a class of GEM that incorporate alleles that
+  pancreatic progenitor compartment153, 154. However, Pdx1 is also expressed in the                 may not be directly mutated in cancer but are thought to
+  developing foregut (stomach and duodenum), and Ptf1a is active in the brain155. Use               have a role in genome stability, and thereby might indi‑
+  of either allele results in extra-pancreatic phenotypes that could potentially                    rectly influence the development of cancer. A dramatic
+  confound results156. One potential solution to overcome this limitation is the                    example of this is the Terc knockout mouse that lacks
+  construction of a ‘promoter overlap’ model in which a requirement for transcription               the RNA subunit of telomerase and is cancer prone in
+  from multiple promoters engenders the desired specificity. Alternatively, the                     various tissues65, particularly in a Trp53 deficient back‑
+  discovery of new promoters active in pancreatic niches and by analogy other tissues               ground66. In addition, genes may be specifically control‑
+  should be encouraged to take full advantage of conditional technology in the
+                                                                                                    led constitutively, conditionally or inducibly by other
+  generation of genetically engineered mice (GEM).
+                                                                                                    methods that influence mRNA stability or translation,
+                                                                                                    such as RNA interference67,68 or microRNA expression69.
+                                   syndromes. Rather, GEM52 and patients53 that express             An important consideration with such approaches is that
+                                   certain oncogenes in their germline have profound                the efficiency of mRNA destruction or translational
+                                   developmental or neoplastic sequelae. Therefore, endog‑          modulation might be incomplete, and additional genes
+                                   enous GEM are usually conditional alleles constructed            may be influenced.
+                                   by the insertion of a transcriptional and translational              Recently, forward genetic systems were described
+                                   LoxStopLox ‘stop’ cassette between the promoter and              that represent a new class of endogenous and transgenic
+                                   first coding exon of the oncogenic allele54,55 (FIG. 2). On      GEM. These GEM are based on a bipartite transposon
+                                   expression of an active SSR, the stop cassette is excised        system consisting of a specific transposase and concatam‑
+                                   and the mutant oncogene is subsequently expressed. Stop          ers of mutagenic transposons that either aberrantly direct
+                                   cassettes can be used in the context of transgenic GEM;          the expression of proto-oncogenes or disrupt TSGs70,71.
+                                   however, the multiple LoxP sites present in the transgene        Furthermore, transposon systems can be either broadly
+                                   concatamer might promote chromosomal breakage56.                 active or restricted to particular tissues depending on the
+                                       In addition to focal mutations or deletions of genes,        promoters used to construct the transposons.
+                                   several cancers are caused by chromosomal transloca‑                 The choice of GEM can have a profound influence
+                                   tions, deletions or inversions57. In some cases, the junc‑       on the model generated. For example, elastase-KRASG12D
+                                   tions of these translocations are known and the resulting        mutant mice predictably develop pancreatic acinar dys‑
+                                   fusion gene products are well-characterized58. These             plasia and neoplasia, as the elastase promoter is confined
+                                   represent an additional mechanism that can be modelled           to acinar and centroacinar cells, and would thereby
+                                   using conditional approaches. Chromosomal deletions              restrict the expression of the mutant Kras cDNA to this
+                                   can be modelled in an analogous fashion, as conditional          compartment72. In stark contrast, LSL-KRASG12V;elastase-
+                                   TSGs, except LoxP sites are distally located on the same         tTA;tet-o-Cre mice develop pancreatic ductal carcinoma,
+                                   chromosome59. Chromosomal inversions are similarly               and not acinar carcinoma73. In this model, endogenous
+                                   modelled, except the LoxP sites are oriented facing each         KrasG12V expression initiates in exocrine pancreatic cells
+                                   other60 (FIG. 2). To overcome the possibility of re‑inversion    that are elastase positive, but the development of the
+                                   back to wild type, it is possible to either temporally control   appropriate cell lineage that gives rise to ductal pancre‑
+                                   Cre expression or use heterospecific mutant LoxP sites           atic cancer is not otherwise restricted or predetermined.
+                                   that primarily favour recombination in one direction61.          Indeed, this latter model has led to the hypothesis that
+                                   Chromosomal translocations, although less efficient than         the centroacinar cell may be the cell of origin for duc‑
+                                   intrachromosomal rearrangements, can be accomplished             tal pancreatic cancer. Therefore, it will be of interest to
+                                   by Cre-mediated recombination owing to the insertion of          carefully compare the transgenic and endogenous GEM
+LoxStopLox                         a single LoxP site at each breakpoint62.                         representing other cancers to determine how closely
+A LoxP-flanked sequence,               Latent alleles are particularly elegant mouse models         each accurately reflects the cognate human malignancy.
+often containing an antibiotic
+resistance marker, that
+                                   that use a variation on the hit-and-run strategy in which        A comparison of currently available GEM reveals that
+prevents expression of a gene      the ‘run’ occurs in vivo as a result of unequal sister chro‑     endogenous GEM are more likely to show the entire
+when placed between the            matid exchange or intrachromasomal recombination.                spectrum of disease, including early preinvasive lesions
+promoter and coding exons.         This strategy was used to express oncogenic Kras and             that are proposed to evolve into frank carcinoma
+                                   Ctnnb1 (which encodes β‑catenin) alleles from their              (TABLE 2).
+Latent allele
+An endogenous GEM strategy         endogenous promoters, and resulted in lung adeno‑
+in which a stochastic              carcinoma63 or intestinal metaplasia64, respectively. The        Current challenges and potential solutions
+recombination event is             stochastic nature of these models represents a notable           Modern GEM are poised to explore facets of cancer
+required to activate expression    advantage over other systems because lesions arise in            biology and medicine that are difficult or impossible to
+of the oncogenic allele. This is
+one of the few endogenous
+                                   a manner more similar to human cancers. In addition,             pursue clinically. This optimism is largely due to recent
+GEM that does not require a        because the activation event is mediated by somatic              progress in genetic engineering, tumour biology and
+site-specific recombinase.         recombination, it should occur in all tissues and does not       biomedical technology. However, all GEM described
+
+
+nature reviews | cancer	                                                                                                  volume 7 | September 2007 | 649
+                                                             © 2007 Nature Publishing Group
+REVIEWS
+
+                         a Allele name             Targeted locus
+
+                            Germline                                1     Neo         3   null
+                            knockout
+                                                                    1     2           3   wild type
+
+
+                            Germline                                1     2*          3   mutant
+                            knockin                                                       wild type
+                                                                    1     2           3
+
+                         b Allele name             Allele prior to Cre                                      Allele after Cre
+
+                            Conditional                           1       2          3    wild type                        1                    3       null
+                            knockout
+                                                                  1       2          3    wild type                        1     2              3       wild type
+
+
+                            Conditional                             1     2*          3   null                             1     2*             3       mutant
+                            LoxStopLox
+                                                                    1     2           3   wild type                        1     2              3       wild type
+
+
+
+                            Conditional                             1    2-3       2* 3   wild type                        1               2*       3   mutant
+                            minigene
+                                                                    1     2           3   wild type                        1     2              3       wild type
+
+
+                            Conditional                             1          2      3   wild type                        1          2*        3       mutant
+                                                                          2*                                                     2
+                            exon inverter
+                                                                    1     2           3   wild type                        1     2              3       wild type
+
+
+                            Conditional                             1     2           3          +                         1     B              C       mutant
+                            genomic translocator
+                                                                    A     B          C           +                         A     2              3       mutant
+
+                         Figure 2 | Endogenous GEM. a | Germline endogenous GEMs. Germline alleles are expressed in every cell throughout
+                                                                                                                        Nature Reviews | Cancer
+                         the mouse. Knockout alleles replace one or more exons with a selectable marker resulting in a null allele, whereas
+                         knockin alleles insert the desired mutation into an exon. b | Conditional endogenous GEMs. Conditional alleles are
+                         used to express mutations in specific tissues and rely on site-specific recombinases such as Cre to induce mutations.
+                         More recent alleles (conditional minigene and inverter) are capable of more accurately recapitulating the genetics of
+                         human cancers. Arrows depict promoters, boxes depict exons, blue arrowheads depict LoxP sites, and asterisks denote
+                         mutations. The phenotype of the allele is given to the right of each diagram.
+
+
+
+                         to date also exhibit certain shortcomings in mimicking              in PTEN (phosphatase and tensin homologue), but
+                         human malignancy. Therefore, several issues and practi‑             not PIK3CA (phosphatidylinositol 3-kinase, catalytic,
+                         cal considerations (BOX 2) concerning GEM will need to              a polypeptide), are frequently associated with prostate
+                         be addressed in order to meet our objectives.                       cancer78. Although PI3K activation and PTEN inactiva‑
+                                                                                             tion both promote Akt kinase activity, the pleiotropic
+                         Human cancer genetics in mice                                       functions of these proteins might confound interpreta‑
+                         As GEM are designed to model human cancers, it is                   tion of data based on so‑called ‘pathway models’. In light
+                         important that the genetics of human cancer guide the               of this, it will be interesting to determine whether the
+                         generation of mouse models. Failure to adhere to this               recently discovered role for nuclear PTEN in maintain‑
+                         simple principle can waste both time and money. For                 ing genomic integrity79, a function not modelled by
+                         example, although farnesyltransferase inhibitors (FTIs)             activating PI3K mutations, has a role in prostate cancer
+                         showed promising results in transgenic GEM that har‑                progression.
+                         boured Hras oncogenes75, the failure of FTIs in clinical                In addition to incorporating the most relevant muta‑
+                         trials74 might reflect the decreased effectiveness of FTIs          tions, it is also important to consider the limitations of the
+                         towards the inhibition of the KRAS oncoprotein that is              system used. For example, generation of an endogenous
+                         more commonly present in human malignancies76,77. It                conditional oncogenic allele by placing a stop cassette
+                         is also possible that different mutations in the same gene          between the promoter and coding sequence will render
+                         might elicit slightly different phenotypes. Therefore,              mice functionally heterozygous for that gene before
+                         careful attention to the exact oncogenic lesion must be             expression of Cre (FIG. 2), thereby exposing the mouse
+                         considered when designing mouse models.                             to potential effects of haploinsufficiency. Relevant to
+                             It is also important to note that the mutation of a             conditional models that use endogenous oncogenic Kras
+                         pathway rather than a specific gene does not necessar‑              GEM, several groups have unveiled a tumour‑suppressor
+                         ily reflect an accurate model. For example, mutations               role for the wild-type Kras allele80,81. Therefore, it is
+
+
+650 | September 2007 | volume 7	                                                                                        www.nature.com/reviews/cancer
+                                                   © 2007 Nature Publishing Group
+                                                                                                                                      REVIEWS
+
+ Table 2 | Modelling pre-invasive lesions in transgenic and endogenous GEM                       before Cre expression; however, perturbation of TSG
+                                                                                                 function in human tumours can also occur through point
+ Neoplasm                   Precancerous lesion               Transgenic      Endogenous         mutations that either generate a hypomorphic protein or
+                                                                GEM ref.         GEM ref.
+                                                                                                 result in a frameshift and subsequent truncation. This
+ Lung cancer                Atypical adenomatous                       28                 55     mutant protein could result in partial loss of function,
+                            hyperplasia
+                                                                                                 and is therefore not equivalent to the absence of wild-
+ Colon cancer               Intestinal polyps                         190               191      type protein. In the case of conditional Trp53 models,
+ Breast cancer              Ductal carcinoma in situ                  192               170      there is a clear difference between the tumour spectrum
+                            Lobular carcinoma in situ                  NA                NA
+                                                                                                 elicited by conditional deletion versus conditional
+                                                                                                 mutation of Trp53 (REF. 87), with the greater incidence of
+ Pancreatic cancer          Pancreatic intraepithelial                 NA               193      carcinoma in the conditionally expressed mutants more
+                            neoplasia
+                                                                                                 closely modelling human cancers. One hypothesis to
+ Prostate cancer            Prostatic intraepithelial                 194               195      explain this different phenotype is that point mutation of
+                            neoplasia
+                                                                                                 Trp53 elicits a gain-of-function that is not possible in the
+ Liver cancer               Adenomatous hyperplastic                  196                NA      conditionally deleted mutant88. Therefore, human can‑
+                            foci                                                                 cer-associated point mutations representing hypomorphic
+ Ovarian cancer             Surface epithelial hyperplasia             NA               180      or neomorphic alleles might more accurately phenocopy
+ Oesophageal                Barrett’s oesophagus                       NA                NA      human disease. To date, introduction of conditional
+ cancer                                                                                          point mutations have only been achieved by a strategy
+ Bladder cancer             Urothelial hyperplasia                    184                NA      analogous to that used for conditional oncogenes, and
+                                                                                                 are therefore subject to the same pitfalls. However,
+ Kidney cancer              Renal cysts                                NA               197
+                                                                                                 the aforementioned inverter technology represents a
+ Brain cancer               Low-grade glioma                           38               198      potential solution to this problem.
+ Gastric cancer             Intestinal metaplasia                     199                 64
+ Melanoma                   Nevi                                       NA                NA      Limiting the cancer-initiating population
+                                                                                                 Although human cancers are thought to develop from a
+ Squamous cell              Papillomatosis                             NA               200
+ cancer                                                                                          single mutated cell in the context of a relatively normal
+                                                                                                 organ, the oncogenic event in many GEM is initiated
+ GEM, genetically engineered mouse; NA, none available.
+                                                                                                 simultaneously throughout the organ, creating a non-
+                                                                                                 physiological situation in which the pre-neoplastic cell
+                                                                                                 does not evolve in the context of a normal microenvi‑
+                                   possible that mice heterozygous for wild-type Kras (that      ronment. Therefore, new efforts are needed to restrict
+                                   is, before Cre expression) show increased susceptibility      the mutagenic events to fewer cells. Current attempts
+                                   to neoplasia. It is also worth noting that tissues of the     to limit the cancer-initiating population in conditional
+                                   mouse that are not exposed to Cre remain heterozygous         models rely on restricted expression of the active SSR.
+                                   for these alleles, thus potentially affecting the non-        For instance, Cre has been delivered by infection with
+                                   cell autonomous contribution to carcinogenesis. One           a replication-deficient Cre-expressing adenovirus, and
+                                   method to overcome this limitation uses LoxP-flanked          infection with low viral titres can limit recombination
+                                   minigene cassettes that express the wild-type allele before   to a few cells resulting in hyperplasia in the context of
+                                   Cre-mediated recombination, and the mutant version            surrounding normal cells55. Although some tissues dem‑
+                                   following Cre activation82,83 (FIG. 2). Although there are    onstrate resistance to adenovirus infection, the develop‑
+                                   no obvious detrimental effects from this approach84, use      ment of lentiviral and adeno-associated virus (AAV)-Cre
+                                   of cDNA minigenes (and their corresponding absence            viruses have partially overcome this obstacle89. However,
+                                   of introns and regulatory sequences contained therein)        injection of Cre-expressing viruses into specific organs
+                                   could theoretically perturb endogenous gene-expression        can require difficult surgical techniques and may limit
+                                   mechanisms. An ideal system would use a conditional           the use of this approach. An alternative approach is to
+                                   allele consisting of a completely wild-type allele that is    genetically encode a spatiotemporally-regulatable SSR.
+Hypomorphic allele                 converted to the mutant form in the presence of Cre.          These can be regulated either at the transcriptional
+A mutation conveying               Although this has not yet been achieved, a recent clever      level through the use of inducible promoters24,25 or at
+decreased activity, either
+through reduced expression or
+                                   attempt placed an inverted mutant exon upstream of the        the post-translational level by generating Tamoxifen-
+partial loss of function.          corresponding wild-type exon such that, in the absence        inducible fusion proteins90. In principle these SSR are
+                                   of Cre, the wild-type exon would be used82 (FIG. 2). The      either not expressed or remain dormant until exposure
+Neomorphic allele                  inverted mutant and wild-type exons were flanked by           to ligand, and low doses of inducing agent might pro‑
+A mutation conveying a novel
+                                   heterospecific LoxP sites such that Cre-mediated inver‑       vide a stochastic method of activating the SSR in a small
+activity not present in the wild
+type protein.                      sion would flip the cassette and lead to the expression       percentage of cells. In practice it has proven difficult to
+                                   of the mutant gene. Technical limitations prevented the       determine suitable doses, and these SSR are universally
+Adeno-associated virus             success of this system; however, similar strategies have      leaky, possessing measurable activity even in the absence
+(AAV) Small DNA viruses often      been successfully used in analogous systems85,86.             of ligand91. More refined Tamoxifen-inducible SSRs dis‑
+used for gene therapy due to
+their broad host range and the
+                                       Conditional deletions of TSGs are superior to con‑        play increased responsiveness to ligand and decreased
+ability to infect non-dividing     stitutive knockouts because the presence of LoxP sites        (albeit measurable) leakiness92. Although leakiness can
+cells.                             flanking exons of interest do not affect gene expression      result in the sporadic initiation of carcinogenesis, this
+
+
+nature reviews | cancer	                                                                                                volume 7 | September 2007 | 651
+                                                             © 2007 Nature Publishing Group
+REVIEWS
+
+ Box 2 | Additional practical considerations in GEM                                        the progression of pancreatic ductal adenocarcinoma,
+                                                                                           simultaneous activation of KRAS and mutation of DPC4
+ Analysis of genetically engineered mice (GEM) on different mouse strains that present     in the developing pancreas promotes mucinous cystic
+ with different biological predispositions represents a method of assessing the roles of   neoplasia, a histologically distinct and clinically relevant
+ different polymorphisms similar to those encountered in the human population.
+                                                                                           form of pancreatic cancer96.
+ However, the use of different embryonic stem cells by individual groups necessitates
+                                                                                              This concern also applies to monoalleleic as
+ backcrossing onto pure backgrounds for rigorous comparison of different mutations.
+ Such backcrosses take years to complete and are not fiscally possible for many labs.      opposed to biallelic deletion of TSGs. These issues can
+ Microsatellite-based ‘rapid backcrossing’ can accelerate this process; however, this      be addressed with conditional endogenous GEM that
+ technique remains prohibitively expensive. We would therefore urge that the mouse-        use several SSR. For example, the Cre/LoxP system
+ modelling community come to a consensus on one or a few embryonic stem cell lines in      can be used for the initiating mutation and subsequent
+ an effort to standardize the field and eliminate the need for costly backcrossing.        mutations can be regulated by the FLP/FRT system98
+   As models increase in complexity, typically greater than two mutant alleles must be     (BOX 3)(FIG. 3).
+ present to elicit the desired phenotype. Genotyping for these alleles can quickly
+ become unwieldy and take up a large amount of time and money for the investigator.        Humanized mice
+ With improvements in high-throughput robotics and sequencing technology,
+                                                                                           One of the major criticisms of modelling cancer in mice
+ outsourcing of genotyping is now feasible. Increased demand should continue to make
+                                                                                           is that the biology of humans and mice is simply too
+ this option both efficient and fiscally sensible.
+                                                                                           disparate, and that mouse models cannot recapitulate
+                                                                                           aspects of human disease 99. For example, germline
+                             system is not easily controllable and is subject to much      knockout of Nf2 results primarily in osteosarcomas in
+                             variability in tumour burden and latency. An intriguing       mice100, whereas kindreds afflicted with neurofibroma‑
+                             system was recently developed in which Cre is regulated       tosis type 2 develop schwannomas 101. This finding
+                             at both the transcriptional and post-translational levels,    was used to suggest that inherent differences between
+                             resulting in practically no detectable background recom‑      humans and mice limited the use of mice to model can‑
+                             bination91. Unfortunately, none of these systems is ideally   cer. However, subsequent conditional biallelic deletion
+                             suitable for tight control of stochastic recombination in a   of Nf2 in mouse schwann cells promoted a phenotype
+                             single cell. Perhaps the most accurate model is the previ‑    reminiscent of neurofibromatosis type 2 in humans102.
+                             ously mentioned latent allele; however, there is currently    Similarly, other discrepancies between mice and
+                             no method to either control tissue specificity or assess      humans can potentially be addressed through systematic
+                             recombination frequency.                                      experimentation (FIG. 4).
+                                 A recent hypothesis posits that tumour-initiating
+                             or cancer stem cells might be sufficient to maintain the      Gene structure and regulatory elements. Although
+                             tumour cell population despite representing a small           orthologous genes are often highly conserved, signifi‑
+                             fraction of total tumour cells93. GEM should enable the       cant differences do exist between the mouse and human
+                             identification and characterization of such cancer stem       genomes that might limit the ability to model human
+                             cells through the construction of specific SSR alleles that   cancer. Therefore, one mechanism of humanization is the
+                             define the lineage of different cell types that make up       insertion of human genes into the mouse genome. This
+                             the organ.                                                    approach is frequently addressed through knockin of a
+                                                                                           human cDNA into the corresponding murine genomic
+                             Recapitulating the kinetics of carcinogenesis                 locus103,104; however, these models cannot assess the contri‑
+                             Both molecular and epidemiological data indicate that         bution of non-coding elements. To overcome this caveat,
+                             carcinogenesis is a multistep process requiring an esti‑      several groups have used bacterial artificial chromosome
+                             mated five to six mutant alleles to promote tumour pro‑       transgenes that encompass over 100 kb of sequence
+                             gression94. Compound mutant mice are now frequently           surrounding a gene; however, these large constructs are
+                             used to study the synergistic effects of multiple mutations   subject to chromosomal positional effect and frequently
+                             on carcinogenesis. Although these experiments clearly         rearrange23. It has recently been shown that syntenic
+                             show that tumours appear more quickly in compound             replacement of the mouse α globin locus with 120 kb
+                             mutant mice, simultaneous initiation of all oncogenic         of human sequence encoding a mutated α globin locus
+                             lesions promotes rapid tumour progression in a manner         resulted in a model that more accurately recapitulates α
+                             inconsistent with the evolution of human cancers. For         thalassemia than the corresponding knockin mutation in
+                             instance, several recent manuscripts describe condi‑          the mouse gene105. This method, termed recombinase-
+                             tional models for pancreatic cancer in which disruption       mediated genomic replacement, could theoretically be
+                             of a TSG in the context of an oncogenic Kras mutation         used to replace hundreds to thousands of kilobases of
+                             exacerbated tumorigenesis95,96. Although these genes are      mouse genomic sequence with syntenic human sequence
+                             simultaneously mutated in the mouse models, in human          and analyse the contribution of non-coding mutations
+                             pancreatic cancer KRAS mutations are considered an            that affect oncogene or TSG expression.
+                             early initiating event and mutation of CDKN2A, DPC4
+                             and TP53 are thought to occur relatively late in carcino‑     Telomeres, telomerase and genomic instability. A fun‑
+                             genesis97. There can be little doubt that tumour evolution    damental difference between mouse and human cells
+                             is artificially pre-determined when these mutations are       is their telomere length: human telomeres are typically
+                             simultaneously initiated. Indeed, it has recently been pro‑   5–10 kb in length, whereas telomeres in M. musculus
+                             posed that, whereas late-stage DPC4 mutations promote         are over 40 kb long106. This difference in telomere length
+
+
+652 | September 2007 | volume 7	                                                                                      www.nature.com/reviews/cancer
+                                                       © 2007 Nature Publishing Group
+                                                                                                                                   REVIEWS
+
+                                                                                               gene, Rtel110. The main Rtel transcripts from the two
+                                                                                               strains appear to differ by only 18 nucleotides at the 3′
+                                                                                               end on the coding sequence, thus making it theoreti‑
+                                       TSP–Cre                                                 cally possible to humanize M. musculus by knocking in
+                                                                                               the M. spretus Rtel allele.
+
+                                                                                               Metabolism. With the increasing interest in using GEM
+                                                                                               as preclinical models for therapeutics, it is important
+                                                                                               to consider both the relevance of the target as well as
+                        TSP–FLPERT                            TSP–FLPERT                       the pharmacokinetics of the drugs. Documented spe‑
+                        + Tam                                 + Tam
+                                     TSP–FLPERT
+                                                                                               cies-specific differences in xenobiotic metabolism make
+                                     – Tam                                                     it imperative that every effort be made to humanize
+                                                                                               drug metabolizing enzymes so that these studies can be
+                                                                                               accurately extrapolated to humans111. The rates of drug
+                                                                                               absorption, distribution, metabolism and excretion, all
+                                                                                               of which might differ substantially between humans and
+FLPERT -induced regression              Uninduced FLPERT          FLPERT-induced cooperation
+                                                                                               mice, can affect the target-tissue concentration. In most
+Figure 3 | Sequential mutations in mouse cancer models. The initial oncogenic lesion           cases, differences in xenobiotic receptor (XR) and cyto-
+in a conditional GEM is induced by tissue-specific expression of CreNature  Reviews | Cancer
+                                                                        recombinase.   A       chrome P450 (CYP) expression levels, tissue distribution,
+second genetic event controlled by a ligand-acitvatable FLP recombinase can be used            enzymatic activities, substrate preferences and ligand
+to initiate either tumour regression (that is, through the deletion of the initiating          affinities lead to dramatically different responses in mice
+oncogene or induction of a short hairpin RNA) or tumour progression (that is, through          and men112. Therefore, several GEM have been gener‑
+deletion of a tumour-suppressor gene). This system can be used to test the effectiveness       ated in which the human XR or CYP genes are expressed
+of therapeutic agents on different stages of carcinogenesis or against specific genetic        in mice that lack the corresponding murine gene113,114.
+lesions. Tam, Tamoxifen; TSP, tissue-specific promoter.                                        Although there are over 15 mouse strains humanized for
+                                                                                               metabolic enzymes, of particular interest are those for
+                                                                                               CYP2D6 (REF. 115) and CYP3A4 (REF. 116), two enzymes
+                                  is correlated with the limited or absent telomerase          that metabolize over 70% of currently available drugs117.
+                                  expression in most somatic human cells107, as opposed        Extensive characterization has shown that these mice
+                                  to persistent telomerase expression in mouse tissues108.     have metabolic properties more similar to humans than
+                                  As telomeres maintain chromosomal integrity and tel‑         wild-type control mice. To our knowledge, these strains
+                                  omere dysfunction has an important role in oncogen‑          have not been used in autochthonous-tumour-bearing
+                                  esis, the replacement of murine telomere components          mice treated with chemotherapeutic or targeted agents,
+                                  with human may be an important consideration to              although in principle this could easily be accomplished
+                                  better recapitulate the neoplastic process. In fact, the     by crossing existing strains.
+                                  Terc-deficient mice previously described must be bred
+                                  for several generations before they show critically short    Immune system. Both the adaptive and innate immune
+Xenobiotic receptors              telomeres and consequential neoplastic morbidity109.         response are crucial modulators of tumorigenesis
+A family of enzymes involved      An alternative approach to humanizing M. musculus            through a complex interplay between inflammation and
+in the metabolism of drugs by
+sensing the presence of a drug
+                                  telomeres is to backcross these mice onto the M. spre-       immunosurveillance that promote and inhibit tumour
+and initiating a response.        tus background, as M. spretus telomeres are 5–15 kb          growth, respectively118,119. These intricacies make it
+                                  long108. However, the genetics of M. spretus are much        impossible to accurately model tumorigenesis with ani‑
+Cytochrome P450                   less understood, the backcrossing is laborious, and M.       mal culture models in immunodeficient mice. To date,
+A family of metabolic enzymes
+                                  spretus husbandry is challenging. Interestingly, the locus   humanizing the murine immune system has consisted
+responsible for detoxifying and
+modifying drugs and other         that appears to regulate telomere length in M. musculus      of ablating the endogenous immune system followed
+foreign compounds.                and M. spretus has recently been mapped to a specific        by engraftment with human immune cells120; however,
+                                                                                               species-specific differences in both the adaptive121 and
+                                                                                               innate122,123 immune systems can confound interpreta‑
+ Box 3 | Alternatives to Cre                                                                   tions. Humanization attempts that rely on transgenic
+                                                                                               expression of human immunoreceptor genes124,125 have
+ Most conditional alleles currently used rely on the bacteriophage Cre recombinase.
+ Although Cre is considered a site-specific recombinase, several lines of in vitro data        primarily been performed in otherwise wild-type mice
+ indicate that Cre cleaves multiple sequences in the genome157–159, and thus                   expressing the homologous murine receptors that might
+ represents a potentially mutagenic event. Furthermore, more complex models will               heterodimerize with the human gene products. With the
+ soon require the use of more than one recombinase to achieve all genetic                      advent of recombinase-mediated genomic replacement,
+ manipulations required. It is therefore necessary to develop and characterize                 it might now be possible to knock in the human loci for
+ alternatives to Cre. The yeast-derived FLP-FRT system, the most common alternative            the entire T-cell and B-cell receptors that span hundreds
+ to Cre, has been optimized and its efficiency in mouse models approaches that of              of kilobases. In an analogous fashion, specific major his‑
+ Cre160,161. In addition, several other enzymes such as φC31 integrase and sleeping            tocompatability complexes (MHCs) can be introduced
+ beauty transposase represent further options. In vitro experiments demonstrating              into mice that lack endogenous MHC genes 126, thus
+ the low toxicity and high efficiency162 of φC31 and sleeping beauty make them
+                                                                                               making it theoretically possible to reconstitute the major
+ attractive candidates as new tools in mouse modelling.
+                                                                                               components of the human immune system.
+
+
+nature reviews | cancer	                                                                                             volume 7 | September 2007 | 653
+                                                           © 2007 Nature Publishing Group
+REVIEWS
+
+                                                                                          proteases, such as matrix metalloproteinase 9 (MMP9),
+                                                                                          or that lack specific immune effector cell function,
+                                                                                          respectively. These GEM can now be more stringently
+                                                                                          evaluated with additional mutant alleles and pharmaco‑
+                                                                                          logical agents to determine what cell types and pathways
+                                  Genomic instability                                     are required to stimulate tumorigenesis.
+                                                                                             Stromal cells, particularly fibroblasts, have also
+                                                                                          been implicated in carcinogenesis through studies
+                                                                                          that identified paracrine growth stimulatory proper‑
+                                                                                          ties 140,141. Indeed, the discovery of genetic 142,143 and
+                                                                                          epigenetic 144 mutations in stromal cells obtained
+                                                                                          from clinical samples has led to the hypothesis that
+                                                                                          the microenvironment co‑evolves with transformed
+                                                                                          epithelial cells in carcinomas. GEM offer the ability
+      Biomarkers                                                  Gene expression         to characterize such interactions functionally, and
+                                                                                          several notable studies have already revealed a role for
+                                                                                          mutation of the transforming growth factor-β (TGFβ)
+                                                                                          pathway 201 and Trp53 (REF. 145) in modulating the
+                                                                                          tumour-stimulating properties of stromal cells. These
+                                                                                          intriguing results should prompt groups to actively
+                                                                                          mutate stromal cells in autochthonous tumour models
+                                                                                          as a means of initiating or promoting tumorigenesis.
+                                                                                          This could be achieved by combining multiple SSR sys‑
+                                                                                          tems, one to mutate the cell autonomous compartment
+      Immune system                                            Metabolism
+                                                                                          and the other to mutate the non-cell autonomous com‑
+Figure 4 | Hallmarks of humanized mouse models. Currently available technologies          partment. Depending on the SSR allele used, it might
+can be used to generate GEM that contain entire human genes. Such models can be           be possible to mutate fibroblasts, invading immune
+                                                              Nature Reviews
+used to humanize metabolic enzymes, glycosylation enzymes, telomere          | Cancer
+                                                                      structure  and
+                                                                                          cells or even normal epithelial cells.
+the immune system, which will prove useful in biomarker discovery as well as
+preclinical testing of therapeutics.
+                                                                                          Detecting disease	
+                                                                                          With the exception of patients with a familial cancer
+                                                                                          predisposition, most people are diagnosed with cancer
+                            Glycosylation. It is pertinent to note that differential      after seeking medical attention. Unfortunately, this is
+                            expression and activities of glycosylating enzymes in         not possible when working with laboratory animals,
+                            humans and mice could significantly alter protein dis‑        and scientists often recognize morbidity after the dis‑
+                            tribution and function127,128. Highly glycosylated anti‑      ease has progressed considerably. At present, most
+                            gens such as CA19-9 (pancreatic, gastric and colonic          researchers rely on daily health checks that consist of
+                            cancer)129, CA15-3 and CA27.29 (breast cancer)130 and         cursory examination of the cage for such characteristics
+                            CA125 (ovarian cancer)131 are frequently used as cancer       as anti-social behaviour and lack of grooming. As any
+                            biomarkers; however, species-specific differences in          experienced mouse modeller knows, mouse behaviour
+                            glycosylating enzymes prevent the synthesis of similar        changes throughout the day, making it challenging to
+                            epitopes in mice owing to the lack of the Lewis sialyA        differentiate between early signs of morbidity and vari‑
+                            antigen. Therefore, a method to generate similar biomar‑      ations in normal behaviour. One interesting possibility
+                            kers in mice could be to provide the fucosyl transferase      would be the merging of techniques used by behavioural
+                            that is deficient in mice132.                                 biologists with cancer biology. For example, radio fre‑
+                                                                                          quency emitters that are now used to track large mouse
+                            Modelling the microenvironment                                colonies could be exploited to keep track of a mouse’s
+                            GEM are particularly suited to explore the role of            movement throughout the day and night. Any early
+                            inflammation and the stromal microenvironment in              indications of lethargy or social separation could be
+                            carcinogenesis. Many epidemiological studies suggest a        indicative of illness.
+                            link between chronic inflammation and cancer risk, as             A much more sophisticated means of tracking early
+                            exemplified by associations between gastric cancer and        disease is the use of non-invasive imaging techniques.
+                            colonization with Helicobacter pylori133, inflammatory        Two basic ways of imaging tumours are technologically-
+                            bowel disease and colorectal cancer134, cirrhosis and         based methods (such as magnetic resonance imaging
+                            liver cancer135, and familial pancreatitis and pancreatic     (MRI), positron emission tomography (PET) and ultra‑
+                            cancer136. Indeed, GEM have confirmed the importance          sound) that are used in both humans and mice, and
+                            of chronic pancreatitis in pancreatic cancer73, and have      genetically-based methods (such as bioluminescence and
+                            demonstrated a role for microbial flora in intestinal tum‑    fluorescence) that are only available in model systems146
+                            origenesis137. In addition, several studies have identified   (BOX 4). Such approaches are needed to comprehensively
+                            a role for the innate138 and acquired139 immune systems       investigate the natural history of tumorigenesis in GEM
+                            in promoting cancer using GEM that either lack specific       that possess variable penetrance and latency.
+
+
+654 | September 2007 | volume 7	                                                                                   www.nature.com/reviews/cancer
+                                                        © 2007 Nature Publishing Group
+                                                                                                                                                                   REVIEWS
+
+  Box 4 | Non-invasive imaging of autochthonous tumours                                                                 Different versions of forward genetic screens can be
+                                                                                                                        incorporated into any currently existing conditional
+  Current genetically engineered mice (GEM) use reporters such as green fluorescent                                     model to identify oncogenes or TSGs that cooperate
+  protein (GFP) or luciferase, the expression of which is controlled by the same                                        with sensitized genetic backgrounds during carcino‑
+  techniques used for conditional or inducible models. For example, a conditional
+                                                                                                                        genesis. Genes whose deletion or inhibition promotes
+  luciferase allele can be activated at the same time and place as a conditional
+                                                                                                                        cell death in tumours also need to be identified. Such
+  oncogene, and therefore marks every descendent cell163. Unfortunately, as most Cre
+  alleles are typically activated in many cells throughout the organ, a bioluminescent                                  genes are interesting because they represent excellent
+  signal that is indicative of Cre activity rather than initiation of carcinogenesis leads                              drug targets for either the cell autonomous or non-cell
+  to a low signal/noise ratio. Therefore, one must rely on a relative increase in signal                                autonomous compartment. These screens are inherently
+  owing to increased cellularity and extrapolate the presence of a tumour. A much                                       quite difficult, as the inhibition or deletion of the target
+  more desirable system would turn on bioluminescence under specific conditions,                                        of interest will kill the tumour cell and thus make it dif‑
+  such as tumour initiation or progression. This could potentially be achieved through                                  ficult to recover any information; however, there is little
+  thorough characterization of key events in specific steps of carcinogenesis, such as                                  doubt that many targets are missed because they are only
+  the transcription of a novel gene. Versions of this concept have already been                                         assessed in cell culture.
+  published in which an E2F‑, hypoxia-inducible factor 1-α (HIF1α)-, and nuclear factor
+                                                                                                                            In addition, the most accurate and accepted GEM
+  κB (NFκB)-responsive luciferase reporters were used to image actively
+                                                                                                                        should be evaluated in preclinical therapeutic schemes
+  proliferating164, hypoxic165 or stressed166 cells, respectively. Similar reporters could be
+  generated that are responsive to Akt, mitogen-activated protein kinase, Notch, sonic                                  with currently available and experimental therapies.
+  hedgehog, Wnt and other key pathways associated with specific cancers. In this                                        There are many considerations for conducting such
+  fashion, it will be possible to assess the effects of specific pathways on tumour                                     studies properly, including an appropriate physical
+  progression. Furthermore, these reporters will be useful in assessing drug efficacy                                   infrastructure and trained personnel, a stable finan‑
+  more accurately than relying on bulk tumour volume.                                                                   cial arrangement that is challenging to attain in most
+                                                                                                                        academic centres, and an engaged legal affairs office to
+                                                                                                                        address the significant intellectual property issues147,148.
+                                       Conclusion — medical milestones for models                                       A pressing question to address first is whether autoch‑
+                                       Although mouse cancer models represent a tremendous                              thonous GEM demonstrate superior predictive capa‑
+                                       resource to evaluate the mechanistic underpinnings of                            bility to animal culture models, and these results will
+                                       malignancy, we feel that the overall goal of mouse mod‑                          greatly clarify whether GEM will be useful in the private
+                                       elling should be refocused to alleviate human cancer suf‑                        sector for drug development. In support of this idea,
+                                       fering by positively affecting the detection and treatment                       two recent studies demonstrated that GEM based on
+                                       of cancer in patients.                                                           the genetics of human lung adenocarcinoma develop
+                                           One aim of this challenge is to determine what fea‑                          histopathologically similar disease that responds to
+                                       tures of tumour biology are relevant therapeutic targets                         therapeutic agents currently in use in the clinic149,150.
+                                       besides the oncogenes previously identified from patient                         Although these studies lend credence to the use of these
+                                       specimens. Target discovery typically takes place in a                           GEM for preclinical applications, even more exciting
+                                       controlled environment such as cell culture and is then                          are the promising results from a preclinical study on
+                                       validated using in vivo systems; however, one might                              a mouse model for acute promyelocytic leukaemia
+                                       argue that this methodology is inherently flawed because                         (APL)151 that have since translated into an effective new
+                                       the initial screen is performed in an unrepresentative                           treatment for APL152. Thus, at long last, the tremendous
+                                       setting. A new technology that should enable this                                potential of cancer modelling in mice is beginning to
+                                       endeavour is transposon-mediated forward genetics.                               help win the war on cancer.
+
+
+1. 	   Hanahan, D. & Weinberg, R. A. The hallmarks of                     on clonal dominance in a human renal-cell carcinoma       16. 	 Enno, A. et al. MALToma-like lesions in the murine
+       cancer. Cell 100, 57–70 (2000).                                    grown in nude mice. Int. J. Cancer 51, 130–138                  gastric mucosa after long-term infection with
+2. 	   Kendall, S. D., Adam, S. J. & Counter, C. M.                       (1992).                                                         Helicobacter felis. A mouse model of Helicobacter
+       Genetically engineered human cancer models utilizing       9. 	    Kang, Y. et al. A multigenic program mediating breast           pylori-induced gastric lymphoma. Am. J. Pathol. 147,
+       mammalian transgene expression. Cell Cycle 5,                      cancer metastasis to bone. Cancer Cell 3, 537–549               217–222 (1995).
+       1074–1079 (2006).                                                  (2003).                                                   17. 	 Jonkers, J. & Berns, A. Conditional mouse models of
+3. 	   Lock, R. B. et al. The nonobese diabetic/severe            10. 	   Johnson, J. I. et al. Relationships between drug                sporadic cancer. Nature Rev. Cancer 2, 251–265
+       combined immunodeficient (NOD/SCID) mouse model                    activity in NCI preclinical in vitro and in vivo models         (2002).
+       of childhood acute lymphoblastic leukemia reveals                  and early clinical trials. Br. J. Cancer 84, 1424–1431    18. 	 Tuveson, D. A. & Jacks, T. Technologically advanced
+       intrinsic differences in biologic characteristics at               (2001).                                                         cancer modeling in mice. Curr. Opin. Genet. Dev. 12,
+       diagnosis and relapse. Blood 99, 4100–4108 (2002).         11. 	   Fiebig, H. H., Berger, D. P., Winterhalter, B. R. &             105–110 (2002).
+4. 	   Rubio-Viqueira, B. et al. An in vivo platform for                  Plowman, J. In vitro and in vivo evaluation of US‑NCI     19. 	 Gannon, M., Gamer, L. W. & Wright, C. V. Regulatory
+       translational drug development in pancreatic cancer.               compounds in human tumor xenografts. Cancer Treat.              regions driving developmental and tissue-specific
+       Clin. Cancer Res 12, 4652–4661 (2006).                             Rev. 17, 109–117 (1990).                                        expression of the essential pancreatic gene pdx1. Dev.
+5. 	   Sikder, H. et al. Disruption of Id1 reveals major          12. 	   Hardisty, J. F. Factors influencing laboratory animal           Biol. 238, 185–201 (2001).
+       differences in angiogenesis between transplanted and               spontaneous tumor profiles. Toxicol. Pathol. 13,          20. 	 Mattick, J. S. & Makunin, I. V. Non-coding RNA. Hum.
+       autochthonous tumors. Cancer Cell 4, 291–299                       95–104 (1985).                                                  Mol. Genet. 15 Spec. No 1, R17–R29 (2006).
+       (2003).                                                    13. 	   van Kranen, H. J. et al. Frequent p53 alterations         21. 	 Robertson, G. et al. Position-dependent variegation of
+6. 	   Becher, O. J. & Holland, E. C. Genetically engineered              but low incidence of ras mutations in UV‑B-induced              globin transgene expression in mice. Proc. Natl Acad.
+       models have advantages over xenografts for                         skin tumors of hairless mice. Carcinogenesis 16,                Sci. USA 92, 5371–5375 (1995).
+       preclinical studies. Cancer Res. 66, 3355–3358                     1141–1147 (1995).                                         22. 	 Palomo, C., Zou, X., Nicholson, I. C., Butzler, C. &
+       (2006).                                                    14. 	   Balmain, A. & Pragnell, I. B. Mouse skin carcinomas             Bruggemann, M. B‑cell tumorigenesis in mice
+7. 	   De Both, N. J., Vermey, M., Groen, N., Dinjens, W. N.              induced in vivo by chemical carcinogens have a                  carrying a yeast artificial chromosome-based
+       & Bosman, F. T. Clonal growth of colorectal-carcinoma              transforming Harvey-ras oncogene. Nature 303,                   immunoglobulin heavy/c-myc translocus is
+       cell lines transplanted to nude mice. Int. J. Cancer 72,           72–74 (1983).                                                   independent of the heavy chain intron enhancer
+       1137–1141 (1997).                                          15. 	   Cardiff, R. D. & Kenney, N. Mouse mammary tumor                 (Emu). Cancer Res. 59, 5625–5628 (1999).
+8. 	   Staroselsky, A. N. et al. The use of molecular genetic             biology: a short history. Adv. Cancer Res. 98, 53–116     23. 	 Kaufman, R. M., Pham, C. T. & Ley, T. J. Transgenic
+       markers to demonstrate the effect of organ environment             (2007).                                                         analysis of a 100-kb human b-globin cluster-containing
+
+
+
+
+nature reviews | cancer	                                                                                                                          volume 7 | September 2007 | 655
+                                                                         © 2007 Nature Publishing Group
+REVIEWS
+
+        DNA fragment propagated as a bacterial artificial             47. 	 Jacks, T. et al. Effects of an Rb mutation in the mouse.              References 70 and 71 report the use of a
+        chromosome. Blood 94, 3178–3184 (1999).                             Nature 359, 295–300 (1992).                                           genetically encoded transposon-based
+24. 	   Schonig, K., Schwenk, F., Rajewsky, K. & Bujard, H.           48. 	 Lee, E. Y. et al. Mice deficient for Rb are nonviable and             mutagenesis system to perform forward genetic
+        Stringent doxycycline dependent control of CRE                      show defects in neurogenesis and haematopoiesis.                      screens in mice.
+        recombinase in vivo. Nucleic Acids Res. 30, e134                    Nature 359, 288–294 (1992).                                   72. 	   Grippo, P. J., Nowlin, P. S., Demeure, M. J.,
+        (2002).                                                       49. 	 Lakso, M. et al. Targeted oncogene activation by site-                Longnecker, D. S. & Sandgren, E. P. Preinvasive
+25. 	   Kuhn, R., Schwenk, F., Aguet, M. & Rajewsky, K.                     specific recombination in transgenic mice. Proc. Natl                 pancreatic neoplasia of ductal phenotype induced by
+        Inducible gene targeting in mice. Science 269,                      Acad. Sci. USA 89, 6232–6236 (1992).                                  acinar cell targeting of mutant Kras in transgenic mice.
+        1427–1429 (1995).                                             50. 	 Rubin, B. P. et al. A knock-in mouse model of                         Cancer Res. 63, 2016–2019 (2003).
+26. 	   Weinstein, I. B. Cancer. Addiction to oncogenes —                   gastrointestinal stromal tumor harboring kit K641E.           73. 	   Guerra, C. et al. Chronic pancreatitis is essential for
+        the Achilles heal of cancer. Science 297, 63–64 (2002).             Cancer Res. 65, 6631–6639 (2005).                                     induction of pancreatic ductal adenocarcinoma by
+27. 	   Chin, L. et al. Essential role for oncogenic Ras in           51. 	 Sotillo, R. et al. Invasive melanoma in Cdk4-targeted                 K‑Ras oncogenes in adult mice. Cancer Cell 11,
+        tumour maintenance. Nature 400, 468–472 (1999).                     mice. Proc. Natl Acad. Sci. USA 98, 13312–13317                       291–302 (2007).
+        The first mouse solid tumour models to                              (2001).                                                       74. 	   Cohen, S. J. et al. Phase II and pharmacodynamic
+        experimentally demonstrate a requirement for                  52. 	 Tuveson, D. A. et al. Endogenous oncogenic                            study of the farnesyltransferase inhibitor R115777 as
+        oncogene expression in tumour maintenance.                          K‑ras(G12D) stimulates proliferation and widespread                   initial therapy in patients with metastatic pancreatic
+28. 	   Fisher, G. H. et al. Induction and apoptotic regression             neoplastic and developmental defects. Cancer Cell 5,                  adenocarcinoma. J. Clin. Oncol. 21, 1301–1306
+        of lung adenocarcinomas by regulation of a K‑Ras                    375–387 (2004).                                                       (2003).
+        transgene in the presence and absence of tumor                53. 	 Schubbert, S. et al. Germline KRAS mutations cause            75. 	   Kohl, N. E. et al. Inhibition of farnesyltransferase
+        suppressor genes. Genes Dev. 15, 3249–3262 (2001).                  Noonan syndrome. Nature Genet. 38, 331–336                            induces regression of mammary and salivary
+29. 	   Felsher, D. W. & Bishop, J. M. Reversible                           (2006).                                                               carcinomas in ras transgenic mice. Nature Med. 1,
+        tumorigenesis by MYC in hematopoietic lineages. Mol.          54. 	 de Alboran, I. M. et al. Analysis of C‑MYC function in                792–797 (1995).
+        Cell 4, 199–207 (1999).                                             normal cells via conditional gene-targeted mutation.          76. 	   Bos, J. L. ras oncogenes in human cancer: a review.
+30. 	   Huettner, C. S., Zhang, P., Van Etten, R. A. & Tenen, D. G.         Immunity 14, 45–55 (2001).                                            Cancer Res. 49, 4682–4689 (1989).
+        Reversibility of acute B‑cell leukaemia induced by            55. 	 Jackson, E. L. et al. Analysis of lung tumor initiation       77. 	   Lerner, E. C., Qian, Y., Hamilton, A. D. & Sebti, S. M.
+        BCR-ABL1. Nature Genet. 24, 57–60 (2000).                           and progression using conditional expression of                       Disruption of oncogenic K‑Ras4B processing and
+31. 	   Moody, S. E. et al. Conditional activation of Neu in                oncogenic K‑ras. Genes Dev. 15, 3243–3248 (2001).                     signaling by a potent geranylgeranyltransferase I
+        the mammary epithelium of transgenic mice results             56. 	 Lewandoski, M. & Martin, G. R. Cre-mediated                           inhibitor. J. Biol. Chem. 270, 26770–26773 (1995).
+        in reversible pulmonary metastasis. Cancer Cell 2,                  chromosome loss in mice. Nature Genet. 17, 223–225            78. 	   Majumder, P. K. & Sellers, W. R. Akt-regulated
+        451–461 (2002).                                                     (1997).                                                               pathways in prostate cancer. Oncogene 24,
+32. 	   Sarkisian, C. J. et al. Dose-dependent oncogene-              57. 	 Dewald, G. W., Noel, P., Dahl, R. J. & Spurbeck, J. L.                7465–7474 (2005).
+        induced senescence in vivo and its evasion during                   Chromosome abnormalities in malignant hematologic             79. 	   Shen, W. H. et al. Essential role for nuclear PTEN
+        mammary tumorigenesis. Nature Cell Biol. 9,                         disorders. Mayo Clin. Proc. 60, 675–689 (1985).                       in maintaining chromosomal integrity. Cell 128,
+        493–505 (2007).                                               58. 	 Mitelman, F., Johansson, B. & Mertens, F. The impact                  157–170 (2007).
+        This paper demonstrates that the tetracycline                       of translocations and gene fusions on cancer                  80. 	   James, R. M. et al. K‑ras proto-oncogene exhibits
+        system can be used to modulate ectopic HrasG12V                     causation. Nature Rev. Cancer 7, 233–245 (2007).                      tumor suppressor activity as its absence promotes
+        levels in vivo. The authors find that maximal                 59. 	 Smith, A. J., Xian, J., Richardson, M., Johnstone, K. A.              tumorigenesis in murine teratomas. Mol. Cancer Res.
+        HrasG12V transgene expression causes mammary                        & Rabbitts, P. H. Cre-loxP chromosome engineering of                  1, 820–825 (2003).
+        gland proliferative arrest (premature senescence),                  a targeted deletion in the mouse corresponding to the         81. 	   Zhang, Z. et al. Wildtype Kras2 can inhibit lung
+        whereas low level HrasG12V expression promotes                      3p21. 3 region of homozygous loss in human tumours.                   carcinogenesis in mice. Nature Genet. 29, 25–33
+        proliferation. It also raises the concern that                      Oncogene 21, 4521–4529 (2002).                                        (2001).
+        inducible ectopic oncogenes (and constitutive                 60. 	 Kmita, M., Kondo, T. & Duboule, D. Targeted inversion         82. 	   Bayascas, J. R., Sakamoto, K., Armit, L., Arthur, J. S.
+        ectopic oncogenes) may inadvertently cause a non-                   of a polar silencer within the HoxD complex                           & Alessi, D. R. Evaluation of approaches to generation
+        physiological toxic response in cells in vivo.                      re‑allocates domains of enhancer sharing. Nature                      of tissue-specific knock-in mice. J. Biol. Chem. 281,
+33. 	   Blakely, C. M. et al. Developmental stage determines                Genet. 26, 451–454 (2000).                                            28772–28781 (2006).
+        the effects of MYC in the mammary epithelium.                 61. 	 Langer, S. J., Ghafoori, A. P., Byrd, M. & Leinwand, L.       83. 	   Forster, A. et al. The invertor knock-in conditional
+        Development 132, 1147–1160 (2005).                                  A genetic screen identifies novel non-compatible loxP                 chromosomal translocation mimic. Nature Methods 2,
+34. 	   Blyth, K. et al. Sensitivity to myc-induced apoptosis is            sites. Nucleic Acids Res. 30, 3067–3077 (2002).                       27–30 (2005).
+        retained in spontaneous and transplanted lymphomas            62. 	 Forster, A. et al. Engineering de novo reciprocal             84. 	   Dankort, D. et al. A new mouse model to explore the
+        of CD2-mycER mice. Oncogene 19, 773–782 (2000).                     chromosomal translocations associated with Mll to                     initiation, progression, and therapy of BRAFV600E-
+35. 	   Martins, C. P., Brown-Swigart, L. & Evan, G. I.                     replicate primary events of human cancer. Cancer Cell                 induced lung tumors. Genes Dev. 21, 379–384
+        Modeling the therapeutic efficacy of p53 restoration                3, 449–458 (2003).                                                    (2007).
+        in tumors. Cell 127, 1323–1334 (2006).                        63. 	 Johnson, L. et al. Somatic activation of the K‑ras                    An excellent example of a conditional oncogene
+36. 	   Ventura, A. et al. Restoration of p53 function leads to             oncogene causes early onset lung cancer in mice.                      mouse model in which the animal is functionally
+        tumour regression in vivo. Nature 445, 661–665                      Nature 410, 1111–1116 (2001).                                         wild type before induction of the mutation.
+        (2007).                                                             Describes the generation of a stochastic model for            85. 	   Oberdoerffer, P., Otipoby, K. L., Maruyama, M. &
+37. 	   Rusk, N. Making mice at high speed. Nature Methods                  lung cancer that accurately mimics the mutation of                    Rajewsky, K. Unidirectional Cre-mediated genetic
+        4, 196–197 (2007).                                                  a single cell in the context of normal surrounding                    inversion in mice using the mutant loxP pair lox66/
+38. 	   Holland, E. C., Hively, W. P., DePinho, R. A. & Varmus,             tissue.                                                               lox71. Nucleic Acids Res. 31, e140 (2003).
+        H. E. A constitutively active epidermal growth factor         64. 	 Coste, I., Freund, J. N., Spaderna, S., Brabletz, T. &        86. 	   Zhang, Z. & Lutz, B. Cre recombinase-mediated
+        receptor cooperates with disruption of G1 cell-cycle                Renno, T. Precancerous lesions upon sporadic                          inversion using lox66 and lox71: method to introduce
+        arrest pathways to induce glioma-like lesions in mice.              activation of b-catenin in mice. Gastroenterology 132,                conditional point mutations into the CREB-binding
+        Genes Dev. 12, 3675–3685 (1998).                                    1299–1308 (2007).                                                     protein. Nucleic Acids Res. 30, e90 (2002).
+39. 	   Orsulic, S. et al. Induction of ovarian cancer by defined     65. 	 Rudolph, K. L. et al. Longevity, stress response, and         87. 	   Olive, K. P. et al. Mutant p53 gain of function in two
+        multiple genetic changes in a mouse model system.                   cancer in aging telomerase-deficient mice. Cell 96,                   mouse models of Li‑Fraumeni syndrome. Cell 119,
+        Cancer Cell 1, 53–62 (2002).                                        701–712 (1999).                                                       847–860 (2004).
+40. 	   Lewis, B. C., Klimstra, D. S. & Varmus, H. E. The c‑myc       66. 	 Chin, L. et al. p53 deficiency rescues the adverse            88. 	   Song, H., Hollstein, M. & Xu, Y. p53 gain-of-function
+        and PyMT oncogenes induce different tumor types in                  effects of telomere loss and cooperates with telomere                 cancer mutants induce genetic instability by
+        a somatic mouse model for pancreatic cancer. Genes                  dysfunction to accelerate carcinogenesis. Cell 97,                    inactivating ATM. Nature Cell Biol. 9, 573–580
+        Dev. 17, 3127–3138 (2003).                                          527–538 (1999).                                                       (2007).
+41. 	   Lewis, B. C. et al. The absence of p53 promotes                     References 65 and 66 demonstrate that mutation of             89. 	   Ahmed, B. Y. et al. Efficient delivery of Cre-
+        metastasis in a novel somatic mouse model for                       telomerase predisposes mice to cancers that exhibit                   recombinase to neurons in vivo and stable
+        hepatocellular carcinoma. Mol. Cell Biol. 25,                       genomic instability, a hallmark of human cancers.                     transduction of neurons using adeno-associated and
+        1228–1237 (2005).                                             67. 	 Seibler, J. et al. Reversible gene knockdown in mice                  lentiviral vectors. BMC Neurosci. 5, 4 (2004).
+42. 	   Lewis, B. C., Chinnasamy, N., Morgan, R. A. & Varmus,               using a tight, inducible shRNA expression system.             90. 	   Vooijs, M., Jonkers, J. & Berns, A. A highly efficient
+        H. E. Development of an avian leukosis-sarcoma virus                Nucleic Acids Res. 35, e54 (2007).                                    ligand-regulated Cre recombinase mouse line shows
+        subgroup A pseudotyped lentiviral vector. J. Virol. 75,       68. 	 Xue, W. et al. Senescence and tumour clearance is                     that LoxP recombination is position dependent.
+        9339–9344 (2001).                                                   triggered by p53 restoration in murine liver                          EMBO Rep. 2, 292–297 (2001).
+43. 	   Theodorou, V. et al. MMTV insertional mutagenesis                   carcinomas. Nature 445, 656–660 (2007).                       91. 	   Kemp, R. et al. Elimination of background
+        identifies genes, gene families and pathways involved         69. 	 Kumar, M. S., Lu, J., Mercer, K. L., Golub, T. R. &                   recombination: somatic induction of Cre by combined
+        in mammary cancer. Nature Genet. 39, 759–769                        Jacks, T. Impaired microRNA processing enhances                       transcriptional regulation and hormone binding
+        (2007).                                                             cellular transformation and tumorigenesis. Nature                     affinity. Nucleic Acids Res. 32, e92 (2004).
+44. 	   Thomas, K. R. & Capecchi, M. R. Site-directed                       Genet. 39, 673–677 (2007).                                            A mouse model in which Cre activity is regulated at
+        mutagenesis by gene targeting in mouse embryo-                70. 	 Collier, L. S., Carlson, C. M., Ravimohan, S., Dupuy, A. J.           both the transcriptional and translational level,
+        derived stem cells. Cell 51, 503–512 (1987).                        & Largaespada, D. A. Cancer gene discovery in solid                   therefore preventing the background recombination
+45. 	   Cichowski, K. et al. Mouse models of tumor                          tumours using transposon-based somatic mutagenesis                    associated with other inducible Cre models.
+        development in neurofibromatosis type 1. Science                    in the mouse. Nature 436, 272–276 (2005).                     92. 	   Hameyer, D. et al. Toxicity of ligand-dependant Cre-
+        286, 2172–2176 (1999).                                        71. 	 Dupuy, A. J., Akagi, K., Largaespada, D. A., Copeland,                recombinases and generation of a conditional Cre-
+46. 	   Clarke, A. R. et al. Requirement for a functional Rb‑1              N. G. & Jenkins, N. A. Mammalian mutagenesis using                    deleter mouse allowing mosaic recombination in
+        gene in murine development. Nature 359, 328–330                     a highly mobile somatic Sleeping Beauty transposon                    peripheral tissues. Physiol. Genomics 12 June 2007
+        (1992).                                                             system. Nature 436, 221–226 (2005).                                   (doi:10. 1152/physiolgenomics. 00019. 2007)
+
+
+
+
+656 | September 2007 | volume 7	                                                                                                                               www.nature.com/reviews/cancer
+                                                                         © 2007 Nature Publishing Group
+                                                                                                                                                                     REVIEWS
+
+93. 	 Bjerkvig, R., Tysnes, B. B., Aboody, K. S., Najbauer, J.    117. 	Gonzalez, F. J. & Yu, A. M. Cytochrome P450 and             139. de Visser, K. E., Korets, L. V. & Coussens, L. M.
+      & Terzis, A. J. Opinion: the origin of the cancer stem            xenobiotic receptor humanized mice. Annu. Rev.                    De novo carcinogenesis promoted by chronic
+      cell: current controversies and new insights. Nature              Pharmacol. Toxicol. 46, 41–64 (2006).                             inflammation is B lymphocyte dependent. Cancer Cell
+      Rev. Cancer 5, 899–904 (2005).                                    An excellent review of currently available                        7, 411–423 (2005).
+94. 	 Peto, R. in Origins of Human Cancer 1403–1428                     transgenic mice expressing human metabolic                  140. Olumi, A. F. et al. Carcinoma-associated fibroblasts
+      (Cold Spring Harbor Laboratory Press, Cold Spring                 enzymes.                                                          direct tumor progression of initiated human prostatic
+      Harbor, NY, 1977) (eds Hiett, H. H., Watson, J. D &         118. 	Bui, J. D. & Schreiber, R. D. Cancer                              epithelium. Cancer Res. 59, 5002–5011 (1999).
+      Winsten, J. A.).                                                  immunosurveillance, immunoediting and                       141. 	Orimo, A. et al. Stromal fibroblasts present in invasive
+95. 	 Ijichi, H. et al. Aggressive pancreatic ductal                    inflammation: independent or interdependent                       human breast carcinomas promote tumor growth and
+      adenocarcinoma in mice caused by pancreas-specific                processes? Curr. Opin. Immunol. 19, 203–208                       angiogenesis through elevated SDF‑1/CXCL12
+      blockade of transforming growth factor-beta signaling             (2007).                                                           secretion. Cell 121, 335–348 (2005).
+      in cooperation with active Kras expression. Genes Dev.      119. 	de Visser, K. E., Eichten, A. & Coussens, L. M.             142. Kurose, K. et al. Frequent somatic mutations in PTEN
+      20, 3147–3160 (2006).                                             Paradoxical roles of the immune system during cancer              and TP53 are mutually exclusive in the stroma of
+96. 	 Izeradjene, K. et al. Kras(G12D) and Smad4/Dpc4                   development. Nature Rev. Cancer 6, 24–37 (2006).                  breast carcinomas. Nature Genet. 32, 355–357
+      haploinsufficiency cooperate to induce mucinous cystic      120. Shultz, L. D., Ishikawa, F. & Greiner, D. L. Humanized             (2002).
+      neoplasms and invasive adenocarcinoma of the                      mice in translational biomedical research. Nature Rev.      143. Fukino, K., Shen, L., Patocs, A., Mutter, G. L. & Eng, C.
+      pancreas. Cancer Cell 11, 229–243 (2007).                         Immunol. 7, 118–130 (2007).                                       Genomic instability within tumor stroma and
+97. 	 Hruban, R. H., Wilentz, R. E. & Kern, S. E. Genetic         121. 	Chang, C. H., Fodor, W. L. & Flavell, R. A. Reactivation          clinicopathological characteristics of sporadic primary
+      progression in the pancreatic ducts. Am. J. Pathol.               of a major histocompatibility complex class II gene in            invasive breast carcinoma. JAMA 297, 2103–2111
+      156, 1821–1825 (2000).                                            mouse plasmacytoma cells and mouse T cells. J. Exp.               (2007).
+98. 	 Kondo, S. et al. Efficient sequential gene regulation via         Med. 176, 1465–1469 (1992).                                 144. Hu, M. et al. Distinct epigenetic changes in the
+      FLP-and Cre-recombinase using adenovirus vector in          122. Rehli, M. Of mice and men: species variations of Toll-             stromal cells of breast cancers. Nature Genet. 37,
+      mammalian cells including mouse ES cells. Microbiol.              like receptor expression. Trends Immunol. 23, 375–8               899–905 (2005).
+      Immunol. 50, 831–843 (2006).                                      (2002).                                                     145. Hill, R., Song, Y., Cardiff, R. D. & Van Dyke, T.
+99. 	 Rangarajan, A. & Weinberg, R. A. Opinion:                   123. Hayakawa, Y., Huntington, N. D., Nutt, S. L. & Smyth,              Selective evolution of stromal mesenchyme with p53
+      Comparative biology of mouse versus human cells:                  M. J. Functional subsets of mouse natural killer cells.           loss in response to epithelial tumorigenesis. Cell 123,
+      modelling human cancer in mice. Nature Rev. Cancer                Immunol. Rev. 214, 47–55 (2006).                                  1001–1011 (2005).
+      3, 952–959 (2003).                                          124. Chen, Z. et al. A 320-kilobase artificial chromosome         146. Lyons, S. K. Advances in imaging mouse tumour
+100. 	McClatchey, A. I. et al. Mice heterozygous for a                  encoding the human HLA DR3-DQ2 MHC haplotype                      models in vivo. J. Pathol. 205, 194–205 (2005).
+      mutation at the Nf2 tumor suppressor locus develop a              confers HLA restriction in transgenic mice. J. Immunol.     147. Olive, K. P. & Tuveson, D. A. The use of targeted
+      range of highly metastatic tumors. Genes Dev. 12,                 168, 3050–3056 (2002).                                            mouse models for preclinical testing of novel cancer
+      1121–1133 (1998).                                           125. Chen, Z. et al. Humanized transgenic mice expressing               therapeutics. Clin. Cancer Res. 12, 5277–5287
+101. 	Trofatter, J. A. et al. A novel moesin-, ezrin-, radixin-         HLA DR4-DQ3 haplotype: reconstitution of phenotype                (2006).
+      like gene is a candidate for the neurofibromatosis 2              and HLA-restricted T‑cell responses. Tissue Antigens        148. Sharpless, N. E. & Depinho, R. A. The mighty mouse:
+      tumor suppressor. Cell 72, 791–800 (1993).                        68, 210–219 (2006).                                               genetically engineered mouse models in cancer drug
+102. 	Giovannini, M. et al. Conditional biallelic Nf2 mutation    126. Madsen, L. et al. Mice lacking all conventional MHC                development. Nature Rev. Drug Discov. 5, 741–754
+      in the mouse promotes manifestations of human                     class II genes. Proc. Natl Acad. Sci. USA 96,                     (2006).
+      neurofibromatosis type 2. Genes Dev. 14, 1617–1630                10338–10343 (1999).                                         149. Ji, H. et al. The impact of human EGFR kinase domain
+      (2000).                                                     127. Kobata, A. The third chains of living organisms‑a trail            mutations on lung tumorigenesis and in vivo
+103. 	Liu, K. et al. Recombinase-mediated cassette exchange             of glycobiology that started from the third floor of              sensitivity to EGFR-targeted therapies. Cancer Cell 9,
+      to rapidly and efficiently generate mice with human               building 4 in NIH. Arch. Biochem. Biophys. 426,                   485–495 (2006).
+      cardiac sodium channels. Genesis 44, 556–564                      107–121 (2004).                                             150. Politi, K. et al. Lung adenocarcinomas induced in mice
+      (2006).                                                     128. Raju, T. S., Briggs, J. B., Borge, S. M. & Jones, A. J.            by mutant EGF receptors found in human lung cancers
+104. 	Zhuang, Y., Barndt, R. J., Pan, L., Kelley, R. & Dai, M.          Species-specific variation in glycosylation of IgG:               respond to a tyrosine kinase inhibitor or to down-
+      Functional replacement of the mouse E2A gene with a               evidence for the species-specific sialylation and                 regulation of the receptors. Genes Dev. 20, 1496–1510
+      human HEB cDNA. Mol. Cell Biol. 18, 3340–3349                     branch-specific galactosylation and importance for                (2006).
+      (1998).                                                           engineering recombinant glycoprotein therapeutics.                References 149 and 150 demonstrate that mouse
+105. 	Wallace, H. A. et al. Manipulating the mouse genome               Glycobiology 10, 477–486 (2000).                                  cancer models with relevant mutations respond
+      to engineer precise functional syntenic replacements        129. Carpelan-Holmstrom, M., Louhimo, J., Stenman, U. H.,               accordingly to currently available therapies.
+      with human sequence. Cell 128, 197–209 (2007).                    Alfthan, H. & Haglund, C. CEA, CA 19–9 and CA               151. 	Lallemand-Breitenbach, V. et al. Retinoic acid and
+      An example of recombinase-mediated cassette                       72–4 improve the diagnostic accuracy in                           arsenic synergize to eradicate leukemic cells in a
+      exchange in which a large human genomic region                    gastrointestinal cancers. Anticancer Res. 22,                     mouse model of acute promyelocytic leukemia. J. Exp.
+      was introduced into the syntenic mouse locus to                   2311–2316 (2002).                                                 Med. 189, 1043–1052 (1999).
+      elicit a disease phenotype that accurately mimics           130. Gion, M. et al. CA27. 29: a valuable marker for breast             A seminal publication in which therapeutic
+      the human condition.                                              cancer management. A confirmatory multicentric                    intervention in a mouse cancer model led to the
+106. 	Kipling, D. & Cooke, H. J. Hypervariable ultra-long               study on 603 cases. Eur. J. Cancer 37, 355–363                    successful development of an arsenic trioxide as a
+      telomeres in mice. Nature 347, 400–402 (1990).                    (2001).                                                           treatment for childhood acute promyelocytic
+107. 	Harley, C. B., Futcher, A. B. & Greider, C. W. Telomeres    131. 	Gadducci, A. et al. Serum half-life of CA 125 during              leukaemia.
+      shorten during ageing of human fibroblasts. Nature                early chemotherapy as an independent prognostic             152. Soignet, S. & Maslak, P. Therapy of acute
+      345, 458–460 (1990).                                              variable for patients with advanced epithelial ovarian            promyelocytic leukemia. Adv. Pharmacol. 51, 35–58
+108. 	Prowse, K. R. & Greider, C. W. Developmental and                  cancer: results of a multicentric Italian study. Gynecol.         (2004).
+      tissue-specific regulation of mouse telomerase and                Oncol. 58, 42–47 (1995).                                    153. Gu, G., Dubauskaite, J. & Melton, D. A. Direct
+      telomere length. Proc. Natl Acad. Sci. USA 92,              132. Falk, P. G., Bry, L., Holgersson, J. & Gordon, J. I.               evidence for the pancreatic lineage: NGN3+ cells are
+      4818–4822 (1995).                                                 Expression of a human alpha-1, 3/4-fucosyltransferase             islet progenitors and are distinct from duct
+109. 	Lee, H. W. et al. Essential role of mouse telomerase in           in the pit cell lineage of FVB/N mouse stomach results            progenitors. Development 129, 2447–2457 (2002).
+      highly proliferative organs. Nature 392, 569–574                  in production of Leb-containing glycoconjugates: a          154. Kawaguchi, Y. et al. The role of the transcriptional
+      (1998).                                                           potential transgenic mouse model for studying                     regulator Ptf1a in converting intestinal to pancreatic
+110. 	Ding, H. et al. Regulation of murine telomere length              Helicobacter pylori infection. Proc. Natl Acad. Sci.              progenitors. Nature Genet. 32, 128–134 (2002).
+      by Rtel: an essential gene encoding a helicase-like               USA 92, 1515–1519 (1995).                                   155. Obata, J. et al. p48 subunit of mouse PTF1 binds to
+      protein. Cell 117, 873–886 (2004).                          133. Houghton, J. & Wang, T. C. Helicobacter pylori and                 RBP-Jκ/CBF-1, the intracellular mediator of Notch
+111. 	Martignoni, M., Groothuis, G. M. & de Kanter, R.                  gastric cancer: a new paradigm for inflammation-                  signalling, and is expressed in the neural tube of early
+      Species differences between mouse, rat, dog, monkey               associated epithelial cancers. Gastroenterology 128,              stage embryos. Genes Cells 6, 345–360 (2001).
+      and human CYP-mediated drug metabolism, inhibition                1567–1578 (2005).                                           156. Bardeesy, N. et al. Smad4 is dispensable for normal
+      and induction. Expert Opin. Drug Metab. Toxicol. 2,         134. Itzkowitz, S. H. & Yio, X. Inflammation and cancer IV.             pancreas development yet critical in progression and
+      875–894 (2006).                                                   Colorectal cancer in inflammatory bowel disease: the              tumor biology of pancreas cancer. Genes Dev. 20,
+112. 	Gonzalez, F. J. & Kimura, S. Study of P450 function               role of inflammation. Am. J. Physiol. Gastrointest.               3130–3146 (2006).
+      using gene knockout and transgenic mice. Arch.                    Liver Physiol. 287, G7–G17 (2004).                          157. Loonstra, A. et al. Growth inhibition and DNA damage
+      Biochem. Biophys. 409, 153–158 (2003).                      135. Seitz, H. K. & Stickel, F. Risk factors and                        induced by Cre recombinase in mammalian cells. Proc.
+113. 	Gonzalez, F. J. Cytochrome P450 humanised mice.                   mechanisms of hepatocarcinogenesis with special                   Natl Acad. Sci. USA 98, 9209–9214 (2001).
+      Hum. Genomics 1, 300–306 (2004).                                  emphasis on alcohol and oxidative stress. Biol.             158. Pfeifer, A., Brandon, E. P., Kootstra, N., Gage, F. H. &
+114. 	Xie, W. & Evans, R. M. Pharmaceutical use of mouse                Chem. 387, 349–360 (2006).                                        Verma, I. M. Delivery of the Cre recombinase by a self-
+      models humanized for the xenobiotic receptor. Drug          136. Jura, N., Archer, H. & Bar-Sagi, D. Chronic                        deleting lentiviral vector: efficient gene targeting
+      Discov. Today 7, 509–515 (2002).                                  pancreatitis, pancreatic adenocarcinoma and the                   in vivo. Proc. Natl Acad. Sci. USA 98, 11450–11455
+115. 	Corchero, J. et al. The CYP2D6 humanized mouse:                   black box in‑between. Cell Res. 15, 72–77 (2005).                 (2001).
+      effect of the human CYP2D6 transgene and HNF4α on           137. Engle, S. J. et al. Elimination of colon cancer in germ-     159. Schmidt, E. E., Taylor, D. S., Prigge, J. R., Barnett, S. &
+      the disposition of debrisoquine in the mouse. Mol.                free transforming growth factor b 1‑deficient mice.               Capecchi, M. R. Illegitimate Cre-dependent chromosome
+      Pharmacol. 60, 1260–1267 (2001).                                  Cancer Res. 62, 6362–6366 (2002).                                 rearrangements in transgenic mouse spermatids. Proc.
+116. 	Granvil, C. P. et al. Expression of the human CYP3A4        138. Coussens, L. M., Tinkle, C. L., Hanahan, D. & Werb, Z.             Natl Acad. Sci. USA 97, 13702–13707 (2000).
+      gene in the small intestine of transgenic mice: in vitro          MMP-9 supplied by bone marrow-derived cells                 160. Raymond, C. S. & Soriano, P. High-efficiency FLP and
+      metabolism and pharmacokinetics of midazolam.                     contributes to skin carcinogenesis. Cell 103, 481–490             PhiC31 site-specific recombination in mammalian
+      Drug Metab. Dispos. 31, 548–558 (2003).                           (2000).                                                           cells. PLoS ONE 2, e162 (2007).
+
+
+
+
+nature reviews | cancer	                                                                                                                           volume 7 | September 2007 | 657
+                                                                     © 2007 Nature Publishing Group
+REVIEWS
+
+161. 	Rodriguez, C. I. et al. High-efficiency deleter mice          177. Colnot, S. et al. Liver-targeted disruption of Apc in         193. Hingorani, S. R. et al. Preinvasive and invasive ductal
+      show that FLPe is an alternative to Cre-loxP. Nature                mice activates β-catenin signaling and leads to                   pancreatic cancer and its early detection in the mouse.
+      Genet. 25, 139–140 (2000).                                          hepatocellular carcinomas. Proc. Natl Acad. Sci. USA              Cancer Cell 4, 437–450 (2003).
+162. 	Ehrhardt, A., Xu, H., Huang, Z., Engler, J. A. & Kay, M. A.         101, 17216–17221 (2004).                                     194. Kelavkar, U. P., Parwani, A. V., Shappell, S. B. &
+      A direct comparison of two nonviral gene therapy              178. Zender, L. et al. Identification and validation of                 Martin, W. D. Conditional expression of human
+      vectors for somatic integration: in vivo evaluation of              oncogenes in liver cancer using an integrative                    15‑lipoxygenase-1 in mouse prostate induces
+      the bacteriophage integrase phiC31 and the Sleeping                 oncogenomic approach. Cell 125, 1253–1267                         prostatic intraepithelial neoplasia: the FLiMP mouse
+      Beauty transposase. Mol. Ther. 11, 695–706 (2005).                  (2006).                                                           model. Neoplasia 8, 510–522 (2006).
+163. Safran, M. et al. Mouse reporter strain for                    179. Santoni-Rugiu, E., Nagy, P., Jensen, M. R., Factor, V.        195. Abdulkadir, S. A. et al. Conditional loss of Nkx3. 1 in
+      noninvasive bioluminescent imaging of cells that have               M. & Thorgeirsson, S. S. Evolution of neoplastic                  adult mice induces prostatic intraepithelial neoplasia.
+      undergone Cre-mediated recombination. Mol.                          development in the liver of transgenic mice                       Mol. Cell Biol. 22, 1495–1503 (2002).
+      Imaging 2, 297–302 (2003).                                          co‑expressing c‑myc and transforming growth factor-α.        196. Conner, E. A. et al. Dual functions of E2F‑1 in a
+164. Uhrbom, L., Nerio, E. & Holland, E. C. Dissecting tumor              Am. J. Pathol. 149, 407–428 (1996).                               transgenic mouse model of liver carcinogenesis.
+      maintenance requirements using bioluminescence                180. Dinulescu, D. M. et al. Role of K‑ras and Pten in the              Oncogene 19, 5054–5062 (2000).
+      imaging of cell proliferation in a mouse glioma model.              development of mouse models of endometriosis and             197. Rankin, E. B., Tomaszewski, J. E. & Haase, V. H. Renal
+      Nature Med. 10, 1257–1260 (2004).                                   endometrioid ovarian cancer. Nature Med. 11, 63–70                cyst development in mice with conditional inactivation
+165. Safran, M. et al. Mouse model for noninvasive imaging                (2005).                                                           of the von Hippel-Lindau tumor suppressor. Cancer
+      of HIF prolyl hydroxylase activity: assessment of an          181. 	Wu, R. et al. Mouse model of human ovarian                        Res. 66, 2576–2583 (2006).
+      oral agent that stimulates erythropoietin production.               endometrioid adenocarcinoma based on somatic                 198. Reilly, K. M., Loisel, D. A., Bronson, R. T., McLaughlin,
+      Proc. Natl Acad. Sci. USA 103, 105–110 (2006).                      defects in the Wnt/β-catenin and PI3K/Pten signaling              M. E. & Jacks, T. Nf1;Trp53 mutant mice develop
+166. Carlsen, H., Moskaug, J. O., Fromm, S. H. &                          pathways. Cancer Cell 11, 321–333 (2007).                         glioblastoma with evidence of strain-specific effects.
+      Blomhoff, R. In vivo imaging of NF‑κB activity.               182. Teng, Y. et al. Synergistic function of Smad4 and PTEN             Nature Genet. 26, 109–113 (2000).
+      J. Immunol. 168, 1441–1446 (2002).                                  in suppressing forestomach squamous cell carcinoma           199. Silberg, D. G. et al. Cdx2 ectopic expression induces
+167. Meuwissen, R. et al. Induction of small cell lung cancer             in the mouse. Cancer Res. 66, 6972–6981 (2006).                   gastric intestinal metaplasia in transgenic mice.
+      by somatic inactivation of both Trp53 and Rb1 in a            183. Opitz, O. G. et al. A mouse model of human oral-                   Gastroenterology 122, 689–696 (2002).
+      conditional mouse model. Cancer Cell 4, 181–189                     esophageal cancer. J. Clin. Invest. 110, 761–769             200. Pelengaris, S., Littlewood, T., Khan, M., Elia, G. &
+      (2003).                                                             (2002).                                                           Evan, G. Reversible activation of c‑Myc in skin:
+168. Sansom, O. J. et al. Loss of Apc allows phenotypic             184. Mo, L. et al. Hyperactivation of Ha‑ras oncogene, but              induction of a complex neoplastic phenotype by a
+      manifestation of the transforming properties of an                  not Ink4a/Arf deficiency, triggers bladder                        single oncogenic lesion. Mol. Cell 3, 565–577
+      endogenous K‑ras oncogene in vivo. Proc. Natl Acad.                 tumorigenesis. J. Clin. Invest. 117, 314–325 (2007).              (1999).
+      Sci. USA 103, 14122–14127 (2006).                             185. Sansom, O. J., Griffiths, D. F., Reed, K. R., Winton, D. J.   201. Bhowmick, N. A. et al. TGF-b signalling in fibroblasts
+169. Edelmann, W. et al. Mutation in the mismatch repair                  & Clarke, A. R. Apc deficiency predisposes to renal               modulates the oncogenic potential of adjacent
+      gene Msh6 causes cancer susceptibility. Cell 91,                    carcinoma in the mouse. Oncogene 24, 8205–8210                    epithelia. Science 303, 848–851 (2004).
+      467–477 (1997).                                                     (2005).
+170. 	Jonkers, J. et al. Synergistic tumor suppressor activity      186. Xiao, A. et al. Somatic induction of Pten loss in a           Acknowledgements
+      of BRCA2 and p53 in a conditional mouse model for                   preclinical astrocytoma model reveals major roles in         We thank members of the Tuveson lab for helpful comments
+      breast cancer. Nature Genet. 29, 418–425 (2001).                    disease progression and avenues for target discovery         on the manuscript. Work is supported by US National
+171. 	Derksen, P. W. et al. Somatic inactivation of                       and validation. Cancer Res. 65, 5172–5180 (2005).            Institutes of Health grants 1F32CA123887-01 (K.K.F.),
+      E‑cadherin and p53 in mice leads to metastatic                187. Shih, A. H. et al. Dose-dependent effects of platelet-        CA101973 (D.A.T.), CA111292 (D.A.T.), CA084291 (D.A.T.),
+      lobular mammary carcinoma through induction of                      derived growth factor‑B on glial tumorigenesis. Cancer       CA105490 (D.A.T.) and the Lustgarten Foundation for
+      anoikis resistance and angiogenesis. Cancer Cell 10,                Res. 64, 4783–4789 (2004).                                   Pancreatic Cancer Research (D.A.T.). D.A.T. is a group leader
+      437–449 (2006).                                               188. Oshima, H. et al. Carcinogenesis in mouse stomach by          of Cancer Research UK.
+172. Aguirre, A. J. et al. Activated Kras and Ink4a/Arf                   simultaneous activation of the Wnt signaling and
+      deficiency cooperate to produce metastatic pancreatic               prostaglandin E2 pathway. Gastroenterology 131,              Competing interest statement
+      ductal adenocarcinoma. Genes Dev. 17, 3112–3126                     1086–1095 (2006).                                            The authors declare no competing financial interests.
+      (2003).                                                       189. Andressoo, J. O. et al. An Xpd mouse model for the
+173. Hingorani, S. R. et al. Trp53R172H and KrasG12D                      combined xeroderma pigmentosum/Cockayne                        DATABASES
+      cooperate to promote chromosomal instability and                    syndrome exhibiting both cancer predisposition and             Entrez Gene: http://www.ncbi.nlm.nih.gov/entrez/query.
+      widely metastatic pancreatic ductal adenocarcinoma                  segmental progeria. Cancer Cell 10, 121–132 (2006).            fcgi?db=gene
+      in mice. Cancer Cell 7, 469–483 (2005).                       190. Haramis, A. P. et al. De novo crypt formation and               Abl | Bcr | CDKN2A | CYP2D6 | CYP3A4 | DPC4 | ER | Erbb2 | Hras |
+174. Wang, S. et al. Prostate-specific deletion of the murine             juvenile polyposis on BMP inhibition in mouse                  Kras | MMP9 | Myc | Nf2 | p53 | PIK3CA | PTEN | Rtel | Terc | TGFβ
+      Pten tumor suppressor gene leads to metastatic                      intestine. Science 303, 1684–1686 (2004).                      National Cancer Institute: http://www.cancer.gov
+      prostate cancer. Cancer Cell 4, 209–221 (2003).               191. 	Su, L. K. et al. Multiple intestinal neoplasia caused by
+175. Kim, M. J. et al. Cooperativity of Nkx3. 1 and Pten loss             a mutation in the murine homolog of the APC gene.              FURTHER INFORMATION
+      of function in a mouse model of prostate carcinogenesis.            Science 256, 668–670 (1992).                                   Author’s homepage: http://science.cancerresearchuk.org/
+      Proc. Natl Acad. Sci. USA 99, 2884–2889 (2002).               192. Schulze-Garg, C., Lohler, J., Gocht, A. & Deppert, W. A         research/loc/cambridge/ccri/tuvesond/
+176. Zhou, Z. et al. Synergy of p53 and Rb deficiency in a                transgenic mouse model for the ductal carcinoma                ?view=CRI&source=research
+      conditional mouse model for metastatic prostate                     in situ (DCIS) of the mammary gland. Oncogene 19,              all links are active in the online pdf
+      cancer. Cancer Res. 66, 7889–7898 (2006).                           1028–1037 (2000).
+
+
+
+
+658 | September 2007 | volume 7	                                                                                                                            www.nature.com/reviews/cancer
+                                                                       © 2007 Nature Publishing Group
+

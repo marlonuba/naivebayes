@@ -1,0 +1,216 @@
+ANALYTICAL      BIOCHEMISTRY       28, 216-221          (1969)
+
+
+
+
+             Measurement                of    Protein       Concentration           with
+                                Interferences               Optics’
+
+              JORGE BABUL                    AND   EARLE          STELLWAGEN
+   Department      of   Biochemistry,        University      of Iowa,   Iowa   City, Iowa   52260
+
+                                   Received July          10, 1968
+
+    Measurement of the physical and chemical properties of a puri-
+ fied protein requires a method for determination of the protein
+concentrations of the solutions employed. Spectrophotometric meas-
+ urements are widely used as a convenient, sensitive, and precise
+method for the determination of protein concentration. However,
+spectrophotometric measurements require a knowledge of an ex-
+tinction coefficient for each protein, since the relative number of
+chromophoric amino acid residues varies from protein to protein.
+ Determination of an extinction coefficient requires an independent
+and precise method of measuring protein concentration. The limited
+supply of many purified enzymes precludes the use of dry weight
+measurements in determining the extinction coefficient. Although
+chemical methods for protein determination, such as the Kjeldahl,
+Folin-Ciocalteu, or biuret procedures, require much less protein,
+such measurements must be related to a standard reference protein.
+Since each of these chemical methods is sensitive to the relative
+abundance of specific amino acid residues in proteins (l-3)) an
+arbitrary standard protein such as bovine serum albumin may be
+inappropriate for a given protein of unknown composition.
+    Although the molar refractions of the amino acid residues also
+exhibit considerable variation (4)) the refractive indices of proteins
+vary by less than 62% (4,5). Accordingly, refractometric measure-
+ments can be used to determine protein concentration. This com-
+munication describes the use of an analytical ultracentrifuge as a
+differential refractometer to determine the concentration of small
+volumes of dilute protein solutions.
+  1 This investigation      was supported    by research grant GB-6288 from the
+National Science Foundation      and by a Public Health Service research program
+award l-K03-GM        08’737 from the Institute   of General Medical Sciences.
+                                          216
+               MEASUREMENT           OF   PROTEIN        CONCENTRATION              217
+
+                         MATERIALS          AND       METHODS
+
+    Proteins.      Ribonuclease     A, trypsin, chymotrypsin,           and lactate de-
+hydrogenase were purchased from Worthington                       Biochemical      Corp.,
+serum albumin           and cytochrome           c from Sigma Chemical Co., and
+aldolase from Boehringer             und Soehne. Ovalbumin          and methemoglo-
+bin were gifts from Dr. H. B. Bull. All proteins except trypsin were
+dialyzed against 0.05 M phosphate buffer, pH 7.0. Trypsin                             was
+dialyzed against 0.05 M tris-HCl                 buffer, pH 8.0. All solutions were
+clarified by centrifugation           to remove any insoluble material.
+     Ultracentrifugal       menswrements.          A 0.15 ml aliquot of a protein
+solution was placed in one limb of a 12 mm double-sector synthetic
+boundary centerpiece assembled in a cell together with sapphire
+windows, and 0.42 ml of the outer dialysis solution in the other limb
+of the centerpiece. All centrifugation                  was performed       in a Spinco
+model E analytical          ultracentrifuge        at 20’ using a Wratten No. 77A
+filter, Solvent was layered over the solution by accelerating                    a rotor
+containing        the cell to a speed of less than 10,000 rpm to form the
+solvent-protein         boundary.       The rotor was then maintained             at this
+speed to permit the boundary to diffuse. When individual                         fringes
+could be discerned across the boundary in the viewing screen, a
+photograph          of the cell contents was taken using Kodak spectro-
+scopic II-G photographic              plates. The rotor was then stopped, un-
+coupled from the centrifuge,               inverted several times to destroy any
+protein gradients, reaccelerated to the operating speed, and photo-
+graphed to provide a baseline exposure to correct for any optical
+distortion       of the interference         fringes. The number of interference
+fringes traversed when crossing the protein-solvent                      boundary was
+measured with the aid of a Nikon microcomparator.
+     Spect~ophotometric          measurements.         The absorbance of aliquots of
+all solutions was measured at 280 rnp except those of cytochrome c
+and methemoglobin,             which were measured at 550 and 500 rnp, re-
+spectively. A Gilford spectrophotometer                   was used. Protein concen-
+trations were calculated using the extinction                   coefficients shown in
+ Table 1.
+                          RESULTS         AND       DISCUSSION
+    The number of interference       fringes observed for each protein
+exhibited a linear dependence on protein concentration        in the range
+0.1 to 5.0 mg/ml.      A typical example is shown in Figure 1. Protein
+concentrations     less than 0.1 mg/ml produced interference       patterns
+exhibiting    curvature throughout     the cell, suggesting that the small
+difference in the densities of the solution and solvent at these low
+218                            BABUL        AND          STELLWAGEN
+
+                                             TABLE    1
+                            Refractive      Increments of Proteinsa
+                                                                                   Properties
+                               Refractive                                                                  ----
+          Protein             increment,    Ref&d;y
+                               measured                       ax, I%-‘,           Partial       specific   Amino acid
+                        (fringes/mg/ml)      ealcula&d            cm-1           volume         (ml/gmf    composition
+
+
+Aldolase, rabbit muscle          4.06         1.593          9.38         ( 6)    0.742           ( 7)            ( 8)
+a-Chymotrypsin,   bovine         4.04         1.596         18.7                  0.736           ( 9)            (10)
+   pancreas
+Lactate dehydrogenase,            4.14        1.604         14.9          (11)    0.740           (12)            (13 1
+   bovine heart
+Ovalbumin, chicken               4.03         1.594          7.146                0.745           (14)            (10)
+Ribonuclease A, bovine           4.23         1.613          6.95 (15)            0.709           (14)            (10)
+   pancreas
+Serum albumin, bovine            4.15         1.604          6.60 (16)           0.734            (14)            (10)
+Trypsin, bovine pancreas         4.06         1.595         14.4   (17)          0.730            (18)            (19)
+Cytochrome c, horse heart        4.43         1.584c        22.6   (20)          0.724                            (10)
+Methemoglobin,   bovine          4.50         1.586”         5.32”               0.749            (14)            00)
+
+  a Numbers in parentheses are references for the values employed in the calculations.
+  b H. B. Bull, personal communication.
+  c Calculated for apoprotein.
+
+protein concentrations        cause convective stirring during the layering
+of solvent. The refractive          increment     in fringes/mg/ml           calculated
+from the slope of the observed linear relationship                 for each protein
+is shown in Table 1. The seven nonheme proteins have an average
+refractive     increment     of 4.10 f 0.13 interference             fringes/mg/ml,
+while the two hemoproteins            have an average value of 4.47 I+ 0.04
+fringes/mg/ml.
+     The refractive     index of each of the seven nonheme proteins was
+calculated from their amino acid compositions,                 partial specific vol-
+umes, and refraction         per gram residue (4) using the Lorentz and
+Lorenz equation as described by McMeekin                  et al. (4). As shown in
+Figure 2, the observed refractive             increment      exhibits a linear de-
+pendence on the calculated refractive               indices, indicating        that the
+variation    in refractive increment        is due to the differences in amino
+acid composition        and not to procedural         errors. Assuming         that the
+seven nonheme proteins examined represent a normal variation                           of
+amino acid composition,          measurement         of the concentration          of an
+unknown unconjugated           protein should not be in error by more than
+-3% using an ultracentrifuge              as a differential     refractometer        and
+the reported refractive increment.            This procedure can be employed
+to determine        the concentration      of protein solutions containing              as
+little as 0.02 mg of protein in a volume of 0.15 ml.
+              MEASUREMENT            OF PROTEIN       CONCENTRATION            219
+
+
+
+
+                           Protein    Concentration   , mg /ml
+   FIG. 1. Dependence of number of interference     fringes on protein concentra-
+tion. A solution of lactic dehydrogenase was dialyzed against 0.05 1M phosphate
+buffer, pH 7.0. Dilutions of the dialyzed protein solution were made with the
+outer dialysis solution. Protein concentrations   were determined     spectrophoto-
+metrically  using the extinction coefficient shown in Table 1.
+
+     Prosthetic    groups would be expected to contribute        to the refrac-
+tive increment        in accordance with their molar refraction       and frac-
+tional concentration.          As shown in Table 1 and Figure            2, the
+refractive      increments      of the hemoproteins,      cytochrome      c and
+methemoglobin,         are substantially  greater than predicted from their
+amino acid compositions.           Since these proteins contain only 4-60/o
+heme by weight, the refraction per gram of heme must be markedly
+different from that of an average amino acid residue. Therefore, to
+utilize this method for the measurement              of the concentration     of
+conjugated proteins, it will be necessary to evaluate the fractional
+weight concentration          of the conjugated   moiety and its refraction
+per gram.
+                                     SUMMARY
+   A convenient micro method for the measurement                  of protein con-
+centration  that uses an analytical ultracentrifuge              as a differential
+220                                      BABUL        AND     STELLWAGEN
+
+
+
+                            “62r~
+
+
+                                         REFRACTIVE         INCREMENT      (fringes/   mg/ ml)
+         2. Comparison
+      FIG.               of refractive                  increment and refractive index for the un-
+conjugated   proteins. The refractive                    index was calculated from the amino acid
+composition   as described in Table                    1. The line shown is a least-squares   fit of
+the data.
+
+refractometer  is described. The number of interference      fringes ob-
+served for a given protein solution is converted to mg protein/ml
+using an average refractive   increment of 4.1 fringes/mg/ml.
+                                                 REFERENCES
+ 1. KIRK, P. L., Advan.       Protein   Chem.    3, 139 (1947).
+ 2. GORNALL,     A. G., BARDAWILL,      C. J., AND DAVD, M. M., J. Biol. Chem. 177,
+       751 (1959).
+ 3. ITZHAKI,    R. F., AND GILL, D. M., Anal. Bioclzem. 9, 401 (1964).
+ 4. MCMEEKIN,       T. L., WILENSKY,      M., AND GROVES, M. L., Biochem.        Biophys.
+       Res. Commun.       7, 151 (1962).
+ 5. DOTY, P., AND GEIDUSCHEK,         E. P., in “The Proteins”       (H. Neurath and K.
+       Bailey, eds.), Vol. I, Part A, p. 393. Academic Press, New York, 1953.
+ 6. DONOVAN,      J. W., Biochemistry      3, 67 (1964).
+ 7. TAYLOR,    J. F., AND LOWRY,      C., Biochim.     Biophys. Acta    20, 109 (1956).
+ 8. RUTTER,    W. J., in “The Enzymes”          (P. D. Boyer, H. Lardy, and K. Myr-
+       btick, eds.), Vol. 5, 2nd ed., p. 341. Academic Press, New York, 1961.
+ 9.      SCHWERT,       G. W.,    AND      KAUFMAN,           S., J.    Biol.      Chem.     190,   807   (1951).
+10. TRISTRAM,    G. R., AND SMITH,    R. H., Advan.     Protein      Chem.     18, 227 (1963).
+11. PESCE, A., MCKAY,       R. H., STOLZENBACH,      F., CAHN,        R. D., AND KAPLAN,
+       N. O., J. Biol.  Chem.   239, 1753 (1964).
+12. APPELLA,    E., AND MARKERT,      C. L., Biochem.       Biophys.      Res.     Commun.     6,
+             171   (1961).
+13. PESCE,           A., FONDY,    T.,     STOLZENBACH,           F.,   CASTILLO,          F. AND   KAPLAN,         N.   O.,
+             J. Biol.    CILem.   242, 2151 (1967).
+                  MEASUREMENT             OF    PROTEIN       CONCENTRATION                        221
+
+
+14.   EDSALL,      J. T., in “The     Proteins”        (H. Neurath      and K. Bailey,      eds.) , Vol
+        I, Part      B. p. 549. Academic        Press,      New York,    1953.
+15.   SHERWOOD,        L. M., AND POTTS, J. T., J. Biol. Chem.             240, 3799 (1965).
+16.   DANIEL,      E., AND WEBER,       G., Biochemistry         5, 1893 (1966).
+17.   DAVIE,     E. W., AND NEURATH,            H., J. Biol.    Chem.     212, 50’7 (1955).
+18.   CUNNINGHAIV~,          L. W., JR., TIETZE,         F., GREEN,    N. M., AND NEURATH,           H.,
+        Discuss.      Faraday     Sot. 13, 58 (1953).
+19.   WALSH,       K. A., AND NEURATH,             H., PTOC. Natl.       Acad.   Sci. U. S. 52, 884
+         (1964).
+20.   MARGOLIASH,         E., AND FROHWIRT,         N., Biochem.      J. 71, 570 (1959).
+

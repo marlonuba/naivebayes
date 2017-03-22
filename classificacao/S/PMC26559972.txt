@@ -1,0 +1,502 @@
+SUMMARY
+Oncogenic transcription factor FOXM1
+is overexpressed in the majority of human
+cancers and it is a potential target for anticancer
+therapy. We identified proteasome inhibitors as
+the first type of drugs that target FOXM1 in
+cancer cells. Here, we found that HSP90
+inhibitor PF-4942847 and heat shock also
+suppress FOXM1. The common effector, which
+was induced after treatment with proteasome
+and HSP90 inhibitors or heat-shock, was the
+molecular chaperone HSP70. We show that
+HSP70 binds to FOXM1 following proteotoxic
+stress and that HSP70 inhibits FOXM1 DNAbinding
+ability. Inhibition of FOXM1
+transcriptional auto-regulation by HSP70 leads
+to the suppression of FOXM1 protein
+expression. In addition, HSP70 suppression
+elevates FOXM1 expression and simultaneous
+inhibition of FOXM1 and HSP70 increases the
+sensitivity of human cancer cells to anticancer
+drug-induced apoptosis. Overall, we determined
+the unique and novel mechanism of FOXM1
+suppression by proteasome inhibitors.
+Forkhead Box M1 (FOXM1) is an
+oncogenic transcription factor that is also a wellrecognized
+cell cycle regulator [1]. FOXM1
+expression is eliminated from quiescent or
+differentiated cells, but it is highly expressed in
+proliferating and malignant cells [1]. It is also
+well documented that FOXM1 is overexpressed
+in broad types of human cancers and it
+contributes to several aspects of cancer
+development [2,3]. Consequently, it is not
+surprising that FOXM1 has evolved as a
+potential target of anticancer therapy [4].
+Our group identified the thiazole
+antibiotics Siomycin A [5] and thiostrepton [6]
+as the first chemical inhibitors of FOXM1.
+Investigation of their mechanism of action
+revealed that they are proteasome inhibitors [7].
+Bona fide proteasome inhibitors including
+MG132 and bortezomib were also found to
+hinder the transcriptional activity and expression
+of FOXM1 [7], suggesting that FOXM1 is one
+of the general targets of these drugs.
+Proteasome inhibitors stabilize the expression of cellular proteins; therefore suppression of
+FOXM1 is counterintuitive and has not been
+well understood. As an explanation for this
+effect, we put forward the hypothesis that a
+negative regulator of FOXM1 (NRFM) is
+stabilized by proteasome inhibitors [8], which
+directly or indirectly inhibits FOXM1
+transcriptional activity [9]. Here, we determined
+that the NRFM is HSP70. Because a positive
+auto-regulation loop is required for FOXM1
+expression [9], HSP70 (NRFM) also represses
+FOXM1 mRNA and protein expression after
+treatment with proteasome inhibitors. Heat shock proteins (HSPs) are stress
+proteins, which are mainly expressed in response
+to different cellular and environmental insults.
+HSPs are divided by their molecular weight into
+the subfamilies of HSP110, HSP90, HSP70,
+HSP60 and small HSPs. Besides their major
+function of aiding protein folding as molecular
+chaperons, HSPs also play important roles in
+cell signaling, protein trafficking and blocking
+cell death [10,11,12,13]. Elevated levels of
+HSPs are linked not only to cytoprotection but to
+neurodegenerative disorders and cancer [10,12].
+Among the several members of the HSP70
+family, HSC70 is constitutively expressed under
+non-stressful conditions as well, while the
+expression of stress-inducible HSP70 is mainly
+detectable following different types of stress
+[11,12]. Overexpression of anti-apoptotic
+HSP70 is often seen in human cancers; therefore
+targeting HSP70 has emerged as a tempting
+approach to improve anticancer therapy [12].
+However, our current findings suggest that
+caution should be employed with the
+incorporation of HSP70 inhibitors into
+chemotherapeutic cocktails for the treatment of
+cancer because they lead to the induction of
+oncogenic transcription factor FOXM1.
+In this study, we identified HSP70 as the
+negative regulator of FOXM1 after proteotoxic
+stress. We demonstrate that treatment with
+proteasome and HSP90 inhibitors or heat shock
+results in decreased FOXM1 and increased
+HSP70 protein expression. We also show that
+following proteotoxic stress FOXM1 and HSP70
+bind to each other. We concluded that HSP70
+negatively regulates the transcriptional activity
+of FOXM1 by interfering with the DNA-binding ability of FOXM1. Because of FOXM1 autoregulation,
+HSP70 also inhibits FOXM1
+expression. In addition, we demonstrate that
+combination of FOXM1 and HSP70 inhibitors
+increases the sensitivity of human cancer cells to
+cell death. Our results reveal a novel regulatory
+function of HSP70 after proteotoxic stress.
+EXPERIMENTAL PROCEDURES
+Cell culture and chemical compounds
+DU145 prostate, MIA PaCa-2 pancreatic cancer
+cell lines (ATCC), U2OS osteosarcoma and
+osteosarcoma-derived C3 [14] and C3-luc cells
+[5] were grown in DMEM medium (Cellgro).
+MDA-MB-231 (ATCC) breast and RPMI 8266
+multiple myeloma cancer cell lines were grown
+in RPMI medium (Cellgro). The media were
+supplemented with 10% fetal bovine serum
+(Atlanta Biologicals) and 1% penicillinstreptomycin
+(GIBCO). All the cells were
+maintained at 37°C in 5% CO2. Bortezomib
+(Velcade; Millenium Pharmaceuticals),
+thiostrepton (Sigma), PF-4942847 (Pfizer), 9-
+Aminoacridine (9-AA, Fluka) and Quercetin
+(Sigma) were dissolved in dimethyl sulfoxide
+(DMSO) (Fisher Scientific), and Doxycycline
+(D5897; LKT Laboratories) in phosphate
+buffered saline (PBS).
+Immunoblot analysis
+Treated cells were harvested and lysed by using
+IP buffer (20mM HEPES, 1% Triton X-100, 150
+mM NaCl, 1 mM EDTA, 1 mM EGTA, 100mM
+NaF, 10 mM Na4P2O7, 1 mM sodium
+orthovanadate, 0.2 mM PMSF supplemented
+with protease inhibitor tablet (Roche Applied
+Sciences)). Protein concentration was
+determined by the Bio-Rad Protein Assay (BIORAD).
+Isolated proteins were separated on
+SDS-PAGE and transferred to PVDF membrane
+(Millipore). Immunoblotting was carried out
+with antibodies specific for FOXM1 (Santa Cruz
+and also the rabbit polyclonal antibody against
+FOXM1 was described previously [15]), HSP70
+3a3 and 2A4 (kind gifts from Dr. Morimoto),
+cleaved caspase-3 (Cell signaling), and ?-actin
+(Sigma).
+Plasmids, siRNAs and transfection. FOXM1
+expression plasmid was a kind gift of the late
+Dr. Robert H. Costa and the HSP70 expression plasmid was purchased from Addgene (Addgene
+plasmid 15215; [16]). Control (universal
+negative control #1) small interfering RNA
+(siRNA) and siRNAs specific to HSP70
+[17,18,19] and FOXM1
+(GGACCACUUUCCCUACUUUUU) were
+synthesized by Sigma. Transient transfections
+were carried out with Lipofectamine 2000
+(Invitrogen) according to the manufacturer’s
+recommendation. Cells were processed as
+described in the figure legends after transfection.
+Immunoprecipitation (IP)
+Cells were harvested, lysed in IP buffer
+supplemented with protease inhibitors and
+protein concentration was determined by the
+Bio-Rad Protein Assay reagent (BIO-RAD).
+Two-Four hundred µg of the lysates in 500 µl
+volume were pre-cleared by incubating with 1
+µg of rabbit IgG and 30 µl of protein-A-agarose
+(Santa Cruz) on a rotary mixer for 30 minutes at
+4ºC. The samples were centrifuged for 1 min at
+1000 rpm and the clarified lysates were
+transferred to fresh microcentrifuge tubes. Onetwo
+µg of FOXM1 antibody and 30 µl of
+protein-A-agarose were added and the samples
+were incubated on a rotary mixer overnight at
+4ºC. The agarose beads were washed 4 times
+with IP buffer containing protease inhibitors and
+centrifuged for 1 min at 1000 rpm at 4ºC each
+time. The beads were then resuspended in 100
+µl 2X Laemmli sample buffer (BIO-RAD),
+boiled, centrifuged and the supernatant was
+separated on a 10% SDS-polyacrylamide gel and
+immunoblotted with FOXM1 and HSP70
+specific antibodies.
+Flow cytometry - Propidium Iodide staining
+Cells were treated as indicated and harvested by
+trypsinization. Then, cells were washed in PBS
+and fixed in ice-cold 95% ethanol. Following
+fixation, cells were stained with propidium
+iodide (50 µg/ml) (Invitrogen) in PBS/RNAse
+A/Triton X-100 for 30 minutes at room
+temperature and analyzed by flow cytometry.
+Chromatin Immunoprecipitation (ChIP)
+Chromatin immunoprecipitation (ChIP) was
+performed as described in [20], with the
+following modifications. A total of 8x10^6
+U2OS-derived C3 cells were used per IP; input corresponded to 1/50 part of the IP. Five ug
+FOXM1 antibody (Santa Cruz) was bound to 30
+µl of Dynabeads Protein G (Invitrogen) and
+added to each IP. The amount of DNA from the
+IP and from input in PCR reaction corresponded
+to 500 pg/ul. qPCR reactions contained 2.5µl of
+the SYBR Green mix (Bio-Rad), 1.25µl of 4µM
+primer pair mix and 1.25µl the DNA template.
+The following primers were used to amplify the
+indicated human gene promoter fragments:
+AURKB-forward 5`-
+AGATGGCTGGTGTTCCAATGTAGC-3`, and
+AURKB-reverse 5`-
+TTCTTTCCGTTGCTCAGACTCCCA-3`;
+CDC25B-forward 5`-
+TGGGCGTGATACTTAATTCGCCTC-3`, and
+CDC25B-reverse 5`-
+AGGCTCTAAACGGTGGAACTAGGA-3`;
+FOXM1_1-forward 5`-
+CACTATGCCCAGCCCACATTTGTT-3`, and
+FOXM1_1-reverse 5`-
+AGGCCCTGAAGATACAATGGCAGA-3`;
+FOXM1_2-forward 5`-
+AGCCCGGAATGCCGAGACAA-3`, and
+FOXM1_2-reverse 5`-
+GTTCCGCTGTTTGAAATTGGCG;
+FOXM1_3-forward 5`-
+GCTATCCCATCCATTTCTGTAGCC-3`, and
+FOXM1_3-reverse 5`-
+GCAGACAGAAGCAATTCAAAGGGC-3`.
+The qPCR was run on the Bio-Rad CFX
+thermocycler using the following qPCR
+protocol: 1) 98°C for 1:30min.; 2) 98°C for 10s;
+3) 60°C for 1min.; 4) 72°C for 30s; 5) cycle 39
+times steps 2-4; 6) 95°C for 30s; 7) Melt Curve
+55°C to 95°C in 0.5°C increments for 30s.
+Baseline threshold was manually set up to 15.90
+for each plate. Enrichment was calculated using
+the 2-??Ct method and results are presented as
+% of input.
+Statistical analysis
+Statistical analysis was performed using oneway
+ANOVA followed by Tukey’s multiple
+comparison post test or unpaired t-test. P values
+of <0.05 were considered to be statistically
+significant. FOXM1 protein expression is suppressed,
+while HSP70 protein expression is elevated
+following proteotoxic stress
+Previously, we found that FOXM1 is
+down-regulated [7], whereas it is known that
+HSP70 is up-regulated after treatment with
+proteasome inhibitors [21]. In order to confirm
+this observation, multiple myeloma (RPMI
+8266) and breast cancer cells (MDA-MB-231)
+were treated with proteasome inhibitors
+bortezomib or thiostrepton (Fig. 1A-C). We
+found that following treatment with proteasome
+inhibitors FOXM1 suppression correlated with
+HSP70 up-regulation. Because inhibition of
+HSP90 leads to the up-regulation of HSP70 [12],
+we wanted to determine if treatment with HSP90
+inhibitors also represses FOXM1. MIA PaCa-2
+pancreatic and MDA-MB-231 breast cancer
+cells were treated with the HSP90 inhibitor PF-
+4942847 and FOXM1 was detected by
+immunoblotting (Fig. 1D, E). We found that a
+decrease in FOXM1 expression indeed linked to
+an increase in HSP70 expression following
+treatment with HSP90 inhibitor PF-4942847. In
+agreement with previous studies we also
+confirmed that HSP90 inhibitor PF-4942847 is
+not a proteasome inhibitor (data not shown),
+thereby it induces HSP70 (Fig 1D, E) by a
+different mechanism from proteasome inhibitors.
+Because both proteasome inhibitors and HSP90
+inhibitor PF-4942847 up-regulated HSP70 and
+suppressed FOXM1, it suggests that after
+proteotoxic stress the down-regulation of
+FOXM1 by HSP70 is a universal mechanism.
+Additionally, when breast (MDA-MB-231)
+cancer cells were subjected to heat shock we
+also observed that the induction of HSP70
+correlated with the suppression of FOXM1 (Fig.
+1F). These data suggest that HSP70 might
+negatively regulate FOXM1 during proteotoxic
+stress.
+Inhibition of HSP70 alleviates FOXM1
+suppression during proteotoxic stress
+To evaluate the role of HSP70 in the
+negative regulation of FOXM1 during
+proteotoxic stress we inhibited HSP70 using
+drugs and RNA interference (RNAi). Prostate
+(DU145), breast (MDA-MB-231) and
+osteosarcoma (U2OS) cells were treated with
+thiostrepton or PF-4942847 in the presence and absence of HSP70 inhibitors 9AA or quercetin,
+which are commonly used to inhibit HSP70
+[10,11,12,24]. Western blotting showed that
+inhibition of HSP70 led to the restoration of
+FOXM1 protein level to basal level following
+treatment with proteasome inhibitor thiostrepton
+or HSP90 inhibitor PF-4942847 (Fig. 2A-D).
+Because both 9AA and quercetin are not specific
+inhibitors of HSP70 we also utilized RNAi
+against HSP70. Similarly to the
+pharmacological inhibitors of HSP70, RNAimediated
+knockdown of HSP70 in pancreatic
+and breast cancer cells restored the protein
+expression of FOXM1 after thiostrepton or PF-
+4942847 treatment (Fig. 2E-G). These data
+suggest that HSP70 suppresses FOXM1 during
+proteotoxic stress.
+Inhibition of HSP70 in combination with
+suppression of FOXM1 promotes apoptosis of
+human cancer cells
+HSP70 can block both the extrinsic and
+intrinsic apoptotic pathway at different levels.
+Consequently, inhibition of HSP70 is believed
+to counteract its anti-apoptotic functions and
+make cells more sensitive to cell death
+[10,11,12]. However, according to our current
+findings HSP70 inhibition leads to the
+upregulation of FOXM1 (Fig. 2). FOXM1 is
+also known to confer resistance to apoptosis
+induced by various drugs including proteasome
+inhibitors, Herceptin, paclitaxel, cisplatin, and
+epirubicin [25,26,27,28]. Consequently,
+FOXM1 suppression increased the sensitivity of
+cancer cells to different cell death-inducing
+stimuli [3,4].
+We were interested whether concurrent
+inhibition of FOXM1 and HSP70 make cancer
+cells more prone to cell death. Transient
+FOXM1 knockdown cells were treated with
+thiostrepton in the presence or absence of
+HSP70 inhibitor 9AA. Apoptosis was assessed
+by immunoblotting for cleaved caspase-3 (Fig.
+3A-C) and by flow cytometry after propidium
+iodide staining (Fig. 3D). In agreement with
+earlier studies [10,11,12], we also observed that
+HSP70 inhibition sensitized cancer cells to cell
+death, in this case to thiostrepton-mediated
+apoptosis. But cancer cells with FOXM1
+knockdown in the presence of HSP70 inhibitor
+9AA were more sensitive to cell death induced by thiostrepton (Fig. 3). These data suggest that
+simultaneous suppression of FOXM1 and
+HSP70 could be greatly beneficial for cancer
+treatment in order to circumvent any drugrelated
+resistance.
+FOXM1 and HSP70 interact with each other
+following proteotoxic stress
+Because treatment with both
+thiostrepton and heat shock resulted in low level
+of endogenous FOXM1 protein (Fig. 1) we took
+advantage of the tetracycline/doxycyclineinducible
+system to obtain high levels of
+exogenous FOXM1 [5], which is not affected by
+either stressor (data not shown). U2OS
+osteosarcoma derived, tetracycline/doxycyclineinducible
+C3 cells [14] were treated with
+doxycycline and thiostrepton, and
+immunoprecipitated with FOXM1 specific
+antibody. Analysis of the TCA-acetone purified
+immunoprecipitates by mass spectrometry
+suggested that FOXM1 interacts with HSP70
+(data not shown).
+In order to further confirm the binding
+between FOXM1 and HSP70, the U2OS-C3
+[14] and U2OS-C3-luc cell lines [5] were treated
+with doxycycline and proteasome inhibitor
+thiostrepton (Fig. 4A) or heat shock (Fig. 4B),
+respectively. Immunoprecipitations were
+performed with FOXM1 specific antibody
+followed by immunoblotting for FOXM1 and
+HSP70. HSP70 co-immunoprecipitated with
+FOXM1 in both thiostrepton and heat shock
+treated cells (Fig. 4A, B).
+HSP70 inhibits DNA-binding of FOXM1 to
+its own regulatory elements
+In preliminary experiments, HSP70
+inhibited transactivation of specific reporter by
+exogenous FOXM1 (data not shown). Because
+FOXM1 is involved in a positive auto-regulatory
+loop wherein it induces its own transcription,
+inhibition of FOXM1 transcriptional activity
+also leads to the downregulation of its mRNA
+and protein levels [5,9]. Next, we investigated
+the mechanism by which HSP70 inhibits the
+transcriptional activity of FOXM1. Chromatin
+Immunoprecipitation (ChIP) experiments were
+performed to determine whether HSP70
+interferes with the binding of FOXM1 to its own
+regulatory elements and to the Cdc25B target gene promoter. A promoter region outside of
+the FOXM1 binding site of direct transcriptional
+target Aurora B kinase was used as the negative
+control. The C3 cell line with stable expression
+of the doxycycline-inducible FOXM1-GFP
+fusion protein [14] was transiently transfected
+with the control EGFP and the HSP70
+expression plasmids. Forty-eight hours after
+transfection, FOXM1 expression was increased
+by doxycycline addition for twenty-four hours,
+after which cells were processed for ChIP.
+These quantitative ChIP assays revealed that
+HSP70 reduces up to 2-fold the ability of
+FOXM1 to bind to its regulatory elements (Fig.
+4D), while the levels of exogenous FOXM1 was
+not affected (Fig. 4C). These data suggest that
+HSP70 interacts with FOXM1 and inhibits its
+DNA-binding activity.
+DISCUSSION
+The oncogenic transcription factor
+FOXM1 is one of the most overexpressed genes
+in cancer [29], and it contributes to several
+aspects of oncogenesis [3] including metastasis
+in pancreatic [30] and liver cancer [31].
+Therapeutic targeting of FOXM1 is widely
+discussed in the literature and a few years ago
+we identified proteasome inhibitors as the first
+chemical inhibitors of FOXM1 [5,7]. However,
+the mechanisms of FOXM1 suppression by
+proteasome inhibitors were not well understood.
+We previously proposed a hypothetical model
+for the suppression of FOXM1 by proteasome
+inhibitors: proteasome inhibitors stabilize a
+negative regulator of FOXM1 (NRFM), which
+in turn inhibits the activity of FOXM1 as a
+transcription factor [8,32]. In this study, we
+identified the molecular chaperon HSP70 as the
+NRFM after proteotoxic stress (Fig. 4E). We
+determined that increased HSP70 protein
+expression correlates with decreased FOXM1
+protein expression after exposure to proteotoxic
+stress (Fig. 1) and that inhibition of HSP70 upregulates
+FOXM1 expression (Fig. 2). We
+demonstrated that HSP70 binds to FOXM1 (Fig
+4A, B) and it inhibits FOXM1 DNA-binding to
+its promoter elements (Fig. 4D). As we have
+shown before, FOXM1 is involved in a positive
+feedback loop and activates its own transcription
+[9], so inhibition of FOXM1 transcriptional
+activity by HSP70 also leads to a decrease in its expression after proteotoxic stress (Fig 1, Fig.
+4E). Recently, Cheng and colleagues confirmed
+the importance of FOXM1 auto-regulation for
+cancer development [33,34]. They showed that
+tumor suppressor SPDEF competed with
+FOXM1 for the FOXM1 binding site
+responsible for the auto-regulation of FOXM1.
+Furthermore, SPDEF inhibited FOXM1
+expression and consequently cancer
+development in a mouse model of prostate
+cancer [33]. These data suggest that the autoregulation
+of FOXM1 might be required for
+cancer development and could be a promising
+target for anticancer treatment.
+Suppression of FOXM1 [22] and
+accumulation of ubiquitin conjugates [35] are
+two of the accepted hallmarks of proteasome
+inhibition. Here, we confirm that HSP90
+inhibitors are not proteasome inhibitors because
+they do not induce the accumulation of ubiquitin
+conjugates (data not shown). However, they
+target FOXM1 (Fig. 1D, E) suggesting that they
+belong to a novel class of FOXM1 inhibitors.
+Both proteasome and HSP90 inhibitors upregulate
+HSP70 and suppress FOXM1,
+supporting the idea that HSP70 is the universal
+NRFM that inhibits FOXM1 after proteotoxic
+stress.
+Under normal conditions, HSP70
+accumulates after stress in order to protect cells
+from the adverse effects thus promoting cell
+survival. However, high levels of HSP70 are
+also often found in different types of cancer
+thereby providing protection against cell death
+and resistance to chemotherapeutic drugs.
+Therefore, HSP70 appeared as one of the
+important targets to improve the outcomes of
+anticancer therapy and the search for inhibitors
+of HSP70 has been on the rise [12]. However,
+our current work calls for caution in respect to
+the prospective administration of HSP70
+inhibitors to cancer patients in the future. We
+showed that inhibition of HSP70 leads to the upregulation
+of oncogenic transcription factor
+FOXM1 (Fig. 2) and that FOXM1 knockdown
+cancer cells in the presence of HSP70 inhibitor
+9AA became more sensitive to apoptosis (Fig.
+3). Consequently, our current findings strongly
+support the combination of novel types of
+FOXM1 and HSP70 inhibitors in order to avoid
+detrimental effects and to achieve a more effective therapeutic strategy for the successful
+treatment of cancer.
+Several parallels exist between FOXM1
+and HSP70: (a) both are overexpressed and
+considered oncogenic in different types of
+cancer and their elevated expression is
+associated with poor prognosis for cancer
+patients; (b) increased expression of both make
+cancer cells resistant to cell death and
+chemotherapeutic drugs; (c) both have emerged
+as attractive targets of anticancer therapy
+[3,4,12,36]. Altogether, according to the
+existing literature data both FOXM1 and HSP70 are oncogenes. Also, authors of a recent review
+on HSP70 argued that HSP70 might contribute
+to cancer development by regulating multiple
+signaling pathways such as HIF1-alpha and NFkB
+[36]. However, according to our findings by
+inhibiting the FOXM1 oncogene, HSP70 also
+can act as a tumor suppressor. Taken together,
+our current data suggest that HSP70 belongs to
+the group of proteins with “antagonistic duality”
+[37] including c-myc and p21, which depending
+on the circumstances may act as oncogenes or
+tumor suppressors. 

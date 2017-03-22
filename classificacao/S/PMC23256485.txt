@@ -1,0 +1,280 @@
+Candida albicans can invade humans and may lead to mucosal and skin infections or to deep-seated mycoses
+of almost all inner organs, especially in immunocompromised patients. In this context, both the host immune status and
+the ability of C. albicans to modulate the expression of its virulence factors are relevant aspects that drive the candidal
+susceptibility or resistance; in this last case, culminating in the establishment of successful infection known as candidiasis.
+C. albicans possesses a potent armamentarium consisting of several virulence molecules that help the fungal cells to
+escape from the host immune responses. There is no doubt that the secretion of aspartic proteases, designated as Saps, is
+one of the major virulence attributes produced by C. albicans cells, since these hydrolytic enzymes participate in a wide
+range of fungal physiological processes as well as in different facets of the fungal-host interactions. For these reasons,
+Saps clearly hold promise as new potential drug targets. Corroborating this hypothesis, the introduction of anti-human
+immunodeficiency virus drugs of the aspartic protease inhibitor-type (HIV PIs) have emerged as new agents for the
+inhibition of Saps. The introduction of HIV PIs has revolutionized the treatment of HIV disease, reducing the
+opportunistic infections, especially candidiasis. The attenuation of candidal infections in HIV-infected individuals might
+not solely has not only resulted from improved immunological status, but also as a result of direct inhibition of
+C. albicans Saps as well as the blockage of several biological processes controlled by these proteolytic enzymes. The
+present article will discuss the updates on the functional implications of HIV PIs on the development of candidiasis. CANDIDA ALBICANS: AN OPORTUNISTIC
+FUNGAL PATHOGEN
+ Candida albicans is a polymorphic fungus (Fig. 1),
+which belongs to the normal microbial flora of human
+beings, colonizing the skin and the gastrointestinal and
+urogenital tracts. Under normal circumstances, the yeast
+lives as a harmless commensal on mucosal surfaces in
+healthy individuals, existing in equilibrium with the
+microbial flora, the host’s epithelial tissues, the host’s
+immune defenses and other local environmental conditions.
+However, disturbance of this balance can result in
+uncontrolled growth of C. albicans lead to infections of
+either the skin or mucosal surfaces and more aggressively
+the invasion of deeper mucosal tissue, culminating in the
+dissemination to other organs. Hence, C. albicans causes
+several types of infections in predisposed patients (Table 1),
+ranging from superficial to life threatening diseases [1-4].
+Impressive numbers were published regarding Candida
+infection: (i) in North American hospitals, Candida spp. cause around 10% of intensive care unit-acquired
+bloodstream infections and represent the third or fourth
+commonest bloodstream pathogen with a mortality rate of
+30-50% [5-9]; (ii) approximately 75% of all women
+experience vulvovaginal candidiasis during their lifetime and
+a significant proportion (5%) of all adult women suffer from
+recurrent infections [10, 11]; and (iii) in HIV-positive
+individuals, oral and esophageal candidiasis is considered as
+an acquired immunodeficiency syndrome (AIDS)-defining
+illness with 80-90% of these individuals, without
+intervention with highly active antiretroviral therapy
+(HAART), suffering recurrent episodes during the course of
+their illness [12, 13]. How the transition from a harmless
+commensal to an aggressive pathogen is triggered is not fully
+understood. However, C. albicans possesses a potent arsenal
+of molecules (virulence attributes) that help it to adapt, to
+interact with host structures and to circumvent the host
+immune responses. Furthermore, this fungus has an
+impressive ability to quickly alter its gene expression in
+response to environmental stimuli, such as changes in
+nutrient availability, pH, osmolarity, temperature or attack
+by cells of the immune system [14-16]. As a consequence,
+C. albicans presents an extraordinary ability to successfully
+infect virtually every anatomical site of the human body,
+being one of the most relevant and the most frequently
+isolated fungal pathogen in hospitals, which is directly associated with a prolonged hospital stay, especially in the
+intensive care unit, and a resulting rise in care costs [17-21].
+2. VIRULENCE FACTORS
+ Polymorphism of C. albicans (Fig. 1), enabling
+morphological plasticity in response to environmental
+changes, is known to contribute to its virulence process.
+Yeast-to-hyphae differentiation (dimorphism) of C. albicans
+is associated with destruction and invasion of host structures
+(extracellular matrices, cells and tissues) [22]. Interestingly,
+the transcriptional programs associated with dimorphism
+genes also influence and are linked to the expression of other
+virulence factors [14]. In this sense, a number of fungal
+attributes, such as the expression of adhesion factors (e.g.,
+surface mannoproteins), directed growth/thigmotropism,
+stress adaptation, metabolic flexibility, ability of phenotypic
+switching, capability to form biofilm in numerous substrates,
+and the secretion of hydrolytic enzymes such as lipases,
+phospholipases and proteases are directly implicated in the
+infectious process [16, 23-28]. 
+2.1. Aspartic Proteases
+ The secretion of aspartic proteases has long been
+recognized as a virulence associated trait of this fungal
+pathogen [29]. The secreted aspartic proteases (Saps) of
+C. albicans, which are encoded by a family of 10
+homologous genes (SAPs1-10), are known to contribute to
+the fungal pathogenicity due to the participation in several
+facets of the infective process, including (i) degradation of
+tissue barriers (e.g., extracellular matrix/basal membrane and
+surface membrane proteins) during invasion; (ii) destruction
+of host defense molecules by cleavage of different classes of
+immunoglobulins, complement proteins, proteinaceous
+protease inhibitors, cytokines and antimicrobial peptides;
+(iii) nutrition and (iv) adherence to both abiotic substrates
+(e.g., medical devices like catheters, prosthetic valves,
+artificial dentures and others) and biotic surfaces (e.g., cells and tissues) [26, 30-32] (Fig. 2). Due to their wide substrate
+specificity and broad pH range (2.0-7.0), it is accepted that
+Saps contribute to the development of active C. albicans
+infections, making them interesting targets for new
+antifungal drugs [33-36]. This is supported by the fact that
+some of the HIV aspartic protease inhibitors (PIs) in clinical
+use have inhibitory effects against C. albicans both in vitro
+and in vivo [36-38]. In addition, the increasing emergence of
+strains of C. albicans resistant to the commonly used
+antifungal agents has made clinical management of
+candidiasis increasingly difficult and emphasizing the need
+for improved drug therapies [39-41]. 3. HIV PIs: ANTI-C. ALBICANS PROPERTIES
+ Inhibitors of HIV-encoded aspartic protease (Table 2),
+combined with nucleoside analogs with antiretroviral
+activity, caused profound and sustained suppression of viral
+replication, increased CD4+ T lymphocyte cell counts,
+stimulated the survival and activation of neutrophils,
+monocytes and endothelial cells, reduced morbidity and
+mortality, promoted an improvement in the quality and
+prolongation of life, arresting the progression of the HIV/AIDS condition, with a dramatic fall in HIV-related opportunistic
+infections [42-45]. In this sense, clinical evidences showed
+that the inclusion of aspartic PI in the HAART, the
+therapeutic scheme used to treat HIV-infected individuals,
+severely diminished the frequency of oropharyngeal
+candidiasis, being considered a clinical marker for disease
+progression [46-49]. For instance, in a multinational cohort
+study involving 6,941 HIV-positive individuals from
+Australia and ten European countries, when comparing the
+periods 1997-2001 and 1994-1996, there was a significant
+HIV PI-induced decrease in the progression of candidiasis
+from 17.0% to 5.7% [50]. The positive impacts of HAART
+on quality of life, mental health, labor productivity and
+economic well-being for people living with HIV/AIDS have
+also been documented [51-54]. Moreover, several works
+have demonstrated the direct antifungal actions of the HIV
+PIs against C. albicans [reviewed in 33 and 35]. The
+attenuation of candidal infections in HIV-infected individuals in the HAART era might not solely have resulted
+from improved immunological status, but also as a result of
+direct inhibition of Candida Saps by the HIV PIs contained
+in HAART [33], since the production of proteases by C.
+albicans and HIV-1 belongs to the same catalytic type
+(Table 3).
+ Published works demonstrated that indinavir, saquinavir,
+ritonavir, nelfinavir and amprenavir (Fig. 3) were able to
+restrain the proteolytic activity of purified Sap1, Sap2 and
+Sap3 in a concentration-dependent manner [55-61]. The
+binding of the HIV PIs to the active sites of Saps produced
+by C. albicans blocks the binding of substrate to the enzyme
+that results in an incapability of the microorganism to obtain
+peptides and amino acids to its nutrition, leading to a
+reduction or a complete interruption in the proliferation rate.
+Corroborating this finding, HIV PIs were capable in
+arresting the proliferation and development of C. albicans
+yeasts when cultured in defined medium supplemented with
+large protein (e.g., albumin or hemoglobin) as a unique
+source of nitrogenous compound [35, 57, 58, 61]. In
+addition, the yeast-to-hyphae differentiation process, which
+is a hallmark event during the pathogenesis of C. albicans
+[62], was delayed by the treatment with indinavir [57] and
+inhibited by amprenavir in a dose-dependent way [35, 61].
+ HIV PIs perturbed the ultrastructural architecture of
+C. albicans cells, inducing several and drastic alterations on
+the surface layer. For instance, the treatment with
+amprenavir [61] promoted the removal of the amorphous
+layer that covers the entire surface of C. albicans, turning the
+rough surface into a smooth one, as evidenced by scanning
+electron microscopy. Moreover, amprenavir-treated yeasts
+had invaginations and deformations in the cell shape [61].
+These irreversible effects corroborate the anti-proliferative
+properties of the HIV PIs on C. albicans growth and
+development [35]. Surface-located molecules can act as
+adhesive structures [63]; consequently, their inhibition
+(synthesis and/or exposition) can diminish the ability of
+C. albicans cells to interact with host structures. In this line
+of thinking, HIV PIs reduced the expression/exposition of
+surface molecules, including Saps, mannose- and sialic acidrich
+glycoconjugates and sterol [57, 61]. In addition, HIV PIs
+significantly diminished the secretion of hydrolytic enzymes
+to the extracellular environment, including Saps,
+phospholipase and esterase [35, 56, 61, 64]. Overall, the
+removal of these surface structures culminates in the
+inability of this fungus to adhere to abiotic (e.g., plastic and
+acrylic materials), which inhibits the biofilm formation [35,
+61, 65], and biotic substrates (e.g., different epithelial cell
+lineages) [35, 55, 59, 66-68].
+ Two HIV PIs, indinavir and ritonavir, promoted a
+therapeutic effect in an experimental model of vaginal
+candidiasis, with an efficacy comparable to that of
+fluconazole, a recognized anti-C. albicans drug [56]. Also,
+the anti-Sap effect of HIV PI was associated with clinical
+resolution of oral candidiasis in HIV-positive patients [69].
+In that elegant study, Cassone and co-workers [69] carried
+out a controlled, randomized, longitudinal study in which
+therapy-naive HIV-positive subjects receiving PI-HAART
+were matched with subjects under an non-nucleoside reverse
+transcriptase inhibitors (NNRTI)-HAART regimen, all patients being followed up for oral candidiasis incidence,
+oral Candida carriage, immunoreconstitution and Sap levels
+in the oral cavity. The results demonstrated that PI-HAART
+regimen was extremely beneficial against oral candidiasis,
+since of the 80% Sap-positive subjects at the beginning of
+the treatment more than half no longer presented Sap in their
+saliva after two weeks of treatment and almost all subjects
+converted to Sap negativity after 30 days of treatment.
+Contrarily, the Sap positive subjects receiving NNRTIHAART
+maintained their positivity after 30 days and the
+majority had Sap in the saliva for the whole duration (180
+days) of follow-up [69]. Interestingly, the combination of
+classical antifungal agents (e.g., fluconazole) and HIV PI
+(e.g., saquinavir) both at sub-inhibitory concentrations was
+effectively demonstrated against strains of C. albicans
+isolated from HIV-positive patients [70]. Collectively, these
+findings emphasize the idea that HIV PI treatment had
+advantageous clinical efficacy against candidiasis.
+4. NEW APPROACHES FOR IMMINENT PROSPECTS
+ The inhibitory effects of HIV PIs both in in vitro and in
+vivo experimental models were observed at concentrations
+(micromolar range) higher than those needed for HIV-1
+protease inhibition (nanomolar or subnanomolar). This
+probably reflects a much lower affinity of these drugs for
+Sap than that for HIV-1 protease [33, 71]. Another
+explanation is that, in contrast to the very small and
+structurally simplified HIV-1 protease (a homodimeric
+enzyme of the A2 protease family) (Table 3), Saps are larger,
+more complex and monomeric enzymes with 2-fold internal symmetry [72, 73]. They possess a relatively large active site
+which might be responsible for the broader substrate
+specificity and also their susceptibilities to distinct aspartic
+PIs [72]. Nonetheless, the above HIV PI concentrations may
+be achieved under current HAART regimens both in the
+blood [71], in human saliva (at least for indinavir) [74] and
+in lungs (at least for lopinavir) [75].
+ Two standpoints arose regarding the use of aspartic
+protease inhibitors against C. albicans: (i) the pivotal need
+for synthesis of new compounds, more effective and more
+specific to fit the active site of Saps, leading to a stronger
+inhibition of the proteolytic activity and (ii) the looking for
+novel target in the Candida cells to the binding of aspartic
+PIs. Regarding the last proposal, White and co-workers [76]
+identified an orthologous of the Saccharomyces cerevisiae
+Ddi1 protein as the only member of the aspartic protease
+family in Leishmania promastigote cells, being this protein
+as the major target to the binding of the HIV PIs. Ddi1
+belongs to a family of proteins known as the ubiquitin
+receptors, which have in common the ability to bind
+ubiquitinated substrates and the proteasome [77]. The
+remarkable structural similarity between the central domain
+of Ddi1 and the retroviral proteases, in the global fold and in
+active-site detail, suggests that Ddi1 functions proteolytically
+during regulated protein turnover in the cell, being a key
+molecule in the maintenance of cellular homeostasis [77].
+The Ddi1 protein of the yeast S. cerevisiae is involved in a
+wide range of functions, including protein targeting to the
+proteasome, control of cell cycle and suppression of protein
+secretion from the cell [78]. The search for Ddi1 homologous
+sequence in C. albicans can help in understanding the
+antifungal effect of HIV PIs.
+5. CONCLUSIONS
+ Fungi are eukaryotic microorganisms that are closely
+related to humans at both cellular and biochemical levels,
+which make the treatment of mycosis difficult [79]. In
+addition, the emergence of drug resistance to antifungals and
+problems of toxicity and poor delivery of drugs at the target
+site in systemic infections generated the urgent necessity to
+find novel fungal targets as well as the discovery of more
+effective antifungal compounds [79]. In this scenario, Saps
+emerge as potential therapeutic target due to their
+participation in multiple relevant physiological and pathological events performed by C. albicans (Fig. 2).
+Inhibition of Sap produced by C. albicans, particularly
+Saps1-3, by the aspartic PIs used in the anti-HIV
+chemotherapy raised the curiosity of researchers around the
+world [80]. HIV PIs markedly improved the immunity of
+HIV-positive individuals and decreased significantly the
+infections caused by fungi, especially candidiasis. A huge
+number of studies revealed the capability of these bioactive
+pharmacological compounds to block crucial vital events of
+C. albicans, including nutrition, proliferation, growth,
+differentiation and interaction with host structures (e.g., cells
+and bioactive proteins), which culminated in the inability to
+sustain an infectious process (Fig. 2). Looking to the future,
+the generation of more-specific Sap inhibitors with high
+selective toxicity against C. albicans would probably
+represent a therapeutic breakthrough in the fight against
+candidiasis and other diseases caused by aspartic proteaseproducing
+pathogens. Combination therapies that target not
+only essential genes but also important virulence factors that
+are essential for certain steps in infection (e.g., Saps) could
+be attractive in the treatment of C. albicans infections.
+Prospect research into the synergistic capabilities of
+inhibitors will help elucidate the most effective combination
+therapies to be used against candidiasis. 

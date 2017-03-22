@@ -1,0 +1,518 @@
+The Importance of Bottlenecks in Protein
+Networks: Correlation with Gene Essentiality
+and Expression Dynamics
+Haiyuan Yu1,2,3[, Philip M. Kim1[, Emmett Sprecher1,4, Valery Trifonov5, Mark Gerstein1,4,5*
+1 Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, Connecticut, United States of America, 2 Department of Genetics, Harvard Medical
+School, Boston, Massachusetts, United States of America, 3 Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts, United States of America,
+4 Program in Computational Biology and Bioinformatics, Yale University, New Haven, Connecticut, United States of America, 5 Department of Computer Science, Yale
+University, New Haven, Connecticut, United States of America
+
+
+It has been a long-standing goal in systems biology to find relations between the topological properties and functional
+features of protein networks. However, most of the focus in network studies has been on highly connected proteins
+(‘‘hubs’’). As a complementary notion, it is possible to define bottlenecks as proteins with a high betweenness
+centrality (i.e., network nodes that have many ‘‘shortest paths’’ going through them, analogous to major bridges and
+tunnels on a highway map). Bottlenecks are, in fact, key connector proteins with surprising functional and dynamic
+properties. In particular, they are more likely to be essential proteins. In fact, in regulatory and other directed
+networks, betweenness (i.e., ‘‘bottleneck-ness’’) is a much more significant indicator of essentiality than degree (i.e.,
+‘‘hub-ness’’). Furthermore, bottlenecks correspond to the dynamic components of the interaction network—they are
+significantly less well coexpressed with their neighbors than nonbottlenecks, implying that expression dynamics is
+wired into the network topology.
+Citation: Yu H, Kim PM, Sprecher E, Trifonov V, Gerstein M (2007) The importance of bottlenecks in protein networks: Correlation with gene essentiality and expression
+dynamics. PLoS Comput Biol 3(4): e59. doi:10.1371/journal.pcbi.0030059
+
+
+                                                                                       betweenness are similar to heavily used intersections, such as
+Introduction
+                                                                                       those leading to major highways or bridges (see Figure 1). If
+  Protein networks are a topic of great current interest,                              these major intersections were blocked, there would be huge
+particularly after a growing number of large-scale protein                             trafﬁc jams, causing the whole transportation system to fail.
+networks have been determined [1–6]. Protein–protein                                   Therefore, we called these high-betweenness proteins bottle-
+interaction networks and regulatory networks are the key                               necks, and hypothesized that these bottlenecks, just like hubs,
+representatives for biological networks with undirected and                            represent important points in biological networks as well. For
+directed edges [7–12]. Previous topological studies were                               simplicity, we deﬁned protein bottlenecks as the proteins
+mainly focused on analyzing degree distributions and ﬁnding                            with the highest betweenness; hubs, as the proteins with the
+motifs within these networks [7–9,11,13,14]. All of these                              highest degree (see Methods).
+networks are scale-free with power-law degree distributions,                             In fact, previous studies have shown that protein bottle-
+and hubs (proteins with high degrees) in the network                                   necks are indeed more likely to be essential [18,19]. This holds
+represent the most vulnerable points [7–9,14].                                         true in three different eukaryotic protein-interaction net-
+  Recently, another topological feature of the network has                             works: yeast, worm, and ﬂy [19]. However, Goh and his
+received attention—betweenness, which measures the total                               colleagues also found that, in these interaction networks, the
+number of nonredundant shortest paths going through a                                  betweenness of a node is correlated to its degree [20].
+certain node or edge [15,16]. Betweenness was originally                               Therefore, it is not clear whether protein bottlenecks are
+introduced to measure the centrality of the nodes in networks                          important because they have high betweenness or because
+[15]. By deﬁnition, most of the shortest paths in a network go                         they also tend to be hubs.
+through the nodes with high betweenness. Therefore, these
+nodes become the central points controlling the communi-                               Editor: Diana Murray, Weill Medical College of Cornell University, United States of
+cation among other nodes in the network. More recently,                                America
+Girvan and Newman proposed that the edges with high                                    Received July 26, 2006; Accepted February 14, 2007; Published April 20, 2007
+betweenness are the ones that are ‘‘between’’ highly inter-
+                                                                                       A previous version of this article appeared as an Early Online Release on February
+connected subgraph clusters (i.e., ‘‘community structures’’);                          14, 2007 (doi:10.1371/journal.pcbi.0030059.eor).
+therefore, removing these edges could partition a network
+                                                                                       Copyright: Ó 2007 Yu et al. This is an open-access article distributed under the
+[16]. Furthermore, Dunn et al. found that protein clusters                             terms of the Creative Commons Attribution License, which permits unrestricted
+within interaction networks deﬁned by this edge betweenness                            use, distribution, and reproduction in any medium, provided the original author
+                                                                                       and source are credited.
+method tend to share similar functions [17].
+  Here, we revisited the original meaning of betweenness as a                          Abbreviations: FYI, filtered yeast interactome; MIPS, Munich Information Center
+                                                                                       for Protein Sequences; TF, transcription factor
+measure of the centrality of the nodes in a network. If we
+think of protein networks (in particular, regulatory networks)                         * To whom correspondence should be addressed. E-mail: Mark.Gerstein@yale.edu
+in analogy to a transportation network, proteins with high                             [ These authors contributed equally to this work.
+
+
+       PLoS Computational Biology | www.ploscompbiol.org                        0713                                           April 2007 | Volume 3 | Issue 4 | e59
+                                                                                                                    Importance of Protein Bottlenecks
+
+
+Author Summary
+
+A network is a graph consisting of a number of nodes with edges
+connecting them. Recently, network models have been widely
+applied to biological systems. Here, we are mainly interested in two
+types of biological networks: the interaction network, where nodes
+are proteins and edges connect interacting partners; and the
+regulatory network, where nodes are proteins and edges connect
+transcription factors and their targets. Betweenness is one of the
+most important topological properties of a network. It measures the
+number of shortest paths going through a certain node. Therefore,
+nodes with the highest betweenness control most of the
+information flow in the network, representing the critical points of
+the network. We thus call these nodes the ‘‘bottlenecks’’ of the
+network. Here, we focus on bottlenecks in protein networks. We find
+that, in the regulatory network, where there is a clear concept of
+information flow, protein bottlenecks indeed have a much higher
+tendency to be essential genes. In this type of network, between-
+ness is a good predictor of essentiality. Biological researchers can
+therefore use the betweenness as one more feature to choose
+potential targets for detailed analysis.
+
+
+
+   Moreover, Han et al. found that there are two categories of
+protein hubs within the yeast protein-interaction network:
+‘‘party hubs’’ interact with most of their partners simulta-
+neously, whereas ‘‘date hubs’’ bind theirs asynchronously [21].
+Because protein bottlenecks in the interaction network
+connect different functional clusters—as mentioned above
+in [17]—it is conceivable that bottlenecks with high degrees
+should have a higher tendency to be date hubs.                                Figure 1. Schematic Showing a Bottleneck and the Four Categories of
+   Here, we analyzed the biological signiﬁcance of between-                   Nodes in a Network
+ness in terms of protein functions, expression correlation,                   Four nodes with different colors represent examples of the four categories
+                                                                              defined by degree and betweenness. Please note that every node in the
+and its relationships with protein hubs.                                      network belongs to one of the four categories. However, in this schematic,
+                                                                              we only point out the categories of the four example nodes.
+                                                                              doi:10.1371/journal.pcbi.0030059.g001
+Results
+Bottlenecks Tend To Be Essential                                              (1) nonhub–nonbottlenecks; (2) hub–nonbottlenecks; (3) non-
+   Because bottlenecks are key connectors in protein net-                     hub–bottlenecks; and (4) hub–bottlenecks (see Figure 1). Even
+works, we hypothesized that these proteins would represent                    though the two quantities are highly correlated, the number
+important points in networks. Therefore, we ﬁrst examined                     of hub–nonbottlenecks and nonhub–bottlenecks is enough
+the essentiality of bottlenecks in different networks in yeast                for reliable statistics (see Table S1). This is in agreement with
+(see Methods). We found that bottlenecks in both regulatory                   the previous observation by Huang and his colleagues, who
+and interaction networks indeed tend to be essential proteins                 found that proteins with high betweenness but low degree
+with high signiﬁcance (see Figure 2A), in agreement with                      (i.e., nonhub–bottlenecks) are abundant in the yeast protein
+previous studies [18,19].                                                     interaction network [18].
+Bottlenecks Dictate the Essentiality of Networks with                            As we discussed above, numerous previous studies have
+Directed Edges                                                                shown that the degree of a protein determines its essentiality
+  As discussed above, previous studies have shown that, in                    in scale-free networks (i.e., proteins with higher degrees are
+biological networks, hubs tend to be essential [7,9], and                     more likely to be essential) [7,9]. Both interaction and
+betweenness of a node is correlated with its degree [20]. We                  regulatory networks have been shown to be scale-free
+found that degree and betweenness are indeed highly                           networks [7,9,22]. Here, we observed that bottlenecks (both
+correlated quantities in the networks we analyzed (Pearson                    nonhub–bottlenecks and hub–bottlenecks) have a strong
+correlation coefﬁcient of 0.49, p , 1015 for the interaction                 tendency to be products of essential genes, whereas hub–
+network; Pearson correlation coefﬁcient of 0.67, p , 1015 for                nonbottlenecks are surprisingly not essential. Thus, we
+the regulatory network; p-values measure the signiﬁcance of                   determined that it is the betweenness that is a stronger
+the Pearson correlation coefﬁcient scores according to t                      determinant of the essentiality of a protein in the regulatory
+distributions; i.e., many bottlenecks also tend to be hubs).                  network, not the degree (Figure 2B).
+Therefore, we further investigate which one of these two                         In contrast to regulatory networks, the interaction network
+quantities is a better predictor of protein essentiality in both              is undirected with no obvious information ﬂow. Furthermore,
+regulatory and interaction networks.                                          nonneighboring pairs in the interaction network have no
+  To disentangle the effects of betweenness and degree, we                    noticeable relationships, as they are neither coregulated nor
+divided all proteins in a certain network into four categories:               coexpressed [23]. Therefore, it is reasonable to assume that in
+
+      PLoS Computational Biology | www.ploscompbiol.org                0714                                       April 2007 | Volume 3 | Issue 4 | e59
+                                                                                                                          Importance of Protein Bottlenecks
+
+
+
+
+                                                                                   Figure 3. Essentialities of Different Categories of Nonhub–Bottlenecks in
+                                                                                   the Interaction Network
+                                                                                   To find all proteins participating in signaling transduction pathways (i.e.,
+                                                                                   the bar ‘‘Signal’’), we manually went through all available pathways in
+                                                                                   KEGG and collected all proteins in them. Since this is a very small dataset,
+                                                                                   we further included all proteins, more than half of whose interacting
+                                                                                   partners are involved in signaling transduction pathways in KEGG. This
+                                                                                   inclusion is reasonable because the general belief is that interacting
+                                                                                   proteins share the same function. The fraction of essential genes among
+                                                                                   nonhub–nonbottlenecks is used as the random expectation, which is
+                                                                                   also indicated by the horizontal line. p-Values measure the statistical
+                                                                                   significance of the different essentialities of different categories of
+                                                                                   nonhub–bottlenecks relative to the random expectation. The bar ‘‘MIPS’’
+                                                                                   refers to nonhub–bottlenecks involved in the complexes defined by the
+                                                                                   MIPS complex catalog. The bar ‘‘Permanent’’ refers to nonhub–bottle-
+                                                                                   necks involved in permanent interactions. The bar ‘‘Transient’’ refers to
+                                                                                   nonhub–bottlenecks only involved in transient interactions. The bar
+                                                                                   ‘‘All’’ refers to all nonhub–bottlenecks. *p-Value above the bar
+Figure 2. Comparison of Essentiality among Various Categories of                   ‘‘Transient’’ measures the statistical significance of transient nonhub–
+Proteins within Interaction and Regulatory Networks                                bottlenecks being less essential than random.
+(A) Bottlenecks tend to be essential genes in both interaction and                 doi:10.1371/journal.pcbi.0030059.g003
+regulatory networks. p-Values measure the statistical significance of the
+different essentialities between bottlenecks and nonbottlenecks.                   [25,26]. Within permanent interactions, bottlenecks are
+(B) Essentiality of different categories of proteins. NH-NB, nonhub–
+nonbottlenecks; H-NB, hub–nonbottlenecks; B-NH, nonhub–bottlenecks;                connectors holding different, functionally important com-
+BH, hub–bottlenecks. p-Values measure the statistical significance of the          plexes together. However, within transient interactions,
+different essentialities between different categories of proteins against          bottlenecks merely interact with different complexes at
+nonhub–nonbottlenecks using cumulative binomial distributions
+(see Methods).                                                                     different times. In this sense, ‘‘transient’’ bottlenecks are
+doi:10.1371/journal.pcbi.0030059.g002                                              not really bottlenecks. They are classiﬁed as ‘‘bottlenecks’’ by
+                                                                                   our algorithm simply because of the fact that current
+interaction networks, hubs are more important than bottle-                         interaction networks are a collection of individual networks
+necks. Our calculations conﬁrmed this hypothesis (see Figure                       under various conditions. As a result, the function of these
+2B): although nonhub–bottlenecks are signiﬁcantly more                             transient bottlenecks is likely to be not as important as that of
+likely to be essential than nonhub–nonbottlenecks (p , 105;                       permanent ones. Therefore, we hypothesized that bottlenecks
+see Methods for the calculation of p-values in Figures 2 and 3),                   would be more likely to be essential in permanent rather than
+the difference is not nearly as substantial as that between hub–                   in transient interactions.
+nonbottlenecks and nonhub–nonbottlenecks (p , 10267).                                We tested our hypothesis in the yeast interaction network.
+Similar results were also found in different interaction                           Deﬁning permanent interactions as those participating in
+networks (see Figure S4). The difference between nonhub–                           protein complexes, we analyzed all complexes from the
+bottlenecks (low essentiality) and hub–nonbottlenecks (much                        Munich Information Center for Protein Sequences (MIPS)
+higher essentiality) conﬁrms that degree is a much better                          complex catalog [27]. (Previous studies have shown that most
+predictor of essentiality in the interaction network.                              of the MIPS complexes are stable, permanent complexes.
+   Signal transduction pathways are a special case of protein–                     However, there are 52 proteins in this catalog without direct
+protein interactions [24]. There are well-deﬁned information                       evidence of stable interactions with others [26]. We removed
+ﬂows in these pathways. Nonhub–bottlenecks participating in                        these proteins from our analysis.) Because the catalog is far
+signaling transduction pathways clearly are more likely to be                      from complete, we also considered all interactions forming a
+products of essential genes (see Figure 3).                                        clique (a complete subgraph) of size 5 or bigger as permanent,
+                                                                                   because protein complexes are often considered as cliques in
+Bottlenecks within Permanent Undirected Interactions Are                           interaction networks [28,29]. Any interaction not participat-
+Also Important                                                                     ing in a clique of size 3 or bigger was considered transient.
+  Besides directionality, another important but often over-                        Our calculations conﬁrmed our hypothesis: nonhub–bottle-
+looked aspect of interaction networks is that there are two                        necks within permanent interactions tend to be essential,
+major classes of interactions: permanent and transient                             while those within transient ones do not (see Figure 3).
+
+       PLoS Computational Biology | www.ploscompbiol.org                    0715                                        April 2007 | Volume 3 | Issue 4 | e59
+                                                                                                                       Importance of Protein Bottlenecks
+
+
+
+
+Figure 4. Expression Dynamics of Hub–Nonbottlenecks and Hub–Bottlenecks
+Histograms of the average correlation coefficient of the expression profile of any given gene with its direct interaction partners. Expression dynamics for
+all four categories of nodes are shown in Figure S7.
+doi:10.1371/journal.pcbi.0030059.g004
+
+   For completeness, we also analyzed hubs and bottlenecks in                     tively well coexpressed with their neighbors, whereas most
+other kinds of protein networks. Speciﬁcally, we analyzed the                     hub–bottlenecks are not very well coexpressed (see Figure 4).
+topology of three very different kinds of protein networks,                       What appears especially striking is that bottlenecks always
+namely the metabolic network (where links connect enzymes                         have low coexpression with their neighbors, whereas hubs can
+that share a metabolite) [23], the genetic network (where links                   have a relatively high average coexpression with their
+connect proteins that have genetic interactions) [30], and the                    neighbors, but only if they are nonbottlenecks. We ﬁnd that
+phosphorylation network (where links connect a kinase with                        while nonbottlenecks simply follow the same distribution as
+its substrates) [31]. The edges in the phosphorylation and                        the rest of the datasets, the nonhub–bottlenecks tend to have
+metabolic networks are directed, whereas those in the genetic                     a lower expression correlation.
+network are undirected (see Table S2 and http://www.                                 Central complex members have a low betweenness and are
+gersteinlab.org/proj/bottleneck).                                                 hub–nonbottlenecks. Because of the high connectivity inside
+                                                                                  these complexes, paths can go through them and all their
+Bottlenecks Constitute the Dynamic Components                                     neighbors. On the other hand, hub–bottlenecks tend to
+of Networks                                                                       correspond to highly central proteins that connect several
+   The correspondence of protein interaction bottlenecks to                       complexes or are peripheral members of central complexes.
+connectors both in complexes and in pathways leads us to                          The fact that they have a high betweenness suggests that these
+investigate their dynamic properties. To this end, we                             proteins are not, however, simply members of large protein
+examined their coexpression with their neighbors. It has                          complexes (which is true for nonbottleneck–hubs), but are
+been previously observed that interacting protein pairs are                       those members that connect the complex to the rest of the
+more likely to coexpress than noninteracting protein pairs                        graph; in a sense, real connectivity bottlenecks. While hub–
+[32]. Likewise, protein complex members have been shown to                        nonbottlenecks mainly consist of structural proteins, hub–
+be highly coexpressed [25]. Given this information, we                            bottlenecks are more likely to be part of signal transduction
+hypothesized that bottlenecks would tend to have a below-                         pathways (see Table S3). Furthermore, hub–bottlenecks are (by
+average expression correlation with their neighbors, since                        construction) the most efﬁcient in disrupting the network upon
+they tend to represent proteins that connect different                            hub removal (see Figure S3). This relates nicely to the date/
+complexes or pathways. Indeed, in all the datasets examined,                      party-hub concept by Han et al. [21]: hub–bottlenecks tend to be
+we ﬁnd that bottlenecks have a much lower average                                 date-hubs, whereas hub–nonbottlenecks tend to be party-hubs.
+expression correlation with their neighbors than other nodes.                        Nonhub–bottlenecks generally coexpress less well with
+   Surprisingly, the difference is much more pronounced                           their neighbors than nonhub–nonbottlenecks, in line with
+when focusing on hubs only (i.e., the difference is more                          the observation that betweenness is a good predictor of
+signiﬁcant between hub–nonbottlenecks and hub–bottle-                             average correlation with neighbors. Nonhub–bottlenecks also
+necks than between nonhub–nonbottlenecks and nonhub–                              rarely are complex members and are in large part made up of
+bottlenecks). The majority of hub–nonbottlenecks are rela-                        regulatory proteins and signal transduction machinery.
+
+       PLoS Computational Biology | www.ploscompbiol.org                   0716                                     April 2007 | Volume 3 | Issue 4 | e59
+                                                                                                                  Importance of Protein Bottlenecks
+
+
+
+
+Figure 5. A Biological Example of a Nonhub–Bottleneck in the Interaction Network
+Cak1p is a cyclin-dependent kinase-activating kinase involved in two key signaling-transduction pathways: cell cycle and sporulation.
+doi:10.1371/journal.pcbi.0030059.g005
+
+
+Discussion                                                                    important bottleneck. As a result, Swi1p is essential for
+                                                                              viability in yeast [36].
+   In this study, we ﬁnd surprising links between network                        On the other hand, protein–protein interaction networks
+topology and both protein phenotype and expression                            have undirected edges; there is no obvious information ﬂow
+dynamics. In analogy to the well-known network hubs, we                       within the network. Therefore, some people may even argue
+examined the properties of so-called network bottlenecks in                   that in these interaction networks, betweenness, as well as the
+yeast. A ﬁrst surprising ﬁnding is the distinction between                    deﬁnition of bottlenecks, is more of a topological conceptu-
+interaction and regulatory networks in the relative impor-                    alization from an abstract graph-theory point of view without
+tance of bottlenecks to hubs. While in most topological                       clear biological meanings. Our calculations conﬁrm accord-
+features, regulatory networks have been thought of as similar                 ingly that degree is a much better predictor of essentiality in
+to interaction networks, we clearly see a distinction between                 interaction networks. More interesting, in some subnetworks
+those two network types that leads to a direct biological                     within interaction networks where betweenness does have
+interpretation. Regulatory networks have directed edges;                      biological implications (e.g., subnetworks involved in signal-
+there is an implicit information ﬂow within the network,                      ing transduction or permanent interactions), protein bottle-
+which makes it more similar to the transportation system. A                   necks indeed have a higher tendency to be essential. All of
+transcription factor (TF) can regulate many target genes                      these correlations between topological measurements
+indirectly through other TFs. Deletion of TF bottlenecks thus                 (namely, degree and betweenness) that we discovered here
+leads to the disruption of a large number of direct and                       are quite intuitive if we carefully examine the topological
+indirect regulations between TFs and their targets and is                     meanings of these measurements and the biological inter-
+lethal to the cell. For example, Swi1p is a nonhub–bottleneck                 pretation of these networks.
+TF required for sporulation and other cellular processes [33].                   Moreover, our approach of focusing on nonhub–bottle-
+Swi1p is not a hub with only 23 targets. But, it is controlled by             necks is useful for ﬁnding proteins that mediate different
+four TFs, and also regulates four others [34,35]. Because of                  processes and are involved in cross-talk. An example is Cak1p
+this unique topological position, approximately 10,000 short-                 (see Figure 5), which is a cyclin-dependent kinase-activating
+est paths between TFs and their targets within the whole                      kinase involved in two key signaling-transduction pathways. It
+regulatory network run through this gene, making it an                        activates Cdc28p, an important regulator of the cell cycle.
+
+      PLoS Computational Biology | www.ploscompbiol.org                0717                                    April 2007 | Volume 3 | Issue 4 | e59
+                                                                                                                           Importance of Protein Bottlenecks
+
+
+Cak1p also induces Smk1p, a mitogen-activated protein kinase                      Materials and Methods
+involved in sporulation [37,38]. Besides these two proteins,                         Data sources. Interaction data was gathered from a number of
+Cak1p only has two other interaction partners (YDR279W and                        different published high-throughput datasets and published data-
+Sgv1p), making its total degree 4. Therefore, it is not a hub in                  bases [2–5,27,34,45,46]. Independent genomic features and Bayesian
+the interaction network. However, since it coordinates two                        integration were used to eliminate noise from the dataset [23,43].
+                                                                                  Different datasets (e.g., the FYI [Vidal et al.] [21] or the DIP core
+major signaling-transduction pathways, it is an important                         [Eisenberg et al.] [44]) exhibit the same behavior (see Figures S1 and
+nonhub–bottleneck in the network with a high betweenness of                       S4A). To avoid biases from large complexes (i.e., the ribosome and the
+16,832.95 paths. Finally, due to its unique topological position                  proteasome), we repeated our calculations after removing both these
+                                                                                  complexes (see Figures S2 and S4B). The regulatory network was
+in the network, CAK1 is an essential gene in the cell. More                       created by combining ﬁve different datasets [1,2,22,34,35,47]. We
+interestingly, it is also a close homolog of the human cancer                     excluded DNA-binding enzymes (e.g., PolIII) from the regulatory
+gene CDK6 (BLAST E-value , 1010). This example shows that                        network. The essential genes in yeast genome were determined
+                                                                                  experimentally through a PCR-based gene-deletion method [36]. The
+bottlenecks potentially could be applied in various medical                       metabolic network was taken from the Kyoto Encyclopedia of Genes
+and pharmaceutical contexts to identify key proteins.                             and Genomes (KEGG) [48] and all proteins that share a metabolite
+   Generally, the protein interaction network and gene                            were considered linked. The genetic network data was downloaded
+expression data are generally viewed as independent. While                        from the GRID [49] and consists of several large-scale screens of
+                                                                                  genetic interactions [30,50]. Expression data was taken from the
+there were several studies addressing correlations among                          Rosetta compendium expression dataset [51]. All datasets and the
+them, they focused largely on local properties [32]. Likewise,                    calculated betweenness of each protein node within these networks
+while many studies addressed relations between the inter-                         are available at http://www.gersteinlab.org/proj/bottleneck. Because
+                                                                                  most of these networks are far from complete, we will update the
+action network and protein function, they only make use of                        networks and, more important, the associated betweenness of each
+local network features, such as distance [39–42]. Here, we                        node as they grow in size in the future.
+show that both coexpression and essentiality are highly                              Deﬁnition of hubs and bottlenecks. We deﬁned hubs as all proteins
+                                                                                  that are in the top 20% of the degree distribution (i.e., proteins that
+correlated with a global network feature, betweenness. This                       have the 20% highest number of neighbors). Accordingly, we deﬁned
+ﬁnding lets us view the interaction network in a different                        bottlenecks as the proteins that are in the top 20% in terms of
+light—some dynamic information is wired into the topology.                        betweenness. Varying this cutoff from 10% to 40% had no signiﬁcant
+                                                                                  impact on our results (see Figures S5–S7).
+This ﬁnding reinforces the ‘‘date-hub’’ and ‘‘party-hub’’
+                                                                                     Algorithm to calculate betweenness. To calculate node between-
+concept suggested by Han et al. [21]. It appears that the                         ness within networks [16,52], we used an improved version of the
+property of betweenness separates the bimodal distribution                        algorithm developed by Newman and Girvan. (1) Initialize the
+of average coexpression in hubs. Thus, the so-called date-                        betweenness of every vertex v in the network Bv ¼ 0. (2) Starting
+                                                                                  from a vertex i, a breadth-ﬁrst tree is built with i on the top and those
+hubs correspond mostly to hubs with high betweenness (hub-                        that are farthest from i at the bottom [53]. Each node is put at a
+bottlenecks), while the ‘‘party-hubs’’ correspond mostly to                       certain level of the tree based on its shortest distance from i. (3) A
+hubs with low betweenness (hub–nonbottlenecks). This                              variable pi ¼ 1 is assigned to i. As we are building the tree, for every
+                                                                                  vertex j,
+ﬁnding, however, implies relationships between dynamics
+                                                                                                                       X
+and topological properties in the interaction network that                                                       pj ¼      pk                           ð1Þ
+were hitherto unknown.                                                                                                 k2K
+
+   It is possible to argue that there is a certain level of noise in our          where K is the set of nodes that directly connect to j and are at the
+interaction dataset, even though it is a highly reliable set [23,43].             immediate proceeding level (i.e., predecessors of j). (4) Another
+To demonstrate that our results are not due to some speciﬁc                       variable bj, with an initial value of 1, is also assigned to every vertex j
+                                                                                  in the tree. (5) Starting from a bottom vertex j, the value of bj is added
+noise in our dataset, we repeated all calculations on other high-                 to the corresponding variable of the predecessor of j. If j has more
+quality interaction datasets (namely, the ﬁltered yeast inter-                    than one predecessor, each predecessor k gets the value of:
+actome [FYI] [21] and the DIP core [44]) as well. These different
+                                                                                                                          pk
+datasets all exhibit similar results (see Figures S1 and S4A).                                                     bj 3      :                           ð2Þ
+                                                                                                                          pj
+   Finally, a principal contribution of this paper is the
+consistent calculation of betweenness on directed and                             Therefore:
+undirected graphs. We also performed our calculations on                                                                         pk
+                                                                                                              bk ¼ bk þ bj 3        :                    ð3Þ
+all currently available yeast protein networks with directed                                                                     pj
+and undirected edges. Most of these networks are much
+                                                                                  (6) Perform step 5 for every vertex in the tree. (7) For every vertex j in
+smaller than the interaction and regulatory networks. So,                         the tree, Bj ¼ Bj þ bj. (8) Repeat steps 2–7 for every vertex in the
+calculating robust statistics is not currently possible, but we                   network.
+believe that as these other networks grow in size in the future,                     Qualitatively, proteins with high betweenness are considered as
+                                                                                  bottlenecks. To facilitate our calculations and discussion, however, we
+betweenness will prove to be a useful quantity for many                           quantitatively deﬁned bottlenecks as the top 20% proteins with the
+protein networks, particularly those with directed edges. As                      highest betweenness values, in agreement with the conventional
+described in Methods, we plan to regularly update our                             cutoff for protein hubs [9]. Please note that for networks with
+                                                                                  directed edges, the directionality of the edges have to be taken into
+website (http://www.gersteinlab.org/proj/bottleneck) with be-                     consideration.
+tweenness calculations as these networks grow.                                       p-Values by cumulative binomial distribution. p-Values in Figures 2
+   In summary, we present an integrated analysis of two                           and 3 measure whether the difference is signiﬁcant between the
+complementary topological network properties across differ-                       testing and control groups. They are calculated using the cumulative
+                                                                                  binomial distribution:
+ent network types. This combined approach uncovers                                                             N             
+                                                                                                              X        N!
+previously unknown connections between network topology,                                         Pðc  co Þ ¼                  pc ð1  pÞNc            ð4Þ
+protein essentiality, and expression dynamics. We believe that                                                c¼co
+                                                                                                                   N!ðN  cÞ!
+integrated approaches like the one presented here will be of                      where N is the total number of genes in the data; co is the number of
+paramount importance in future predictive models.                                 observed genes with a speciﬁc property (e.g., essentiality) in the
+
+      PLoS Computational Biology | www.ploscompbiol.org                    0718                                       April 2007 | Volume 3 | Issue 4 | e59
+                                                                                                                                      Importance of Protein Bottlenecks
+
+testing group; and p is the probability of ﬁnding a gene with the same                     necks, and Nonhub–Nonbottlenecks) by Using Different Cutoffs for
+property in the control group. In this manner, we are testing whether                      Hubs and Bottlenecks
+genes with a speciﬁc property are overrepresented compared with                            (A) Interaction network.
+the control group. If they are underrepresented, then P(c , co) ¼ 1                       (B) Regulatory network.
+P(c  co).                                                                                 BH, hub–bottlenecks; NH–B, nonhub–bottlenecks; H–NB: hub–non-
+                                                                                           bottlenecks; and NH–NB, nonhub–nonbottlenecks.
+Supporting Information                                                                     Found at doi:10.1371/journal.pcbi.0030059.sg005 (81 KB PDF).
+
+Figure S1. The Average Expression Correlation for Hub–Bottlenecks,                         Figure S6. The Average Expression Correlation for Nonhub–Bottle-
+                                                                                           necks and Hub–Nonbottlenecks by Using Different Cutoffs for Hubs
+Nonhub–Bottlenecks, Hub–Nonbottlenecks, and Nonhub–Nonbottle-
+                                                                                           and Bottlenecks
+necks for the FYI
+                                                                                           (A) The cutoff is 1%.
+The trend is similar to the one seen in Figure 4, with hub–bottlenecks                     (B) The cutoff is 5%.
+always having low correlations and nonhub–bottlenecks mostly                               (C) The cutoff is 10%.
+having higher expression correlations. The fact that the signal is                         (D) The cutoff is 20%.
+weaker is likely due to the small size of the FYI dataset.
+                                                                                           Found at doi:10.1371/journal.pcbi.0030059.sg006 (25 KB PDF).
+Found at doi:10.1371/journal.pcbi.0030059.sg001 (12 KB PDF).
+                                                                                           Figure S7. The Average Expression Correlation for Hub–Bottlenecks,
+Figure S2. The Average Expression Correlation for Hub–Bottle-                              Nonhub–Bottlenecks, Hub–Nonbottlenecks, and Nonhub–Nonbottle-
+necks, Nonhub–Bottlenecks, Hub–Nonbottlenecks, and Nonhub–                                 necks by Using Different Cutoffs for Hubs and Bottlenecks
+Nonbottlenecks after Removal of Large Protein Complexes
+(Ribosomes and Proteasome)                                                                 (A) The cutoff is 1%.
+                                                                                           (B) The cutoff is 5%.
+As can be seen, the trend for nonhub–bottlenecks to have high                              (C) The cutoff is 10%.
+average coexpression is still clearly discernible. It can be seen more                     (D) The cutoff is 20%.
+clearly that there is a bimodal distribution of nodes with low and high                    Found at doi:10.1371/journal.pcbi.0030059.sg007 (37 KB PDF).
+coexpression, with the nonhub–bottlenecks being highly enriched for
+high coexpression values.                                                                  Table S1. Number of Proteins in Each of the Four Categories in Both
+Found at doi:10.1371/journal.pcbi.0030059.sg002 (12 KB PDF).                               Interaction and Regulatory Networks
+                                                                                           Found at doi:10.1371/journal.pcbi.0030059.st001 (44 KB DOC).
+Figure S3. Bottlenecks (Including Nonhub–Bottlenecks), but Not
+Hub–Nonbottlenecks, Are Crucial Nodes for Topological Integrity                            Table S2. Essentiality of Different Categories of Proteins in
+of the Network                                                                             Phosphorylation, Metabolic, and Genetic Networks
+As can be seen clearly, the removal of bottlenecks (or nonhub–                             Found at doi:10.1371/journal.pcbi.0030059.st002 (28 KB DOC).
+bottlenecks) leads to the breakdown of network topology much
+quicker than the removal of hubs or even hub–nonbottlenecks.                               Table S3. Occurrence of Different Biological Process Annotations
+                                                                                           from the Gene Ontology Annotation Scheme in the Four Different
+Found at doi:10.1371/journal.pcbi.0030059.sg003 (14 KB PDF).                               Topological Categories
+Figure S4. Fraction of Essential Genes among the Four Types of Nodes                       Found at doi:10.1371/journal.pcbi.0030059.st003 (54 KB DOC).
+(i.e., Hub–Bottlenecks, Nonhub–Bottlenecks, Hub–Nonbottlenecks,
+and Nonhub–Nonbottlenecks) for Different Interaction Networks
+                                                                                           Acknowledgments
+(A) FYI interaction network used by Han et al. [21].
+(B) Interaction networks without large complexes (ribosomes and                               Author contributions. HY, PMK, and MG conceived and designed
+proteasomes).                                                                              the experiments and wrote the paper. HY, PMK, and VT performed
+BH, hub–bottlenecks; NH–B, nonhub–bottlenecks; H–NB: hub–non-                              the experiments. HY, PMK, and ES analyzed the data. HY and MG
+bottlenecks; and NH–NB, nonhub–nonbottlenecks.                                             contributed reagents/materials/analysis tools.
+Found at doi:10.1371/journal.pcbi.0030059.sg004 (38 KB PDF).                                  Funding. The authors acknowledge funding from the US National
+                                                                                           Institutes of Health (P50 HG02357).
+Figure S5. Fraction of Essential Genes among the Four Types of                                Competing interests. The authors have declared that no competing
+Nodes (i.e., Hub–Bottlenecks, Nonhub–Bottlenecks, Hub–Nonbottle-                           interests exist.
+
+
+References                                                                                       comparing biological sub-networks, correlating protein properties with
+                                                                                                 topological statistics. Nucleic Acids Res 32: 328–337.
+1. Horak CE, Luscombe NM, Qian J, Bertone P, Piccirrillo S, et al. (2002)                  11.   Milo R, Shen-Orr S, Itzkovitz S, Kashtan N, Chklovskii D, et al. (2002)
+    Complex transcriptional circuitry at the G1/S transition in Saccharomyces
+                                                                                                 Network motifs: Simple building blocks of complex networks. Science 298:
+    cerevisiae. Genes Dev 16: 3017–3033.
+                                                                                                 824–827.
+2. Lee TI, Rinaldi NJ, Robert F, Odom DT, Bar-Joseph Z, et al. (2002)
+                                                                                           12.   Ideker T, Ozier O, Schwikowski B, Siegel AF (2002) Discovering regulatory
+    Transcriptional regulatory networks in Saccharomyces cerevisiae. Science 298:
+                                                                                                 and signalling circuits in molecular interaction networks. Bioinformatics
+    799–804.
+                                                                                                 18 (Supplement 1): S233–S240.
+3. Gavin AC, Bosche M, Krause R, Grandi P, Marzioch M, et al. (2002)
+    Functional organization of the yeast proteome by systematic analysis of                13.   Milo R, Itzkovitz S, Kashtan N, Levitt R, Shen-Orr S, et al. (2004)
+    protein complexes. Nature 415: 141–147.                                                      Superfamilies of evolved and designed networks. Science 303: 1538–1542.
+4. Ho Y, Gruhler A, Heilbut A, Bader GD, Moore L, et al. (2002) Systematic                 14.   Barabasi AL, Albert R (1999) Emergence of scaling in random networks.
+    identiﬁcation of protein complexes in Saccharomyces cerevisiae by mass                       Science 286: 509–512.
+    spectrometry. Nature 415: 180–183.                                                     15.   Freeman LC (1977) Set of measures of centrality based on betweenness.
+5. Ito T, Tashiro K, Muta S, Ozawa R, Chiba T, et al. (2000) Toward a protein–                   Sociometry 40: 35–41.
+    protein interaction map of the budding yeast: A comprehensive system to                16.   Girvan M, Newman ME (2002) Community structure in social and
+    examine two-hybrid interactions in all possible combinations between the                     biological networks. Proc Natl Acad Sci U S A 99: 7821–7826.
+    yeast proteins. Proc Natl Acad Sci U S A 97: 1143–1147.                                17.   Dunn R, Dudbridge F, Sanderson CM (2005) The use of edge-betweenness
+6. Uetz P, Giot L, Cagney G, Mansﬁeld TA, Judson RS, et al. (2000) A                             clustering to investigate biological function in protein interaction net-
+    comprehensive analysis of protein–protein interactions in Saccharomyces                      works. BMC Bioinformatics 6: 39.
+    cerevisiae. Nature 403: 623–627.                                                       18.   Joy MP, Brock A, Ingber DE, Huang S (2005) High-betweenness proteins
+7. Jeong H, Mason SP, Barabasi AL, Oltvai ZN (2001) Lethality and centrality                     in the yeast protein interaction network. J Biomed Biotechnol 2005: 96–
+    in protein networks. Nature 411: 41–42.                                                      103.
+8. Albert R, Jeong H, Barabasi AL (2000) Error and attack tolerance of                     19.   Hahn MW, Kern AD (2005) Comparative genomics of centrality and
+    complex networks. Nature 406: 378–382.                                                       essentiality in three eukaryotic protein-interaction networks. Mol Biol Evol
+9. Yu H, Greenbaum D, Xin Lu H, Zhu X, Gerstein M (2004) Genomic analysis                        22: 803–806.
+    of essentiality within protein networks. Trends Genet 20: 227–231.                     20.   Goh KI, Oh E, Kahng B, Kim D (2003) Betweenness centrality correlation in
+10. Yu H, Zhu X, Greenbaum D, Karro J, Gerstein M (2004) TopNet: A tool for                      social networks. Phys Rev E Stat Nonlin Soft Matter Phys 67: 017101.
+
+
+       PLoS Computational Biology | www.ploscompbiol.org                            0719                                            April 2007 | Volume 3 | Issue 4 | e59
+                                                                                                                                      Importance of Protein Bottlenecks
+
+21. Han JD, Bertin N, Hao T, Goldberg DS, Berriz GF, et al. (2004) Evidence for                  Saccharomyces Genome Database. Available at: http://www.yeastgenome.
+    dynamically organized modularity in the yeast protein–protein interaction                    org. Accessed June 2006.
+    network. Nature 430: 88–93.                                                            38.   Enke DA, Kaldis P, Holmes JK, Solomon MJ. (1999) The CDK-activating
+22. Guelzim N, Bottani S, Bourgine P, Kepes F (2002) Topological and causal                      kinase (Cak1p) from budding yeast has an unusual ATP-binding pocket. J
+    structure of the yeast transcriptional regulatory network. Nat Gen 31: 60–63.                Biol Chem 274: 1949–1956.
+23. Yu H, Xia Y, Trifonov V, Gerstein M (2006) Design principles of molecular              39.   Asthana S, King OD, Gibbons FD, Roth FP (2004) Predicting protein
+    networks revealed by global comparisons and composite motifs. Genome                         complex membership using probabilistic network reliability. Genome Res
+    Biol 7: R55.                                                                                 14: 1170–1175.
+24. Kanehisa M, Goto S, Kawashima S, Okuno Y, Hattori M (2004) The KEGG                    40.   Babu MM, Luscombe NM, Aravind L, Gerstein M, Teichmann SA (2004)
+    resource for deciphering the genome. Nucleic Acids Res 32 (Database                          Structure and evolution of transcriptional regulatory networks. Curr Opin
+    issue): D277–D280.                                                                           Struct Biol 14: 283–291.
+25. Jansen R, Greenbaum D, Gerstein M (2002) Relating whole-genome                         41.   Schwikowski B, Uetz P, Fields S (2000) A network of protein–protein
+    expression data with protein–protein interactions. Genome Res 12: 37–46.                     interactions in yeast. Nat Biotechnol 18: 1257–1261.
+26. Teichmann SA (2002) The constraints protein–protein interactions place                 42.   Spirin V, Mirny LA (2003) Protein complexes and functional modules in
+    on sequence divergence. J Mol Biol 324: 399–407.                                             molecular networks. Proc Natl Acad Sci U S A 100: 12123–12128.
+27. Mewes HW, Frishman D, Guldener U, Mannhaupt G, Mayer K, et al. (2002)                  43.   Jansen R, Yu H, Greenbaum D, Kluger Y, Krogan NJ, et al. (2003) A Bayesian
+    MIPS: A database for genomes and protein sequences. Nucleic Acids Res 30:                    networks approach for predicting protein–protein interactions from
+    31–34.                                                                                       genomic data. Science 302: 449–453.
+28. Yu H, Paccanaro A, Trifonov V, Gerstein M (2006) Predicting interactions               44.   Deane CM, Salwinski L, Xenarios I, Eisenberg D (2002) Protein interactions:
+    in protein networks by completing defective cliques. Bioinformatics 22:
+                                                                                                 Two methods for assessment of the reliability of high throughput
+    823–829.
+                                                                                                 observations. Mol Cell Proteomics 1: 349–356.
+29. Bader GD, Hogue CW (2002) Analyzing yeast protein–protein interaction
+                                                                                           45.   Bader GD, Betel D, Hogue CW (2003) BIND: The Biomolecular Interaction
+    data obtained from different sources. Nat Biotechnol 20: 991–997.
+                                                                                                 Network Database. Nucleic Acids Res 31: 248–250.
+30. Tong AH, Evangelista M, Parsons AB, Xu H, Bader GD, et al. (2001)
+                                                                                           46.   Xenarios I, Salwinski L, Duan XJ, Higney P, Kim SM, et al. (2002) DIP, the
+    Systematic genetic analysis with ordered arrays of yeast deletion mutants.
+    Science 294: 2364–2368.                                                                      Database of Interacting Proteins: A research tool for studying cellular
+31. Ptacek J, Devgan G, Michaud G, Zhu H, Zhu X, et al. (2005) Global analysis                   networks of protein interactions. Nucleic Acids Res 30: 303–305.
+    of protein phosphorylation in yeast. Nature 438: 679–684.                              47.   Yu H, Luscombe NM, Qian J, Gerstein M (2003) Genomic analysis of gene
+32. Ge H, Liu ZH, Church GM, Vidal M (2001) Correlation between                                  expression relationships in transcriptional regulatory networks. Trends
+    transcriptome and interactome mapping data from Saccharomyces cerevisiae.                    Genet 19: 422–427.
+    Nat Gen 29: 482–486.                                                                   48.   Kanehisa M, Goto S, Kawashima S, Okuno Y, Hattori M. (2004) The KEGG
+33. Taguchi AK, Young ET (1987) The cloning and mapping of ADR6, a gene                          resource for deciphering the genome. Nucleic Acids Res 32: D277–D280.
+    required for sporulation and for expression of the alcohol dehydrogenase               49.   Stark C, Breitkreutz BJ, Reguly T, Boucher L, Breitkreutz A, et al. (2006)
+    II isozyme from Saccharomyces cerevisiae. Genetics 116: 531–540.                             BioGRID: A general repository for interaction datasets. Nucleic Acids Res
+34. Wingender E, Chen X, Fricke E, Geffers R, Hehl R, et al. (2001) The                          34: D535–D539.
+    TRANSFAC system on gene expression regulation. Nucleic Acids Res 29:                   50.   Tong AH, Lesage G, Bader GD, Ding H, Xu H, et al. (2004) Global mapping
+    281–283.                                                                                     of the yeast genetic interaction network. Science 303: 808–813.
+35. Hodges PE, McKee AH, Davis BP, Payne WE, Garrels JI (1999) The Yeast                   51.   Hughes TR, Marton MJ, Jones AR, Roberts CJ, Stoughton R, et al. (2000)
+    Proteome Database (YPD): A model for the organization and presentation                       Functional discovery via a compendium of expression proﬁles. Cell 102:
+    of genome-wide functional data. Nucleic Acids Res 27: 69–73.                                 109–126.
+36. Winzeler EA, Shoemaker DD, Astromoff A, Liang H, Anderson K, et al.                    52.   Newman ME (2001) Scientiﬁc collaboration networks. II. Shortest paths,
+    (1999) Functional characterization of the S. cerevisiae genome by gene                       weighted networks, and centrality. Phys Rev E 64: 016132.
+    deletion and parallel analysis. Science 285: 901–906.                                  53.   Cormen HT, Leiserson EC, Rivest LR (1993) Introduction to algorithms.
+37. Balakrishnan R, Christie KR, Costanzo MC, Dolinski K, Dwight S, et al.                       Boston: The MIT Press. 1028 p.
+
+
+
+
+       PLoS Computational Biology | www.ploscompbiol.org                            0720                                           April 2007 | Volume 3 | Issue 4 | e59
+

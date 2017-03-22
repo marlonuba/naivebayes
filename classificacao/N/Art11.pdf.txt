@@ -1,0 +1,692 @@
+                        Blackwell Science, LtdOxford, UKCMICellular Microbiology Cellular Microbiology 1462-5814Blackwell Science, 20024Review ArticleCell signalling and Trypanosoma cruzi invasionB. A. Burleigh and A. M. Woolsey
+
+
+
+
+Cellular Microbiology (2002) 4(11), 701–711
+
+
+
+
+Microreview
+
+Cell signalling and Trypanosoma cruzi invasion
+
+Barbara A. Burleigh* and Aaron M. Woolsey                                                                                cycle takes 3–5 days, after which infective trypomastig-
+Department of Immunology and Infectious Diseases,                                                                        otes, released into the bloodstream of the host, are dis-
+Harvard School of Public Health, 665 Huntington Ave,                                                                     seminated throughout the body and infect tissues at distal
+Bldg I Rm 713, Boston, MA 02115, USA.                                                                                    sites. Thus, the ability to infect and replicate within a
+                                                                                                                         variety of cell types is an essential feature of the T. cruzi
+                                                                                                                         life cycle in the mammalian host. Whereas parasites are
+Summary
+                                                                                                                         eventually cleared from most tissues and parasitaemia is
+Mammalian cell invasion by the protozoan pathogen                                                                        no longer detectable in the post-acute stages of infection,
+Trypanosoma cruzi is critical to its survival in the                                                                     low-level persistence, particularly in the myocardium and
+host. To promote its entry into a wide variety of non-                                                                   smooth muscle, contributes to the pathology associated
+professional phagocytic cells, infective trypomastig-                                                                    with chronic Chagas’ disease. Presently, several determi-
+otes exploit an arsenal of heterogenous surface                                                                          nants of host cell invasion have been uncovered, but the
+glycoproteins, secreted proteases and signalling                                                                         molecular requirements for intracellular growth and para-
+agonists to actively manipulate multiple host cell                                                                       site persistence remain poorly understood. The resulting
+signalling pathways. Signals initiated in the parasite                                                                   complex interplay between T. cruzi-dependent modulation
+upon contact with mammalian cells also function as                                                                       of the host cell environment and immune avoidance
+critical regulators of the invasion process. Whereas                                                                     strategies is likely to influence the outcome of infection.
+the full spectrum of cellular responses modulated                                                                            Elucidation of the molecular components regulating
+ by T. cruzi is not yet known, mounting evidence                                                                         establishment of T. cruzi infection is critical to understand-
+suggests that these pathways impinge on a number                                                                         ing the pathogenesis of Chagas’ disease. Predictably,
+of cellular processes, in particular the ubiquitous                                                                      communication between pathogen and host cell directs
+wound-repair mechanism exploited for lysosome-                                                                           the complex T. cruzi infection process at multiple stages.
+mediated parasite entry. Furthermore, differential                                                                       In vitro models of infection (invasion and intracellular rep-
+engagement of host cell signalling pathways in a cell                                                                    lication) have been very useful for studying the molecular
+type-specific manner and modulation of host cell                                                                         and cellular basis of these interactions. Whereas early
+gene expression by T. cruzi are becoming recog-                                                                          studies concentrated primarily on the role of T. cruzi try-
+nized as essential determinants of infectivity and                                                                       pomastigote surface antigens in mediating attachment of
+intracellular survival by this pathogen.                                                                                 parasites to non-professional phagocytic cells (reviewed
+                                                                                                                         by Frasch, 1994; 2000; Burleigh and Andrews, 1995a), a
+                                                                                                                         more recent focus has been the role of signal transduction
+Introduction
+                                                                                                                         pathways in co-ordinating T. cruzi invasion (Burleigh and
+The intracellular protozoan pathogen Trypanosoma cruzi                                                                   Andrews, 1998) and modulating host cell gene expression
+causes Chagas’ disease in humans, a chronic inflamma-                                                                    (Chuenkova et al., 2001; Vaena de Avalos et al., 2002). A
+tory condition characterized by cardiomyopathy and                                                                       variety of cell surface receptors, secondary messengers
+digestive disorders (for recent reviews: Chimelli and                                                                    and transcription factors from different pathways appear to
+Scaravilli, 1997; Zhang and Tarleton, 1999; Engman and                                                                   have been exploited by the parasite to mediate and affect
+Leon, 2002). Naturally acquired T. cruzi infections are                                                                  parasite invasion and survival. The best characterized of
+initiated in the dermal layers or conjunctival mucosa by                                                                 such signalling events related to host cell invasion is
+infective metacyclic trypomastigotes transmitted by an                                                                   exemplified by Ca2+-signalling elicited in mammalian host
+infected haematophagous triatomine vector such as Tri-                                                                   cells by infective trypomastigotes. In particular, Ca2+-
+atoma infestans. Completion of the intracellular replicative                                                             dependent fusion of lysosomes with the host cell plasma
+                                                                                                                         membrane has emerged as an important route for
+                                                                                                                         parasite entry. These pathways will be discussed in detail
+Received 25 June, 2002; revised 13 August, 2002; accepted 14
+August, 2002. *For Correspondence. E-mail:bburleig@hsph.har-                                                             below. Recent studies also suggest hat interaction with
+vard.edu; Tel. (+ 1) 617 432 2495; Fax (+ 1) 617 432 4766.                                                               mammalian host cells triggers contact-dependent sig-
+
+© 2002 Blackwell Science Ltd
+702 B. A. Burleigh and A. M. Woolsey
+nalling in protozoan parasites as well, a phenomenon that                     somal vacuole is required for the activity of the secreted
+appears to be universal among invasive eukaryotic patho-                      pore-forming T. cruzi molecule, TcTox, which aids in the
+gens (Moreno et al., 1994; Shaw, 1995; Lu et al., 1997;                       disruption of the vacuole (Andrews and Whitlow, 1989;
+Pezzella et al., 1997; Carruthers and Sibley, 1999; Carru-                    Andrews et al., 1990). Moreover, low pH is thought to be
+thers et al., 1999; Vieira and Moreno, 2000).                                 an important trigger for trypomastigote to amastigote
+                                                                              differentiation (Tomlinson et al., 1995), a process that is
+                                                                              initiated in the vacuole and completed in the cytoplasm
+Trypanosoma cruzi exploits the mammalian cellular
+                                                                              (Fig. 1A). Additional environmental cues required for com-
+wound-repair pathway for invasion
+                                                                              pletion of the intracellular life cycle of this parasite may
+Trypomastigotes, the mammalian infective forms of T.                          also be provided by the lysosome-derived vacuole.
+cruzi, are relatively large (∼20 µm in length), motile organ-                    Trypanosoma cruzi trypomastigotes have evolved the
+isms that have the capacity to infect most nucleated cell                     unique capacity to harness the cellular wound-repair
+types. Non-dividing trypomastigotes must establish resi-                      mechanism, involving Ca2+-regulated lysosome exocyto-
+dence within the host cell cytoplasm and differentiate into                   sis (Rodríguez et al., 1997; Reddy et al., 2001), as the
+amastigotes before undergoing the first division in a pro-                    basis for entry into the host cell and for the formation of
+cess that takes ∼24 h to complete (illustrated in Fig. 1A).                   the short-lived parasitophorous vacuole (Tardieux et al.,
+Following attachment to the host cell membrane, signals                       1992) (Fig. 1A and B). Initiated by T. cruzi-induced sig-
+triggered by the parasite initiate the gradual entry process                  nals, host cell lysosomes are recruited to the plasma
+into a host cell membrane-derived vacuole which is                            membrane along microtubules in a kinesin-dependent
+accomplished within 10 min (Rodríguez et al., 1996).                          manner (Tardieux et al., 1992; Rodríguez et al., 1996),
+Unlike many intracellular pathogens that adeptly avoid                        where targeted fusion at the parasite attachment site is
+fusion with host cell lysosomes (reviewed by Sinai and                        regulated by the lysosome-associated Ca2+-sensor synap-
+Joiner, 1997; Amer and Swanson, 2002), transient resi-                        totagmin VII (Martinez et al., 2000; Reddy et al., 2001). In
+dence within an acidic lysosomal compartment is a pre-                        marked contrast to actin-dependent processes such as
+requisite for T. cruzi survival (Ley et al., 1990). Exposure                  phagocytosis or membrane-ruffling utilized by many inva-
+of trypomastigotes to the acidic environment of the lyso-                     sive microorganisms for internalization (Reed et al., 1996;
+
+
+
+
+Fig. 1. Invasion by T. cruzi involves early recruitment of host cell lysosomes.
+A. Schematic representation of the T. cruzi intracellular infection cycle: trypomastigotes associate with the surface of mammalian cells, trigger
+signalling pathways that lead to the localized recruitment and fusion of host cell lysosomes with the plasma membrane and generation of a
+lysosome-derived parasitophorous vacuole. Parasites are released into the cytoplasm following disruption of the vacuole, differentiate to replicative
+amastigote forms and begin to divide at ∼24 h post infection.
+B. Immunofluorescence staining demonstrating co-localization of host cell lamp-1 (red), a lysosomal marker, with partially internalized T. cruzi
+trypomastigote (extracellular portion stained green) in a primary rat cardiomyocyte.
+
+                                                                                 © 2002 Blackwell Science Ltd, Cellular Microbiology, 4, 701–711
+                                                                        Cell signalling and Trypanosoma cruzi invasion 703
+Sansonetti et al., 1999; Zhou et al., 1999; Edwards et al.,         Ca2+ stores in an IP3-mediated manner (Fig. 2, pathways
+2000), depolymerization of host cell actin microfilaments           2 and 3). In the case of oligopeptidase B-dependent sig-
+enhances the Ca2+-regulated lysosome-mediated T. cruzi              nalling, peptide processing is postulated to occur at an
+entry pathway (Rodríguez et al., 1997).                             intracellular location (oligopeptidase B is cytosolic) before
+                                                                    release of the active parasite-derived agonist (Burleigh
+                                                                    et al., 1997; Caler et al., 1998). Cruzipain, on the other
+Mechanisms of T. cruzi-induced Ca2+-signalling
+                                                                    hand, is secreted and its substrate is of host origin
+Prior to entry, invasive T. cruzi trypomastigotes elicit asyn-      (Scharfstein et al., 2000). In addition to oligopeptidase B
+chronous and repetitive intracellular [Ca2+]i-transients in         and cruzipain-dependent models of host cell Ca2+ signal-
+mammalian cells (Moreno et al., 1994; Tardieux et al.,              ling, peptidase-dependent extracellular matrix remodelling
+1994; Caler et al., 2000; Scharfstein et al., 2000). Such           and localized signalling events are emerging as key reg-
+changes in intracellular calcium levels regulate parasite           ulators of T. cruzi pathogenesis. For example, recent stud-
+invasion by promoting transient actin rearrangements                ies have demonstrated that a parasite-derived 80 kDa
+(Rodríguez et al., 1995) and lysosome-plasma membrane               prolyl endopeptidase with collagen I degrading activity
+fusion (Rodríguez et al., 1997). The [Ca2+]i-transients are         facilitates invasion of mammalian cells (Santana et al.,
+initiated relatively slowly (1–2 min post addition) in              1997; Grellier et al., 2001), an activity that is likely to be
+response to live trypomastigotes (Moreno et al., 1994;              highly relevant in vivo during the navigation of interstitial
+Tardieux et al., 1994; Caler et al., 2000), suggesting that         tissue spaces by trypomastigotes.
+proximity to the host cell is a prerequisite for induction of
+Ca2+-signalling by this pathogen (Caler et al., 2000;
+                                                                    I. Oligopeptidase B-dependent Ca2+-signalling
+Scharfstein et al., 2000). In support of this, constitutively
+released/secreted trypomastigote components fail to                 Trypanosoma cruzi trypomastigotes express a soluble
+generate an appreciable Ca2+-response in mammalian                  Ca2+-signalling activity (Tardieux et al., 1994; Burleigh and
+cells (Burleigh and Andrews, 1995b). Following an initial           Andrews, 1995b) that activates host cell phospholipase C
+increase in [Ca2+]i in infected and neighbouring uninfected         (PLC) to promote the generation of inositol triphosphate
+cells in culture, [Ca2+]i levels decline at later times of infec-   (IP3) and mobilization of Ca2+ from thapsigargin-sensitive
+tion (3–5 days) (Low et al., 1992) indicating that cellular         intracellular stores (Rodríguez et al., 1995). This activity
+Ca2+ homeostasis is disrupted in T. cruzi-infected mam-             was shown to be coupled to the activity of an 80 kDa
+malian cells for the duration of the intracellular infection        cytosolic serine peptidase denominated oligopeptidase B
+cycle. Presently, our understanding of the mechanism(s)             (Opb) (Burleigh et al., 1997). However, neither isolated
+by which infective T. cruzi trypomastigotes induce Ca2+-            native nor recombinant peptidase were capable of trigger-
+signalling in mammalian cells is far from complete.                 ing [Ca2+]i-transients in mammalian cells. Given its homol-
+Highlighted below are three distinct models for parasite-           ogy to prohormone processing enzymes (Fuller et al.,
+dependent Ca2+-signalling that have been proposed by                1988; Kreil, 1990), it was proposed that Opb might func-
+different groups. Although the data to support each model           tion to generate a [Ca2+]i-agonist from an inactive precur-
+ostensibly excludes the other two, these controversial              sor peptide (Burleigh et al., 1997) (Fig. 2, pathway 2).
+reports may be indicative of a more complex set of inter-           Several pieces of evidence support the hypothesis that T.
+actions involving redundant mechanisms for activation               cruzi Opb functions indirectly to induce [Ca2+]i-transients
+of this important signalling pathway.                               during T. cruzi invasion. First, specific Opb-blocking anti-
+                                                                    bodies inhibited the soluble Ca2+-signalling activity
+                                                                    (Burleigh et al., 1997). Second, oligopeptidase B null
+A tale of two peptidases
+                                                                    mutants (opb–/–) generated by targeted gene disruption
+Two peptidase-dependent mechanisms for T. cruzi-                    were significantly impaired with respect to their ability to
+induced Ca2+-signalling in mammalian cells have been                infect mammalian cells in vitro and to establish infections
+described. One involves the serine endopeptidase, oli-              in mice (Caler et al., 1998). Furthermore, residual host
+gopeptidase B (Burleigh and Andrews, 1995b; Burleigh                cell invasion by opb–/– mutants is insensitive to thapsigar-
+et al., 1997; Caler et al., 1998) and the other requires the        gin or pertussis-toxin pretreatment of mammalian cells,
+participation of the secreted/lysosomal cysteine protease,          thereby implicating oligopeptidase B in the IP3-mediated
+cruzipain (Scharfstein et al., 2000). Whereas current evi-          Ca2+-dependent entry pathway (Caler et al., 1998; 2000).
+dence suggests that these are discrete mechanisms, the              Further evidence was provided by biochemical reconsti-
+following similarities emerge when comparing the two                tution experiments in which purified recombinant Opb
+models: peptidase-dependent cleavage of inactive precur-            restored Ca2+-signalling activity in soluble extracts pre-
+sors yield active Ca2+ agonists that bind to G-protein-             pared from opb–/– trypomastigotes (Caler et al., 1998).
+coupled receptors and trigger mobilization of intracellular         Whereas biochemical studies and gene knockout experi-
+
+© 2002 Blackwell Science Ltd, Cellular Microbiology, 4, 701–711
+704 B. A. Burleigh and A. M. Woolsey
+
+
+
+
+Fig. 2. Schematic diagram summarizing molecular components of signalling pathways triggered in non-professional phagocytic cells by infective
+T. cruzi trypomastigotes. (1) Secreted/released trypomastigote molecule(s) stimulate TGF-β receptors in epithelial cells and activate transcription
+of TGF-β-responsive genes such as plasminogen activator inhibitor-1 (PAI-1). (2) Cytosolic T. cruzi oligopeptidase B cleaves an inactive precursor
+to generate an active Ca2+-agonist that is released from the parasite and binds a pertussis-toxin sensitive G-protein-coupled receptor. This
+stimulates phospholipase C (PLC) activity to generate inositol, 3,4,5 triphosphate (IP3) which binds its receptor and promotes release of Ca2+
+from intracellular stores such as the endoplasmic reticulum (ER). (3) Cruzipain (Cz) secreted from the flagellar pocket (FP) of T. cruzi cleaves
+host high molecular weight kininogen (H-K) to generate short-lived kinins (k) which bind to the bradykinin receptor (B2K) to stimulate IP3-mediated
+Ca2+ release. (4) Bi-directional Ca2+-signalling mediated by metacyclic surface glycoprotein, gp82 binding to unknown host cell receptor. (5) Trans-
+sialidase (TS)-mediated stimulation of host cell PI-3-kinase (p85/p110) signalling, activation of downstream serine/threonine kinase Akt, phos-
+phorylation of glycogen synthase kinase (GSK) and activation of bcl-2 transcription. (6) Stimulation of host cell adenyl cyclase (AC) by a T. cruzi
+cAMP agonist leads to cAMP elevation in the host cell.
+
+
+ments highlight the role for oligopeptidase B in T. cruzi                    (B2R) receptors by short-lived kinins (Scharfstein et al.,
+invasion, a critical test of this phenotype, reintroduction of               2000) (Fig. 2, pathway 3). Previous work from this group
+functional oligopeptidase B gene in the opb–/– mutants                       had demonstrated that active kinins, such as bradykinin,
+has not been reported (Caler et al., 1998). Nevertheless,                    could be liberated from host kininogen by a constitutively
+these studies demonstrate, importantly, that residual Ca2+-                  secreted parasite cysteine protease, cruzipain (Del Nery
+signalling activity is associated with live opb–/– trypomas-                 et al., 1997). Incubation with purified exogenous cruzipain
+tigotes (Caler et al., 2000) and is present in soluble                       promoted [Ca2+]i-transients in CHO cells expressing
+extracts prepared from opb–/– parasites (Caler et al.,                       heterologous B2R receptors but not in wild-type CHO cells
+1998), indicating redundant pathways for generation of                       (Scharfstein et al., 2000). Furthermore, pretreatment of
+[Ca2+]i-transients in mammalian cells.                                       cells with cruzipain or bradykinin resulted in enhanced
+                                                                             host cell invasion by T. cruzi and B2R-dependent entry
+                                                                             could be effectively blocked with membrane-permeable
+II. Cruzipain-dependent Ca2+-signalling
+                                                                             cysteine protease inhibitors but not with hydrophilic
+Recently, Scharfstein and colleagues reported that T.                        compounds. Together, these results suggest that pro-
+cruzi invasion of a subset of mammalian cells is facilitated                 tease-dependent kinin generation follows localized secre-
+by [Ca2+]i-transients initiated through host cell bradykinin                 tion of cruzipain at the site of intimate contact between T.
+
+                                                                                © 2002 Blackwell Science Ltd, Cellular Microbiology, 4, 701–711
+                                                                      Cell signalling and Trypanosoma cruzi invasion 705
+cruzi trypomastigotes and host cell (Scharfstein et al.,          level for several hours after host cell entry (Moreno et al.,
+2000). Interestingly, cruzipain-dependent liberation of           1994) also suggests that Ca2+-signalling contributes to
+kinins from host kininogen was greatly enhanced in the            events in the intracellular parasite life cycle.
+presence of heparan sulphate (Lima et al., 2002), a mol-
+ecule with recognized importance in facilitating T. cruzi
+invasion of non-professional phagocytic cells (Herrera            Redundancy or discrepancy?
+et al., 1994).
+                                                                  In summary, three non-overlapping mechanisms have
+                                                                  been presented which account for initiation of host cell
+Bi-directional Ca2+-signalling mediated by T. cruzi               Ca2+-transients by infective T. cruzi trypomastigotes. Pre-
+metacyclic surface glycoprotein (gp82)                            sently, the inter-relationship between and relative contri-
+                                                                  bution of the proposed mechanisms of T. cruzi-induced
+Metacyclic trypomastigotes express several stage-
+                                                                  Ca2+-signalling toward the host cell invasion process is
+specific surface glycoconjugates, encoded by multigene
+                                                                  unclear. Apparent contradictions between these models
+families (Araya et al., 1994; Frasch, 2000), that have been
+                                                                  remain an unresolved issue in the field. For example,
+implicated in host cell recognition and invasion (Teixeira
+                                                                  studies describing oligopeptidase B-dependent Ca2+-sig-
+and Yoshida, 1986; Araguth et al., 1988; Yoshida et al.,
+                                                                  nalling exclude the participation of cruzipain because the
+1989). These include gp82, gp90 and gp35/50. Induction
+                                                                  signalling activity was insensitive to cysteine proteases
+of Ca2+-transients in HeLa or Vero cells in response to
+                                                                  despite the presence of measurable cysteine protease
+metacyclic extracts was attributed predominantly to gp82
+                                                                  activity in these parasite extracts (Burleigh and Andrews,
+(Dorta et al., 1995; Ruiz et al., 1998). In contrast, levels
+                                                                  1995b; Caler et al., 1998). Similarly, inhibitors of oligopep-
+of endogenous gp90 and gp35/50 expression inversely
+                                                                  tidase B (e.g. leupeptin) failed to block the soluble activity
+correlated with the ability of different T. cruzi strains to
+                                                                  attributed to gp82 in other studies (Dorta et al., 1995).
+invade non-professional phagocytic cells (Yoshida et al.,
+                                                                  Whereas certain inconsistencies might be explained by
+1997; Ruiz et al., 1998; Malaga and Yoshida, 2001). Thus,
+                                                                  differences in host cell type, T. cruzi strain, or life cycle
+interaction of these ligands with their putative receptors
+                                                                  stage, others are likely to reflect differences in methodol-
+appears to interfere, directly or indirectly, with the ability
+                                                                  ogy. For example, in some experiments (Dorta et al.,
+of gp2 to engage its receptor(s) and trigger Ca2+-sig-
+                                                                  1995) measurement of intracellular [Ca2+] was conducted
+nalling. Whereas the significance of such competition
+                                                                  using normally adherent cell types (HeLa and Vero) in
+is not yet understood, the relative expression of these
+                                                                  suspension. Because adherence-dependent Ca2+-signal-
+parasite surface molecules may be an important determi-
+                                                                  ling has been clearly demonstrated in mammalian cells
+nant of tissue tropism.
+                                                                  (Arora et al., 1995; Bernardo et al., 1997), it is possible
+   Induction of [Ca2+]-transients during early parasite–host
+                                                                  that the context in which these experiments were carried
+cell interactions is not limited to the host cell. Single cell
+                                                                  out (Dorta et al., 1995) precluded detection of the pepti-
+measurements of [Ca2+]i carried out in Fura2-AM-loaded
+                                                                  dase-dependent activities observed in the studies that
+T. cruzi trypomastigotes revealed that host cell attachment
+                                                                  employed adherent cells (Caler et al., 1998; Scharfstein
+coincides with increased levels of [Ca2+]i in the parasite
+                                                                  et al., 2000). Thus, while these seemingly disparate mod-
+(Moreno et al., 1994). Similar to host cell Ca2+-signalling,
+                                                                  els warrant further examination, it is certainly reasonable
+elevation of parasite intracellular [Ca2+] was found to be
+                                                                  to expect redundancy at the level of host cell Ca2+-signal-
+required for efficient invasion (Moreno et al., 1994; Yakubu
+                                                                  ling especially given the importance of this pathway in cell
+et al., 1994). Cross-linking gp82 on the surface of meta-
+                                                                  invasion by this pathogen.
+cyclic trypomastigotes with specific mAbs was shown to
+be sufficient to produce elevated [Ca2+]i levels in these
+parasites, an effect that was mimicked with mammalian
+                                                                  Other host cell signalling pathways
+cell extracts (Ruiz et al., 1998). Evidence suggests that
+the gp82-mediated increase in parasite intracellular [Ca2+]i      Significant experimental evidence has accumulated that
+is dependent upon activation of phospholipase C (Yoshida          point to the involvement of various host cell signalling
+et al., 2000) downstream of protein tyrosine kinase acti-         pathways in T. cruzi invasion of host cells and for intrac-
+vation, which results in the phosphorylation of a 175 kDa         ellular survival. In addition to facilitating lysosome-
+T. cruzi protein (Favoreto et al., 1998). Thus the model for      mediated entry, some of these pathways appear to addi-
+gp82-dependent signalling assigns a pivotal role to this          tionally induce anti-apoptotic mechanisms and effect
+parasite surface glycoprotein in mediating cross-talk             immune modulations. Cross-talk between these pathways
+between infective metacyclic trypomastigotes and mam-             is likely to exist and selective utilization of these path-
+malian host cells (Fig. 2, pathway 4). The observation that       ways is expected depending on the type of host cell
+intratrypomastigote [Ca2+]i is sustained at an elevated           involved.
+
+© 2002 Blackwell Science Ltd, Cellular Microbiology, 4, 701–711
+706 B. A. Burleigh and A. M. Woolsey
+Cyclic AMP                                                         phatidylinositol (GPI)-anchored trypomastigote surface
+                                                                   glycoproteins that play an important role in initial host cell
+Cyclic AMP agonists that promote the movement of
+                                                                   recognition and attachment (described in more detail
+lysosomes toward the cell periphery and facilitate Ca2+-
+                                                                   below). TS activity has also been implicated in facilitating
+regulated lysosome exocytosis enhance T. cruzi
+                                                                   disruption of the T. cruzi vacuole by liberating sialic acids
+invasion of fibroblasts (Rodríguez et al., 1999). Infective
+                                                                   from the heavily glycosylated lysosome-associated mem-
+T. cruzi trypomastigotes activate adenyl cyclase in mam-
+                                                                   brane proteins (Hall et al., 1992). Collectively, this diverse
+malian cells to generate increased levels of cAMP
+                                                                   group of related T. cruzi surface glycoproteins mediate
+(Rodríguez et al., 1999) (Fig. 2, pathway 6) and pharma-
+                                                                   intimate association of infective trypomastigotes with a
+cologic blockers of this pathway inhibit parasite entry.
+                                                                   wide variety of mammalian cell types, activate PI-3
+Notably, the residual capacity for host cell invasion by the
+                                                                   kinase-dependent signalling, to promote parasite invasion
+T. cruzi opb–/– mutants could be restored to near wild-
+                                                                   and host cell survival.
+type levels by stimulating cells with isopreterenol or 8-
+bromo-cAMP (Caler et al., 2000), suggesting that, while
+both Ca2+- and cAMP-signalling pathways participate in             Tyrosine phosphorylation
+ lysosome-mediated entry, these pathways are triggered
+                                                                   Protein tyrosine phosphorylation is an important feature
+by distinct parasite-dependent mechanisms (Caler et al.,
+                                                                   in the regulation of a variety of different eukaryotic signal-
+2000). The parasite molecules responsible for activating
+                                                                   ling pathways including PI-3-kinase activation (Porter and
+host cell adenyl cyclase remain to be identified.
+                                                                   Vaillancourt, 1998; Cary et al., 1999; Storz and Toker,
+                                                                   2002). In professional phagocytes, T. cruzi stimulates
+                                                                   tyrosine phosphorylation of a number of proteins (Ruta
+Phosphatidylinositol (PI)-3 kinases
+                                                                   et al., 1996) and macrophage entry is inhibited by the
+Phosphatidylinositol-3 kinases are activated by a wide             tyrosine kinase inhibitor genestein (Vieira et al., 1994). In
+variety of extracellular stimuli and regulate distinct cellular    contrast, dephosphorylation of tyrosine has been corre-
+processes through the generation of specific lipid pro-            lated with infectivity of rat myoblasts, where inhibitors of
+ducts (Toker and Cantley, 1997). Modulation of host cell           tyrosine phosphate hydrolysis significantly reduce effi-
+PI-3 kinase-dependent signalling by microbial pathogens            ciency of host cell invasion (Zhong et al., 1998). In addi-
+is an important strategy for establishment of infection.           tion, genestein pretreatment of NRK fibroblasts failed to
+Actin-dependent entry of non-professional phagocytic               inhibit parasite entry (Rodríguez et al., 1995). These data
+cells by bacterial pathogens such as Yersinia (Schulte             suggest differential roles for protein tyrosine kinase and
+et al., 1998) and Listeria monocytogenes (Ireton et al.,           phosphatase activities in promoting T. cruzi entry of pro-
+1996) is regulated by host cell PI-3 kinases, while subver-        fessional and non-professional phagocytic cells respec-
+sion of PI-3 kinase signalling allows the extracellular            tively. In this regard, it is intriguing to note that infective
+pathogen enteropathogenic E. coli to avoid cellular uptake         trypomastigotes as well as intracellular amastigotes
+by phagocytosis (Celli et al., 2001). It was recently dem-         express an ecto-tyrosine phosphatase activity (Furuya
+onstrated that host cell PI-3 kinase and Akt (a serine/            et al., 1998). Whereas the role of this enzymatic activity
+threonine kinase) are important regulators of T. cruzi inva-       during trypomastigote invasion has not been elucidated,
+sion of non-professional phagocytes (Wilkowsky et al.,             access to tyrosine phosphorylated substrates by intra-
+2001) as well as macrophages (Todorov et al., 2000).               cellular amastigotes in the host cell cytoplasm may
+Because PI-3 kinases regulate actin-dependent pro-                 profoundly influence the phosphorylation state of many
+cesses (Rodriguez-Viciana et al., 1997; Conejo and                 cellular proteins during the course of infection.
+Lorenzo, 2001) as well as regulated exocytosis (Yang
+et al., 1996), this signalling pathway may function as a
+                                                                                            κB activation on T. cruzi
+                                                                   Inhibitory effects of NF-κ
+modulator of lysosome-mediated invasion or potentially
+                                                                   invasion
+regulate an actin-associated entry process (Procopio
+et al., 1999).                                                     Early signalling events elicited in the host cell by T. cruzi
+   In addition to facilitating invasion, activation of host cell   are predicted to evoke changes in host cell gene expres-
+PI-3 kinase/Akt signalling was recently shown to stimulate         sion. A frequent consequence of mammalian cell invasion
+pro-survival pathways in T. cruzi-infected neuronal cells          by intracellular pathogens is the activation of host cell NF-
+(Chuenkova et al., 2001). This effect was shown to be              κB signalling pathways (Philpott et al., 2000; Heussler
+mediated by the abundant trypomastigote surface glyco-             et al., 2001; Wahl et al., 2001). The NF-κB family of
+protein, trans-sialidase (TS) (Chuenkova et al., 2001).            transcription factors regulate the expression of a large
+Together with the related gp85 proteins, TS family mem-            number of genes that participate in the management of
+bers form a population of heterogeneous glycosylphos-              host inflammatory and immune responses (Ghosh et al.,
+
+                                                                     © 2002 Blackwell Science Ltd, Cellular Microbiology, 4, 701–711
+                                                                      Cell signalling and Trypanosoma cruzi invasion 707
+1998; Karin and Delhase, 2000). Trypanosoma cruzi-                parasite surface glycoproteins which permit interaction
+mediated NF-κB activation and induction of pro-inflamma-          with distinct host cell receptors and extracellular matrix
+tory cytokine synthesis has been extensively studied in           molecules (Alves et al., 1986; Abuin et al., 1989; Ming
+macrophages (reviewed by Ropert et al., 2002), where              et al., 1993; Giordano et al., 1994). The TS/gp85 family
+signalling through Toll-like receptor 2 by GPI-anchored           contains fibronectin-like sequences (Pereira et al., 1991)
+mucin-like glycoproteins derived from infective trypomas-         and a laminin-binding domain (Giordano et al., 1994)
+tigotes initiates the response (Campos et al., 2001). In          implicating cellular integrins in the invasion process. In
+non-professional phagocytic cells, an inverse correlation         addition, a conserved sequence found in the C-terminal
+between transcription factor NF-κB activation in mamma-           part of the protein that binds specifically to cytokeratin 18
+lian cells and susceptibility to T. cruzi infection has been      has recently been identified (Magdesian et al., 2001).
+reported (Hall et al., 2000). Parasite-dependent NF-κB            Integrins that function as cellular laminin or fibronectin
+activation was not observed in myocytes for which T. cruzi        receptors activate PI-3 kinase signalling pathways (Shaw,
+exhibits tropism in vitro and in vivo, whereas nuclear trans-     2001) and promote cell survival through activation of bcl-
+location and DNA binding of the p65 subunit of NF-κB and          2 transcription. Because a similar activity has already
+expression of an NF-κB-dependent reporter construct was           been ascribed to T. cruzi trans-sialidase (Chuenkova et
+observed in epithelial cells, endothelial cells, and fibro-       al., 2001), it is possible that these signalling events are
+blasts (Hall et al., 2000). In this study, inhibition of NF-κB    transduced through integrins. As a substrate for protein
+signalling was shown to significantly enhance T. cruzi            kinase C (PKCδ) (Omary et al., 1992; Busso et al., 1994)
+invasion of epithelial cells suggesting that differential acti-   cytokeratin 18 could also function to transduce signals
+vation of this pathway in different cell types may determine      from the cell surface following binding of gp85. Neither of
+tissue tropism in the host, a process that is poorly under-       these hypotheses has been directly tested.
+stood. The universality of these findings is challenged by
+studies in which NF-κB activation in isolated cardiomyo-
+                                                                  Role of host TGF-β receptors
+cytes was implicated by the induction of pro-inflammatory
+cytokine gene expression following T. cruzi infection             Signal transduction through TGF-β receptors facilitates T.
+(Machado et al., 2000). Furthermore, a recent DNA                 cruzi entry of epithelial cells (Ming et al., 1995; Hall and
+microarray analysis that examined global transcriptional          Pereira, 2000). Infective trypomastigotes and parasite-
+responses in primary fibroblasts to T. cruzi revealed no          conditioned medium can induce expression of a TGF-β-
+induction of pro-inflammatory cytokines at 24 h post infec-       responsive plasminogen activator inhibitor-1 reporter
+tion (Vaena de Avalos et al., 2002), suggesting that NF-          gene construct (Fig. 2, pathway 1) whereas cell lines defi-
+κB was not activated by the parasite in this cell type.           cient in receptor types I or II (RI, RII) were refractory to T.
+Although the role of NF-κB was not directly tested in these       cruzi infection (Ming et al., 1995). These observations led
+studies (Machado et al., 2000; Vaena de Avalos et al.,            to the proposal that infective stages of T. cruzi secrete a
+2002), the results suggest that cell type-specific activation     TGF-β-like molecule or a factor capable of activating latent
+of this transcription factor may not be a reliable predictor      host TGF-β (Ming et al., 1995). However such a molecule
+of tissue tropism. Nevertheless, differential activation of       has not been identified.
+host cell NF-κB in response to T. cruzi may profoundly               In support of a role for functional TGF-β receptors for T.
+influence the local cytokine environment in the host during       cruzi infection, exogenous addition of TGF-β to cells or
+infection.                                                        overexpression of constitutively active Smad2 dramati-
+                                                                  cally enhanced trypomastigote invasion of epithelial cells
+                                                                  (Hall and Pereira, 2000). Cellular Smad proteins are the
+Host cell receptors                                               only TGF-β receptor kinase substrates with a demon-
+                                                                  strated ability to transduce signals from the activated
+Receptors for the T. cruzi trans-sialidase/gp85 family
+                                                                  receptors (Massague, 1998). Interestingly, expression of
+Initiation of communication between T. cruzi trypomasti-          inhibitory Smads such as Smad 7 or a dominant-
+gotes and mammalian cells requires contact of parasite            interfering Smad2 mutant failed to inhibit basal level T.
+ligands (soluble or surface membrane bound) with host             cruzi invasion, although these reagents effectively abol-
+cell receptors. Although the role for host cell surface sialic    ished TGF-β-mediated enhancement of parasite entry
+acid containing molecules and heparan sulphate pro-               (Hall and Pereira, 2000). Thus, while kinase-active TGF-
+teoglycans has long been recognized (Ming et al., 1993;           β R1 appears to be required for parasite invasion of epi-
+Schenkman et al., 1993; Herrera et al., 1994), definitive         thelial cells, downstream signalling events do not appear
+receptors that mediate T. cruzi attachment and/or signal-         to be Smad-dependent. Whereas it is possible that some
+ling have been elusive. Recent evidence suggests that             of the other receptor-Smads not examined in this study
+host cell recognition is mediated by diverse families of          (Hall and Pereira, 2000) may be involved in T. cruzi entry,
+
+© 2002 Blackwell Science Ltd, Cellular Microbiology, 4, 701–711
+708 B. A. Burleigh and A. M. Woolsey
+the authors concluded that functional TGF-β receptors           mechanisms required for establishment of infection by this
+play a limited role during establishment of infection by        pathogen. Infective trypomastigotes exploit important cel-
+mediating the invasion step, but their signalling function is   lular processes including wound-repair mechanisms and
+not required for parasite attachment or for intracellular       anti-apoptotic functions for invasion and intracellular
+growth and survival (Hall and Pereira, 2000). As TGF-β          survival. Active manipulation of multiple mammalian cell
+exerts an important immunomodulatory role in acute and          signalling pathways is mediated by direct parasite–host
+chronic Chagas’ disease where relatively high levels of         interactions and soluble secreted factors. Expression of
+this cytokine have been observed in T. cruzi-infected           abundant heterogenous glycoproteins on the surface of T.
+hearts (Zhang and Tarleton, 1996), the ability of TGF-β to      cruzi trypomastigotes with affinities for mammalian extra-
+positively regulate parasite invasion may have important        cellular matrix proteins ensures access to a broad spec-
+consequences for disease pathogenesis. These aspects            trum of mammalian cell types during the acute stages of
+require further investigation.                                  infection. Despite recent progress in the field, it is not yet
+                                                                clear how T. cruzi-induced signalling pathways are inte-
+                                                                grated to co-ordinate invasion, support intracellular repli-
+Receptor for the oligopeptidase B-dependent
+                                                                cation or influence tissue tropism. Studies outlined above
+Ca2+-agonist
+                                                                provide the foundation for future mechanistic studies that
+The participation of a Gαi or Gαo heterotrimeric G-protein      are essential to our understanding of the molecular basis
+coupled receptor for the putative Opb-generated Ca2+-           for T. cruzi infection and pathogenesis of Chagas’ disease.
+agonist has been postulated due to the sensitivity of this
+signalling pathway to pertussis toxin (PTx) (Tardieux et al.,
+1994) and to mild trypsinization of the host cell surface       Acknowledgemments
+(Leite et al., 1998). A wide variety of mammalian cell types    We thank Drs A. Sinai, M. Unnikrishnan, C. Chow and M. J. M.
+are sensitive to the soluble Opb-dependent Ca2+-                Alves for critical reading of the manuscript and for helpful discus-
+signalling activity (Burleigh and Andrews, 1995b), sug-         sions. B.A.B. is supported by NIH R01 AI47960 and A.M.W. is
+gesting that receptors for the putative Opb-dependent           supported by a fellowship from the Ford Foundation Doctoral
+                                                                Fellowship Program for Minorities.
+agonist are commonly expressed. Heterologous expres-
+sion of rat fibroblast mRNA in Xenopus oocytes, which do
+not display an endogenous Ca2+-response to T. cruzi             References
+extracts, was shown to confer sensitivity of the oocytes to
+the trypomastigote peptidase-dependent Ca2+-signalling          Abuin, G., Colli, W., de Souza, W., and Alves, M.J.M. (1989)
+activity (Leite et al., 1998). The characteristics of the         A surface antigen of Trypanosoma cruzi involved in cell
+                                                                  invasion (Tc-85) is heterogenous in expression and molec-
+oocyte response were similar to that demonstrated for             ular constitution. Mol Biochem Parasitol 35: 229–238.
+mammalian cells, i.e. sensitive to inhibitors of Opb as well    Alves, M.J.M., Abuin, G.Y., K.V., and Colli, W. (1986) Partial
+as PTx or thapsigargin pretreatment (Leite et al., 1998),         inhibition of trypomastigote entry into cultured mammalian
+demonstrating the potential of this heterologous expres-          cells by monoclonal antibodies against a surface glycopro-
+sion system for cloning of the mammalian receptor for the         tein of Trypanosoma cruzi. Mol Biochem Parasitol 21:
+                                                                  75–82.
+Opb-generated Ca2+-agonist.                                     Amer, A.O., and Swanson, M.S. (2002) A phagosome of
+   Aside from the roles of host cell bradykinin (B2K) recep-      one’s own: a microbial guide to life in the macrophage. Curr
+tors in transducing Ca2+-signals from cruzipain-processed         Opin Microbiol 5: 56–61.
+kinins (Scharfstein et al., 2000), and the involvement of       Andrews, N.W., and Whitlow, M.B. (1989) Secretion by
+TGF-β receptors in epithelial cell invasion (Ming et al.,         Trypanosoma cruzi of a hemolysin active at low pH. Mol
+                                                                  Biochem Parasitol 33: 249–256.
+1995), no definitive host cell receptors for T. cruzi-induced   Andrews, N.W., Abrams, C.K., Slatin, S.L., and Griffiths, G.
+signalling have been identified. With the expression of           (1990) A T. cruzi-secreted protein immunologically related
+such diverse surface glycoprotein ligands, secreted               to the complement component C9: evidence for membrane
+proteases and putative signalling agonists, the range of          pore-forming activity at low pH. Cell 61: 1277–1287.
+potential host cell receptors is predicted to be very broad     Araguth, M.F., Rodrigues, M.M., and Yoshida, N. (1988) Try-
+                                                                  panosoma cruzi metacyclic trypanosomes: neutralization
+and may confound efforts to definitively identify functional      by the stage-specific monoclonal antibody 1G7 and immu-
+receptors due to the potential for redundant signalling           nogenicity of 90 kDa surface antigen. Parasit Immunol 10:
+mechanisms.                                                       707–717.
+                                                                Araya, J.E., Cano, M.I., Yoshida, N., and da Silveira, J.F.
+                                                                  (1994) Cloning and characterization of a gene for the
+Concluding remarks                                                stage-specific 82-kDa surface antigen of metacyclic trypo-
+                                                                  mastigotes of Trypanosoma cruzi. Mol Biochem Parasitol
+Major concepts emerging from recent studies on T. cruzi           65: 161–169.
+invasion highlight the enormous complexity inherent in the      Arora, P.D., Ma, J., Min, W., Cruz, T., and McCulloch, C.A.
+
+                                                                   © 2002 Blackwell Science Ltd, Cellular Microbiology, 4, 701–711
+                                                                       Cell signalling and Trypanosoma cruzi invasion 709
+ (1995) Interleukin-1-induced calcium flux in human fibro-           teinyl proteinase (cruzipain) from Trypanosoma cruzi. J
+ blasts is mediated through focal adhesions. J Biol Chem             Biol Chem 272: 25713–25718.
+ 270: 6042–6049.                                                   Dorta, M.L., Ferreira, A.T., Oshiro, M.E.M., and Yoshida, N.
+Bernardo, J., Billingslea, A.M., Ortiz, M.F., Seetoo, K.F.,          (1995) Ca2+ signal induced by Trypanosoma cruzi meta-
+ Macauley, J., and Simons, E.R. (1997) Adherence-                    cyclic trypomastigote surface molecules implicated in
+ dependent calcium signalling in monocytes: induction of a           mammalian cell invasion. Mol Biochem Parasitol 73: 285–
+ CD14-high phenotype, stimulus-responsive subpopulation.             289.
+ J Immunol Methods 209: 165–175.                                   Edwards, J.L., Shao, J.Q., Ault, K.A., and Apicella, M.A.
+Burleigh, B.A., and Andrews, N.W. (1995a) The mechanisms             (2000) Neisseria gonorrhoeae elicits membrane ruffling
+ of Trypanosoma cruzi invasion of mammalian cells. Annu              and cytoskeletal rearrangements upon infection of primary
+ Rev Microbiol 49: 175–200.                                          human endocervical and ectocervical cells. Infect Immun
+Burleigh, B., and Andrews, N.W. (1995b) A 120 kDa alkaline           68: 5354–5363.
+ peptidase from Trypanosoma cruzi is involved in the               Engman, D.M., and Leon, J.S. (2002) Pathogenesis of
+ generation of a novel Ca2+ signaling factor for mammalian           Chagas heart disease: role of autoimmunity. Acta Trop 81:
+ cells. J Biol Chem 270: 5172–5180.                                  123–132.
+Burleigh, B.A., and Andrews, N.W. (1998) Signaling and host        Favoreto, S.J., Dorta, M.L., and Yoshida, N. (1998) Trypano-
+ cell invasion by Trypanosoma cruzi. Curr Opin Microbiol 1:          soma cruzi 175-kDa protein tyrosine phosphorylation is
+ 461–465.                                                            associated with host cell invasion. Exp Parasitol 89: 188–
+Burleigh, B.A., Caler, E.V., Webster, P., and Andrews, N.W.          194.
+ (1997) A cytosolic serine endopeptidase from Trypano-             Frasch, A.C. (1994) Trans-sialidase, SAPA amino acid
+ soma cruzi is required for the generation of Ca2+ signaling         repeats and the relationship between Trypanosoma cruzi
+ in mammalian cells. J Cell Biol 136: 609–620.                       and the mammalian host. Parasitology 108 (Suppl. ): S37–
+Busso, N., Masur, S.K., Lazega, D., Waxman, S., and                  S44.
+ Ossowski, L. (1994) Induction of cell migration by pro-           Frasch, A.C. (2000) Functional diversity in the trans-sialidase
+ urokinase binding to its receptor: possible mechanism for           and mucin families in Trypanosoma cruzi. Parasitol Today
+ signal transduction in human epithelial cells. J Cell Biol          16: 282–286.
+ 126: 259–270.                                                     Fuller, R.S., Sterne, R.E., and Thorner, J. (1988) Enzymes
+Caler, E.V., Vaena, S., Haynes, P.A., Andrews, N.W., and             required for yeast prohormone processing. Ann Rev
+ Burleigh, B.A. (1998) Oligopeptidase B-dependent signal-            Physiol 50: 345–362.
+ ing mediates host cell invasion by Trypanosoma cruzi              Furuya, T., Zhong, L., Meyer-Fernandes, J.R., Lu, H.G.,
+ invasion. EMBO J 17: 4975–4986.                                     Moreno, S.N., and Docampo, R. (1998) Ecto-protein
+Caler, E.V., Morty, R.E., Burleigh, B.A., and Andrews, N.W.          tyrosine phosphatase activity in Trypanosoma cruzi infec-
+ (2000) Dual role of signaling pathways leading to Ca (2+)           tive stages. Mol Biochem Parasitol 92: 339–348.
+ and cyclic AMP elevation in host cell invasion by Trypano-        Ghosh, S., May, M.J., and Kopp, E.B. (1998) NF-kappa B
+ soma cruzi. Infect Immun 68: 6602–6610.                             and Rel proteins: evolutionarily conserved mediators of
+Campos, M.A., Almeida, I.C., Takeuchi, O., Akira, S., Valente,       immune responses. Annu Rev Immunol 16: 225–260.
+ E.P., Procopio, D.O. et al. (2001) Activation of Toll-like        Giordano, R., Chammas, R., Veiga, S.S., Colli, W., and
+ receptor-2 by glycosylphosphatidylinositol anchors from a           Alves, M.J.M. (1994) An acidic component of the heterog-
+ protozoan parasite. J Immunol 167: 416–423.                         enous Tc-85 protein family from the surface of Trypano-
+Carruthers, V.B., and Sibley, L.D. (1999) Mobilization of            soma cruzi is a laminin binding glycoprotein. Mol Biochem
+ intracellular calcium stimulates microneme discharge in             Parasitol 65: 85–94.
+ Toxoplasma gondii. Mol Microbiol 31: 421–428.                     Grellier, P., Vendeville, S., Joyeau, R., Bastos, I.M., Drobecq,
+Carruthers, V.B., Giddings, O.K., and Sibley, L.D. (1999)            H., Frappier, F. et al. (2001) Trypanosoma cruzi prolyl oli-
+ Secretion of micronemal proteins is associated with toxo-           gopeptidase Tc80 is involved in nonphagocytic mammalian
+ plasma invasion of host cells. Cell Microbiol 1: 225–235.           cell invasion by trypomastigotes. J Biol Chem 276: 47078–
+Cary, L.A., Han, D.C., and Guan, J.L. (1999) Integrin-               47086.
+ mediated signal transduction pathways. Histol Histopathol         Hall, B.S., and Pereira, M.A. (2000) Dual role for transforming
+ 14: 1001–1009.                                                      growth factor beta-dependent signaling in Trypanosoma
+Celli, J., Olivier, M., and Finlay, B.B. (2001) Enteropathogenic     cruzi infection of mammalian cells. Infect Immun 68: 2077–
+ Escherichia coli mediates antiphagocytosis through the              2081.
+ inhibition of PI 3-kinase-dependent pathways. EMBO J 20:          Hall, B.F., Webster, P., Ma, A.K., Joiner, K.A., and Andrews,
+ 1245–1258.                                                          N.W. (1992) Desialylation of lysosomal membrane glyco-
+Chimelli, L., and Scaravilli, F. (1997) Trypanosomiasis. Brain       proteins by Trypanosoma cruzi: a role for the surface
+ Pathol 7: 599–611.                                                  neuraminidase in facilitating parasite entry into the host cell
+Chuenkova, M.V., Furnari, F.B., Cavenee, W.K., and Pereira,          cytoplasm. J Exp Med 176: 313–325.
+ M.A. (2001) Trypanosoma cruzi trans-sialidase: a potent           Hall, B.S., Tam, W., Sen, R., and Pereira, M.E. (2000) Cell-
+ and specific survival factor for human Schwann cells by             specific activation of nuclear factor-kappaB by the parasite
+ means of phosphatidylinositol 3-kinase/Akt signaling. Proc          Trypanosoma cruzi promotes resistance to intracellular
+ Natl Acad Sci USA 98: 9936–9941.                                    infection. Mol Biol Cell 11: 153–160.
+Conejo, R., and Lorenzo, M. (2001) Insulin signaling leading       Herrera, E.M., Ming, M., Ortega-Barria, E., and Pereira,
+ to proliferation, survival, and membrane ruffling in C2C12          M.E.A. (1994) Mediation of Trypanosoma cruzi invasion by
+ myoblasts. J Cell Physiol 187: 96–108.                              heparan sulphate on host cells and penetrin counter-
+Del Nery, E., Juliano, M.A., Lima, A.P., Scharfstein, J., and        receptors on the trypanosomes. Mol Biochem Parasitol 65:
+ Juliano, L. (1997) Kininogenase activity by the major cys-          73–83.
+
+© 2002 Blackwell Science Ltd, Cellular Microbiology, 4, 701–711
+710 B. A. Burleigh and A. M. Woolsey
+Heussler, V.T., Kuenzi, P., and Rottenberg, S. (2001) Inhibi-      Omary, M.B., Baxter, G.T., Chou, C.F., Riopel, C.L., Lin,
+   tion of apoptosis by intracellular protozoan parasites. Int J     W.Y., and Strulovici, B. (1992) PKC epsilon-related kinase
+   Parasitol 31: 1166–1176.                                          associates with and phosphorylates cytokeratin 8 and 18.
+Ireton, K., Payrastre, B., Chap, H., Ogawa, W., Sakaue, H.,          J Cell Biol 117: 583–593.
+   Kasuga, M., and Cossart, P. (1996) A role for phosphoi-         Pereira, M.E., Mejia, J.S., Ortega, B.E., Matzilevich, D., and
+   nositide 3-kinase in bacterial invasion. Science 274: 780–        Prioli, R.P. (1991) The Trypanosoma cruzi neuraminidase
+   782.                                                              contains sequences similar to bacterial neuraminidases,
+Karin, M., and Delhase, M. (2000) The I kappa B kinase (IKK)         YWTD repeats of the low density lipoprotein receptor, and
+   and NF-kappa B: key elements of proinflammatory signal-           type III modules of fibronectin. J Exp Med 174: 179–191.
+   ling. Semin Immunol 12: 85–98.                                  Pereira, M.E., Zhang, K., Gong, Y., Herrera, E.M., and Ming,
+Kreil, G. (1990) Processing of precursors by dipeptidylami-          M. (1996) Invasive phenotype of Trypanosoma cruzi
+   nopeptidases: a case of molecular ticketing. Trends Bio-          restricted to a population expressing trans-sialidase. Infect
+   chem Sci 15: 23–26.                                               Immun 64: 3884–3892.
+Leite, M.F., Moyer, M.S., Nathanson, M.H., and Andrews,            Pezzella, N., Bouchot, A., Bonhomme, A., Pingret, L., Klein,
+   N.W. (1998) Expression of the mammalian calcium signal-           C., Burlet, H. et al. (1997) Involvement of calcium and
+   ing response to Trypanosoma cruzi. Xenopus laevis                 calmodulin in Toxoplasma gondii tachyzoite invasion. Eur
+   oocytes. Mol Biochem Parasitol 92: 1–13.                          J Cell Biol 74: 92–101.
+Ley, V., Robbins, E.S., Nessenzweig, V., and Andrews, N.W.         Philpott, D.J., Yamaoka, S., Israel, A., and Sansonetti, P.J.
+   (1990) The exit of Trypanosoma cruzi from the phagosome           (2000) Invasive Shigella flexneri activates NF-kappa B
+   is inhibited by raising the pH of acidic compartments. J Exp      through a lipopolysaccharide-dependent innate intracellu-
+   Med 171: 401–413.                                                 lar response and leads to IL-8 expression in epithelial cells.
+Lima, A.P., Almeida, P.C., Tersariol, I.L., Schmitz, V.,             J Immunol 165: 903–914.
+   Schmaier, A.H., Juliano, L. et al. (2002) Heparan sulfate       Porter, A.C., and Vaillancourt, R.R. (1998) Tyrosine kinase
+   modulates kinin release by Trypanosoma cruzi through the          receptor-activated signal transduction pathways which lead
+   activity of cruzipain. J Biol Chem 277: 5875–5881.                to oncogenesis. Oncogene 17: 1343–1352.
+Low, H.P., Paulin, J.J., and Keith, C.H. (1992) Trypanosoma        Procopio, D.O., Barros, H.C., and Mortara, R.A. (1999) Actin-
+   cruzi infection of BSC-1 fibroblast cells causes cytoskeletal     rich structures formed during the invasion of cultured cells
+   disruption and changes in intracellular calcium levels. J         by infective forms of Trypanosoma cruzi. Eur J Cell Biol 78:
+   Protozool 39: 463–470.                                            911–924.
+Lu, H.G., Zhong, L., Chang, K.P., and Docampo, R. (1997)           Reddy, A., Caler, E.V., and Andrews, N.W. (2001) Plasma
+   Intracellular Ca2+ pool content and signaling and expres-         membrane repair is mediated by Ca(2+)-regulated exocy-
+   sion of a calcium pump are linked to virulence in Leishma-        tosis of lysosomes. Cell 106: 157–169.
+   nia mexicana amazonesis amastigotes. J Biol Chem 272:           Reed, K.A., Booth, T.A., Hirst, B.H., and Jepson, M.A. (1996)
+   9464–9473.                                                        Promotion of Salmonella typhimurium adherence and
+Machado, F.S., Martins, G.A., Aliberti, J.C., Mestriner, F.L.,       membrane ruffling in MDCK epithelia by staurosporine.
+   Cunha, F.Q., and Silva, J.S. (2000) Trypanosoma cruzi-            FEMS Microbiol Lett 145: 233–238.
+   infected cardiomyocytes produce chemokines and cytok-           Rodríguez, A., Rioult, M.G., Ora, A., and Andrews, N.W.
+   ines that trigger potent nitric oxide-dependent trypanocidal      (1995) A trypanosome-soluble factor induces IP3 forma-
+   activity. Circulation 102: 3003–3008.                             tion, intracellular Ca2+ mobilization and microfilament rear-
+Magdesian, M.H., Giordano, R., Ulrich, H., Juliano, M.A.,            rangement in host cells. J Cell Biol 129: 1263–1273.
+   Juliano, L., Schumacher, R.I. et al. (2001) Infection by        Rodríguez, A., Samoff, E., Rioult, M.G., Chung, A., and
+   Trypanosoma cruzi. Identification of a parasite ligand and        Andrews, N.W. (1996) Host cell invasion by trypanosomes
+   its host cell receptor. J Biol Chem 276: 19382–19389.             requires lysosomes and microtubule/kinesin-mediated
+Malaga, S., and Yoshida, N. (2001) Targeted reduction                transport. J Cell Biol 134: 349–362.
+   in expression of Trypanosoma cruzi surface glycoprotein         Rodríguez, A., Webster, P., Ortego, J., and Andrews, N.W.
+   gp90 increases parasite infectivity. Infect Immun 69: 353–        (1997) Lysosomes behave as Ca2+-regulated exocytic
+   359.                                                              vesicles in fibroblasts and epithelial cells. J Cell Biol in
+Martinez, I., Chakrabarti, S., Hellevik, T., Morehead, J.,           press.
+   Fowler, K., and Andrews, N.W. (2000) Synaptotagmin VII          Rodríguez, A., Martinez, I., Chung, A., Berlot, C.H., and
+   regulates Ca(2+)-dependent exocytosis of lysosomes in             Andrews, N.W. (1999) cAMP regulates Ca2+-dependent
+   fibroblasts. J Cell Biol 148: 1141–1149.                          exocytosis of lysosomes and lysosome-mediated cell inva-
+Massague, J. (1998) TGF-beta signal transduction. Annu               sion by trypanosomes. J Biol Chem 274: 16754–16759.
+   Rev Biochem 67: 753–791.                                        Rodriguez-Viciana, P., Warne, P.H., Khwaja, A., Marte, B.M.,
+Ming, M., Chuenkova, M., Ortega-Barria, E., and Pereira,             Pappin, D., Das, P. et al. (1997) Role of phosphoinositide
+   M.E.A. (1993) Mediation of Trypanosoma cruzi invasion by          3-OH kinase in cell transformation and control of the actin
+   sialic acid on the host cell and trans-sialidase on the           cytoskeleton by Ras. Cell 89: 457–467.
+   trypanosome. Mol Biochem Parasitol 59: 243–252.                 Ropert, C., Ferreira, L.R., Campos, M.A., Procopio, D.O.,
+Ming, M., Ewen, M.E., and Pereira, M.E.A. (1995) Trypano-            Travassos, L.R., Ferguson, M.A. et al. (2002) Macrophage
+   some invasion of mammalian cells requires activation of           signaling by glycosylphosphatidylinositol -anchored mucin-
+   the TGFβ signaling pathway. Cell 82: 287–296.                     like glycoproteins derived from Trypanosoma cruzi trypo-
+Moreno, S.N.J., Silva, J., Vercesi, A.E., and Docampo, R.            mastigotes. Microbes Infect 4: 1015–1025.
+   (1994) Cytosolic free calcium elevation in Trypanosoma          Ruiz, R.C., Favoreto, S., Dorta, M.L., Oshiro, M.E.M.,
+   cruzi is required for cell invasion. J Exp Med 180: 1535–         Ferreira, A.T., and Manque, P.M. (1998) Infectivity of Try-
+   1540.                                                             panosoma cruzi strains is associated with differential
+
+                                                                     © 2002 Blackwell Science Ltd, Cellular Microbiology, 4, 701–711
+                                                                           Cell signalling and Trypanosoma cruzi invasion 711
+                                                                  2+
+  expression of surface glycoproteins with differential Ca             Vaena de Avalos, S.G., Blader, I.J., Fisher, M., Boothroyd,
+  signaling activity. Biochem J 330: 505–511.                            J.C., and Burleigh, B.A. (2002) Immediate/early response
+Ruta, S., Plasman, N., Zaffran, Y., Capo, C., Mege, J.-L., and           to Trypanosoma cruzi infection involves minimal modula-
+  Vray, B. (1996) Trypanosoma cruzi-induced tyrosine phos-               tion of host cell transcription. J Biol Chem 277: 639–
+  phorylation in murine peritoneal macrophages. Parasitol                644.
+  Res 82: 481–484.                                                     Vieira, M.C., and Moreno, S.N. (2000) Mobilization of intra-
+Sansonetti, P.J., Tran Van Nhieu, G., and Egile, C. (1999)               cellular calcium upon attachment of Toxoplasma gondii
+  Rupture of the intestinal epithelial barrier and mucosal               tachyzoites to human fibroblasts is required for invasion.
+  invasion by Shigella flexneri. Clin Infect Dis 28: 466–475.            Mol Biochem Parasitol 106: 157–162.
+Santana, J.M., Grellier, P., Schrevel, J., and Teixeira, A.R.          Vieira, M.C., de Carvalho, T.U., and de Souza, W. (1994)
+  (1997) A Trypanosoma cruzi-secreted 80 kDa proteinase                  Effect of protein kinase inhibitors on the invasion process
+  with specificity for human collagen types I and IV. Biochem            of macrophages by Trypanosoma cruzi. Biochem Biophys
+  J 325 (1): 129–137.                                                    Res Comm 203: 967–971.
+Scharfstein, J., Schmitz, V., Morandi, V., Capella, M.M.,              Wahl, C., Oswald, F., Simnacher, U., Weiss, S., Marre, R.,
+  Lima, A.P., Morrot, A. et al. (2000) Host cell invasion by             and Essig, A. (2001) Survival of Chlamydia pneumoniae-
+  Trypanosoma cruzi is potentiated by activation of bradyki-             infected Mono Mac 6 cells is dependent on NF-kappaB
+  nin B (2) receptors. J Exp Med 192: 1289–1300.                         binding activity. Infect Immun 69: 7039–7045.
+Schenkman, R.P.S., Vandekerckhove, F., and Schenkman,                  Wilkowsky, S.E., Barbieri, M.A., Stahl, P., and Isola, E.L.
+  S. (1993) Mammalian cell sialic acid enhances Trypano-                 (2001) Trypanosoma cruzi: phosphatidylinositol 3-kinase
+  soma cruzi invasion. Infect Immun 61: 898–902.                         and protein kinase B activation is associated with parasite
+Schulte, R., Zumbihl, R., Kampik, D., Fauconnier, A., and                invasion. Exp Cell Res 264: 211–218.
+  Autenrieth, I.B. (1998) Wortmannin blocks Yersinia invasin-          Yakubu, M., Majumder, S., and Kierzembaum, F. (1994)
+  triggered internalization, but not interleukin-8 production by         Changes in Trypanosoma cruzi infectivity by treatments
+  epithelial cells. Med Microbiol Immunol (Berl) 187: 53–60.             that affect calcium ion levels. Mol Biochem Parasitol 66:
+Shaw, L.M. (2001) Identification of insulin receptor substrate           119–125.
+  1 (IRS-1) and IRS-2 as signaling intermediates in the                Yang, J., Clarke, J.F., Ester, C.J., Young, P.W., Kasuga, M.,
+  alpha6beta4 integrin-dependent activation of phosphoi-                 and Holman, G.D. (1996) Phosphatidylinositol 3-kinase
+  nositide 3-OH kinase and promotion of invasion. Mol Cell               acts at an intracellular membrane site to enhance GLUT4
+  Biol 21: 5082–5093.                                                    exocytosis in 3T3-L1 cells. Biochem J 313: 125–131.
+Shaw, M.K. (1995) Mobilization of intrasporozoite Ca2+ is              Yoshida, N., Dorta, M.L., Ferreira, A.T., Oshiro, M.E.,
+  essential for Theileria parva sporozoite invasion of bovine            Mortara, R.A., Acosta-Serrano, A., and Favoreto, S., Jr.
+  lymphocytes. Eur J Cell Biol 68: 78–87.                                (1997) Removal of sialic acid from mucin-like surface mole-
+Sinai, A.P., and Joiner, K.A. (1997) Safe haven: the cell                cules of Trypanosoma cruzi metacyclic trypomastigotes
+  biology of nonfusogenic pathogen vacuoles. Annu Rev                    enhances parasite–host cell interaction. Mol Biochem
+  Microbiol 51: 415–462.                                                 Parasitol 84: 57–67.
+Storz, P., and Toker, A. ( 2002 ) 3′-phosphoinositide-                 Yoshida, N., Mortara, R.N., Araguth, M.F., Gonzalez, J.C.,
+  dependent kinase-1 (PDK-1) in PI 3-kinase signaling. Front             and Russo, M. (1989) Metacyclic neutralizing effect of
+  Biosci. 7: d886–902.                                                   monoclonal antibody 10D8 directed to the 35- and 50-
+Tardieux, I., Webster, P., Ravesloot, J., Boron, W., Lunn, J.A.,         kilodalton surface glycoconjugates of Trypanosoma cruzi.
+  Henser, J.E., and Andrews, N.W. (1992) Lysosome recruit-               Infect Immun 57: 1663–1667.
+  ment and fusion are early events required for trypanosome            Yoshida, N., Favoreto, S. Jr, Ferreira, A.T., and Manque, P.M.
+  invasion of mammalian cells. Cell 71: 1117–1130.                       (2000) Signal transduction induced in Trypanosoma cruzi
+Tardieux, I., Nathanson, M.H., and Andrews, N.W. (1994)                  metacyclic trypomastigotes during the invasion of mamma-
+  Role in host cell invasion of Trypanosoma cruzi-induced                lian cells. Braz J Med Biol Res 33: 269–278.
+  cytosolic free Ca2+ transients. J Exp Med 179: 1017–1022.            Zhang, L., and Tarleton, R.L. (1996) Characterization of
+Teixeira, M.M.G., and Yoshida, N. (1986) Stage-specific sur-             cytokine production in murine Trypanosoma cruzi infection
+  face antigens of metacyclic trypomastigotes of Trypano-                by in situ immunocytochemistry: lack of association
+  soma cruzi identified by monoclonal antibodies. Mol                    between susceptibility and type 2 cytokine production. Eur
+  Biochem Parasitol 18: 271–282.                                         J Immunol 26: 102–109.
+Todorov, A.G., Einicker-Lamas, M., de Castro, S.L., Oliveira,          Zhang, L., and Tarleton, R.L. (1999) Parasite persistence
+  M.M., and Guilherme, A. (2000) Activation of host cell                 correlates with disease severity and localization in chronic
+  phosphatidylinositol 3-kinases by Trypanosoma cruzi                    Chagas' disease. J Infect Dis 180: 480–486.
+  infection. J Biol Chem 275: 32182–32186.                             Zhong, L., Lu, H.G., Moreno, S.N., and Docampo, R. (1998)
+Toker, A., and Cantley, L.C. (1997) Signalling through the               Tyrosine phosphate hydrolysis of host proteins by Trypano-
+  lipid products of phosphoinositide-3-OH kinase. Nature                 soma cruzi is linked to cell invasion. FEMS Microbiol Lett
+  387: 673–676.                                                          161: 15–20.
+Tomlinson, S., Vandekerckhove, F., Frevert, U., and                    Zhou, D., Mooseker, M.S., and Galan, J.E. (1999) An inva-
+  Nussenzweig, V. (1995) The induction of Trypanosoma                    sion-associated Salmonella protein modulates the actin-
+   cruzi trypomastigote to amastigote transformation by low              bundling activity of plastin. Proc Natl Acad Sci USA 96:
+  pH. Parasitology 110: 547–554.                                         10176–10181.
+
+
+
+
+© 2002 Blackwell Science Ltd, Cellular Microbiology, 4, 701–711
+

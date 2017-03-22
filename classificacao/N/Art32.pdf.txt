@@ -1,0 +1,920 @@
+Structural Determinants of the Rate of Protein Evolution in Yeast
+Jesse D. Bloom,* D. Allan Drummond,  Frances H. Arnold,* and Claus O. Wilkeà
+*Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California;  Program in
+Computation and Neural Systems, California Institute of Technology, Pasadena, California; and àSection of Integrative Biology
+and Center for Computational Biology and Bioinformatics, University of Texas at Austin
+
+       We investigate how a protein’s structure influences the rate at which its sequence evolves. Our basic hypothesis is that
+
+
+
+
+                                                                                                                                                Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+       proteins with highly designable structures (structures that are encoded by many sequences) will evolve more rapidly.
+       Recent theoretical advances argue that structures with a higher density of interresidue contacts are more designable,
+       and we show that high contact density is correlated with an increased rate of sequence evolution in yeast. In addition,
+       we investigate the correlations between the rate of sequence evolution and several other structural descriptors, carefully
+       controlling for the strong effect of expression level on evolutionary rate. Overall, we find that the structural descriptors that
+       we consider appear to explain roughly 10% of the variation in rates of protein evolution in yeast. We also show that despite
+       the well-known trend for buried residues to be more conserved, proteins with a higher fraction of buried residues, nonethe-
+       less, tend to evolve their sequences more rapidly. We suggest that this effect is due to the increased designability of struc-
+       tures with more buried residues. Our results provide evidence that protein structure plays an important role in shaping the
+       rate of sequence evolution and provide evidence to support recent theoretical advances linking structural designability to
+       contact density.
+
+Introduction                                                                   of its encoding gene (Hirsh and Fraser 2001; Jordan et al.
+      Protein sequences evolve largely through the gradual                     2002; Wall et al. 2005; Zhang and He 2005), the number
+accumulation of amino acid substitutions, and the extent                       of other proteins with which it interacts (Fraser et al. 2002;
+of sequence divergence is quantified by the number of                          Lemos et al. 2005), its length (Marais and Duret 2001;
+nonsynonymous substitutions per site, dN. Over 40 years                        Lemos et al. 2005), its centrality in the protein interaction
+ago, Zuckerkandl and Pauling (1965) observed that dN                           network (Hahn and Kern 2005), and its expression level
+for homologous proteins is proportional to the time since                      (Pal et al. 2001; Drummond et al. 2005, 2006). However,
+divergence, indicating that dN measures a roughly constant                     a casual analysis of these correlations is complicated by the
+average rate of fixed amino acid substitutions. However, it                    fact that most of these biological properties are also corre-
+has also long been clear that different proteins accumulate                    lated with each other (Drummond et al. 2006). At this point,
+substitutions at markedly different rates: Zuckerkandl and                     the only clear conclusions are that, by far, the most dom-
+Pauling (1965) remarked how the large values of dN for                         inant trend is for highly expressed proteins to evolve slowly
+hemoglobin were ‘‘spectacularly at variance’’ with the small                   (Pal et al. 2001; Drummond et al. 2005, 2006) and that the
+values of dN for cytochrome c. The availability of full                        other correlations are either much weaker or potentially due
+genome sequences now allows for much more extensive                            to confounding factors (Hurst and Smith 1999; Bloom and
+comparisons of rates of protein sequence evolution, and                        Adami 2003; Jordan et al. 2003; Pal et al. 2003; Hahn et al.
+such analyses have confirmed the widely differing rates                        2004; Agrafioti et al. 2005; Drummond et al. 2006).
+noted by Zuckerkandl and Pauling (1965). For example,                                The fact that expression level correlates with dN much
+dN varies approximately a 1,000-fold between the fastest                       more strongly than properties reflecting a protein’s biolog-
+and slowest evolving proteins in yeast (Drummond et al.                        ical role is consistent with protein mutagenesis experiments
+2005).                                                                         showing that deleterious mutations usually act by hindering
+      Zuckerkandl and Pauling (1965) and subsequently                          the formation of a properly folded protein rather than spe-
+Ohta and Kimura (1971) and others (King and Jukes                              cifically altering a protein’s function (Shortle and Lin 1985;
+1969) argued that variation in dN was due to differences                       Pakula et al. 1986; Loeb et al. 1989; Bloom et al. 2005,
+in the selective constraints on proteins’ sequences. The ba-                   2006). Therefore, dN should be largely determined by
+sic argument is that most sequence divergence is due to the                    the fraction of mutations that prevent adequate protein ex-
+fixation of mutations with little or no effect on a protein’s                  pression and folding. Highly expressed proteins are under
+function, and so the rate at which substitutions accumulate                    an increased requirement for fidelity in expression and fold-
+is proportional to the average fraction of mutations that are                  ing due to the costs of misfolded proteins, meaning they
+effectively neutral (Ohta and Kimura 1971; Brookfield                          have a smaller fraction of effectively neutral mutations
+2000). This argument has now gained widespread accep-                          and so evolve more slowly (Drummond et al. 2005). A pro-
+tance, and numerous studies have used high-throughput ge-                      tein’s biophysical properties can also influence the fraction
+nomic data to attempt to pinpoint the biological constraints                   of mutations that allow for adequate expression and folding,
+that underlie the different rates of sequence evolution.                       for example, protein mutagenesis experiments have shown
+Numerous properties have been found to correlate with                          that increasing a protein’s thermodynamic stability dra-
+a protein’s dN, including the dispensability or essentiality                   matically increases its tolerance to mutations (Bloom
+                                                                               et al. 2005, 2006). Another factor that has received little
+     Key words: designability, protein structure, evolutionary rate, protein
+evolution, principal component regression, yeast.
+                                                                               consideration with respect to its effect on dN, but which
+                                                                               may significantly affect a protein’s mutational tolerance,
+     E-mail: cwilke@mail.utexas.edu.
+                                                                               is the characteristics of the native structure itself.
+Mol. Biol. Evol. 23(9):1751–1761. 2006
+doi:10.1093/molbev/msl040                                                            The relationship between a protein’s native structure
+Advance Access publication June 16, 2006                                       and its mutational tolerance has been extensively studied
+Ó The Author 2006. Published by Oxford University Press on behalf of
+the Society for Molecular Biology and Evolution. All rights reserved.
+For permissions, please e-mail: journals.permissions@oxfordjournals.org
+1752 Bloom et al.
+
+
+
+
+                                                                                                                                                                Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+     FIG. 1.—A model for how the designability of a protein’s structure might affect the rate at which its sequence evolves. If many sequences fold into
+a given structure (highly designable), then many mutations preserve the structure, that is, the structure is mutationally tolerant. As a consequence, we
+observe rapid evolutionary divergence. Conversely, if few sequences fold into a given structure, then the structure is mutationally brittle, and evolutionary
+divergence is slow.
+
+in the context of protein folding and design. These studies                     sequences that fold into that structure with an energy below
+typically attempt to characterize a structure’s ‘‘designa-                      some threshold. By assuming that the energy of a structure
+bility,’’ defined as the total number of amino acid sequences                   is due to pairwise interactions between residues, England
+that fold into that structure (Li et al. 1996; Kussell 2005).                   and Shakhnovich (2003) show that the designability D is
+Because more designable structures are encoded by more                          given by a series in traces of powers of the structure’s con-
+sequences, proteins that fold into highly designable struc-                     tact matrix C,
+tures tend to be more tolerant to mutations and, thus, should
+evolve their sequences more rapidly (fig. 1). Most studies of                                                    X
+                                                                                                                 N
+                                                                                                                        n
+protein designability have utilized simple computational                                                  D5       ðTr C Þan :                          ð1Þ
+                                                                                                                 n52
+models in which designability can be directly estimated
+by an extensive or exhaustive enumeration of different
+sequences (Li et al. 1996; Govindarajan and Goldstein                                 This theory has been verified with simulations on
+1996, 1997; Tiana et al. 2000; Chan and Bornberg-Bauer                          simple model proteins (England and Shakhnovich 2003;
+2002; Irba¨ck and Troein 2002; Miller et al. 2002; Wingreen                     England et al. 2003; Tiana et al. 2004), but, unlike earlier
+et al. 2004; Wroe et al. 2005; Zhang et al. 2005). The main                     simulations, it has a theoretical basis and so can, in princi-
+conclusion of these model-protein simulations is that des-                      ple, be applied broadly. However, the coefficients an in
+ignability varies widely among structures; however, the                         equation (1) cannot be calculated, but the designability
+simplicity of the models makes it difficult to extrapolate                      can be estimated by truncating the series after the first term.
+any quantitative measures of designability to real proteins.                    (An alternative method of estimating the series in equation
+At the other end of the computational spectrum, a variety                       (1) as the maximum eigenvalue of the contact matrix gives
+of studies have used state-of-the-art atomistic simulations                     comparable results, as discussed below.) The first term of
+to attempt to estimate the designabilities of real proteins                     equation (1) is just equal to the contact density (the average
+(Zou and Saven 2000; Kono and Saven 2001; Voigt                                 number of contacts per residue) (England and Shakhnovich
+et al. 2001; Koehl and Levitt 2002; Larson et al. 2002).                        2003; England et al. 2003), and so, this truncation recovers
+But these atomistic simulations are computationally expen-                      the predictions of Wolynes (1996) and Shakhnovich (1998)
+sive, and their accuracy is not known because there are no                      that designability is approximated by contact density.
+experimental measurements of protein designability with                               Here we use this predicted relationship between con-
+which they can be compared. Recently, England and                               tact density and designability as the basis for exploring the
+Shakhnovich (2003) have proposed a general theory that                          contribution of protein structure to evolutionary rate in
+relates designability to the pattern of contacts between res-                   yeast. Although numerous earlier studies have shown that
+idues in the native structure. Their approach is based on the                   the conservation of residues at individual sites is influenced
+argument of Wolynes (1996) and Shakhnovich (1998) that                          by structural characteristics such as secondary structure
+a structure’s designability can be estimated as the number of                   or solvent exposure (Overington et al. 1992; Koshi and
+                                                                             Structural Determinants of Protein Evolution in Yeast 1753
+
+
+Goldstein 1995; Thorne et al. 1996; Goldman et al. 1998;                  We calculated contact maps of all the 275 PDB struc-
+Mirny and Shakhnovich 1999; Bustamante et al. 2000;                 tures. We considered 2 residues in contact if any of their 2
+Dokholyan and Shakhnovich 2001; Dean et al. 2002; Marsh             heavy (nonhydrogen) atoms were within a distance of 4.5 A    ˚
+and Griffiths 2005), our work looks at how a protein’s struc-       from each other and if the 2 residues were not immediate
+ture affects its global rate of sequence evolution. We examine      sequence neighbors (i.e., we excluded trivial contacts). We
+the correlation of dN with contact density and several other        then determined the contact density for each structure by
+structural descriptors (fraction of buried residues, secondary      calculating the average number of contacts per residue.
+
+
+
+
+                                                                                                                                          Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+structure composition, length, and fold classification), while            Protein chains were assigned to the Structural Classi-
+statistically controlling for the effect of expression level. Our   fication of Proteins (SCOP) database (Murzin et al. 1995)
+work shows that dN is influenced by protein structure in            classes given in version 1.69 available at http://scop.mrc-lmb.
+a way that suggests that proteins with more designable struc-       cam.ac.uk/scop/parse/index.html. For each protein chain,
+tures evolve their sequences more rapidly.                          we first searched for the PDB structure ID in the download-
+                                                                    able dir.cla.scop.txt_1.69 file. If we found the ID, we then
+Materials and Methods                                               searched for the mmCIF file chain ID in the file. In cases
+                                                                    where a structure had multiple chains with different SCOP
+       All 33,449 protein structures present in the protein         classes, we took care to ensure that the mmCIF chain ID
+data bank (PDB) on 13 November 2005 were downloaded                 was matched appropriately with the correct SCOP class
+as mmCIF files. The downloaded files were parsed to get             (the chain ID used in the mmCIF file is not always the same
+the sequences of all the proteins, except for 1quz, 1jhq,           as the one used in the PDB file for the same structure, and
+1zhe, 1quz, 2ad1, 1zir, and 2etg, which could not be parsed         the SCOP classifications are made according to the PDB
+effectively. These parsed sequences included only those res-        chain ID). Some chains have different regions assigned
+idues with coordinates—residues without coordinates were            to distinct SCOP classes. If we found multiple entries for
+excluded from the sequences. Nonglycine residues that lacked        different regions of the chain, we recorded the SCOP class
+any side-chain atoms were also excluded from the sequences.         only if all regions of the chain were assigned to the same
+This procedure yielded a total of 73,121 protein sequences.         class.
+       The sequences of all Saccharomyces cerevisiae                      We calculated evolutionary rates (dN) using the
+open reading frames (ORFs) were downloaded from                     reciprocal-shortest-distance method (Wall et al. 2003). All
+ftp://genome-ftp.stanford.edu/pub/yeast/data_download/              ORFs in S. cerevisiae were Blasted against those in Saccha-
+sequence/genomic_sequence/orf_dna/ on 19 October 2004.              romyces bayanus and vice versa. Pairwise hits with an E
+All the genes that could be translated were considered. This        value of ,1020 were retained and aligned with ClustalW,
+procedure yielded 5,865 proteins. To match protein struc-           using the aligned protein sequences to align the nucleotide
+tures with these yeast proteins, we Blasted (Altschul et al.        sequences. Evolutionary rates, the numbers of nonsynony-
+1990) each protein against all the PDB protein sequences.
+                                                                    mous substitutions per nonsynonymous site (dN) and syn-
+Any matches with a Blast E value of at least 105 were then
+                                                                    onymous substitutions per synonymous site (dS), were
+aligned using ClustalW (Thompson et al. 1994), and if the
+                                                                    computed for these hits using the Phylogenetic Analysis
+number of identities in the total length of the alignment was
+                                                                    by Maximum Likelihood (Yang 1997) program codeml
+.80%, then the match was saved. If there were multiple
+such matches to a protein, then the best match was saved            operating on codons with a 9–free-parameter model for co-
+as the hit for that protein. This process yielded 275 matches.      don frequencies. Pairs with less than 80% aligned residues
+Because the number of proteins with solved structures is            were discarded because there are no well-established meth-
+small compared with the number of proteins with known               ods for dealing with gaps when calculating evolutionary
+sequences, restricting our data set to yeast proteins with          distances. Remaining aligned gene pairs having each other
+.80% similarity to a sequence in the PDB limits the size            as the shortest-distance (smallest dN) hit were designated
+of our data set. However, we felt it was important to set this      orthologs and used in our analysis. Among the previously
+relatively stringent criterium for sequence identity to ensure      identified 275 ORFs with a match to a PDB structure, we
+that the PDB structures accurately represented the actual           found S. bayanus orthologs in 203 cases.
+folded conformations of the yeast proteins with which they                We calculated evolutionary rates at buried/exposed
+were matched.                                                       sites and sites of specific secondary structure by discarding
+       For each yeast protein with a match, we recorded the         all but the relevant portions of the ortholog alignments gen-
+aligned residues, the secondary structure for each aligned          erated to compute overall evolutionary rates. For example,
+residue, and the percent solvent-accessible area for each           to compute the evolutionary rates at buried sites, we con-
+aligned residue. The latter number was computed using               sidered only buried residues (identified as described above)
+only atoms within that protein chain in the PDB structure           and assembled the corresponding codons into a reduced
+(i.e., we did not consider surface area buried by atoms of          pair of ortholog sequences, from which evolutionary rates
+other protein chains in the PDB structure). We first calcu-         were calculated exactly as described above. This procedure
+lated the exposed surface area using the program given by           was carried out for buried and exposed residues and for
+McConkey et al. (2002) and then normalized these values             residues corresponding to the 4 secondary structure types
+by the reference surface areas of an extended Gly-X-Gly             of helix (DSSP class H), sheet (DSSP class E), turn
+peptide, as given in Creighton (1992, Table 4.4, p. 142).           (DSSP classes S and T), and coil (DSSP classes B, G, I,
+We counted a residue as buried if it had less than 25%              and ‘‘.’’). (DSSP is the ‘‘Dictionary of Protein Secondary
+solvent accessibility and as exposed, otherwise.                    Structure,’’ Kabsch and Sander 1983.)
+1754 Bloom et al.
+
+
+                                                                                             Results
+                                                                                             Differences in Substitution Rates of Different Classes of
+                        0.30
+
+                                                                                             Residues
+ evolutionary rate dN
+
+
+
+
+                                                                                                   For each ORF, we determined the evolutionary rate
+                                                                                             (dN) of the buried and of the exposed residues and also
+                        0.20
+
+
+
+
+                                                                                             of residues belonging to each of the 4 secondary structure
+
+
+
+
+                                                                                                                                                                                       Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+                                                                                             classes of helix, sheet, turn, and coil. We found that exposed
+                                                                                             sites evolve substantially faster than buried sites, whereas
+                        0.10
+
+
+
+
+                                                                                             secondary structure has little effect on evolutionary rate
+                                                                                             (fig. 2). For all residue types, the distribution of evolution-
+                                                                                             ary rates was highly skewed. For example, the fastest evolv-
+                        0.00
+
+
+
+
+                                                                                             ing buried sites evolve much faster than the median exposed
+                                 buried   exposed   helix   sheet       coil   turn          site. Overall, our findings for type-specific evolutionary
+                                                    residue type                             rates confirmed the consensus in the literature that solvent
+                                                                                             accessibility has a strong effect on the conservation of in-
+      FIG. 2.—Distributions of evolutionary rate, dN, for different residue
+types, shown as modified boxplots. (Boxes enclose all data between the
+                                                                                             dividual residues, whereas secondary structure type has at
+first and third quartile and are divided at the median. Whiskers at top ex-                  most a weak effect (Goldman et al. 1998; Bustamante et al.
+tend to the maximum observation or 1.5 times the box height from the top                     2000; Dean et al. 2002).
+of the box, whichever is smaller. Similarly, whiskers at bottom extend to
+the minimum observation or 1.5 times the box height from the bottom of
+the box, whichever is larger. All data points outside the range of the
+whiskers are drawn individually. See, for example, Sokal and Rohlf                           Effect of Contact Density on Evolutionary Rate
+[1994]). For all residue types, the distribution of dN is heavily skewed
+and, thus, not well characterized by its mean and standard deviation.                              Because buried sites are more conserved, we might
+For the 2 residue types ‘‘exposed’’ and ‘‘helix,’’ one outlier each falls out-               expect that proteins with a larger fraction of buried sites
+side the top boundary of the graph. The evolutionary rates in all groups are
+significantly different from each other with P , 0.01 (Wilcoxon signed-                      should evolve slower. On the other hand, the prediction
+rank test), apart from helix and coil (P 5 0.01) and coil and turn (P 5 0.37,                of England and Shakhnovich (2003) is that proteins with
+not significant).                                                                            a higher contact density are more designable and, thus,
+                                                                                             would be expected to evolve faster. To find out which of
+                                                                                             the two views is correct, we correlated the overall evolution-
+      We calculated codon adaptation indices (CAIs) exactly                                  ary rate dN with contact density and the fraction of residues
+as described by Sharp and Li (1987), using tabulated codon                                   that are buried. The former is the average of the number of
+relative adaptiveness values for S. cerevisiae. We used ex-                                  contacts per residue and is the quantity treated theoretically
+pression data from Holstege et al. (1998). After discarding                                  by England and Shakhnovich (2003) (the first term of
+all ORFs for which we did not have expression data, we ar-                                   eq. 1). The latter does not explicitly count contacts but is
+rived at our final data set of 194 ORFs. This data set is given                              strongly correlated with contact density (table 1). Through-
+as supplementary table, Supplementary Material online.                                       out this paper, we usually report results, which hold for both
+      All statistical analyses were carried out with the statis-                             measures, for only one measure, the contact density. An al-
+tics software R, version 2.1.1 (R Development Core Team                                      ternative method for estimating the designability as given
+2005). Principal component regression was done using the                                     by equation (1) is to use the maximum eigenvalue of the
+R package ‘‘pls.’’ Unless mentioned otherwise, all analyses                                  contact matrix (England and Shakhnovich 2003); doing
+were carried out on ranks, rather than on the actual values of                               so yields results that are highly similar to those for contact
+the quantities. In particular, all correlations are Spearman                                 density for all correlations shown in table 1 (the Spearman
+correlations, and all principal component regression analy-                                  correlation between the maximum eigenvalue and dN is
+ses were carried out on rank-transformed data.                                               q 5 0.25).
+
+
+Table 1
+Spearman Correlations between Variables Considered in This Study
+                                  dN                x               c                 fbur            d                 L                 fH                   fE               fT
+x                              0.58***
+c                              0.40***          0.71***
+fbur                            0.29***         0.09           0.20*(*)
+d                               0.24**(*)       0.01           0.20*(*)        0.80***
+L                               0.19*(*)        0.14(*)        0.13            0.79***          0.57***
+fH                              0.03            0.01           0.05           0.05             0.13                 0.07
+fE                             0.01             0.06          0.05            0.10             0.06                0.04           0.80***
+fT                             0.10             0.10           0.17*           0.19*(*)         0.19*(*)             0.06           0.46***              0.28***
+fC                              0.02            0.10           0.02           0.02            0.33***             0.01           0.40***             0.06               0.11
+     NOTE.—Significance levels: ***P , 0.001; **P , 0.01; *P , 0.05. dN: nonsynonymous evolutionary rate; x: gene expression level; c: CAI; fbur: fraction of buried sites;
+d: contact density; L: protein length; fH, fE, fT, and fC: fraction of sites with secondary structure helix, sheet, turn, and coil, respectively. Significance levels in parentheses
+disappear after correction for multiple testing (Benjamini and Hochberg 1995).
+                                                                                                                                   Structural Determinants of Protein Evolution in Yeast 1755
+
+
+                                                                                                              The results from the analysis of evolutionary rate at
+                       0.25                                                                             buried and exposed sites (fig. 2) seem to be at odds with
+                                                                                                        the results from the analysis of the overall evolutionary rate
+                       0.20
+
+
+                                                                                                        of the proteins (fig. 3). Buried sites tend to be more con-
+evolutionary rate dN
+
+
+
+
+                                                                                                        served than exposed sites, but the overall evolutionary rate
+                                                                                                        increases with increasing contact density (and also fraction
+                       0.15
+
+
+
+
+                                                                                                        of buried sites). However, this apparent paradox can be un-
+
+
+
+
+                                                                                                                                                                                                Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+                                                                                                        derstood if we consider the effect of high contact density on
+                       0.10
+
+
+
+
+                                                                                                        buried and exposed sites separately (fig. 4). Whereas the dN
+                                                                                                        at buried sites shows a moderate increase with increasing
+                                                                                                        contact density, the dN at exposed sites grows dramatically.
+                       0.05
+
+
+
+
+                                                                                                        Even though proteins with high contact density have a
+                                                                                                        reduced fraction of exposed residues, the residues that
+                       0.00
+
+
+
+
+                                                                                                        are exposed in these proteins evolve very rapidly. There-
+                               4                       5                  6           7         8       fore, the reduction in the fraction of exposed residues is
+                                                                    contact density                     more than compensated for by the increased variability
+                                                                                                        of exposed residues in proteins with high contact density.
+     FIG. 3.—Evolutionary rate dN as a function of a protein’s contact
+density.
+                                                                                                        Effect of Protein Length on Evolutionary Rate
+      As predicted by the hypothesis that more designable                                                     We found a significant correlation between protein
+proteins should evolve faster (fig. 1), we found that contact                                           length and dN and a strong correlation between length
+density and the fraction of buried sites correlated signifi-                                            and contact density (table 1). This observation prompted
+cantly with dN (table 1, fig. 3). However, this correlation                                             us to investigate the relationship between contact density
+does not imply per se that the increased rate of evolution                                              and protein length. We found that the correlation between
+is caused by contact density. It is well known that more                                                these 2 quantities stems primarily from short proteins (fig.
+highly expressed proteins evolve more slowly in yeast                                                   5). For very short proteins, there is a large variation in con-
+(Pal et al. 2001), and therefore, we always have to control                                             tact density. In this regimen, contact density can be as low
+for expression level before we can conclude that any quan-                                              as 4 or as high as 7. As the protein length increases, there is
+tity has an effect on dN (Bloom and Adami 2003; Pal et al.                                              an overall increase in contact density, but at the same time
+2003; Drummond et al. 2006). We calculated the correla-                                                 the variability in contact density decreases. Eventually,
+tions between contact density and both expression level as                                              contact density levels off and remains in a range between
+measured by DNA microarrays (Holstege et al. 1998) and                                                  approximately 6 and 8. Therefore, we next calculated the
+CAI, another proxy for gene expression (table 1). Expres-                                               correlations between contact density, fraction of buried
+sion level is not significantly correlated with contact den-                                            sites, protein length, and dN separately for short (,250 res-
+sity. There was a weak correlation between CAI and contact                                              idues) and for long (250 residues) proteins (table 2). For
+density, but this correlation had the opposite sign from what                                           short proteins, both the fraction of buried sites and the pro-
+we would expect if a correlation between CAI and contact                                                tein length showed a significant positive correlation with
+density were to cause the correlation between contact den-                                              dN. For long proteins, on the other hand, only the correla-
+sity and dN. These results indicate that the correlation                                                tion between the fraction of buried sites and dN was pos-
+between contact density and evolutionary rate is not caused                                             itive and significant; the correlation between length and dN
+by an underlying correlation between contact density and                                                turned negative and lost significance. The correlation be-
+expression level.                                                                                       tween contact density and dN was similar to, but weaker
+                                                              0.4
+
+
+
+
+                                                                                                                             0.4
+                                                              0.3
+
+
+
+
+                                                                                                                             0.3
+                                                                                                        dN (exposed sites)
+                                          dN (buried sites)
+
+
+
+
+                                                                                                                             0.2
+                                                              0.2
+
+
+
+
+                                                                                                                             0.1
+                                                              0.1
+
+
+
+
+                                                                                                                             0.0
+                                                              0.0
+
+
+
+
+                                                                      4       5       6    7        8                              4      5       6      7       8
+                                                                              contact density                                              contact density
+                       FIG. 4.—Evolutionary rate dN for buried sites (left panel) or exposed sites (right panel) only, as a function of the protein’s contact density.
+1756 Bloom et al.
+
+
+                                                                                         Table 3
+                                                                                         Spearman Correlations r for All ORFs with Evolutionary
+                   8
+
+                                                                                         Rate Data Calculated Separately for Short and Long Proteins
+                                                                                                            All Lengths            L , 250               L  250
+                                                                                                            (n 5 4,523)           (n 5 935)            (n 5 3,597)
+                   7
+ contact density
+
+
+
+
+                                                                                         q(L, dN)             0.07***              0.13***               0.04*
+                                                                                         q(L, x)             0.24***             0.17***              0.15***
+
+
+
+
+                                                                                                                                                                       Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+                   6
+
+
+
+
+                                                                                            NOTE.—Significance levels: ***P , 0.001; **P , 0.01; *P , 0.05. n is the
+                                                                                         number of ORFs in each group, and other symbols are defined as in table 1.
+                   5
+
+
+
+
+                                                                                         and long proteins, we also calculated the correlation between
+                                                                                         expression and length for short and long proteins separately.
+                   4
+
+
+
+
+                                                                                         For all ORFs with evolutionary rate data, this correlation was
+                              200       400         600     800       1000        1200   almost identical for short and long proteins (table 3). For the
+                                               protein length                            194 ORFs with structural information, neither length nor
+                       FIG. 5.—Contact density as a function of protein length.
+                                                                                         contact density correlated significantly with expression level
+                                                                                         when we considered short and long proteins separately (not
+                                                                                         shown). Therefore, it is unlikely that the increased correla-
+than, the correlation of the fraction of buried sites and dN                             tion between length and dN for short proteins is an artifact
+but was not significant at the 5% level. Finally, we noted                               of expression-level differences in these proteins.
+that the correlation between length and either contact den-
+sity or fraction of buried sites was stronger for short proteins                         Effect of Secondary Structure Composition on
+(table 2).                                                                               Evolutionary Rate
+      We then wanted to know whether the correlation be-
+tween dN and protein length we observed was potentially                                        We also asked whether a protein’s composition of sec-
+caused by a biased selection of protein structures because                               ondary structure types has an influence on evolutionary
+our data set was biased toward short proteins (median                                    rate. For example, do proteins that are composed primarily
+length is 263.5 residues for the 194 proteins with structural                            of helices evolve faster or slower than other proteins? To
+information and a S. bayanus ortholog vs. 440 residues in                                this end, we correlated dN with the fraction of helix sites
+all 4,532 S. cerevisiae proteins with a S. bayanus ortholog).                            fH, fraction of sheet sites fE, fraction of turn sites fT, and
+Therefore, we calculated the correlation between length and                              fraction of coil sites fC (table 1). We found that none of
+dN for all ORFs, including those without structural infor-                               these quantities correlated significantly with dN and neither
+mation. We found that the overall correlation between                                    did they correlate with expression level or CAI (apart from
+length and dN was significant but weak (table 3), as previ-                              a marginally significant correlation between CAI and the
+ously reported (Drummond et al. 2006). When we consid-                                   fraction of turn sites). However, not surprisingly, we found
+ered long and short proteins separately, we found a similar                              several strong and significant correlations among the differ-
+picture as before. Length correlates much more strongly                                  ent secondary structure measures (table 1).
+with dN for short proteins than for long proteins. In fact,
+the amount of variance in dN explained by length alone                                   Principal Component Regression
+is approximately 10 times larger for short proteins than                                       The correlation analysis presented in the previous sub-
+for long proteins.                                                                       sections is useful to get an initial understanding of the data
+      Because longer proteins are known to be expressed at                               and to find broad trends but cannot detect more subtle inter-
+lower levels (Coghlan and Wolfe 2000; Munoz et al. 2004),                                actions between the various predictor variables or quantify
+a positive correlation between length and dN could also be                               the amount of variance in dN these predictors explain in-
+caused indirectly by expression-level differences. To ascer-                             dependently of each other. Therefore, we carried out a prin-
+tain whether differences in expression level could explain                               cipal component regression (Mandel 1982; Drummond
+the difference in correlation between length and dN for short                            et al. 2006) of dN against the 9 predictor variables of ex-
+                                                                                         pression level, CAI, fraction of buried sites, contact density,
+Table 2                                                                                  protein length, and the fractions of the 4 secondary structure
+Spearman Correlations r for All ORFs with Structural                                     types. Table 4 summarizes the results from the principal
+Information Calculated Separately for Short and                                          component regression. We found 5 components that made
+Long Proteins                                                                            a significant contribution to the regression, and the total
+                                     L , 250 (n 5 85)              L  250 (n 5 109)     amount of variance explained was 43.34%. The component
+                                              1                                          composition is given in figure 6. Among the components
+q(d, dN)                                  0.20                           0.14
+q(fbur, dN)                               0.27*                          0.21*           that contributed significantly to the regression, Component
+q(L, dN)                                  0.22*                         0.14            1 measures primarily the contact density of a protein. Com-
+q(d, L)                                   0.46***                        0.22*           ponent 2 measures primarily aspects of secondary structure.
+q(fbur, L)                                0.61***                        0.47***         Component 3 represents a protein’s expression level. Com-
+      NOTE.—Significance levels: ***P , 0.001; **P , 0.01; *P , 0.05; 1P , 0.01.         ponent 6 measures primarily the difference between contact
+n is the number of ORFs in each group, and other symbols are defined as in table 1.      density and length. Finally, Component 7 measures the
+                                                                                                                                               Structural Determinants of Protein Evolution in Yeast 1757
+
+
+                  Table 4
+                  Percent Variance Explained in dN and in the Predictor Variables as Found by a Principal
+                  Component (PC) Regression of dN against 9 Predictor Variables
+                                                      PC 1          PC 2               PC 3             PC 4      PC 5                 PC 6         PC 7                   PC 8                    PC 9           Total
+                  dN                                   2.81           1.32             33.59             0.00     0.00                 3.54            1.27                0.65                    0.15            43.34
+                  Predictor
+                  space                               28.83         23.86              19.10            12.47     7.94                 3.63            1.27                0.65                    0.15           100.00
+
+
+
+
+                                                                                                                                                                                                                           Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+                       NOTE.—Predictor variables are x, c, fbur, d, L, fH, fE, fT, and fC, with symbols defined as in table 1. Principal components that
+                  make a statistically significant contribution to the variation in dN are shown in boldface (P , 0.05 for all components in boldface).
+                  The percent values for the individual components do not sum exactly to the numbers given under total because of rounding errors.
+                  See figure 6 for component composition.
+
+
+difference between expression level and CAI. The compo-                                                             level and CAI explained 34.03% of the variance, whereas
+nents that did not contribute significantly to the regression                                                       regression of dN against the 7 structural variables explained
+represent secondary structure (Components 4, 5, and 9, not                                                          11.97% of the variance. Thus, the total amount of variance
+shown) or differences between contact density and the frac-                                                         explained in the regression against all 9 variables is approx-
+tion of buried sites (Component 8). Thus, the component                                                             imately the sum of the amounts of variance explained from
+measuring expression level explained approximately 34%                                                              the 2 individual regressions, and therefore, the regression of
+of the variation in dN, whereas all other components to-                                                            dN against structural variables is unlikely to be confounded
+gether explained approximately 10% of the variation in dN.                                                          by expression-level effects.
+     We also regressed dN separately against expression
+level and CAI and against the 7 structural variables to de-
+                                                                                                                    Does Structure Classification Determine Contact Density
+termine how much variance these 2 groups of variables                                                               or Evolutionary Rate?
+explained individually. Our results were very much in
+agreement with those of the joint regression against all 9                                                                We investigated the relationship between protein struc-
+predictor variables. The regression of dN against expression                                                        ture classification and both contact density and evolutionary
+
+
+                                                                                                                                                                           c
+                              0.5 × 10−3
+
+
+
+
+                                                                                                                                                           x
+                                                                                                                          0.5 × 10−3
+
+
+
+
+                                                                           d
+                                                                                fbur
+                                                                           L
+                       PC 1
+
+
+
+
+                                                                                                                   PC 3
+
+
+
+
+                                                                                   c               fT
+                                                                                                                                                           fH
+                                                                                                         fE
+                                                                                       x                                                           d           fT
+                                                                                                                          0
+
+
+
+
+                                                                                                                                          fE                                                                fC
+                              0
+
+
+
+
+                                                      fH                                    fC                                                                             L
+                                                                                                                                                                    fbur
+
+
+
+                                                    −0.5 × 10−3                  0                 0.5 × 10−3                   −0.5 × 10−3                0                   0.5 × 10−3                 1 × 10−3
+                                                                            PC 2                                                                                    PC 4
+                                                                                                                          −3
+                                                                                                                          2 × 10
+
+
+
+
+                                                                                                                                                                           x
+                              0.5 × 10−3 1 × 10−3
+
+
+
+
+                                                                           fT
+
+
+                                                                                                                                                                                              fC           d
+                                                                                                                                       fbur                                fT                      L
+                       PC 5
+
+
+
+
+                                                                                                                   PC 7
+                                                                                                                          0
+
+
+
+
+                                                                                   fH
+                                                                                                                                                                                    fH
+                                                                                                              d
+                                                                                                                                                                                         fE
+                              0
+
+
+
+
+                                                                                       c fbur fC
+                                                                                  x
+                                                           L
+                              −0.5 × 10−3
+
+
+
+
+                                                                                                                          −3
+
+
+
+
+                                                                                  fE                                                                                            c
+                                                                                                                          −2 × 10
+
+
+
+
+                                                               −1 × 10−3               0         1 × 10−3                                      −2 × 10−3                       0                       2 × 10−3
+                                                                            PC 6                                                                                    PC 8
+      FIG. 6.—Composition of the first 8 principal components (PCs). Symbols representing predictor variables are as defined in table 1. Each dot rep-
+resents the contribution of the corresponding predictor variable to the principal components. For example, in the top-left panel, we see that L makes
+a strong, positive contribution to PC 1 and a weak, negative contribution to PC 2.
+1758 Bloom et al.
+
+
+
+
+                                                                                     0.20
+                                         8
+
+
+
+
+                                                                                     0.15
+                       contact density
+                                         7
+
+
+
+
+                                                                                     0.10
+                                                                                dN
+
+
+
+
+                                                                                                                                                               Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+                                         6
+
+
+
+
+                                                                                     0.05
+                                         5
+
+
+
+
+                                                                                     0.00
+                                             all α   all β   α/β   α+β                      all α      all β     α/β       α+β
+                                                     SCOP class                                        SCOP class
+    FIG. 7.—Modified boxplots of the distributions of contact density (left) and evolutionary rate (right) for different SCOP classes. The following are not
+shown: 3 proteins classified as multidomain (a and b), 2 classified as membrane and cell-surface proteins and peptides, 2 for which the classification was
+ambiguous, and 55 for which no classification could be determined.
+
+
+rate for 137 proteins (out of our final data set of 194) for                   and protein-fold classification had almost no effect on evo-
+which we could determine the class of the structure accord-                    lutionary rate. Protein length was significantly correlated
+ing to the SCOP (Murzin et al. 1995). Figure 7 shows that                      with both dN and contact density, making it difficult to fully
+there are some differences in both contact density and evo-                    elucidate the separate contributions of length and contact
+lutionary rate among proteins with different structure clas-                   density to evolutionary rate. However, the fact that length
+ses but that these differences are relatively minor. We found                  is positively correlated with dN only for short proteins, but
+all-a proteins to have the lowest median contact density and                   that higher contact density leads to faster evolutionary rates
+the highest variability in contact density, whereas a/b pro-                   for both long and short proteins, supports the notion that
+teins had the highest median contact density and the lowest                    higher contact density increases evolutionary rate indepen-
+variability. The median contact density was significantly                      dent of length effects.
+higher for a/b proteins than for all-a proteins (P 5                                 We corroborated the correlations we observed with
+0.0001) or for a 1 b proteins (P 5 0.0008) but not for                         a principal component regression of dN against all struc-
+all-b proteins (P 5 0.070) (Wilcoxon rank-sum tests with                       tural predictor variables plus protein expression level and
+false discovery rate correction [Benjamini and Hochberg                        CAI. We found that the principal components that mea-
+1995] for multiple testing). The median evolutionary rate                      sured primarily the aspects of contact density or fraction
+was the highest for all-b proteins, but the individually larg-                 of buried residues explained 6.35% of the variation in
+est evolutionary rates were observed for a/b and a 1 b pro-                    dN. In comparison, the principal component related to sec-
+teins. However, neither all-b proteins nor any other class of                  ondary structure explained only 1.32% of the variation in
+proteins had a significantly elevated evolutionary rate after                  dN. Overall, the principal component regressions indicated
+correction for multiple testing (Wilcoxon rank-sum tests                       that the structural characteristics we considered explained
+with false discovery rate correction).                                         between 10% and 12% of the variation in evolutionary rate
+                                                                               and that the important variables in this explanation were
+                                                                               contact density (or the highly correlated variable of fraction
+Discussion
+                                                                               of buried residues) and protein length.
+      Our results show that protein structure has a moderate                         We had to restrict our analysis to those yeast proteins
+effect on protein evolutionary rate. Furthermore, this effect                  to which we could confidently assign structures. Although
+is consistent with the idea that proteins with more design-                    there are tools that use homology modeling or other com-
+able structures, as indicated by higher contact densities                      putational methods to predict the structure adopted by a pro-
+(England and Shakhnovich 2003), tend to evolve more rap-                       tein sequence, we chose to consider only those yeast
+idly. Specifically, contact density, the fraction of buried                    proteins that matched with at least 80% identity to an ex-
+sites, and protein length each showed a significant correla-                   perimentally determined structure. This choice eliminated
+tion with dN, with R2 values between 4% and 8%. These                          the possibility of introducing biases due to inaccuracies
+correlations were not caused by confounding effects due to                     of the structure prediction tools, but it also substantially re-
+cocorrelations with protein expression level, which is the                     duced the size of our data set because the number of pro-
+dominant determinant of evolutionary rate in yeast (Pal                        teins with experimentally solved structures is relatively
+et al. 2001; Drummond et al. 2006). The contact density                        low. Overall, we were able to match structures with only
+and the fraction of buried sites were strongly correlated with                 194 of the 4,223 yeast proteins for which we had expression
+each other and had roughly comparable predictive power                         and evolutionary information. The proteins that we
+for the evolutionary rate, although the fraction of buried                     matched with structures tended to be both more highly
+sites tended to be a slightly better predictor than contact                    expressed and slower evolving than all yeast proteins for
+density. We found that secondary structure composition                         which we had expression and evolutionary information
+                                                                            Structural Determinants of Protein Evolution in Yeast 1759
+
+
+(the median transcript per cell levels were 2.7 and 0.8, re-      rate. In attempting to apply the designability theory of Eng-
+spectively; the median dN values were 0.03 and 0.08, re-          land and Shakhnovich (2003), our ignorance of the an co-
+spectively). One clear consequence of limiting ourselves          efficients in equation (1) has forced us to make the severe
+to proteins with experimentally solved structures is that         approximation of truncating all higher order powers of the
+we are excluding those (usually faster evolving) proteins         contact matrix and estimating designability solely from
+that contain large regions that are intrinsically disordered      contact density. The effect of this truncation is unknown,
+(Brown et al. 2002). It is possible that the subset of yeast      but contact density is surely less informative than the full
+
+
+
+
+                                                                                                                                         Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+proteins with structures also contains other biases that affect   series of equation (1). Furthermore, the derivation of equa-
+the correlation between contact density and evolutionary          tion (1) by England and Shakhnovich (2003) makes the
+rate. However, it is impossible to assess any such effects        twin assumptions that proteins are stabilized only by pair-
+with the currently available protein structures, and so, fur-     wise contacts and that designability is simply equal to the
+ther analysis of this question will have to await the exper-      number of sequences that fold to a structure with an energy
+imental determination of more protein structures.                 below some cutoff—both these assumptions are unlikely to
+      At first glance, our findings that proteins with higher     be completely true for real proteins. For these reasons, con-
+contact densities (and therefore a higher fraction of buried      tact density is clearly an imperfect proxy for designability,
+residues) evolve more slowly seem at odds with the ten-           and our inability to more accurately quantify designability
+dency for buried residues to be more conserved (Koshi             probably causes us to underestimate its true contribution to
+and Goldstein 1995; Goldman et al. 1998; Mirny and                protein evolutionary rate.
+Shakhnovich 1999; Bustamante et al. 2000; Dean et al.                   Despite these caveats, our work makes an important
+2002). The key point is to realize that although buried res-      contribution by providing some of the first evidence about
+idues are generally more conserved than exposed ones, in-         how a protein’s structure influences its evolutionary rate.
+creasing the fraction of buried residues leads to an overall      Structure is clearly only one of the many factors that deter-
+increase in the evolutionary rate of all residues in the pro-     mine the extent of constraint on a protein’s sequence, but its
+tein, primarily via a dramatic increase in dN for the exposed     effect appears to be significant. Future progress in develop-
+residues. We suggest that the increase in designability that      ing theoretical treatments of structural designability and in
+accompanies high contact density enhances the mutational          better characterizing the other factors that constrain se-
+tolerance of exposed residues enough to more than offset          quence evolution should eventually allow for improved
+the higher fraction of slower evolving buried sites. A po-        measurements of the net effect of structure on protein evo-
+tential reason for the elevated evolutionary rate at exposed      lution. For now, we simply add a structure’s designability
+sites is increased protein stability. Highly designable pro-      to the pantheon of factors that shape the rate of protein
+teins tend to be more stable (Wingreen et al. 2004), and sta-     sequence evolution.
+bility promotes mutational tolerance (Bloom et al. 2005,
+2006). A larger fraction of buried residues suggests a more       Supplementary Material
+robust protein core, whose stability may thus allow loops
+and other surface features to mutate more freely. In other             The data set of 194 S. cerevisiae ORFs analyzed in this
+words, regions of high contact density form stabilizing           work is available at Molecular Biology and Evolution
+cores of conserved, highly interacting amino acids that al-       online (http://www.mbe.oxfordjournals.org/).
+low other exposed regions of the sequence to mutate more
+                                                                  Acknowledgments
+freely (Shakhnovich et al. 2005).
+      Overall, our results support the notion that proteins             J.D.B. was supported by a Howard Hughes Medical
+with more designable structures tend to evolve their se-          Institute predoctoral fellowship, and C.O.W. was supported
+quences more rapidly. These findings suggest that the struc-      by National Institutes of Health grant AI 065960.
+tures of real proteins may differ substantially in their
+mutational tolerances and that this effect is manifested in       Literature Cited
+the rates of sequence evolution across the yeast proteome.
+                                                                  Agrafioti I, Swire J, Abbott J, Huntley D, Butcher S, Stumpf MPH.
+However, the overall contribution of protein structure to            2005. Comparative analysis of the Saccharomyces cerevisiae
+evolutionary rate that we detect is still much smaller than          and Caenorhabditis elegans protein interaction networks.
+that made by protein expression level: the principal compo-          BMC Evol Biol 5:23.
+nent representing protein expression explains 3 times more        Altschul SF, Gish W, Miller W, Meyers EW, Lipman DJ. 1990.
+variance in dN than all the structural components. Earlier           Basic local alignment search tool. J Mol Biol 215:403–10.
+work has shown that highly expressed proteins are more            Benjamini Y, Hochberg Y. 1995. Controlling the false discovery
+likely to adopt mixed a-helix and b-sheet folds (Jansen              rate: a practical and powerful approach to multiple testing. J R
+and Gerstein 2000). However, this tendency did not lead              Stat Soc B 57:289–300.
+to a net relationship between contact density and expression      Bloom JD, Adami C. 2003. Apparent dependence of protein evo-
+level in our data set because we found these 2 variables to          lutionary rate on number of interactions is linked to biases in
+                                                                     protein-protein interactions data sets. BMC Evol Biol 3:21.
+be uncorrelated. Therefore, protein structure appears to          Bloom JD, Labthavikul ST, Otey CR, Arnold FH. 2006. Protein
+make an independent contribution to evolutionary rate, al-           stability promotes evolvability. Proc Natl Acad Sci USA
+though expression level remains the more dominant force in           103:5869–74.
+determining the rate of sequence evolution.                       Bloom JD, Silberg JJ, Wilke CO, Drummond DA, Adami C,
+      However, it is possible that our analysis underesti-           Arnold FH. 2005. Thermodynamic prediction of protein
+mates the contribution of protein structure to evolutionary          neutrality. Proc Natl Acad Sci USA 102:606–11.
+1760 Bloom et al.
+
+
+Brookfield JFY. 2000. What determines the rate of sequence evo-           protein interactions: only the most prolific interactors tend
+    lution? Curr Biol 10:R410–1.                                          to evolve slowly. BMC Evol Biol 3:1.
+Brown CJ, Takayama S, Campen AM, Vise P, Marshall TW,                  Kabsch W, Sander C. 1983. Dictionary of protein secondary struc-
+    Oldfield CJ, Williams CJ, Dunker AK. 2002. Evolutionary rate          ture: pattern recognition of hydrogen-bonded and geometrical
+    heterogeneity in proteins with long disordered regions. J Mol         features. Biopolymers 22:2577–637.
+    Evol 55:104–10.                                                    King JL, Jukes TH. 1969. Non-darwinian evolution. Science
+Bustamante CD, Townsend JP, Hartl DL. 2000. Solvent accessi-              165:788–98.
+    bility and purifying selection within proteins of Escherichia      Koehl P, Levitt M. 2002. Protein topology and stability define the
+
+
+
+
+                                                                                                                                              Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+    coli and Salmonella enterica. Mol Biol Evol 17:301–8.                 space of allowed sequences. Proc Natl Acad Sci USA 99:
+Chan HS, Bornberg-Bauer E. 2002. Perspectives on protein evolu-           1280–5.
+    tion from simple exact models. Appl Bioinformatics 1:121–44.       Kono H, Saven JG. 2001. Statistical theory for protein combina-
+Coghlan A, Wolfe KH. 2000. Relationship of codon bias to                  torial libraries. Packing interactions, backbone flexibility, and
+    mRNA concentration and protein length in Saccharomyces                the sequence variability of a main-chain structure. J Mol Biol
+    cerevisiae. Yeast 16:1131–45.                                         306:607–28.
+Creighton TE. 1992. Proteins: structures and molecular properties.     Koshi JM, Goldstein RA. 1995. Context-dependent optimal sub-
+    2nd ed. New York: Freeman.                                            stitution matrices. Protein Eng 8:641–5.
+Dean AM, Neuhauser C, Grenier E, Golding GB. 2002. The pat-            Kussell E. 2005. The designability hypothesis and protein evolu-
+    tern of amino acid replacements in a/b-barrels. Mol Biol Evol         tion. Protein Pept Lett 12:111–6.
+    19:1846–64.                                                        Larson SM, England JL, Desjarlais JR, Pande VS. 2002. Thor-
+Dokholyan NV, Shakhnovich EI. 2001. Understanding heirarch-               oughly sampling sequence space: large-scale protein design
+    ical protein evolution from first principles. J Mol Biol              of structural ensembles. Protein Sci 11:2804–13.
+    312:289–307.                                                       Lemos B, Bettencourt BR, Meiklejohn CD, Hartl DL. 2005. Evo-
+Drummond DA, Bloom JD, Adami C, Wilke CO, Arnold FH.                      lution of proteins and gene expression levels are coupled in
+    2005. Why highly expressed proteins evolve slowly. Proc Natl          Drosophila and are independently associated with mRNA
+    Acad Sci USA 102:14338–43.                                            abundance, protein length, and number of protein-protein
+Drummond DA, Raval A, Wilke CO. 2006. A single determinant                interactions. Mol Biol Evol 22:1345–54.
+    dominates the rate of yeast protein evolution. Mol Biol Evol       Li H, Helling R, Tang C, Wingreen N. 1996. Emergence of pre-
+    23:327–37.                                                            ferred structures in a simple model of protein folding. Science
+England JL, Shakhnovich BE, Shakhnovich EI. 2003. Natural se-             273:666–9.
+    lection of more designable folds: a mechanism for thermophilic     Loeb DD, Swanstrom R, Everitt L, Manchester M, Stamper SE,
+    adaptation. Proc Natl Acad Sci USA 100:8727–31.                       Hutchison CA. 1989. Complete mutagenesis of the HIV-1
+England JL, Shakhnovich EI. 2003. Structural determinant of pro-          protease. Nature 340:397–400.
+    tein designability. Phys Rev Lett 90:218101.                       Mandel J. 1982. Use of the singular value decomposition in regres-
+Fraser HB, Hirsh AE, Steinmetz LM, Scharfe C, Feldman MW.                 sion analysis. Am Stat 36:15–24.
+    2002. Evolutionary rate in the protein interaction network.        Marais G, Duret L. 2001. Synonymous codon usage, accuracy of
+    Science 296:750–2.                                                    translation, and gene length in Caenorhabditis elegans. J Mol
+Goldman N, Thorne JL, Jones DT. 1998. Assessing the impact of             Evol 52:275–80.
+    secondary structure and solvent accessibility on protein evolu-    Marsh L, Griffiths CS. 2005. Protein structural influences in rho-
+    tion. Genetics 149:445–58.                                            dopsin evolution. Mol Biol Evol 22:894–904.
+Govindarajan S, Goldstein RA. 1996. Why are some protein struc-        McConkey BJ, Sobolev V, Edelman M. 2002. Quantification of
+    tures so common? Proc Natl Acad Sci USA 93:3341–5.                    protein surfaces, volumes and atom-atom contacts using a con-
+Govindarajan S, Goldstein RA. 1997. The foldability landscape of          strained Voronoi procedure. Bioinformatics 18:1365–73.
+    model proteins. Biopolymers 42:427–38.                             Miller J, Zeng C, Wingreen NS, Tang C. 2002. Emergence of
+Hahn MW, Conant GC, Wagner A. 2004. Molecular evolution in                highly designable protein-backbone conformations in an off-
+    large genetic networks: does connectivity equal constraint?           lattice model. Proteins Struct Funct Genet 47:506–12.
+    J Mol Evol 58:203–11.                                              Mirny LA, Shakhnovich EI. 1999. Universally conserved posi-
+Hahn MW, Kern AD. 2005. Comparative genomics of centrality                tions in protein folds: reading evolutionary signals about
+    and essentiality in three eukaryotic protein-interaction net-         stability, folding kinetics and function. J Mol Biol 291:
+    works. Mol Biol Evol 22:803–6.                                        177–96.
+Hirsh AE, Fraser HB. 2001. Protein dispensability and rate of evo-     Munoz ET, Bogarad LD, Deem MW. 2004. Microarray and EST
+    lution. Nature 411:1046–9.                                            database estimates of mRNA expression levels differ: the pro-
+Holstege FCP, Jennings E, Wyrick JJ, Lee TI, Hengartner CJ,               tein length versus expression curve for C. elegans. BMC
+    Green MR, Golub TR, Lander ES, Young RA. 1998. Dissect-               Genomics 5:30.
+    ing the regulatory circuitry of a eukaryotic genome. Cell          Murzin AG, Brenner SE, Hubbard T, Chothia C. 1995. SCOP:
+    95:717–28.                                                            a structural classification of proteins database for the investi-
+Hurst LD, Smith NGC. 1999. Do essential genes evolve slowly?              gation of sequences and structures. J Mol Biol 247:536–40.
+    Curr Biol 9:747–50.                                                Ohta T, Kimura M. 1971. On the constancy of the evolutionary
+Irba¨ck A, Troein C. 2002. Enumerating designing sequences in the         rate of cistrons. J Mol Evol 1:18–25.
+    HP model. J Biol Phys 28:1–15.                                     Overington J, Donnelly D, Johnson MS, Sˇali A, Blundell TL.
+Jansen R, Gerstein M. 2000. Analysis of the yeast transcriptome           1992. Environment-specific amino acid substitution tables:
+    with structural and functional categories: characterizing highly      tertiary templates and prediction of protein folds. Protein
+    expressed proteins. Nucleic Acids Res 28:1481–8.                      Sci 1:216–26.
+Jordan IK, Rogozin IB, Wolf YI, Koonin EV. 2002. Essential             Pakula AA, Young VB, Sauer RT. 1986. Bacteriophage k cro mu-
+    genes are more evolutionarily conserved than are nonessential         tations: effects on activity and intracellular degradation. Proc
+    genes in bacteria. Genome Res 12:962–8.                               Natl Acad Sci USA 83:8829–33.
+Jordan IK, Wolf YI, Koonin EV. 2003. No simple dependence              Pal C, Papp B, Hurst LD. 2001. Highly expressed genes in yeast
+    between protein evolution rate and the number of protein-             evolve slowly. Genetics 158:927–31.
+                                                                                 Structural Determinants of Protein Evolution in Yeast 1761
+
+
+Pal C, Papp B, Hurst LD. 2003. Rate of evolution and gene dis-         Wall DP, Fraser HB, Hirsh AE. 2003. Detecting putative ortho-
+   pensability. Nature 421:496–7.                                         logs. Bioinformatics 19:1710–1.
+R Development Core Team. 2005. R: a language and environment           Wall DP, Hirsh AE, Fraser HB, Kumm J, Giaever G, Eisen MB,
+   for statistical computing. Vienna, Austria: R foundation for sta-      Feldman MW. 2005. Functional genomic analysis of the rates
+   tistical computing.                                                    of protein evolution. Proc Natl Acad Sci USA 102:5483–8.
+Shakhnovich BE, Deeds E, Delisi C, Shakhnovich E. 2005. Pro-           Wingreen NS, Li H, Tang C. 2004. Designability and thermal sta-
+   tein structure and evolutionary history determine sequence             bility of protein structures. Polymer 45:699–705.
+   space topology. Genome Res 15:385–92.                               Wolynes PG. 1996. Symmetry and the energy landscapes of bio-
+
+
+
+
+                                                                                                                                              Downloaded from http://mbe.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+Shakhnovich EI. 1998. Protein design: a perspective from simple           molecules. Proc Natl Acad Sci USA 93:14249–55.
+   tractable models. Fold Des 3:R45–58.                                Wroe R, Bornberg-Bauer E, Chan HS. 2005. Comparing folding
+Sharp P, Li W. 1987. The codon adaptation index—a measure of              codes in simple heteropolymer models of protein evolutionary
+   directional synonymous codon usage bias, and its potential             landscape: robustness of the superfunnel paradigm. Biophys J
+   applications. Nucleic Acids Res 15:1281–95.                            88:118–31.
+Shortle D, Lin B. 1985. Genetic analysis of staphylococcal nucle-      Yang ZH. 1997. PAML: a program package for phylogenetic anal-
+   ase: identification of three intragenic ‘‘global’’ suppressors of      ysis by maximum likelihood. Comput Appl Biosci 13:555–6.
+   nuclease-minus mutations. Genetics 110:539–55.                      Zhang J, He X. 2005. Significant impact of protein dispensability
+Sokal RR, Rohlf FJ. 1994. Biometry. 3rd ed. New York: Freeman.            on the instantaneous rate of protein evolution. Mol Biol Evol
+Thompson JD, Higgins DG, Gibson TJ. 1994. CLUSTAL W:                      22:1147–55.
+   improving the sensitivity of progressive multiple sequence          Zhang W, Sun ZB, Zou XW. 2005. Designability of protein struc-
+   alignment through sequence weighting, position-specific gap            tures on the hexagonal lattice model. Chin Phys Lett 22:
+   penalties and weight matrix choice. Nucleic Acids Res 22:              2133–6.
+   4673–80.                                                            Zou JM, Saven JG. 2000. Statistical theory of combinatorial librar-
+Thorne JL, Goldman N, Jones DT. 1996. Combining protein evo-              ies of folding proteins: energetic discrimination of a target
+   lution and secondary structure. Mol Biol Evol 13:666–73.               structure. J Mol Biol 296:281–94.
+Tiana G, Broglia RA, Shakhnovich EI. 2000. Hiking in the energy        Zuckerkandl E, Pauling L. 1965. Evolutionary divergence and
+   landscape in sequence space: a bumpy road to good folders.             convergence in proteins. In: Bryson V, Vogel HJ, editors.
+   Proteins 39:244–51.                                                    Evolving genes and proteins. New York: Academic Press.
+Tiana G, Shakhnovich BE, Dokholyan NV, Shakhnovich EI.                    p 97–166.
+   2004. Imprint of evolution on protein structure. Proc Natl Acad
+   Sci USA 101:2846–51.
+                                                                       Kenneth Wolfe, Associate Editor
+Voigt CA, Mayo SL, Arnold FH, Wang ZG. 2001. Computational
+   method to reduce the search space for directed protein evolu-
+   tion. Proc Natl Acad Sci USA 98:3778–83.                            Accepted June 13, 2006
+

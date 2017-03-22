@@ -1,0 +1,188 @@
+                                                                                                                                   Mechanistic and Functional Studies of Proteins    983
+
+
+
+
+The myo-inositol-1-phosphate synthase gene is
+essential in Trypanosoma brucei
+K.L. Martin and T.K. Smith1
+Division of Biological Chemistry and Molecular Microbiology, School of Life Sciences, University of Dundee, Dundee DD1 5EH, Scotland, U.K.
+
+
+
+                Abstract
+                The de novo synthesis of myo-inositol occurs via a two-step process: ﬁrst, glucose 6-phosphate is
+                converted into inositol 1-phosphate by an INO1 (myo-inositol-1-phosphate synthase; EC 5.5.1.4); then,
+                it is dephosphorylated by an inositol monophosphatase. The myo-inositol can then be incorporated into PI
+                (phosphatidylinositol), which is utilized in a variety of cellular functions, including the biosynthesis of GPI
+                (glycosylphosphatidylinositol) anchors. A putative INO1 was identiﬁed in the Trypanosoma brucei genome
+                database and, by recombinant expression in Escherichia coli, was shown to be a catalytically active INO1.
+                To investigate the importance of INO1, we created a conditional knockout, which, under non-permissive
+                conditions, showed that INO1 is an essential gene in bloodstream form T. brucei and that the de novo
+                synthesized myo-inositol is used for the formation of PI and GPI anchors.
+
+
+
+
+Introduction                                                                                      activity by its ability to catalyse the isomerization of
+myo-Inositol is an essential metabolite in all eukaryotes.                                        glucose 6-phosphate to inositol 1-phosphate. This activity
+It plays a vital role in growth regulation, signal trans-                                         was dependent on NAD+ and was stimulated by the presence
+duction, membrane biogenesis, osmotolerance and other                                             of NH4 + , consistent with INO1s from other organisms
+essential biochemical processes, as well as the formation of                                      [1]. Saturation kinetics was shown by the enzyme with an
+GPI (glycosylphosphatidylinositol) anchors. myo-Inositol is                                       apparent K m of 0.58 mM, similar to the human INO1 with
+de novo synthesized via the concerted action of two enzymes:                                      a K m of 0.5 mM [2]. Interestingly, the specific activity of
+INO1 (myo-inositol-1-phosphate synthase; EC 5.5.1.4) and                                          the recombinant TbINO1 (756 units/mg) is approx. 10-fold
+L-myo-inositol-1-phosphatase (EC 3.1.3.25) (for a review, see                                     higher than that of the human recombinant INO1 (70 units/
+[1]).                                                                                             mg) [2], which may be an indication of the importance
+   In this study, we begin to investigate the de novo synthesis                                   of TbINO1 to T. brucei. The TbINO1 sequence has been
+                                                                                                                         R
+and metabolism of myo-inositol in Trypanosoma brucei,                                             deposited in GenBank under accession no. AJ866770.
+including the characterization of the recombinantly expressed
+enzyme and the creation of a T. brucei conditional null
+mutant, which showed that de novo synthesis of myo-inositol                                       Essentiality of TbINO1 in bloodstream
+is essential for the bloodstream form of this parasite.                                           form T. brucei
+                                                                                                  Southern-blot analysis of TbINO1 showed it to be a single
+                                                                                                  copy gene per haploid T. brucei genome, making it amenable
+Results and discussion                                                                            for gene disruption studies. One allele of TbINO1 was
+                                                                                                  replaced by homologous recombination with the puromycin
+Recombinant expression                                                                            resistance gene. Before deleting the second allele, an ectopic
+Using the yeast homologue, a single putative INO1 was                                             copy of the TbINO1 gene under tight tetracycline regulation
+identified in the T. brucei genome (Sanger Centre, Hinxton,                                       was introduced into the rDNA locus using the expression
+Cambridgeshire, U.K.). This TbINO1 was recombinantly                                              vector pLew100 [3]. Transcription of the ectopic TbINO1
+expressed in Escherichia coli using the expression vector                                         was induced with tetracycline prior to replacement of the
+TOPO pBAD (Invitrogen), which also encodes a C-                                                   remaining allele of TbINO1 with the hygromycin resistance
+terminal His tag. After the soluble recombinant protein                                           gene and the genotype confirmed by Southern blotting.
+was purified by affinity chromatography using Ni2+ -NTA                                              To establish if TbINO1 is an essential gene in bloodstream
+(Ni2+ -nitrilotriacetate) beads, it was shown to have INO1                                        form T. brucei, the TbINO1 cells were grown in either
+                                                                                                  tetracycline-free or tetracycline-containing media. When
+                                                                                                  conditional knockout cells were grown in the presence of
+Key words: glycosylphosphatidylinositol, inositol 1-phosphate, inositol-1-phosphate synthase      tetracycline, they exhibited normal growth rates compared
+(INO1), myo-inositol synthesis, Trypanosoma brucei.
+                                                                                                  with wild-type cells (Figures 1A and 1B). However, when
+Abbreviations used: GPI, glycosylphosphatidylinositol; INO1, inositol-1-phosphate synthase; PI,
+phosphatidylinositol.                                                                             grown in the absence of tetracycline, the cells grew normally
+1
+  To whom correspondence should be addressed (email T.K.Smith@dundee.ac.uk).                      for the first 2 days, but after day 3 the cells either died or failed
+
+                                                                                                                                                      
+                                                                                                                                                      C 2005   Biochemical Society
+984   Biochemical Society Transactions (2005) Volume 33, part 5
+
+
+
+
+      Figure 1 Growth curves and Northern blot of the TbINO1                       to divide (Figure 1C), showing that TbINO1 is an essential
+      conditional double knockout cell line                                        gene in bloodstream form T. brucei. Surprisingly, even when
+      Cells were washed with tetracycline-free HMI-9 and transferred to            the medium was supplemented with an additional 0.6 mM
+      tetracycline-free medium and counted daily. Growth curves are shown          myo-inositol, the cells were unable to overcome the deletion
+      for wild-type cells in this medium (A), TbINO1 conditional double knock-     of INO1 (Figure 1D), which is in contrast with INO1 null
+      out with added tetracycline (B), TbINO1 conditional double knockout          mutants in other organisms [4–6]. After day 8, the conditional
+      without tetracycline (C), and TbINO1 conditional double knockout with-       knockout cells resumed normal growth kinetics in the absence
+      out tetracycline, with added myo-inositol (0.6 mM) (D). (E) A Northern       of tetracycline, which was due to the cells overcoming the
+      blot of total RNA from procyclic cells (lane 1), wild-type cells (lane 2),   tetracycline control and constitutively expressing the ectopic
+      TbINO1 conditional double knockout without tetracycline on day 0             copy (Figure 1E), a phenomenon previously observed for
+      (lane 3), TbINO1 conditional double knockout without tetracycline            other essential genes in T. brucei [7,8].
+      on day 2 (lane 4) and TbINO1 conditional double knockout without
+      tetracycline on day 12 (lane 5). The blot was either probed with TbINO1      Biochemical phenotype
+      open reading frame or β-tubulin.                                             In vivo labelling was used to investigate the biochemical
+                                                                                   phenotype of these conditional knockout cells. The cells
+                                                                                   were grown either in the presence or absence of tetracycline
+                                                                                   for 2 days prior to all metabolic labelling experiments. Mid-
+                                                                                   exponential growth phase cells were metabolically labelled
+                                                                                   with either [3 H]glucose or [3 H]mannose for 1 h, the cells were
+                                                                                   collected by centrifugation and the lipids were extracted using
+                                                                                   chloroform and methanol. After desalting by butanol/water
+                                                                                   partitioning, the lipids were separated by TLC and 3 H-
+                                                                                   labelled lipids were detected by autoradiography.
+                                                                                      Wild-type and INO1 conditional knockout cells grown in
+                                                                                   the presence of tetracycline showed identical incorporation
+                                                                                   into the [3 H]lipids as expected. [3 H]Mannose labelling
+                                                                                   yielded the mature GPI glycolipids A and C, as well
+                                                                                   as low levels of galactosylated versions of glycolipid A
+                                                                                   (Figure 2, lanes 5 and 6), all of which have been described
+                                                                                   previously [9,10]. Interestingly, we observed a significant and
+                                                                                   reproducible decrease in the amount of glycolipids A and C
+                                                                                   when the INO1 conditional knockout cells were grown in the
+                                                                                   absence of tetracycline (Figure 2, lane 7), suggesting that
+                                                                                   the GPI biosynthetic pathway had slowed down significantly.
+                                                                                      When labelled with [3 H]glucose (Figure 2, lanes 1 and
+                                                                                   2), both wild-type and the conditional knockout produced
+                                                                                   two predominant [3 H]lipid species (Figure 2, 1 and 2).
+                                                                                   Lipid species (1) has an identical RF with that of PI (phos-
+                                                                                   phatidylcholine); further characterization showed that (a) it
+                                                                                   was a PI-containing phospholipid, (b) the 3 H label was on
+                                                                                   the head group, and (c) the head group was inositol. Lipid
+                                                                                   species 2 from [3 H]glucose labelling had an identical RF with
+                                                                                   that of glycolipid C; characterization showed that the 3 H
+                                                                                   label was on the head group and that it was glycolipid C. This
+                                                                                   3
+                                                                                     H label was also observed in GPI-anchored variant surface
+                                                                                   glycoprotein. These results clearly show that (a) [3 H]-glucose
+                                                                                   was converted into [3 H]inositol, demonstrating the presence
+                                                                                   of a functional INO1, and (b) this de novo synthesized
+                                                                                   [3 H]inositol was used by the trypanosome to form PI and
+                                                                                   mature GPIs. Labelling of the INO1 conditional knockout
+                                                                                   cells grown in the absence of tetracycline with [3 H]glucose
+                                                                                   showed a decrease in the amount of PI formed (Figure 2,
+                                                                                   lane 3, lipid species 1) and a concomitant decrease in the
+                                                                                   amount of glycolipid C (lipid species 2), suggesting a direct
+                                                                                   knock-on effect to the GPI biosynthetic pathway due to
+                                                                                   the lack of PI in which [3 H]inositol was derived from
+                                                                                   [3 H]glucose.
+
+      
+      C 2005   Biochemical Society
+                                                                                                                      Mechanistic and Functional Studies of Proteins    985
+
+
+
+
+Figure 2 Phenotype analysis of the INO1 conditional knockout by                have shown it to be essential for their survival in culture.
+in vivo labelling                                                              Surprisingly, the deletion of TbINO1 cannot be overcome
+Lipids from in vivo labelling with either [3 H]glucose or [3 H]mannose         by the addition of extra myo-inositol to the growth medium,
+were extracted, desalted and separated by HPTLC and radiolabelled              suggesting that de novo synthesized myo-inositol has a
+lipids were detected by ﬂurography at −70◦ C, after spraying with              distinct function in the cell. Metabolic labelling experiments
+En3 hanceTM and using Kodak XAR-5 ﬁlm and an intensiﬁer screen. Lipids         suggested that this was to supply the GPI pathway with PI
+from [3 H]glucose labellings are: lane 1, wild-type cells; lane 2, INO1        synthesized from de novo-derived myo-inositol. The reasons
+conditional knockout cells grown in the presence of tetracycline for           for this preference for glucose-derived myo-inositol for GPI
+2 days; and lane 3, INO1 conditional knockout cells grown in the absence       biosynthesis are unclear. We are currently investigating this
+of tetracycline for 2 days. Lipids from [3 H]mannose labellings are: lane 5,   further.
+wild-type cells; lane 6, INO1 conditional knockout cells grown in the
+presence of tetracycline for 2 days; and lane 7, INO1 conditional knockout
+                                                                               This work was supported by a Wellcome Trust Senior Research
+cells grown in the absence of tetracycline for 2 days. Lane 4 contains
+                                                                               Fellowship 067441.
+glycolipids A and C standards, which are also indicated on the right. Lipid
+species 1 and 2 from [3 H]glucose labelling are indicated on the left.
+
+
+                                                                               References
+                                                                                1 Majumder, A.L., Johnson, M.D. and Henry, S.A. (1997)
+                                                                                  Biochim. Biophys. Acta 1348, 245–256
+                                                                                2 Ju, S., Shaltiel, G., Shamir, A., Agam, G. and Greenberg, M.L. (2004)
+                                                                                  J. Biol. Chem. 279, 21759–21765
+                                                                                3 Wirtz, E., Leal, S., Ochatt, C. and Cross, G.A.M. (1999)
+                                                                                  Mol. Biochem. Parasitol. 99, 89–101
+                                                                                4 Ilg, T. (2002) Mol. Biochem. Parasitol. 120, 151–156
+                                                                                5 Movahedzadeh, F., Smith, D.A., Norman, R.A., Dinadayala, P.,
+                                                                                  Murray-Rust, J., Russell, D.G., Kendall, S.L., Rison, S.C.G., McAlister, M.S.B.,
+                                                                                  Bancroft, G.J. et al. (2004) Mol. Microbiol. 51, 1003–1014
+                                                                                6 Henry, S.A., Atkinson, K.D., Kolat, A.L. and Culbertson, M.R. (1977)
+                                                                                  J. Bacteriol. 68, 2888–2898
+                                                                                7 Roper, J.R., Guther, M.L.S., Milne, K.G. and Ferguson, M.A.J. (2002)
+                                                                                  Proc. Natl. Acad. Sci. U.S.A. 99, 5884–5889
+                                                                                8 Chang, T., Milne, K.G., Guther, M.L.S., Smith, T.K. and Ferguson, M.A.J.
+                                                                                  (2002) J. Biol. Chem. 277, 50176–50182
+                                                                                9 Menon, A.K., Major, S., Ferguson, M.A.J., Duszenko, M. and Cross, G.A.M.
+                                                                                  (1998) J. Biol. Chem. 263, 1970–1977
+                                                                               10 Mayor, S., Menon, A.K. and Cross, G.A.M. (1992) J. Biol. Chem. 267,
+Conclusions                                                                       754–761
+Bloodstream form T. brucei has a clear dependence on myo-
+inositol derived from de novo synthesis; in this study, we                     Received 1 July 2005
+
+
+
+
+                                                                                                                                         
+                                                                                                                                         C 2005   Biochemical Society
+

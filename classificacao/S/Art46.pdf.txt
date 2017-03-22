@@ -1,0 +1,514 @@
+                                       Molecular & Biochemical Parasitology 117 (2001) 129– 136
+                                                                                                                 www.parasitology-online.com.
+
+
+
+
+                  Activity of human trypanosome lytic factor in mice
+        Chad Barker a, Karen W. Barbour b, Franklin G. Berger b, Stephen L. Hajduk a,*
+  a
+      Department of Biochemistry and Molecular Genetics, Schools of Medicine and Dentistry, Uni6ersity of Alabama at Birmingham, Birmingham,
+                                                                 AL 35394, USA
+                           b
+                             Department of Biological Sciences, Uni6ersity of South Carolina, Columbia, SC 29036, USA
+
+                                          Received 9 May 2001; accepted in revised form 13 July 2001
+
+
+
+
+Abstract
+
+   The inability of the cattle pathogen Trypanosoma brucei brucei to infect humans is due to an innate factor in human serum
+termed Trypanosome Lytic Factor (TLF). Human haptoglobin-related protein is the proposed toxin in TLF and can exist either
+as a component of a minor subclass of high-density lipoprotein (TLF-1) or as a lipid free, high molecular weight protein complex
+(TLF-2). The trypanolytic activity of both TLF-1 and TLF-2 has been studied in vitro but their relative contributions to
+protection against T. b. brucei infection in vivo has not been established. In the present studies we show that treatment of T. b.
+brucei infected mice with TLF-1 resulted in a dose dependent decrease in parasite numbers but did not affect parasite numbers
+in mice infected with Trypanosoma brucei rhodesiense, the causative agent of the human sleeping sickness. Similarly, pretreatment
+of mice with TLF-1 resulted in protection against a challenge by T. b. brucei but had no effect on T. b. rhodesiense challenge.
+Induction of the acute phase protein haptoglobin, a natural antagonist of TLF-1, diminished but did not abolish the protection
+against trypanosome challenge. In addition, haptoglobin knockout mice showed higher levels of TLF-1 mediated protection
+against a T. b. brucei challenge. These results suggest that while TLF-1 is active in vivo, even in the presence of elevated levels
+of haptoglobin, its activity is modulated in a dose dependent fashion by haptoglobin in the circulation. © 2001 Elsevier Science
+B.V. All rights reserved.
+
+Keywords: Trypanosoma brucei brucei; Haptoglobin related protein; Haptoglobin; Acute phase; Knockout mice; High-density lipoprotein;
+Trypanosome lytic factor
+
+
+
+1. Introduction                                                            a molecular mass of 500 kDa and a density of 1.21 –
+                                                                           1.24 g ml − 1 [5]. This trypanolytic subspecies of human
+   African trypanosomes infect a wide range of mam-                        HDL contains apolipoprotein AI (apo A-I), and hap-
+mals including humans, domestic animals and wild                           toglobin-related protein (HPR) [6]. TLF-2 is a lipid-free
+game. Trypanosoma brucei brucei causes a wasting dis-                      protein complex greater than 1000 kDa containing apo
+ease, called Nagana, in cattle and though morphologi-                      A-I, HPR and immunoglobulin M (IgM) [7,8].
+cally indistinguishable from the sleeping sickness                            Several lines of evidence support the notion that
+parasite Trypanosoma brucei rhodesiense, is unable to                      HPR is the molecule responsible for trypanosome lysis.
+infect humans [1,2]. Innate protection of humans                           The HPR gene arose during primate evolution as a
+against T. b. brucei infection is a consequence of a                       result of the duplication and mutation of a copy of the
+circulating non-immune trypanosome lytic factor (TLF)                      gene for the acute phase protein haptoglobin [9,10].
+[3,4]. Two structurally distinct complexes in human                        Analysis of sera from a range of mammals showed that
+serum have trypanolytic activity. TLF-1 is a minor                         TLF activity is restricted to primates with the HPR
+subclass of human high-density lipoprotein (HDL) with                      gene. Interestingly, a single point mutation in the HPR
+                                                                           gene in chimpanzees correlates with a loss of TLF
+                                                                           activity in chimpanzee sera [11]. Recent studies have
+  * Corresponding author. Tel.: + 1-205-934-6033; fax: +1-205-975-
+                                                                           shown that highly purified HPR has low but detectable
+2547.                                                                      lytic activity (J. Bishop, University of Alabama at
+  E-mail address: shajduk@uab.edu (S.L. Hajduk).                           Birmingham, personal communication) and reconstitu-
+
+0166-6851/01/$ - see front matter © 2001 Elsevier Science B.V. All rights reserved.
+PII: S0166-6851(01)00339-5
+130                        C. Barker et al. / Molecular & Biochemical Parasitology 117 (2001) 129–136
+
+
+tion of purified HPR, apo A-I and lipid into a lipo-               2. Materials and methods
+protein complex increased the trypanolytic activity
+[12]. Finally, HPR is associated with both TLF-1 and
+TLF-2, which are the only two trypanolytic complexes               2.1. Parasites and mouse lines
+identified in human serum [6,13,14].
+   The relative contribution of TLF-1 and TLF-2 to                    The bloodstream developmental stage of either T. b.
+protection against T. b. brucei infection in vivo is               brucei ILTat 1.3 (ILRAD Trypanozoon antigenic type
+unclear. Estimates of the relative amount of TLF-1                 1.3) and a clonal line of T. b. rhodesiense were used in
+and TLF-2, based on recovery of units of activity,                 all studies [18]. Parasites were maintained at −196 °C
+indicates that normal human serum contains 10 mg of                in 7.5% DMSO and infections in mice were initiated
+TLF-1 (1000 U) ml − 1 and 12 mg of TLF-2 (20 U)                    by intraperitoneal injection of approximately 3×107
+                                                                   parasites. Swiss CD-1 and C57BL/6J female mice,
+ml − 1 [8]. This suggests that TLF-1 plays a major role
+                                                                   approximately 4– 6 weeks old, were used in these
+in human resistance to T. b. brucei infection. However,
+                                                                   studies.
+Raper and co-workers [15] have proposed that TLF-2
+                                                                      Haptoglobin knockout mice were produced as de-
+is the sole trypanolytic molecule in normal human
+                                                                   scribed earlier [19]. Briefly, a construct containing a
+serum and that TLF-1 is activity is inhibited by the               dominant selectable marker (PGK-neo) in place of
+human blood protein haptoglobin. The trypanolytic                  exons 2 and 3 of the mouse haptoglobin gene was
+activities of TLF-1 and TLF-2 are not equally inhib-               generated, and introduced into ES cell line E14. Male
+ited by the acute phase protein haptoglobin [15].                  chimeric mice from one appropriately targeted ES cell
+When TLF-1 is incubated, in vitro, with human hap-                 clone were used to produce heterozygous knockout
+toglobin T. b. brucei lysis is inhibited in a concentra-           mice, which were intercrossed to generate ho-
+tion dependent fashion [16,17]. Most importantly, near             mozygotes. The line was verified as nullizygous for the
+complete inhibition of TLF-1 was obtained at 0.1 mg                haptoglobin gene by the presence of the targeted
+ml − 1 haptoglobin, well below the concentration of                chromosomal gene in DNA, the absence of the wild-
+haptoglobin found in normal human serum. Despite                   type gene, a lack of detectable haptoglobin mRNA in
+sharing common proteins, HPR and apo A-I it ap-                    liver and other organs, and a complete absence of
+pears that TLF-2 activity in not inhibited by hap-                 haptoglobin in the plasma. The knockout mice de-
+toglobin, bringing into question the relevance of                  velop normally, appear healthy, exhibit a normal
+TLF-1 in vivo[15].                                                 lifespan, and are fertile [19].
+   In this paper, we have examined the effects of
+TLF-1 on T. b. brucei infection in mice. Treatment of
+mice with TLF-1 resulted in a dose dependent resis-                2.2. In 6itro TLF reactions
+tance to parasite challenge. Similarly, treatment of T.
+b. brucei infected mice with TLF-1 produced a dose                    TLF-1 activity was assayed in vitro as previously
+dependent inhibition of parasite growth and decline in             described [5]. Briefly, blood was collected by cardiac
+parasiteamia. The role of serum haptoglobin as a                   puncture from trypanosome infected mice at 1–5 ×108
+potential modulator of TLF-1 activity in vivo was also             parasites ml − 1 of blood. Trypanosomes were sepa-
+evaluated. In vitro both mouse and human hap-                      rated from blood constituents by DE52 ion exchange
+                                                                   chromatography in bicine buffered saline buffer (BBS)
+toglobin had identical TLF-1 inhibitory activities. We
+                                                                   (50 mM bicine, 150 mM NaCl, 1% w/v glucose, 10 U
+evaluated the effects of low haptoglobin levels on
+                                                                   ml − 1 sodium heparin). Unbound trypanosomes were
+TLF-1 activity using haptoglobin knockout mice and
+                                                                   concentrated by centrifugation (1500× g, 10 min,
+the effects of high haptoglobin levels in mice undergo-
+                                                                   4 °C), washed with BBS, re-centrifuged and resus-
+ing an acute phase response. The haptoglobin gene                  pended at a final concentration of 3× 107 try-
+knockout increased the effectiveness of TLF-1 treat-               panosomes ml − 1 in lysis assay buffer (F12 media, 10%
+ment of T. b. brucei infected mice. Induction of an                heat inactivated fetal bovine serum, 1% w/v glucose,
+acute phase response in mice diminished the effective-             10 mM Hepes (pH 7.4)). To each assay, 100 ml of
+ness of TLF-1 treatment, however, significant TLF-1                trypanosome suspension (1× 107 trypanosomes) and a
+activity remained even at concentrations of hap-                   specified amount of purified TLF-1 was added then
+toglobin exceeding 2 mg ml − 1. Based on the results               brought to a final volume of 300 ml with phosphate
+obtained with this mouse model we propose that                     buffered saline (137 mM NaCl, 2.6 mM KCl, 10 mM
+TLF-1 is active in vivo and that ahaptoglobinemia,                 Na2HPO4, 1.8 mM KH2PO4) (PBS) containing 0.3
+either due to genetic defect or as a result of parasite            mM EDTA (PBSE). Samples were incubated for 2 h
+infection, may enhance the activity of TLF-1 in hu-                at 37 °C and the percentage of lysed trypanosomes
+mans.                                                              determined by phase contrast microscopy.
+                           C. Barker et al. / Molecular & Biochemical Parasitology 117 (2001) 129–136                    131
+
+
+2.3. In 6i6o acti6ity of TLF in mice                               2.5. Mouse haptoglobin purification
+
+   TLF-1 was purified as described previously and the                 Swiss CD-1 female mice were irradiated (600 rads),
+specific activity of each preparation was established by           to induce an acute phase response, 36 h prior to
+titration of purified TLF-1 to establish the concentra-            collecting blood. Irradiation results in a 50–500 fold
+tion necessary to lyse 50% of the trypanosomes in a                increase in serum haptoglobin concentrations. Serum
+standard in vitro lysis assay (1 U TLF) [5]. For injec-            was isolated, a protease inhibitor mixture containing
+tion into mice 3, 10, 30, 300 or 600 U of TLF-1 were               leupeptin (1.5 mg ml − 1), PMSF (70 mg ml − 1), pepstatin
+brought to a final volume of 200 ml with PBSE. Pre-                (1 mg ml − 1), EDTA (1.5 mM) was added, and the
+treated mice were injected intraperitoneally with                  preparation was fractionated on an anti-human hap-
+purified TLF-1 48 h prior to challenge with 1×107 T.               toglobin affinity column in PBSE. Mouse haptoglobin
+                                                                   was eluted with 4 M guanidine and dialyzed against
+b. brucei. Trypanosome infected mice were treated with
+                                                                   PBSE. Mouse haptoglobin was further purified by
+TLF-1 after parasite numbers had reached 1× 107
+                                                                   Mono-Q (Pharmacia) anion exchange chromatography
+ml − 1 of blood in the mouse. The effect of a mouse
+                                                                   in 20 mM bis Tris buffer using a linear NaCl gradient
+acute phase response on the activity of TLF-1 was
+                                                                   of 0–0.5 M. The mouse haptoglobin eluted between
+examined in Swiss CD-1 female mice following irradia-              290 and 350 mM NaCl. The purity of the mouse
+tion (600 rads). Mice were infected 24 h post irradia-             haptoglobin from the Mono-Q column was evaluated
+tion, parasiteamia allowed to reach approximately 1/107            by SDS-PAGE and western blot analysis with anti-hu-
+parasites ml − 1 and mice treated with 3, 30 or 300 U of           man haptoglobin (Sigma). This affinity purification
+TLF-1.                                                             procedure yielded approximately 200 mg of mouse hap-
+                                                                   toglobin ml − 1 of acute phase sera.
+2.4. Determination of the stability of TLF in mice
+                                                                   2.6. In 6itro lysis inhibition assay
+   Initially the stability of TLF-1 activity in mice was
+established by intraperitoneal injection of 300 U of                 Purified mouse haptoglobin was assayed for TLF-1
+TLF-1 then sequentially challenging mice at 24 h inter-            inhibition by addition to a standard TLF assay. Indi-
+vals with 1× 107 parasites by intraperitoneal injection.           cated amounts of mouse haptoglobin were added to the
+Parasite numbers in the circulation were monitored                 TLF lysis assays incubated for 2 h at 37 °C and the
+daily by microscopic examination of tail bleeds.                   percentage of ILTat 1.3 trypanosomes lysed was deter-
+   To better evaluate the turnover rate of TLF-1 in mice           mined by microscopic examination.
+the clearance of 125I-TLF-1 and non-lytic human HDL
+was examined. Purified TLF-1 (60 mg) or non-lytic
+human HDL (60 mg) was iodinated by the chloramine-                 3. Results
+T method to a specific activity of 1×105 cpm mg − 1 and
+separated from unincorporated 125I as previously de-               3.1. Dose dependent inhibition of trypanosome infection
+scribed [20]. Iodinated samples (1 mg = 2 U of TLF-1)              by TLF-1
+were adjusted to final volume of 200 ml with PBSE and
+were injected intraperitoneally into Swiss CD-1 mice.                 Based on in vitro lysis assays, it was recently pro-
+The appearance of iodinated TLF-1 and HDL in the                   posed that TLF-1 is inactive in vivo and that the major
+                                                                   trypanolytic activity in humans is associated with TLF-
+blood was monitored in 5 ml samples of blood taken
+                                                                   2 [15]. In order to investigate the in vivo activity of
+from the tail and counted with a gamma counter. The
+                                                                   TLF-1, mice were treated with highly purified TLF-1
+distribution of 125I-TLF-1 and 125I-HDL in HDL and
+                                                                   before and after T. b. brucei infection. Similar studies
+non-HDL fractions of mouse serum was established in
+                                                                   with purified TLF-2 were not possible due to the insta-
+blood samples taken 72 h post injection. Mouse serum               bility of this trypanolytic complex.
+was adjusted to 1.063 g ml − 1 with concentrated NaBr                 Swiss CD1 and C57BL/6J mice were treated with
+solution and centrifuged at 50000 rpm in a Ti70 rotor              different amounts of TLF-1 by intraperitoneal injection
+(Beckman) for 24 h at 14 °C. The float containing                  48 h prior to challenge with T. b. brucei (Fig. 1A,B).
+LDLs was removed and counted. The bottom third of                  Pretreatment of mice with increasing concentrations of
+the tube was then adjusted to 1.26 g ml − 1 with the               TLF-1 resulted in longer delays in patency of para-
+solution and centrifugation at 50000 rpm continued for             siteamia and death. Both Swiss and C57BL/6J mice
+42 h at 14 °C. The float containing total serum HDLs               responded similarly to trypanosome challenge following
+(top third of tube) and bottom lipoprotein deficient               treatment with TLF-1 except that at higher concentra-
+serum (bottom third of tube) were removed and sam-                 tions of TLF-1 (30 and 300 U) the pre-patent period
+ples were counted.                                                 was lengthened in the C57BL/6J mice and at the higher
+132                               C. Barker et al. / Molecular & Biochemical Parasitology 117 (2001) 129–136
+
+dosage (300 U) mice were protected from T. b. brucei
+challenge (Fig. 1B).
+   A dose dependent effect was also seen when T. b.
+brucei infected mice were treated with TLF-1 (Fig.
+1C,D). Mice were infected by intraperitoneal injection
+and parasite numbers were monitored until the para-
+siteamia reached 1× 107 trypanosomes ml − 1 in the
+blood. Mice were then treated with 3– 600 U of TLF-1
+by intraperitoneal injection. The number of parasites in
+the circulation decreased dramatically after 2 h and the
+morphological appearance of the parasites was consis-
+tent with the pathway of TLF-1 lysis proposed based
+on in vitro studies [20]. Although the elapsed time for
+lysis is longer in vivo, the changing morphology of the
+trypanosomes is identical. Treatment of C57BL/6J mice
+with high concentrations of TLF-1 (600 U) cured T. b.
+brucei infections (Fig. 1D). Based on these results we
+conclude that TLF-1 is active in normal mice both in
+delaying the development of parasiteamia and in treat-                    Fig. 2. Stability of TLF-1 following injection into mice. (A) 125I-TLF
+ing existing T. b. brucei infections.                                     (closed circles) or non-lytic human HDL (open circles) was injected
+                                                                          into the peritoneum of mice and blood samples counted to determine
+                                                                          the rate of appearance in the circulation and clearance rates. Low but
+3.2. TLF-1 clearance in mice                                              detectable levels of iodinated apolipoproteins were detected up to 72
+                                                                          h post injection. (B) The trypanolytic activity of the circulating
+                                                                          TLF-1 was evaluated by challenging mice with T. b. brucei 24 h
+   Despite its in vivo activity, only animals treated with                (closed diamonds), 48 h (open circles), 72 h (open triangles), 96 h
+the highest levels of TLF-1 (600 U) were cured of                         (closed squares) and 120 h (closed circles) after injection with TLF-1.
+trypanosome infections or were completely protected                       Growth of T. b. brucei in an untreated mouse (open squares).
+from T. b. brucei challenge. Assuming a rapid absorp-
+tion of TLF-1 into the mouse circulation a concentra-                     when injected into mice may be influenced by the rate
+tion of 600 U ml − 1 approaches the level of TLF-1 in                     of TLF-1 clearance from the circulation following treat-
+the circulation of humans. The effectiveness of TLF-1                     ment. In order to address this possibility we examined
+                                                                          the clearance rate of 125I-TLF-1 and 125I-non-lytic hu-
+                                                                          man HDL in mice (Fig. 2A). When injected into the
+                                                                          mouse peritoneal cavity both TLF-1 and non-lytic hu-
+                                                                          man HDLs quickly equilibrated in the circulation
+                                                                          reaching maximum levels approximately 4 h post injec-
+                                                                          tion (Fig. 2A). The levels of TLF-1 and non-lytic HDL
+                                                                          gradually declined over a 72 h period to approximately
+                                                                          one-tenth maximal levels.
+                                                                             We next determined whether the apolipoproteins of
+                                                                          TLF-1 remained associated with HDL or exchanged
+                                                                          with other protein complexes within the circulation. To
+                                                                          examine this possibility mice were sacrificed and blood
+                                                                          collected 72 h following intraperitoneal injection with
+                                                                          TLF-1. When serum HDL was purified by ultracen-
+                                                                          trifugation, greater than 70% of the radioactivity frac-
+                                                                          tionated with the HDL particles indicating that the
+                                                                          TLF-1 particle remained intact prior to clearance by
+Fig. 1. Inhibition of T. b. brucei growth by TLF-1 in mice. Pretreat-
+                                                                          the mouse (data not shown).
+ment of (A) CD-1 mice and (B) C57BL/6J mice 48 h prior to                    The clearance of TLF-1 from the circulation corre-
+challenge with 3 × 107 trypanosomes. (C) CD-1 mice or (D) C57BL/          lated with decreased protection against T. b. brucei
+6J mice were infected with T. b. brucei (ILTat 1.3) and treated with      challenge. Mice were treated with 300 U of TLF-1 and
+TLF-1 after parasiteamia reached 1 ×107 per ml. Dilutions of TLF-1        challenged with T. b. brucei 24, 48, 72, 96 or 120 h later
+were prepared in PBSE adjusted to a final volume of 200 ml. Control
+injections of 200 ml PBSE (open squares), 3 U TLF-1 (open dia-
+                                                                          (Fig. 2B). The level of protection against trypanosome
+monds), 10 U TLF-1 (closed circles), 30 U TLF-1 (open circles), 300       challenge decreased with increasing time post treatment
+U TLF-1 (open triangles), 600 U TLF-1 (closed squares).                   with TLF-1. These results suggest that while TLF-1 is
+                                   C. Barker et al. / Molecular & Biochemical Parasitology 117 (2001) 129–136                     133
+
+active in mice its rapid clearance from the circulation                    blood (Fig. 3C). To test whether TLF-1 was active, in
+diminishes its curative and protective activities.                         vivo, in the presence of elevated levels of haptoglobin,
+                                                                           CD-1 mice were irradiated (600 rads) 24 h prior to
+                                                                           treatment with TLF-1 (30 or 300 U) and subsequently
+3.3. Inhibition of TLF-1 acti6ity by mouse haptoglobin
+                                                                           challenged with T. b. brucei 24 h post TLF-1 treatment
+                                                                           (Fig. 3A). The effects of TLF-1 on T. b. brucei infection
+   Results presented here indicate that purified TLF-1
+                                                                           decreased in acute phase mice consistent with the in-
+retains its trypanolytic activity when injected into nor-
+                                                                           hibitory activity of human haptoglobin in vitro [16].
+mal mice. In these animals the levels of the acute phase
+                                                                           However, treatment of acute phase mice with 300 U of
+protein, haptoglobin, ranges from 10 to 200 mg ml − 1.
+                                                                           TLF-1 significantly delayed parasite growth relative to
+Induction of an acute phase response in these animals
+                                                                           untreated acute phase mice challenged with T. b. brucei.
+results in a 10– 50-fold increase in haptoglobin in the
+                                                                           This suggests that TLF-1 is active even in the presence
+                                                                           of the inhibitor haptoglobin and plays a major role in
+                                                                           protection against T. b. brucei infection. Mouse hap-
+                                                                           toglobin is 80% homologous to human haptoglobin, is
+                                                                           recognized by polyclonal antibodies against the human
+                                                                           protein and has similar characteristics as an acute-
+                                                                           phase reactant protein [21,22]. However, it remained
+                                                                           possible that the mouse model did not accurately mimic
+                                                                           the situation in humans. Of particular concern was
+                                                                           whether mouse haptoglobin was an effective inhibitor
+                                                                           of TLF-1 mediated lysis.
+                                                                              To test this possibility, the inhibitory activity of
+                                                                           mouse haptoglobin for TLF-1 was examined by adding
+                                                                           mouse sera containing different amounts of hap-
+                                                                           toglobin to an in vitro TLF-1 lysis assay (Fig. 3B).
+                                                                           Induction of acute phase response in mice, by irradia-
+                                                                           tion 24 h prior to collection of serum results in a
+                                                                           10–50-fold increase in the levels of serum haptoglobin
+                                                                           (Fig. 3C, lanes 3 and 4). Sera from the irradiated mice
+                                                                           inhibited TLF-1 lysis to a greater extent than sera from
+                                                                           non-irradiated animals. While these results are consis-
+                                                                           tent with mouse haptoglobin inhibiting TLF-1 in vitro
+                                                                           a number of serum proteins are increased during an
+                                                                           acute phase response [23].
+                                                                              In order to directly determine its inhibitory activity,
+                                                                           mouse haptoglobin was purified and tested for TLF-1
+                                                                           inhibition. Normal Swiss CD-1 mice were irradiated to
+                                                                           induce haptoglobin expression and blood was collected
+Fig. 3. Acute phase mice have elevated haptoglobin levels and are less     36 h later. Mouse haptoglobin was purified by affinity
+responsive to TLF-1 treatment. Irradiation of mice induces an acute        chromatography with anti-human haptoglobin and
+phase response and increases the inhibitory activity of mouse sera for     Mono-Q chromatography (Fig. 4A). Purified mouse
+TLF-1. (A) Normal CD-1 mice (closed symbols) and irradiated (600           haptoglobin inhibits TLF-1 activity in vitro with an
+rads) mice (open symbols), were treated 24 h later after irradiation
+with either 30 U (circles) or 300 U (squares) of TLF-1 and subse-
+                                                                           IC50 of approximately 9 mg ml − 1 (Fig. 4B). This is
+quently challenged 24 h later with T. b. brucei. Untreated, non-irradi-    approximately equivalent to the IC50 for human hap-
+ated mice infected with T. b. brucei were monitored as a control           toglobin (6 mg ml − 1). Inhibition of lysis with mouse
+(broken line). (B) Effect of acute phase serum on TLF-1 mediated           haptoglobin is dose dependent suggesting that both
+lysis in vitro. Parasite lysis was determined following addition dilu-
+                                                                           human and mouse haptoglobin reduce TLF-1 lysis by a
+tions of serum from irradiated (closed circles and squares) or non-ir-
+radiated mice (open circles and squares) to in vitro assays with T. b.     similar mechanism.
+brucei (1 × 107) and TLF-1 (2 U). (C) Serum samples were run on               These results demonstrate that mouse haptoglobin
+SDS-PAGE and analyzed by western blot with an antibody against             has similar inhibitory activity to human haptoglobin in
+human haptoglobin that cross-reacts with mouse haptoglobin. Sera           vitro and suggests that the in vivo lytic activity of
+from non-irradiated mice (lanes 1 and 2) contained low levels of           TLF-1 in mice mimics that expected in humans. While
+haptoglobin. Sera taken 24 h post-irradiation (lanes 3 and 4) showed
+an increase in haptoglobin. Serum from mouse c 1 (open squares)
+                                                                           haptoglobin is an effective inhibitor of TLF-1 activity
+had slightly elevated haptoglobin levels consistent with the intermedi-    in vitro, significant trypanolytic activity remains in
+ate level of inhibition seen.                                              mice, even in acute phase animals expressing elevated
+134                               C. Barker et al. / Molecular & Biochemical Parasitology 117 (2001) 129–136
+
+                                                                          induction of the acute phase response while no hap-
+                                                                          toglobin was detected in the serum from haptoglobin
+                                                                          gene knockout animals (Fig. 5A). Serum from normal
+                                                                          and haptoglobin null mice was tested for inhibition of
+                                                                          TLF-1 activity in vitro. Irradiated and non-irradiated
+                                                                          C57BL/6J mouse sera inhibited TLF-1 in a dose depen-
+                                                                          dent fashion while serum from haptoglobin knockout
+                                                                          mice failed to inhibit lysis (Fig. 5B). These results show
+                                                                          that haptoglobin and not other acute phase proteins are
+                                                                          responsible for inhibition of TLF-1 activity in vitro.
+                                                                             To directly examine the in vivo effects of haptoglobin
+                                                                          on the activity of TLF-1 normal (Fig. 5C) and hap-
+                                                                          toglobin null mice (Fig. 5D) were infected with T. b.
+                                                                          brucei, and treated with TLF-1 when parasiteamia
+                                                                          reached 1× 107 per ml. Treatment of normal mice with
+                                                                          TLF-1 significantly reduced parasite numbers in the
+                                                                          blood with the highest concentrations clearing parasites
+                                                                          from the blood for more than 5 days. TLF-1 treatment
+                                                                          of T. b. brucei infected haptoglobin null mice extended
+                                                                          the pre-patent period following TLF-1 treatment rela-
+Fig. 4. Purification of mouse haptoglobin from acute phase mice. (A)      tive to normal mice at each concentration (Fig. 5D).
+Mouse haptoglobin was purified by affinity and anion exchange             Haptoglobin null mice treated with 100 U of TLF-1
+chromatography from the serum of irradiated mice. The samples of          failed to develop parasiteamia up to two weeks post-
+mouse and human haptoglobin were run under reducing conditions
+on SDS-PAGE and western blotted with anti-human haptoglobin.
+The major proteins in the mouse and human haptoglobin prepara-
+tions reacted with the anti-haptoglobin. The positions of the a and b
+sub-units of human and mouse haptoglobin are indicated. The b
+subunit of human HPR is also indicated (b-HPR). (B) Inhibition of
+TLF-1 by mouse and human haptoglobin. Increasing amounts of
+human and mouse haptoglobin were added to TLF-1 (1 mg = 2 U). T.
+b. brucei (1× 107) were then added, incubated for 2 h at 37 °C and
+the percentage of lysed trypanosomes determined.
+
+levels of haptoglobin, supporting the idea that TLF-1
+plays a significant role in protection against T. b. brucei
+infection.
+
+
+3.4. TLF-1 acti6ity is enhanced in haptoglobin null
+mice
+                                                                          Fig. 5. Haptoglobin gene knockout mice have enhanced responsive-
+  Haptoglobin deficiencies are widespread in Africa                       ness to TLF-1 treatment of T. b. brucei infection. (A) Western blot
+due to malaria and other infectious diseases [24]. A                      analysis of serum from wild-type C57BL/6J mice and haptoglobin
+decrease in haptoglobin levels may provide enhanced                       gene knockout mice. Sera from non-irradiated (lanes 1, 2, 5, 6) and
+                                                                          irradiated (lanes 3, 4, 7, 8) mice was analyzed by western blot with
+protection against challenge by T. b. brucei. The de-                     anti-human haptoglobin. Low levels of haptoglobin were present in
+creased activity of TLF-1 in acute phase mouse sera                       wild-type, non-irradiated mice and increased following irradiation.
+suggests that modulation of haptoglobin levels in mice                    No haptoglobin was detected in the sera of haptoglobin gene knock-
+mimics the predicted inverse correlation of trypanolytic                  out animals. (B) Parasite lysis was determined following addition
+activity in human serum and haptoglobin levels [16]. In                   dilutions of serum from irradiated wild-type (closed circles and
+                                                                          squares) or irradiated haptoglobin gene knockout mice (open circles
+order to determine whether haptoglobin deficiency infl-                   and squares) to in vitro assays with T. b. brucei (1× 107) and TLF-1
+uences the activity of TLF-1, we examined the activity                    (2 U). (C) Post-treatment of C57BL/6J mice (open symbols) and (D)
+of TLF-1 both in vivo and in vitro with irradiated and                    haptoglobin gene knockout mice (closed symbols). T. b. brucei in-
+non-irradiated C57BL/6J mice and haptoglobin null                         fected mice were treated with TLF-1 when parasite numbers reached
+mice (Fig. 5A and B). Serum haptoglobin levels were                       1 × 107 ml − 1. Dilutions of TLF-1 were prepared in PBSE adjusted to
+                                                                          a final volume of 200 ml. Control injections 200 ml PBSE into wild
+evaluated by western blot analysis with antibodies                        type (broken line) and haptoglobin knockout mice (diamonds), 3 U
+against human haptoglobin. Haptoglobin levels in-                         TLF-1 (circles), 10 U TLF-1 (inverted triangles), 30 U TLF-1 (trian-
+creased in the normal mice following irradiation due to                   gles), 100 U TLF-1 (squares).
+                            C. Barker et al. / Molecular & Biochemical Parasitology 117 (2001) 129–136                    135
+
+treatment (closed squares). These studies show that                 mouse model since purification of TLF-2 to homo-
+haptoglobin inhibits TLF-1 activity in vivo and in                  geneity has not been possible due to the instability of
+vitro and that haptoglobinanemia may influence the                  the complex.
+protection TLF-1 provides against challenge with T. b.                 Our results indicate that the concentration of hap-
+brucei.                                                             toglobin in the circulation of mice influences the activ-
+                                                                    ity of TLF-1. We have previously shown that the
+                                                                    trypanolytic activity of normal human serum is in-
+4. Discussion                                                       versely proportional to the concentration of hap-
+                                                                    toglobin [16]. The identification of haptoglobin as a
+   We have examined the trypanolytic activity of TLF-               natural antagonist for TLF-1 activity in vitro is not
+1, a subclass of human HDL containing apolipo-                      disputed. However, the influence of haptoglobin inhi-
+proteins AI and HPR, in mice. These studies show                    bition on trypanosome infections was unclear. Raper
+that TLF-1 is active against T. b. brucei infections in             and co-workers argue that haptoglobin levels do not
+mice and that TLF-1 treatment of mice extends the                   influence the trypanolytic activity of intact serum be-
+pre-patent period following challenge by T. b. brucei               cause TLF-2 is not inhibited by haptoglobin [15]. Our
+(Figs. 1 and 2). These results support the possibility              findings show that at normal concentrations of hap-
+that TLF-1 is an important factor in protection                     toglobin TLF-1 is active against trypanosomes in the
+against trypanosome infection in humans despite hap-                circulation of mice.
+toglobin inhibition in vitro [16]. We have also used a                 We have recently reported that T. b. brucei binds
+mouse model to examine the effects of haptoglobin                   haptoglobin [25]. These studies further suggest that
+levels on TLF-1 activity in animals. Purified mouse                 TLF-1 binds to a haptoglobin receptor in the flagellar
+and human haptoglobin inhibits TLF-1 with nearly                    pocket and that binding of either TLF-1 or hap-
+identical dose response in vitro (Fig. 4). Elevating hap-           toglobin to the haptoglobin receptor results in endocy-
+toglobin levels in mouse serum by induction of acute                tosis and lysosomal targeting in T. b. brucei. This led
+                                                                    us to propose that inhibition of TLF-1 killing of try-
+phase response decreased the both the in vivo and in
+                                                                    panosomes by haptoglobin is a consequence of hap-
+vitro activity of TLF-1 but failed to completely abro-
+                                                                    toglobin competition for TLF-1 binding. In these
+gate its trypanolytic activity (Fig. 3). Previous predic-
+                                                                    studies we also found that purified HPR competes for
+tions that ahaptoglobinemia would increase the
+                                                                    TLF-1 binding indicating that HPR is the ligand for
+potency of TLF-1 in humans were supported by re-
+                                                                    the TLF-1 receptor in T. b. brucei. The reported lack
+sults obtained with haptoglobin gene knockout mice in
+                                                                    of haptoglobin inhibition for TLF-2 killing in vitro
+which the activity of TLF-1 was significantly enhanced
+                                                                    may be a consequence of lower affinity of TLF-2
+relative to normal mice (Fig. 5).
+                                                                    associated HPR for the haptoglobin receptor.
+   Raper and co-workers have proposed that the lipid-                  In haptoglobin null mice the trypanolytic activity of
+free apo A-I/HPR protein complex, TLF-2, is the                     TLF-1 is enhanced (Fig. 5). These results may be
+principal trypanolytic factor in normal human serum                 relevant to conditions in human populations since
+[15]. Their conclusion was based on the findings that,              ahaptoglobinemia is common in Africans and is
+(1) TLF-1 was inhibited by human haptoglobin in                     largely a consequence of chronic malaria infection [26].
+vitro whereas TLF-2 was not; (2) addition of large                  The relative contribution of TLF-1 in human resis-
+amounts of haptoglobin to normal human serum                        tance to trypanosome infection may be further en-
+failed to inhibit trypanolytic activity. These studies              hanced since patients with paroxysmal nocturnal
+and our own work have established that human hap-                   hemoglobinuria have very low levels of circulating
+toglobin inhibits TLF-1 activity in vitro in a dose                 haptoglobin and little or no TLF-2 [15]. Serum from
+dependent fashion [15,16]. However, these in vitro                  these individuals is highly trypanolytic presumably due
+studies are based on a relatively short exposure to                 to TLF-1 activity.
+TLF-1 (2 – 3 h) and may not accurately mimic the                       The importance of TLF-1 in innate protection from
+situation in the circulation. Treatment of mice with                T. b. brucei infection has been questioned [15]. Our
+TLF-1 prior or post-infection with T. b. brucei signifi-            studies demonstrate that TLF-1 is active in mice even
+cantly reduced parasite numbers. Concentrations of                  in the presence of high concentrations of haptoglobin.
+TLF-1 similar to those normally found in human                      We further show that treatment of T. b. brucei in-
+serum (10–1000 U/ml) increased the pre-patent period                fected haptoglobin gene knockout mice with TLF-1
+for T. b. brucei challenged mice and reduced parasite               results in enhanced clearance of the parasites and de-
+numbers in infected mice. Treatment of the human                    lays or prevents infection. These results support a role
+sleeping parasite T. b. rhodesiense infected mice with              for TLF-1 in protection against T. b. brucei infection
+TLF-1 had no affect on parasiteamia, supporting the                 in humans and suggests that the relative levels of TLF
+specificity of TLF-1 in vivo (data not shown). Our                  and haptoglobin might influence an individuals suscep-
+studies do not address the activity of TLF-2 in the                 tibility to trypanosome infection.
+136                              C. Barker et al. / Molecular & Biochemical Parasitology 117 (2001) 129–136
+
+Acknowledgements                                                         [11] Seed JR, Sechelski JB, Loomis MR. A survey for a trypanocidal
+                                                                              factor in primate sera. J Protozool 1990;37:393 – 400.
+                                                                         [12] Tytler EM, Moore DR, Pierce MA, Hager KM, Esko JD,
+   We would like to thank members of the Hajduk lab,                          Hajduk SL. Reconstitution of the trypanosome lytic factor. The
+especially, Rusty Bishop, Jerome Drain, Masako Shi-                           role of lipids and apolipoproteins in the cytotoxicity of a subspe-
+mamura, Monika Oli and Sara Faulkner for helpful                              cies of human high density lipoproteins. Mol Biochem Parasitol
+comments on this work. We also thank members of the                           1995;69:9 – 17.
+Biology of Parasitism course at the Marine Biological                    [13] Tomlinson S, Muranjan M, Nussenzweig V, Raper J. Hap-
+                                                                              toglobin related protein and apolipoprotein AI are components
+Laboratories (1995 and 1996) for initial studies on                           of the two trypanolytic factors in human serum. Mol Biochem
+TLF-1 in animals. These studies were support by grants                        Parasitol 1997;86:117 – 20.
+from the National Institutes of Health (AI39033) to                      [14] Muranjan M, Nussenzweig V, Tomlinson S. Characterization of
+SLH, and the UNDP/World Bank/WHO special pro-                                 the human serum trypanosome toxin, haptoglobin-related
+gramme for research and training in tropical diseases to                      protein. J Biol Chem 1998;273:3884 – 7.
+                                                                         [15] Raper J, Nussenzweig V, Tomlinson S. The main lytic factor of
+SLH.                                                                          Trypanosoma brucei brucei in normal human serum is not high-
+                                                                              density lipoprotein. J Exp Med 1996;183:1023 – 9.
+                                                                         [16] Smith AB, Hajduk SL. Identification of haptoglobin as a natural
+                                                                              inhibitor of trypanocidal activity in human serum. Proc Natl
+                                                                              Acad Sci USA 1995;92:10262 – 6.
+References                                                               [17] Raper J, Nussenzweig V, Tomlinson S. Lack of correlation
+                                                                              between haptoglobin concentration and trypanolytic activity of
+ [1] Hajduk SL, Hager KM, Esko JD. Human high-denstiy lipo-                   normal human serum. Mol Biochem Parasitol 1996;76:337 –8.
+     protein killing of African trypanosomes. Ann Rev Microbiol          [18] Hager KM, Hajduk SL. Mechanism of resistance of African
+     1994;48:139 – 62.                                                        trypanosomes to cytotoxic human HDL. Nature 1997;385:823 –
+ [2] Tomlinson S, Raper J. Natural human-immunity to try-                     6.
+     panosomes. Parasitol Today 1998;14:354 –9.                          [19] Lim S-K, Kim H, Lim SK, Ali A, Lim YK, Wang Y, Chong
+ [3] Rifkin MR. Identification of the trypanocidal factor in normal           SM, Constantini F, Baumann H. Increased susceptibility in Hp
+     human serum: high-density lipoprotein. Proc Natl Acad Sci USA            knockout mice during acute hemolysis. Blood 1998;92:1870 –7.
+     1978;75:3450 – 4.                                                   [20] Hager KM, Pierce MA, Moore DR, Tytler EM, Esko JD,
+ [4] Hawking F. The differentiation of Trypanosoma rhodesiense                Hajduk SL. Endocytosis of a cytotoxic human high-density
+     from T. brucei by means of human serum. Trans R Soc Trop                 lipoprotein results in disruption of acidic intracellular vesicles
+     Med Hyg 1973;67:517 –27.                                                 and subsequent killing of African trypanosomes. J Cell Biol
+ [5] Hajduk SL, Moore DR, Vasudevaharya J, Siqueira H, Torri AF,              1994;126:155 – 67.
+     Tytler EM, Esko JD. Lysis of Trypanosoma brucei by a toxic          [21] Yang F, Lineham LA, Friedrichs WE, Lalley PA, Sakaguchi
+     subspecies of human high density lipoprotein. J Biol Chem                AY, Bowman BH. Characterization of the mouse haptoglobin
+     1989;264:5210 –7.                                                        gene. Genomics 1993;18:374 – 80.
+ [6] Smith AB, Esko JD, Hajduk SL. Killing of trypanosomes by            [22] Shapiro SZ, Black SJ. Identification of an acute-phase reactant
+     haptoglobin related protein. Science 1995;268:284 –6.                    in murine infections with Trypanosoma brucei. Infect Immun
+ [7] Tomlinson S, Jansen A-M, Koudinov A, Ghiso JA, Choi-Miura                1992;60:3921 – 4.
+     N-H, Rifkin MR, Ohtaki S, Nusenzweig V. High-density lipo-          [23] Gabay C, Kushner I. Mechanisms of disease: acute-phase
+     protein independent killing of Trypanosoma brucei by human               proteins and other systemic responses to inflamation. New Engl
+     serum. Mol Biochem Parasitol 1995;70:131 – 8.                            J Med 1999;340:448 – 54.
+ [8] Raper J, Fung R, Ghiso J, Nussenzweig V, Tomlinson S. Char-         [24] Giblett ER. Haptoglobin types in American negroes. Nature
+     acterization of a novel trypanosome lytic factor from human              1959;183:192 – 3.
+     serum. Infec Immun 1999;67:1910 – 6.                                [25] Drain J, Bishop JR, Hajduk SL. Haptoglobin related protein
+ [9] Maeda N. Nucleotide sequence of the haptoglobin and hap-                 mediates trypanosome lytic factor binding to trypanosomes. J
+     toglobin-related gene pair. J Biol Chem 1985;260:6698 – 709.             Biol Chem 2001;30254 – 30260.
+[10] McEvoy SM, Maeda N. Complex events in the evolution of the          [26] Trape JF, Fribourg-Blanc A. Ahaptoglobinemia in African pop-
+     haptoglobin gene cluster in primates. J Biol Chem                        ulations and its relation to malaria endemicity. Am J Epidemol
+     1988;263:15740 – 7.                                                      1988;127:1282 – 8.
+

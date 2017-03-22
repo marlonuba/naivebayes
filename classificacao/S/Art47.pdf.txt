@@ -1,0 +1,764 @@
+ Glycobtology vol. 7 no. 7 pp. 955-964, 1997
+
+
+ Generation of constitutive and indudble trans-sialylation dominant-negative
+ phenotypes in Trypanosoma brucei and Trypanosoma cruzi
+
+
+
+
+                                                                                                                                                     Downloaded from http://glycob.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+ Markus Engstler2, Elizabeth Wirtz and                                           panosomes still remain elusive, causing major diseases in hu-
+ George A.M. Cross1                                                              mans and animals, mostly in tropical regions. In Africa, Try-
+                                                                                panosoma brucei is the agent of sleeping sickness in humans
+ Laboratory of Molecular Parasitology, The Rockefeller University, 1230
+ Vork Avenue, New York, NY 10021, USA                                            and Ngana (meaning: lost spirits) in domestic animals. The
+ 'To whom correspondence should be addressed                                     parasites, transmitted by the tsetse (Glossina sp.), elude the
+2                                                                                host's immune system by consecutively expressing one of sev-
+  Preseot address: Max-Planck-Institut flir Biocheraie, Am Klopferspitz 18a,
+D-82152 Martinsried, Germany                                                     eral hundred variant surface glycoproteins (Vsg) (Cross, 1996).
+                                                                                When entering the tsetse with the fly's blood meal, the Vsg-
+ Trans-sialylation is a unique enzymatic process that is re-                    coat of the bloodstream forms is replaced by the invariant
+ stricted to some trypanosome species. By expressing devel-                      surface coat of the procyclic insect stage, which consists of a
+ opmentally regulated trans-sialidases, these protozoan                          small family of very similar procyclic acidic repetitive proteins
+ parasites cleave sialic acids from host glycoconjugates and                    (Parps), also known as procyclins (Mowatt and Clayton, 1989;
+ transfer them to acceptors on their own cell surfaces. The                     Roditi and Pearson, 1990).
+ biological function of this process is not understood, but                         In contrast to T.brucei, the American parasite Trypanosoma
+ trans-sialylation is expected to be important in the invasion                  cruzi does not use antigenic variation but largely evades the
+ of mammalian cells by Trypanosoma cruzi and the survival                       mammalian immune response by invading host cells (Burleigh
+ of Trypanosoma brucei within its insect vector. Since a con-                   and Andrews, 1995). How T.cruzi, the causative agent of Cha-
+ ventional gene knockout approach was precluded, we de-                         gas disease, enters into host cells is not understood. The pro-
+ veloped a dominant-negative strategy, in which fusion pro-                     cess of invasion is a multifactorial event, in which receptor-
+teins consisting of a bacterial sialidase and trypanosome                       mediated endocytosis (Herrera et ai, 1994) requires cytoskel-
+proteins were expressed in T.brucei and T.cruzL The strong                      etal rearrangements (Barbosa and Meirelles, 1995), a rising
+recombinant sialidase activity shifted the reaction equilib-                    intracellular Ca2+ level (Moreno et al, 1994; Dorta et al.,
+rium from sialic acid transfer to hydrolysis, in this way                        1995), and the activation of the TGF-P signaling pathway
+creating a sialic-acid-negative phenotype. Taking advan-                        (Ming et al., 1995). Critically involved in the infection is a
+tage of a recently introduced inducible expression system,                      unique enzyme, trans-sialidase, which combines the catalytic
+we were able to control the expression of sialidase fusion                      properties of sialidase and sialyltransferase (Schenkman et al.,
+proteins in T.brucei. Reversion of the sialic-acid-negative                     1991). Trans-sialidases are not only capable of cleaving termi-
+state to wild-type siaJylation was accomplished by selective                    nally bound sialic acids from the underlying sugar chain but
+inhibition of the foreign sialidase, leaving the parasite                       also transfer these sugars onto new glycosidic linkages (Cross
+trans-sialidase unaffected. Both desialylation and resialyla-                   and Takle, 1993; Engstler and Schauer, 1993; Schenkman and
+tion of trypanosomes was rapidly achieved. Our results                          Eichinger, 1993). Trans-sialylation is restricted to a few try-
+show that neither T.brucei nor T.cruzi require sialic acids                     panosomal species (Engstler et al., 1995b), two of which are
+for survival in vitro, ruling out the involvement of sialyla-                   the most infamous, T.cruzi and T.brucei. Lacking the sialic
+tion in cell surface integrity. The versatile system intro-                     acid biosynthesis machinery, these parasites exclusively rely
+duced here will allow a detailed in vivo study of the role of                   on acquisition of sialic acids via trans-sialylation (Zingales et
+trans-sialylation during the trypanosome infection cycle.                      al., 1987). Procyclic tsetse forms of T.brucei express a devel-
+Furthermore, cell-surface sialic acids are implicated in a                     opmentally regulated trans-sialidase (Engstler et ai, 1992),
+multitude of (patho-) biochemical processes in other organ-                     which transfers sialic acids from the environment onto the
+isms. The quantitative and qualitative manipulation of cell                    GPI-anchor glycans of Parp (Engstler et al., 1993; Ferguson et
+surface sialic acids, by expressing of counteracting en-                       al., 1993; Pontes de Carvalho et al., 1993). In this way a
+zymes, constitutes a novel approach with potentially broad                     negatively charged glycocalix is formed, which covers the
+applications in glycobiology.                                                  parasite's cell surface. The biological function of sialylation
+                                                                               remains a matter of speculation.
+Key words: sialidase/trans-sialidase/sialic acids/PARP/pro-                        In T.cruzi, trans-sialidases are expressed in different life
+cyclin/dominant-negative phenotype                                             cycle stages (Cross and Takle, 1993; Schenkman et al., 1994).
+                                                                               Furthermore, these enzymes are members of a large multigene
+                                                                               family, consisting of some 80 genes, most of which do not
+                                                                               encode active trans-sialidases (Uemura et al, 1992; Egima et
+Introduction                                                                   ai, 1996). Though the growing body of information on T.cruzi
+For decades, researchers have been attracted by trypanosomes,                  trans-sialidases increasingly implicates them in host cell inva-
+cunning protozoan parasites which seem to periodically reveal                  sion (Burleigh and Andrews, 1995; Pereira et ai, 1996), de-
+yet another element of their ingenious survival strategies.                    finitive evidence for the role of trans-sialidases in the trypano-
+Though studied for more than 100 years (Bruce, 1895), try-                     some life cycle requires an approach permitting reliable and
+
+O Oxford University Press                                                                                                                    955
+M.Engstler, E.Wirtz and GAAtCross
+
+reversible modulation of trans-sialylation. An approach based         GPI-anchoring signal sequence (pPSS, Figure 1A). The genes
+on trans-sialidase null mutants was unfeasible because of the         were cloned into the inducible expression vector pLEW5,
+multiplicity of T.cruzi trans-sialidase genes and the failure to      where a tetracycline-responsive parp-promoter drives their ex-
+identify the corresponding gene(s) in T.brucei. We instead de-        pression and that of a linked bleomycin resistance gene (ble).
+veloped a dominant-negative strategy, in which a strong bac-          These constructs were transfected into wild-type procyclic
+terial sialidase, expressed in trypanosomes as fusion protein,        T.brucei or a T.brucei-denved transgenic cell line expressing
+counteracts the parasite's trans-sialidase. In this way the reac-     the tetracycline repressor. Phleomycin-resistant clones were
+tion equilibrium is shifted from sialic acid transfer to hydro-       selected in 96- or 24-well microtiter plates in the presence of 1
+
+
+
+
+                                                                                                                                          Downloaded from http://glycob.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+lysis, ultimately resulting in a sialic-acid—negative phenotype.      H-g/ml tetracycline to maintain the activity of the TC-parp
+By taking advantage of the recently introduced inducible ex-          promoter. For each construct, 10 independent phleomycin-
+pression system (Wirtz and Clayton, 1995), we were able to            resistant clones were analyzed. Homologous targeting of the
+control the expression of sialidase-hybrid proteins in T.brucei.      fusion genes to the transcriptionally silent ribosomal DNA in-
+The reversion of a sialic acid deficient state to the wild-type       tergenic spacer (White et al., 1986) of T.brucei was confirmed
+situation was achieved by selective inhibition of the recombi-        by Southern analysis (Figure 2B). Northern blots revealed a
+nant sialidase activity.                                              high level of steady-state RNA corresponding to the sialidase-
+   The high variability of sialic acids, a group of more than 30      fusion genes (Figure 2B). The amount of trans-sialidase and
+modifications of the acidic sugar neuraminic acid, is reflected       sialidase activity, expressed in the transgenic cell lines and
+in the multitude of complex biological events in which they are       procyclic wild-type cells, was analyzed. Clostridial sialidase
+involved (Varki, 1992; Schauer et al., 1995). The concept of          activity exceeded the intrinsic trans-sialidase by much as 12
+                                                                      times (Table II). The catalytic parameters of mutant sialidase in
+expressing recombinant sialidase (and trans-sialidase) fusion
+                                                                      T.brucei were unaltered (Table II). When the Parp-GPI-
+proteins, to control the degree and quality of cellular sialyla-
+                                                                      anchoring signal sequence was present in the fusion genes
+tion, may well be suited to address questions beyond trypano-
+                                                                      (PSG), the enzyme activity was membrane-bound. Almost
+some biology.
+                                                                      90% of the sialidase activity was found in the detergent phase
+                                                                      after Triton X-114 phase-partitioning of trypanosome lysates.
+Results                                                               When a preincubation with rat serum (as source of GPIPLD;
+                                                                      Low and Huang, 1991) was performed, 79% of the sialidase
+Construction and expression in E.coli of Clostridium                  activity was released into the aqueous phase (Table II). This
+sordellii sialidase-fusion proteins                                   supports a model of attachment of sialidase-hybrid protein to
+Genes encoding the sialidases of three different strains of Clos-     the cell surface via a GPEPLD-sensitive GPI-anchor. In cell
+tridium sordellii were amplified from genomic DNA by PCR,             lines transformed with the PSS-constructs (lacking the GPI-
+cloned into the pCRH-vector and expressed in E.coli (pCS).            signal sequence), the sialidase activity was excreted quantita-
+Sequencing of the sialidase genes showed an overall nucleic           tively into the cell culture medium.
+acid identity of 95% (GenBank accession numbers U77591-                  For constitutive sialidase expression, the sialidase coding
+U77593). Since the recombinant sialidase gene from C.sordel-          sequence was fused in frame to the bleomycin resistance gene
+lii G5 revealed the highest specific activity (7% more than the       {ble) and the fusion was ligated into the 5'-region of the
+recombinant sialidases from C.sordellii G12 and G39, respec-          parp-A. gene, just downstream of the N-terminal signal se-
+tively), it was chosen for the construction of fusion genes. The      quence (PCB) (Figure 1). E.coli clones expressing pPCB were
+fusion junctions of these constructs (summarized in Figure 1)         resistant to phleomycin and showed sialidase activity. The 5'-
+were sequenced. After transfection of E.coli, clones were             and 3'-regions of parp were used to target the fusion into the
+screened on agar plates for sialidase expression. A detailed          trypanosomal genome, replacing one allele of the. parp A locus.
+analysis of recombinant proteins, including pH optima, inhibi-        After selection with phleomycin, clones were generated by
+tion and kinetic parameters, proved that C.sordellii sialidase        limiting dilution. Southern and Northern blots revealed the
+activity was not affected by the manipulation of the primary          correct integration and high-level expression of the fusion gene
+structure (Table I). The use of the recently synthesized fluori-      (Figure 3A,B). By using antibodies to Ble, the expression of
+genic sialidase substrate 4-trifluoromethylumbelliferyl-a-D-N-        fusion protein was confirmed on western blots (Figure 3C) and
+acetylneuraminic acid (CF3MU-Neu5Ac; Engstler et al, 1997)            by immunofluorescence of cells (data not shown). The siali-
+greatly facilitated the experiments, since no pH shift to pH 10       dase activity was slightly higher than in the PSG and PSS cell
+is required for full fluorescence (as it is the case for methylu-     lines (Table II).
+mbelliferyl-a-D-N-acetylneuraminic acid (MU-Neu5Ac).
+Therefore, this substrate is very well suited for the microtiter      Expression of sialidase in Trypanosoma cruzi
+analysis of multiple kinetic parameters of large numbers of
+clones.                                                               For the expression of sialidase activity in T.cruzi, the episomal
+                                                                      shuttle vector pTEX (Kelly, 1995), containing the neomycin
+                                                                      phosphotransferase gene as selectable marker, was used. The
+Constitutive and inducible expression of sialidase-fusion             parp-siahdase fusion was ligated into pTEX giving pTEX-
+proteins in Trypanosoma brucei                                        PSG, which was transfected into epimastigote forms of T.cruzi
+Two different series of constructs were generated for express-        strains Y ^ and DM28C. After selection with 2 mg/ml G418,
+ing sialidase activity in procyclic forms of T.brucei. In the first   cell lines were cloned by limiting dilution in two identical
+approach, the clostridial N-terminal signal sequence was re-          microtiter plates, one of which was used for direct determina-
+placed by the N-terminal signal sequence of the major procy-          tion of sialidase activity. Three clones, which showed the high-
+clic surface glycoprotein Parp and the Parp-C-terminal GPI-           est level of sialidase expression, were chosen for further analy-
+anchoring signal sequence was added (pPSG, Figure 1A). In             sis. As expected from an episomal multicopy expression sys-
+addition, genes were generated that lacked the trypanosomal           tem, the sialidase activity in the T.cruzi cell lines was higher
+
+956
+                                                                                                       Trans-slalylation dominant-negative trypanosomes
+
+
+
+       (A)
+                               18S rRNA                                      l^rDNA spacer^
+
+
+
+
+                                                                                                                                                           Downloaded from http://glycob.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+       pPSG                                                                                                                       GEM
+
+
+
+       pPSS
+
+      (B)                       PARP
+                              B
+                                                          parp </.
+
+
+
+                                                                                                                                    actin
+                                  PI     Eh                                     Eh
+
+                                                                                                                                    rDNA spacer
+      pPCB
+
+Fig. 1. Schematic representation of sialidase-hybrid constructs. (A) Construct pPSG represents the hybrid gene PSG, containing the N-terminal signal
+sequence and the GPI-anchor signal sequence of the parp A gene from T.brucei fused to the truncated sialidase gene from C.sordellii. The fusion gene was
+ligated into the expression construct pLEW5, in which a tetracycline-inducible parp promoter controls transcription of the inserted fusion gene and the
+bleomycin resistance gene from Streptoalloteichus hindustanus (ble) as selectable marker. pPSS is identical to pPSG but lacks the GPI-anchor signal
+sequence pPSG and pPSS, linearized with £coRV (E) were targeted by homologous recombination to the transcriptionally silent ribosomal rDNA spacer of
+T.bruceL (B) Construct pPCB consists of the full-length parp A gene fused in frame to the truncated sialidase gene from C.sordellii and the bleomycin
+resistance gene. The hybrid gene, linearized with Plel, was targeted by homologous recombination to the parp A locus of procyclic T.bruceL A, Aval; B,
+BomHl; E, EcoRV; Eh, Ehel; PI, Plel; S, Stul; X, Xbal.
+
+
+
+than in the T.brucei lines. Up to 60-fold more sialidase than                  ids, about twice the instrumental background, corresponding to
+intrinsic trans-sialidase activity was detectable.                             a 30-fold reduction in cellular sialic acids.
+
+Trypanosomes expressing clostridial sialidase are sialic
+acid free                                                                      Inducible desialylation in Trypanosoma brucei
+The aim of this study was not simply to express a bacterial                    In procyclic T.brucei, it is not known if and when trans-
+sialidase in trypanosomes but to generate a sialic acid-deficient              sialylation has an effect on the establishment or development
+phenotype. Thus, we compared the sialic acid content of wild-                  of the parasites in the tsetse. The prospect of inducing a trans-
+type and mutant T.brucei and T.cruzi cell lines by using a very                sialylation negative phenotype at different stages during the
+sensitive fluorimetric HPLC-procedure (Hara et al, 1989; Eng-                  infection is potentially instructive in that regard. Hence we
+stler et al., 1993). The results (Table UT) confirmed that the                 examined the utility of the tetracycline-responsive parp pro-
+sialic acid content per cell for T.brucei and T.cruzi is similar.              moter driving the expression of sialidase fusion genes. Siali-
+Bloodstream forms of T.brucei, which do not express trans-                     dase activity, after induction with 1 JJLM tetracycline, reached
+sialidase (Engstler et al, 1992, 1993), were used as a negative                its maximum level shortly after 4 h (Figure 4). The decrease
+control. All cell lines expressing sialidase fusion proteins were              of the cell bound sialic acids was monitored in parallel (Fig-
+virtually sialic acid free. Only the T.brucei clones expressing                ure 4). Seven hours after induction, sialic acids were undetect-
+secreted sialidase fusion protein contained detectable sialic ac-              able.
+
+                                                                                                                                                     957
+M.Engstler, E.Wirtz and GA.M.Cross
+
+
+Table I. Enzymatic parameters of recombinant C.sordellii sialidase expressed in Ecoli as full-size protein and in fusion to trypanosomal sequences
+
+                                               pCS                             pPSG                            pPSS                             pPCB
+
+Activity at pH 7
+  (as % of activity at pH 6)                    81                               80                              78                              80
+K^CmM)                                           0.13 ±0.03                       0.14 ±0.04                      0.13 ±0.02                      0.15 ±0.03
+V ^ , (ujnol/min) '                             19.0                             18.7                            18.9                            19.2
+% Inhibition by Neu5Ac2en                      100                              100                             100                             100
+
+
+
+
+                                                                                                                                                               Downloaded from http://glycob.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+Plasmid pCS contains the full-length C. sordellii sialidase sequence; pPSG contains a truncated sialidase fused in frame between the N-terminal signal
+sequence and the GPI-anchoring signal sequence of the trypanosomal protein Parp; pPSS is identical to pPSG but lacks the GPI-signal; pPCB contains a
+sialidase-bleomycin cassette fused in frame, after the N-terminal signal sequence, into the full size parp A gene. All data are means of three (pH;
+Neu5Ac2en) and six (kinetic parameters) independent experiments, respectively.
+
+
+
+Specific inhibition of sialidase activity results in the rapid                    the full-size recombinant sialidase from C.sordellii and all fu-
+restoration of trans-sialylation                                                  sion enzymes were readily inhibited by small amounts of
+Trans-sialidases show an unusual inhibition behavior (Engstler                    Neu5Ac2en. We exploited this feature for the rapid reversion
+et al., 1994). The enzymes from both T.brucei and T.cruzi are                     of a sialic-acid-negative state to the wild-type situation in
+not affected by the naturally occurring sialidase inhibitor 2-                    T.brucei and T.cruzi. Resialylation in both species occurred
+deoxy-2,3-didehydro-N-acetylneuraminic acid (Neu5Ac2en)                           with fast kinetics (Figure 5). The bacterial sialidase activity
+(Engstler et al, 1992, 1993). However, as shown in Table I,                       was undetectable after 20 min and the resialylation was almost
+                                                                                  complete after 1 h.
+
+                                    l-       CM                                   Sialidase-expressing trypanosomes desialylate
+
+(A)                                 o        (3        CO
+                                                                                  oligosaccharides and erythrocytes in vitro
+                                                                                 After incubation of rat erythrocytes with trypanosomes ex-
+                                    CO       CO        CO
+                                    Q.        Q.                                 pressing Parp-sialidase-hybrid protein (PSG) for 2 h at 37°C,
+               kb                                                                12% of the erythrocytes were desialylated as judged by DEAE-
+                                                                                 anion exchange chromatography. Desialylated erythrocytes do
+                                                                                 not bind to the weak anion exchanger DEAE. This effect was
+                6-                                               pGEM            even more pronounced with trypanosome cell lines secreting
+                4-                                                               the sialidase-hybrid protein (PSS). Here, more than 20% of the
+                                                                                 red blood cells were counted in the flow-through of the DEAE-
+                                                                                 column. In control experiments with wild-type trypanosomes,
+                                                                                 all of the erythrocytes were retained on the ion exchange resin.
+                2—                                                               This result was confirmed by incubation of recombinant and
+                                                                                 wild-type trypanosomes with 1 mM Gal-MU or sialylated Gal-
+                                                                                 MU (Sia-Gal-MU). After incubation of 2 x 106 transgenic
+                                                                                 parasites with 1 mM Sia-Gal-MU for 1 h, 82% of the MU-
+                                                                                 fluorescence was found in the flow-through of Q-Sepharose
+                                                                                 columns. No MU-fluorescence was retained on the strong an-
+                               O CO                                              ion exchanger when sialidase-expressing cells were incubated
+(B)                            CO CO
+                               DL Q.
+                                                                                 with 1 mM Gal-MU in the presence of a potent sialic acid
+
+
+
+
+                           r
+                   kb                                                            donor (sialyllactose, 1-10 mM). Thus, Sia-Gal-MU was
+                                                                                 readily desialylated and no sialic transfer onto Gal-MU oc-
+                                                     sialidase                   curred. On the other hand, wild-type trypanosomes readily
+                  1.4                                                            transferred sialic acids onto Gal-MU (85%), but did not desi-
+                                                                                 alylate Sia-Gal-MU (3%). When the experiments were re-
+                                                                                 peated in the presence of 0.5 mM Neu5Ac2en, no difference
+                                                                                 between wild-type and sialidase-expressing trypanosomes was
+                                                                                 observed.
+                                                      tubulln
+                 2.4 —                                                           A sialic acid—negative phenotype does not affect
+                                                                                 trypanosomes in vitro
+                                                                                 None of the recombinant T.brucei or T.cruzi cell lines showed
+Fig. 2. Southern and Northern analysis of T.brucei expressing the                an obvious growth, motility or viability phenotype in culture.
+Parp-sialidase hybrid protein. (A) Southern analysis of genomic DNA (5           The growth rate of all clones was essentially identical when
+|ig) from wild-type (wt) and transgenic (PSG; PSS) T.brucei. DNA was             compared to wild-type parasites. No changes in the parasite
+digested with Stut, separated on a 1% agarose gel, transferred to nylon          morphology were observed by light microscopy. In addition,
+membrane and probed with linearized pGEM-plasmid. (B) Northern analysis
+of total RNA (10 (j.g) from wild-type (wt) and recombinant (PSG;PSS)             none of the chemicals used (e.g., tetracycline, sialyllactose,
+T.brucei. RNA was run on a 1.5% denaturing agarose gel, transferred to           Neu5Ac2en) exhibited toxicity at the concentrations used. The
+nitrocellulose and hybridized with a bit probe.                                  presence of sialic acids on the surface of trans-sialidase ex-
+
+958
+                                                                                                         Trans-sialylation dominant-negative trypanosomes
+
+
+ Table II. Parameters of C.sordellii sialidase expressed as a fusion protein in procychc T. brucei
+
+                                                           PSG                            PSS                         PCB                            wt
+ Sialidase activity
+   (relative fluorescence in 10* cells)                    1252 ±67                       8% ±23                      1511 ± 92                      108 ± 9
+   +0.5 mM Neu5Ac2en                                        104 ±13                       111±9                        121 ± 14                      110±7
+ Percent sialidase activity
+   at pH 7.0                                                 83                            82                           85                           100
+
+
+
+
+                                                                                                                                                                 Downloaded from http://glycob.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+ KMOTUM)                                                      0.16                          0.18                         0.17                          0,5
+ Triton X-114 phase partitioning
+   (% sialidase in aqueous phase)                            11±2                         n.d.                          10±2                          11 ± 2
+   + GPIPLD                                                  79 ± 9                       n.d.                          75 ± 8                        77 ± 11
+
+ The sialidase activity of wild-type T.brucei and transformed cell lines expressing the sialidase-fusion proteins PSG, PSS, or PCB were analyzed on samples of
+ 10* parasites.
+
+
+
+
+ pressing trypanosomes is therefore not required for survival in                   ventional trans-sialidase gene-knockout approach was not fea-
+ vitro.                                                                            sible in the T.cruzi system where trans-sialidases comprise a
+                                                                                   large supergene family (Uemura et al., 1992; Cross and Takle,
+                                                                                   1993; Egima et al., 1996). In T.brucei, die primary structure of
+Discussion
+                                                                                   the developmentally regulated trans-sialidase is still unknown.
+This work provides versatile tools to address a long-standing                      Sialidases and trans-sialidases show highly conserved se-
+question in molecular parasitology concerning the function of                      quence motifs (Roggentin et al., 1993), but we failed to clone
+unique trans-sialidases, which acquire sialic acids from the                       an active trans-sialidase gene from T.brucei by using these
+host for the incorporation into the parasite's surface. A con-                     homologous motifs. Trans-sialidase or sialidase genes
+
+
+
+
+       (A)                                          5!
+                                             CO CO CO 00
+                                                                      5
+                                     •e °
+                                      5 Q.
+                                                    o  o Q_
+                                                    Q. Q_ o
+                         kb                                                                                                        ble
+                             2
+                       1.6 —
+
+                                                                             ble
+                                                                                                                                   sialidase
+
+
+
+      (C)                                           x:
+                                                    ID       CD
+                                                             O
+                                     S I5           Q.       Q_
+                         M
+
+
+
+
+                        [Da
+                             b
+
+
+                                                                                                                                   tubulin
+
+                        68-                       #
+                        46-                         *                     a-ble
+Fig. 3. Nucleic acid and protein analysis of T.brucei expressing Parp-sialidase-Ble fusion protein. (A) Southern analysis of genomic DNA (5 (tg) from
+wild-type (wt) and transgenic (PCB) T.bruceL DNA was digested with BamHI and Xbal and probed with ble. (B) Northern analysis of total RNA (10 jig)
+from wild-type and recombinant (PCB) T.bruceL The blot was sequentially hybridized with ble (1 h exposure), C.sordellii sialidase gene (1 h exposure) and
+T.brucei tubulin gene (2 h exposure). ( O Western analysis of lysates from 10* procyclic T.brucei. Samples were run on SDS-PAGE, blotted, probed with
+antibody to Ble (CAYLA, France; 1:3000), and visualized using the ECL-system.
+
+                                                                                                                                                          959
+M-Engstler, E.Wirtz and GAJvLCross
+
+
+                                                                                         700
+Table HL Analysis of the sialic acid content of wild-type and
+sialidase-hybrid protein expressing trypanosomes
+
+Amount of sialic acids
+(ng/107 cells)
+T.brucei S427                           wt PF                         120 ±5
+                                        wt BF                           2
+                                        PSG                             3±2
+
+
+
+
+                                                                                                                                                                Downloaded from http://glycob.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+                                        PSS                             6±2
+                                        PCB                             2
+T.brucei S427                           wt PF                         118±9
+  (29.al3 clone 6)                      PSG                             3±2
+                                        PSS                             9±4
+T.brucei STEB348-T-B                    PSG                             2
+T.cruzi YfjjH                           wt                           1316                           10    20     30    40    50    60    300
+                                        pTEX-PSG                      35±2                                     time (mln)
+T.cruzi DM28C                           wt                            142 ± 8
+                                        pTEX-PSG                        3       Fig. S. Selective inhibition of sialidase activity by 2-deoxy-23-
+                                                                                didehydro-Af-acetylneuraminic acid (Neu5Ac2en) results in a fast
+Procyclic (PF) and bloodstream forms (BF) of T. brucei S427 were used as        resialylation of transgenic T.brucei. Procyclic T.brucei expressing the
+positive and negative controls, respectively. PSG, PSS, and PCB, are cell       sialidase hybrid protein (PSG) were grown in the presence of 1 (iM
+lines expressing Parp-sialidase fusion proteins. Wild-type (wt) epimastigote    tetracycline. The absence of trypanosome-associated sialic acids was
+forms of T. cruzi Y^m and DM28C were used as control for derivatives            confirmed by fluorimetric HPLC. Neu5Ac2en (0.5 mM final concentration)
+expressing siahdase-fusion protein from the episomal construct pTEX-PSG.        and 1 mM Neu5Ac-a(2-3)lactose were added to 3 x 10* cells. Sialidase
+                                                                                activity in 2 x 103 cells (filled circles) and the sialic acid content of 107
+                                                                                trypanosomes (open squares) were determined.
+
+from various species do not specifically hybridize to genomic
+DNA or RNA of T.brucei. Furthermore, we now have some                           of magnitude more active than trypanosomal trans-sialidases
+evidence that T.brucei trans-sialidase gene(s) might also com-                  (Engstler and Schauer, 1993), which was expected to guarantee
+prise a multigene family, since three out of four sialidase-                    sufficient sialidase activity to compete trans-sialylation. The
+motifs are present in a gene encoding a laminin-receptor of                     sialidase from Clostridium sordellii was favored for the ex-
+T.brucei (M. Engstler and G. A. M. Cross, unpublished obser-                    periments since the protein is hydrophilic, and it has a high
+vations). To obtain functional trans-sialidase knockouts, de-                   specific activity, a small size, and an almost neutral pH opti-
+spite these experimental limitations, we designed a dominant-                   mum (Rothe et al., 1989). These features were expected to be
+negative strategy.                                                              helpful for successful expression of hybrid proteins in trypano-
+   Expression of a strong bacterial sialidase activity in trypano-              somes. Construction of various sialidase-hybrid genes was fa-
+somes was used to shift die reaction equilibrium from sialic                    cilitated by the ability to directly select for constructs which
+acid transfer to sialic acid hydrolysis, creating a sialic-acid—                mediated sialidase activity in E.coli.
+negative phenotype. Bacterial sialidases in general are an order                   The use of a novel fluorigenic sialidase substrate (4-
+                                                                                trifluoromethylumbelliferyl-a-D-N-acetylneuraminic acid;
+                                                                                CF3MU-Neu5Ac) eliminated some former problems in screen-
+                                                                                ing for sialidase expressing clones on agar plates. In contrast to
+                                                                                MU-Neu5Ac, its trifluoro-derivative provides full fluorescence
+                                                                                without the need for a shift to pH 10. For the same reason, this
+                                                                                substrate is superior for studying kinetic parameters of multiple
+                                                                                samples in microtiter plates.
+                                                                                   The expression of sialidase-hybrid proteins in procyclic
+                                                                                forms of T.brucei was achieved by following two strategies. In
+                                                                                a first approach, the sialidase gene was fused to trypanosomal
+                                                                                signal sequences. In a second approach a fusion protein con-
+                                                                                sisting of Parp, sialidase, and the bleomycin resistance protein
+                                                                                was generated.
+                                                                                   We used the signal sequences of Parp since it is the major
+                                                                                surface glycoprotein in the procyclic midgut stage of T.brucei.
+                                                                                In addition, the Parp-GPI-anchor glycans are natural acceptor
+                                                                                sites for trans-sialylation (Engstler et al, 1993; Ferguson et al,
+Fig. 4. Kinetics of inducible sialidase expression and sialic acid release in   1993; Pontes de Carvalho et al., 1993). The fusion to Parp-
+procyclic T.brucei Transgenic T.brucei bearing the inducible sialidase
+fusion construct PSG were induced with 1 JJLM tetracycline. Sialidase
+                                                                                signal sequences did not affect sialidase activity in E.coli or in
+activity in aliquots of 10* cells was determined in intervals of 30 min for 7   the transgenic trypanosomes. In cell lines transfected with con-
+h in the absence (filled circles) and presence (open circles) of 0.5 mM         structs containing the parp-GPI-anchoring signal sequence
+Neu5Ac2en. All values are means of at least three independent experiments.      (PSG), the sialidase activity was cell-associated and partitioned
+The relative sialic acid content (open squares) of the tetracycline-induced     in the detergent phase after Triton X-114 phase separation.
+parasites was determined. The results represent means of four independent
+measurements and are given as relative height (mV) of the sialic acid peak      After treatment with rat serum, containing GPI-PLD (Low and
+after HPLC.                                                                     Huang, 1991), the enzyme activity was found in the aqueous
+
+960
+                                                                                            Trans-sialylation dominant-negative trypanosomcs
+
+
+  phase, which confirmed that the enzyme was GPI-anchored.               binant sialidase above the sialic acid level present in the cell
+  On the other hand, sialidase was secreted from trypanosomes           culture medium. The results did not indicate any changes in the
+  transfected with constructs, lacking the GPI-anchor signal se-        kinetics of trypanosome desialylation.
+  quence (PSS).                                                            There has been a significant amount of inconclusive experi-
+     The 12-fold increased sialidase activity in the PSG cell lines      mentation and speculation on the role of trans-sialidases in the
+  was sufficient to provide one key result of the present study.        life cycle of the American hemoflagellate T.cruzL However,
+  Sialidase-expressing trypanosome clones were sialic-acid free,        the body of available experimental data is rather small. Only
+
+
+
+
+                                                                                                                                               Downloaded from http://glycob.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+  as judged by a very sensitive fluorimetric HPLC procedure.            very recently, it has been shown that a subpopulation of T.cruzi
+  Furthermore, this phenotype was inducible in cell lines ex-           trypomastigote forms, selected for a trans-sialidase impaired
+  pressing the tet repressor. The fast kinetics of inducible siali-     phenotype shows dramatically decreased invasion rates of
+  dase expression and concomitant desialylation of the trypano-         mammalian cells (Pereira et al., 1996). It is also known that,
+  somal cell surface is striking. One limitation of the tetracycline    within the host cell, all T.cruzi cells express trans-sialidase
+  inducible expression, however, was its relatively slow revers-        (Rosenberg et al., 1991). Thus, even if trans-sialylation par-
+  ibility. After withdrawing tetracycline from the culture me-          ticipates in facilitating the multifactorial event of entering the
+  dium, it took more than 1 week for sialidase expression to            host cell, the major work for the enzyme may still wait inside
+  reach the basal level found in wild-type cells. Since transcrip-      (Hall et al., 1992). We generated T.cruzi cell lines which ex-
+  tional repression is more rapid (Wirtz and Clayton, 1995), the        press high levels of clostridial sialidase-hybrid protein from an
+  hybrid proteins were probably turned over rather slowly, which        episomal shuttle vector (Kelly, 1995). Compared to T.brucei,
+  could be a major drawback for biological studies. The dilemma         the amount of recombinant sialidase activity was up to 4 times
+  was overcome by using the specific sialidase inhibitor 2-de-          higher. This is due to multiple copies of the pTEX-plasmid in
+  oxy-2,3-didehydro-N-acetylneuraminic acid (Neu5Ac2en).                the cells. Sialic acid analysis revealed the absence of sialic
+  This compound inhibits virtually all sialidases, but does not         acids in transformed T.cruzi cell lines. Inhibition of the bacte-
+  affect trypanosomal trans-sialidases (Engstler et al., 1992,          rial sialidase activity by Neu5Ac2en resulted in a quick resto-
+  1993). Very small amounts of Neu5Ac2en were sufficient to             ration of wild-type sialylation. Our approach may be able to
+ completely inhibit the bacterial sialidase activity within min,        answer the question of whether any sialic acids on the parasite
+ thereby leaving the trypanosomal trans-sialidase active. Resi-         or host cells are necessary for invasion by T.cruzi.
+ alylation of the trypanosomes occurred with surprisingly fast             The results presented here clearly exclude the possibility that
+ kinetics. We were able to induce a sialic acid free phenotype          sialic acids are required for the trypanosome survival in vitro.
+ within 7 h and to reverse it to the wild-type situation within 1       Neither T.brucei nor T.cruzi mutants exhibited obvious
+ h. We are using this system to investigate whether trans-              changes in growth rate, mode of division, mobility, or mor-
+ sialylation is needed for the survival of T.brucei in its insect       phology. Given the normal abundance of cell surface sialic
+ vector.                                                                acids in the case of T.brucei (five molecules per Parp-GPI-
+     The minimal amount of sialic acids detected in lysates of          anchor), this result does not support the postulated influence of
+ bloodstream forms and mutant procyclic forms of T.brucei are           sialylation on the structural integrity of the procyclic surface
+ remnant of sialic acids from the cell culture medium, which are        coat (Ferguson et al., 1993, 1994).
+ trapped within the lysates. These minor amounts cannot be                 The use of sialidase-hybrid proteins introduces a system for
+ released by additional sialidase treatment of the samples, how-        monitoring the biological roles of trans-sialylation in trypano-
+ ever, can be removed by extensive washing steps (Engstler et           somes, but in addition provides a useful tool for molecular
+ al., 1995). Thus, the remaining traces of sialic acids are not a      biological studies in parasites. Our results show that the siali-
+ product of trans-sialylation.                                         dase activity is not affected when fused to the bleomycin re-
+     An advantage of our approach is that sialic acids are cleaved     sistance protein, in this way combining the features of a sen-
+ off not only from the trypanosomal surface, but most probably         sitive reporter enzyme with those of a cogent selectable marker
+ also from host compounds and cells. It is not known to whether        and an epitope tag. Additionally, the sialidase-Ble fusion pro-
+ the biological effect of trans-sialidase is related to the sialic     tein is active in E.coli, providing a convenient selection of
+ acid transfer onto the trypanosomal cell surface or if sialyla-       recombinant bacteria or of trypanosomal transformants.
+tion/desialylation of host glycoconjugates is the critical point           The concept of modulating the state of sialylation in try-
+We have previously shown that trans-sialylation enables pro-           panosomes is transferable to other eukaryotic systems. The
+cyclic T.brucei to desialylate and resialylate red blood cells         controlled expression of sialidase- or trans-sialidase fusion pro-
+(Engstler et al., 1993). This capability is lost in sialidase-         teins in mammalian cells, for example, could give insight into
+expressing cell lines. Within a short period of time, a signifi-       the roles of sialic acids and their underlying sugars. It is the
+cant proportion of erythrocytes were desialylated by recombi-          high variability of sialic acids that accounts for the different
+nant trypanosomes. The specificity of this process was con-            cellular events in which these sugars are involved (Varki,
+firmed by the inability of transgenic trypanosomes to sialylate        1992; Schauer et aL, 1995). Our previous studies on the sub-
+the potent sialic acid acceptor Gal-MU. When the experiment            strate specificity of T.brucei trans-sialidase have shown that
+was repeated in the presence of Neu5Ac2en, the results ob-             this enzyme is much less specific than sialyltransferases of
+tained for wild-type and recombinant T.brucei were identical,          higher eukaryotes (Engstler etaL, 1993, 1995a). In mammalian
+underlining the reversibility of the trans-sialylation dominant        cells, the generation of differentially modified sialic acids oc-
+negative phenotype.                                                    curs late in the biosynthetic pathway, requiring a variety of
+    We incubated trypanosomes in cell culture medium contain-          processing enzymes (Schauer et al., 1995). By using recombi-
+ing up to 10 mM bound sialic acids in addition to the 10% fetal        nant trans-sialidase expressed in mammalian cells, the degree
+calf serum. This reflects the approximate sialic acid content of       and quality of cell surface sialylation becomes controllable.
+full blood. The experiment was done in order to exclude a              After desialylation with sialidases, specific sialic acids, sup-
+possible exhaustion of the catalytic capabilities of the recom-        plied on donor compounds, may be transferred onto the vacant
+
+                                                                                                                                      961
+M.Engstler, E. Wirtz and G-A.M.Cross
+
+cellular acceptor structures by the recombinant trans-sialidase                   (primers: CSN/EagI: 5'-GGT ACG GCC GCC AGT AAT TTA AAC ACA
+activity. Our preliminary results show that this can be done, at                  ACT AA-3' and CSNrMval: 5'-CTT ATT CTC GGG TTT TAA TTT TTT
+                                                                                  ATT ATT CTC AAT GAG T-3').
+least in trypanosomes, were we have been able to generate                            After digesting the PCR products PN and CSN with the restriction enzymes
+parasites that exclusively have O-acetylated, hydroxylated, or                    Notl and Eagl, respectively, the two fragments were ligated. The resulting
+FITC-conjugated sialic acids (Engstler et aL, 1995a; unpub-                       1776 bp pa/p-sialidase fusion gene (PN-CSN) was cloned into the HincU site
+lished observations). Thus, the use of recombinant sialidases                     of pBluescnpt and sequenced. A 165 bp AvaVXmnl fragment from plasmid
+                                                                                  pD20 (Ip, 1991), which includes the GPI-anchor signal sequence of parp, was
+may provide new insight in glycobiology.                                          ligaled into pPN-CSN cut with Aval and Smal. The resulting fusion construct
+
+
+
+
+                                                                                                                                                                      Downloaded from http://glycob.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+                                                                                  pPN-CS-GPI was used as a template for generation of the 1.4 kb PCR-product
+                                                                                  PSG having a HindVH restriction site at the start codon and a BamYU site at the
+Materials and methods                                                             stop codon of the fusion gene (primers: PSG/HindUl: 5'-ACA CAA GCT TAT
+Cultivation and transfection of trypanosomes                                      GGC ACC TCG TTC CCT TTA TC-3' and PSGr/BamHl: 5'-TGC GGA TCC
+                                                                                  TTA GAA TGC GGC AAC GAG AGC AGC-3'). A fto/p-sialidase fusion
+Procyclic forms of T.brucei strain S427 and STTB348-T-B were cultivated in        gene lacking the trypanosomal GPI-anchor signal sequence (PSS) was gener-
+SDM79-medium containing 10% heat-inactivated FCS at 27CC as described             ated by PCR using the same template but the primers PSG/Hindd (see above)
+previously (Brun and Schonenberger, 1979). The transgenic cell line 427-          and PSSr/flomHI (5'-CTG GAT CCT TAT TTT AAT TTT TTA TTA TTC
+29.al3 clone 6 is constitutively expressing the tetracycline repressor. Deriva-   TCA ATA-3'). The resulting open reading frames, PSG and PSS, were cloned
+tives of this cell line were grown in the presence of 1 JJLM tetracycline. The    into the HindnUBamrU sites of pUC19, sequenced, and subcloned into the
+trypanosomes were harvested at a density of 5 x 10*/ml, washed twice with 1       HindWUBamrll of pLEW5 (E. Wirtz, unpublished observations), a derivative
+vol of ice-cold ZPFM and resuspended at 2 x 107 cells/ml in ZPFM. After 500       of a previously described inducible expression vector pHD430 (Wirtz and
+|JL1 of the cell suspension were mixed with 10 jig of linearized plasmid          Clayton, 1995; Figure 1).
+(pLEW5-derivatives were linearized with EcoKV and pPCB with Plel), elec-
+troporation was done using a BTX electro cell manipulator, essentially as
+described previously (Bellofatto and Cross, 1989). The transfected trypano-       Generation of constitutively expressed sialidase-ble-parp-hybrids
+somes were grown for 18 h in 10 ml of SDM79. Then 2.5 jig/ml phleomycin
+(CAYLA, France) were added. Phleomycin-resistant transformants were               The parp-A gene from plasmid pD20 (Ip, 1991) was subcloned into pBlue-
+cloned by limiting dilution in 96-well microtiter plates using 50% conditioned    script and cut with Ehel (pPARP). The coding region of C.sordellii G5 siali-
+SDM79 (Schenkman et aL, 1994). Wild-type epimastigote forms of T.cruzi            dase, lacking start and stop codons, was amplified from pCS using primers
+YjflH and DM28C were used as control for derivatives expressing sialidase-        CSN2/£A«I (5'-GCG GGC GCC AGT AAT TTA AAC ACA AC-3') and
+fusion protein from the episomal construct pTEX-PSG.                              CSHTilEhel (5'-ATA TGG CGC CTT TTA ATT TTT TAT TAT TCT CAA
+    Epimastigote forms of T.cruzi strain YfnH and DM28C were cultivated in        TAG-3'). The 1150-bp-PCR-product (CSN2) was digested with the restriction
+LIT medium (Bone and Steinert, 1956) containing 10% heat inactivated FCS          enzyme Ehel. A 423 bp fragment of the bleomycin resistance gene from
+at 27°C (Crane and Dvorak, 1982). The parasites were harvested at a cell          Streptoalloteichus hindustanus (jble) (Drocourt et aL, 1990) was cut out from
+density of 1 x 107/ml, washed twice with 1 vol of ZPFM at room temperature,       plasmid pLEW5 with Ncol and Stul, blunt ended, and ligated into the filled
+and resuspended in ZPFM at a cell density of 6 x 107/ml. Four hundred             Aval site of pPN-CS-GPI, yielding pPN-CS-BLE. A 1.58 kb PCR product
+microliters of the cell suspension was mixed with 100 p.g pTEX-PSG and            (CSN-BLE) was amplified from pPN-CS-BLE using the primers CSN2/Ehel
+electroporated as described above. The cells were transferred into 10 ml of       (see above) and BLEr/£fc«I (5'-AAA AAG GCG CCG TCC TGC TCC TCG
+culture medium and grown for 24 h. Then transformants were selected by            GCC ACG AAG-3'), cut with Ehel, and ligated into the Ehel site of pPARP
+adding 2 mg/ml of G418.                                                           yielding the replacement construct pPCB.
+
+
+Nucleic acid and protein analysis                                                 Generation of episomal sialidase-expression constructs for T.cruzi
+Genomic DNA and total RNA from trypanosomes was isolated using DNA                pPSG was cut with BamHL Klenow filled, and digested with HindHl. The
+STAT60 or RNA STAT60, respectively, following essentially the manufac-            resulting parp-siaiidase fusion gene PSG was ligated into the episomal shuttle
+turer's protocol (TEL TEST 'B' Inc., Friendswood, TX). Restriction digests,       vector pTEX (Kelly, 1995) cut with Xhol, filled with Klenow and cut with
+gel electrophoresis and nucleic acid transfer were carried out using standard     Hindm yielding pTEX-PSG.
+procedures (Sambrook et aL, 1989). Southern and Northern hybridizations
+were done using the QuikHyb system (Stralagene, La JoUa, CA). Final hy-
+bridization washes were at high stringency (0.1 x SSC, 0.1% SDS, 68°C).           Sialidase and trans-sialidase assays
+SDS-PAGE and Western blot analysis were carried out according to standard
+                                                                                  Sialidase activity was routinely tested with 0.1 mM MU-Neu5AC as previ-
+protocols (Sambrook et ai, 1989). Indirect immunofluorescence was per-
+                                                                                  ously described (Engstler et aL, 1992). When fluorimetric reading was done,
+formed essentially as described previously (Horn and Cross, 1995). Primary
+                                                                                  using a micronter fluorimeter (Cytofluor 2300, Millipore) and CoStar 96-well
+antibody was rabbit antiserum to the bleomycin resistance protein (CAYLA,
+                                                                                  microtiter plates, enzyme reaction volume was 100 |xl and the reaction was
+France). For Western blot analysis, horseradish peroxidase-conjugated anti-
+                                                                                  stopped by adding 200 p.1 of glycine buffer (20 g/1 glycine, 7 g/1 NaCl, 8.8 g/1
+rabbit secondary antibody was visualized using enhanced chemiluminescence
+                                                                                  Na2CO3), pH 10 (Engstler et aL, 1995b). Trans-sialidase activity was measured
+(ECL) reagents (Amersham). Secondary fluorescent antibodies were FITC-
+                                                                                  using 2 mM 4-methylurnbelliferyl-p-D-galactopyranoside (Gal-MU) as a sialic
+conjugated goat anti-rabbit (Sigma).
+                                                                                  acid acceptor and 1 mM Neu5Ac-a(2-3)lactose as sialic acid donor, essentially
+                                                                                  as described previously (Engstler et aL, 1995b).
+Cloning of Clostridium sordellii sialidase genes                                     Screening for expression of recombinant sialidase in E.coli was done by
+                                                                                  spraying bacterial colonies on agarose plates (containing 0.1 mM IPTG) with
+PCR-amplification of sialidase genes from genomic DNA of Clostridium sor-         fluorigenic sialidase substrates (4-methylumbelliferyl-a-D-N-acetyuieuraminic
+dellii strains G5, G12, and G39, respectively, was performed by using the         acid (MU-Neu5Ac; Roggentin et al., 1988)) and 4-trifluoromethylumbel-
+oligonucleotide primers CS1 (5'-TTG TTT TGT CAG CAT GTA ATA TCA                   liferyl-a-D-N-acetylneuraminic acid (CFjMU-Neu5Ac; Engstler et aL, unpub-
+ATG-3') and CSlr (5'-TAA TTTTAC TTT TTC TAC TTT TTT GT-3'). The                   lished observations), respectively. Sialidase-positive clones were visualized
+PCR-products were cloned into the vector pCRII (Invitrogen, San Diego, CA)        after UV excitation (360 run) by emission of a blue-white fluorescence. For the
+giving the plasmid pCS and sequenced.                                             expression of hybrid genes containing sialidase and the bleomycin resistance
+                                                                                  gene, the agar was supplemented with 5 |Ag/ml phleomycin.
+Generation of inducible paip-sialidase hybrids                                       For determination of the relative sialidase activity at pH 7 compared to pH
+                                                                                  6, E.coli cells (20 ml) were harvested in the logarithmic phase of growth,
+A 642-bp PCR-product (PN), including part of the 5' UTR and the N-terminal        washed twice in PBS, and resuspended in 5 ml of 50 mM Bis-Tris, pH 6.0, and
+signal sequence of the parp A gene was amplified from the plasmid pEPARP          50 mM Bis-Tris, pH 7.0, respectively. This was done in order to exclude any
+(Engstler, unpublished observations) using the oligonucleotide primers PN         alteration of the C.sordellii sialidase pH-optimum, which is at pH 6. The effect
+(5'-GAC AAG TGT ATT GTT CCG AGT ATG GTG AGC G-3') and PNr/                        of Neu5Ac2en (0.1 mM final concentration) on recombinant sialidase activity
+Notl (5'-GCT TCT TGG CGG CCG CAA ATC CCA CG-3').                                  was analyzed after 15 min preincubation with the sialidase inhibitor
+   By using nested PCR, the sialidase coding region lacking the bacterial            In order to determine the kinetic parameter KM and V,,,,,, 0.25 U of sialidase
+N-terminal signal sequence and stop-codon (CSN) was amplified from pCS            was incubated as described above in 50 mM Bis-Tris, pH 6.0, containing
+
+962
+                                                                                                            Trans-sialylation dominant-negative trypanosomes
+
+
+between 0.01 and 1 mM of CF3MU-Neu5Ac as substrate. Fluorimetric reading               induced by Trypanosoma cruzi metacyclic trypomastigote surface molecules
+was done using a microtiter fluorimeter and 96-well raicrotiter plales. Kinetic        implicated in mammalian cell invasion. MoL Biochem. ParasitoL, 73, 285—
+data were fitted to the Michaelis-Menten equation by nonlinear regression              289.
+using Enzfitter 2.0 software from Biosoft (Cambridge, UK).                         Drocourt,D.t Calmels.Y., ReynesJ., Baronjvt. and Tiraby.G. (1990) Nucleic
+   Phase separation in Triton X-l 14 was carried out with 107 osmotically lysed       Acids Res., 18,4009-4113.
+trypanosomes. Cells were washed once in 1 vol PBS and incubated for 15 min         Egima,C.M., Briones,M.R.S., Freitas.L.H.G., Schenkman^R.P.F., Uemura^l.
+in 1 ml of ice-cold H2O. The cell lysales were extracted sequentially with 0.5%       and Schenkman.S. (1996) Organization of trans-sialidase genes in Trypano-
+and 1% Triton X-l 14 in 50 mM Bis-Tris, pH 7.0, at 4°C. Following incubation          soma cruzi. MoL Biochem. ParasitoL, 77, 115-125.
+at 30°C for 10 min and centrifugation, the sialidase activity was determined in    Engstler,M. and Schauer,R. (1993) Sialidases from African trypanosomes.
+
+
+
+
+                                                                                                                                                                        Downloaded from http://glycob.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+the aqueous phase and compared to the enzyme activity prior to phase sepa-            ParasitoL Today, 9, 222-225.
+ration. In parallel experiments, the trypanosome lysates were preincubated         Engstler,M., Reuter.G. and Schauer, R. (1992) Purification and characteriza-
+with 1 vol of heparinized rat serum, as source of GPIPLD, for 20 min at 37°C,         tion of a novel sialidase found in procyclic culture forms of Trypanosoma
+before Triton X-l 14 phase separation was performed.                                  brucei MoL Biochem ParasitoL, 54, 21-30.
+                                                                                   Engstler.M., Reuter.G. and Schauer,R. (1993) The developmentally regulated
+Sialic acid analysis                                                                  trans-sialidase from Trypanosoma brucei sialylates the procyclic acidic re-
+                                                                                      petitive protein. MoL Biochem. ParasitoL, 61, 1-14.
+The sialic acid content of parasite cells was determined from lyophilized cells    Engstler,M., Ferrero-Garcia,M.A., Parodi,AJ., Schauer,R., Storz-Eckeriin.T.,
+by a fluorimetric HPLC-procedure (Hara et al., 1989), modified by Engstler et         VasellaA, Witzig.C. and Zhu,X. (1994) W-(4-Nitrophenyl)oxamic acid and
+al (Engstler et al, 1993). Briefly, 1 x 10s cells were extensively washed at          related N-acylanilines are non-competitive inhibitors of Vibrio cholerae si-
+0°C, and the resulting cell pellet was resuspended in 50 u,l of 0.1 M HC1.            alidase but do not inhibit Trypanosoma cruzi or Trypanosoma brucei trans-
+Following acid hydrolysis for 60 min at 80°C, 20 \i\ of the supernatant was           sialidases. Helv. Chun. Acta, 77, 1166-1174.
+derivatized with l,2-diamino-4,5-methylenedioxybenzole and analyzed by
+                                                                                   EngstlerM-. Hubel.U. and Schauer Ji. (1995a) Substrate specificity of trans-
+fluonmetric HPLC using a RP-18 cartridge (25 x 0.4cm; Merck, Darmstadt,
+                                                                                      sialidases from African trypanosomes: transfer of hydroxylated and 9-O-
+Germany). The procedure was calibrated with standard sialic acids. Blood-
+                                                                                      acetylated sialic acids onto trypanosomal and synthetic acceptor compounds.
+stream forms of T.brucei were used as a negative control.
+                                                                                      Glycoconjugate J., 12, 530.
+                                                                                   Engstler, M., Schauer, R. and Brun, R. (1995b) Distribution of developmen-
+                                                                                      tally regulated trans-siahdases in the Kinetoplastida and characterization of
+Acknowledgments                                                                       a shed trans-sialidase activity from procyclic Trypanosoma congolense. Acta
+We thank Peter Roggentin and Roland Schauer (Christian-Albrechts-                     Tropica, 59, 117-129.
+Universitaet, Kiel, Germany) for Clostridium sordellii DNA and experimental        Engstler,M., TalboukJ.W., Smith.R.E. and Schauer.R. (1997) Chemical syn-
+support We thank Reto Brun (Swiss Tropical Institute, Basel, Switzerland) for        thesis of 4-triflouromethylumbelliferyl-a-D-N-acetylneuraminic acid glyco-
+T.brucei strains. We are very grateful to Paul Haynes for help with the T.cruzi      side and its use for the fluorimetric detection of poorly expressed natural and
+experiments. M.E. especially thanks all members of the Laboratory of Mo-             recombinant sialidases. Anal Biochem., in press.
+lecular Parasitology and Patrick Griffin at The Rockefeller University for        FergusonJvi.A.J., Murray.P., Rutherford,H. and McConvilleJvU. (1993) A
+continuous support. M.E. holds a scholarship in Infection Biology granted by         simple purification of procyclic acidic repetitive protein and demonstration
+the German Cancer Research Center (DKFZ), Heidelberg, Germany. This                  of a sialylated glycosyl-phosphatidylinositol membrane anchor. Biochem. J.,
+work was supported in part by the National Institutes of Health (Grants Al           291, 51-55.
+21531 and Al 26197) and the Carl J. Herzog and the Meyer Foundations.             Ferguson.M.A.J., BrimacombeJ.S., Cottaz,S., Field.R.A., GutherJL.S., Hom-
+                                                                                     ans.S.W., McConvillcMJ., MehlertA, Milne.lCG., RaltonJ.E., Roy.Y.A.,
+                                                                                     Schneider.P. and Zitzmann,N. (1994) Glycosyl-phosphatidylinositol mol-
+                                                                                     ecules of the parasite and the host. Parasitology, 108, S45-S54.
+Abbreviations                                                                     Hall.B.F., Webster.P., MaAK., Joiner.K.A. and Andrews,N.W. (1992) Desi-
+ble, bleomycin resistance gene; CF3MU-Neu5Ac, 4-trifluoromethylumbel-                alylation of lysosomal membrane glycoproteins by Trypanosoma cruzi: a
+liferyl-ot-D-N-acetylneuraminic acid; FCS, fetal calf serum; Gal-MU, 4-              role for the parasite neuraminidase in facilitating parasite entry into the host
+methylumbelliferyl-p-D-galactopyranoside; GPI, glycosylphosphatidyhnosi-             cell cytoplasm. /. Exp. Med, 176, 313-325.
+tol; GPIPLD, glycosylphosphatidylinositol-specific phosphohpase D; LIT,           Hara,S., Yamaguchi,M., Takemori.Y., FuruhataJ.K., Ogura,H. and Nakamu-
+liver infusion tryptose; MU-Neu5Ac, methylumbelliferyl-a-D-N-                        rajd. (1989) Determination of mono-O-acetylated N-acetylneuraminic acid
+acetylneuraminic acid; N e u 5 A c 2 e n , 2-deoxy-2,3-didehydro-N-                  in human and rat sera by fluorimetic high-performance liquid chromatog-
+acetylneuraminic acid; Parp, procyclic acidic repetitive protein; PBS, phos-         raphy. Anal. Biochem., 179, 162-166.
+phate-buffered saline; UTR, untranslated region; Vsg, variant surface glyco-      Herrera,E.M., Ming.M., Ortega-Barriaji. and PereiraJtf.E.A. (1994) Media-
+protein; ZPFM, Zimmerman's post fusion medium.                                       tion of Trypanosoma cruzi invasion by heparan sulfate receptors on host
+                                                                                     cells and penetrin counter-receptors on the trypanosomes. MoL Biochem
+                                                                                     ParasitoL, 65, 73-83.
+References                                                                        Horn.D. and Cross.G.A.M. (1995) A developmentally regulated position effect
+                                                                                     at a telomeric locus in Trypanosoma brucei. Cell, 83, 555—561.
+Barbosa,H.S. and Meirelles,M.N.L. (1995) Evidence of participation of cyto-       Ip.H.S. (1991) Approaches to defining the signals for the transfer of glycolipid
+  skeleton of heart muscle cells during the invasion of Trypanosoma cruzi            anchors to proteins in Trypanosoma brucei. Ph.D. thesis, The Rockefeller
+   Cell Struct. FuncL. 20, 275-284.                                                  University.
+Bellofatto.V. and Cross.G.A.M. (1989) Expression of a bacterial gene in a         KellyJ.M. (1995) Trypanosomatid shuttle vectors: new tools for the functional
+  trypanosomatid protozoan. Science, 244, 1167-1169.                                 dissection of parasite genomes. ParasitoL Today, 11, 447—451.
+Bone.GJ. and Steinertjvl. (1956) Isotopes incorporated in the nucleic acids of    Low,M.G. and Huang.K.S. (1991) Factors affecting the ability of glyco-
+  Trypanosoma mega. Nature, 178, 308—309.                                            sylphosphatidylinositol-specific phospholipase D to degrade the membrane
+Bruce,D. (1895) Tsetse fly disease or nagana. Harrison & Sons, London.               anchors of cell surface proteins. Biochem J., 279, 483-493.
+Brun,R. and Schonenberger,M. (1979) Cultivation and in vitro cloning of           Ming,M., EwenJvI.E. and Pereira,M.E.A. (1995) Trypanosome invasion of
+  procyclic culture forms of Trypanosoma brucei in a semi-defined medium.            mammalian cells requires activation of the TGFbeta signaling pathway.
+  Acta Tropica, 36, 289-292.                                                         Cell 82, 287-296.
+Burleigh,B.A. and Andrews^N.W. (1995) The mechanisms of Trypanosoma               Moreno.S.NJ., SilvaJ., Vercesi,A.E. and Docampo.R. (1994) Cytosolic-free
+  cruzi invasion of mammalian cells. Annu. Rev. Microbiol, 49, 175-200.             calcium elevation in Trypanosoma cruzi is required for cell invasion. J. Exp.
+Crane,MJ. and DvorakJ.A. (1982) Influence of monosaccharides on the in-             Med, 180, 1535-1540.
+  fection of vertebrate cells by Trypanosoma cruzi and Toxoplasma gondil          MowanvM.R. and Clayton.C.E. (1989) The procyclic acidic repetitive proteins
+  MoL Biochem ParasitoL, 5, 333-341.                                                of Trypanosoma brucei: purification and post-translational modification. /.
+Cross.G.A.M. (1996) Antigenic variation in trypanosomes: secrets surface            Biol. Chem, 264, 15088-15093.
+  slowly. Bioessays, 18, 283-291.                                                 Pereira,M.E.A., Zhang,K.M., Gong.Y.H., Herrera^.M. and Ming,M. (1996)
+Cross.G.A.M. and Takle.G. (1993) The surface /ra/u-sialidase family of Try-         Invasive phenotype of Trypanosoma cruzi restricted to a population express-
+  panosoma cruzi. Annu. Rev. Microbiol, 46, 385-411.                                ing trans-sialidase. Infect. Immun., 64, 3884-3892
+DortaJd.L., Ferreira^.T., Oshiro,M.E.M. and YoshiaXN. (1995) Ca2+ signal          Pontes de Carvalho.L.C, Tomlinson.S., Vandekerckhove.F., Bienen.E.J.,
+
+                                                                                                                                                              963
+M^ngstier, E-Wirtz and GA.M.Cross
+
+  Claikson^A.B., Jiang.M.S., Hart,G.W. and Nussenzweig.V. (1993) Charac-
+  terization of a novel trans-sialidase of Trypanosoma brucei procyclic trypo-
+  mastigotes and identification of procyclin as the main sialic acid acceptor. J.
+  Exp. Med.. 177, 465-474.
+RoditiJ. and Pearson.T.W. (1990) The procyclin coat of African trypano-
+  somes. Parasitol. Today, 6, 79—82.
+Roggentin,P., Rothe,B., Lottspeich,F. and Schauer,R. (1988) Cloning and se-
+  quencing of a Clostridium perfringens siabdase gene. FEBS Lett., 238,
+  31-34.
+
+
+
+
+                                                                                    Downloaded from http://glycob.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+RoggentinJ>., Schauer,R., Hoyer,L.L. and VimrJE.R. (1993) The sialidase su-
+  perfamily and its spread by horizontal gene transfer. Mol. Microbiol., 9,
+  915-921.
+Rosenberg.LA., Prioli.R.P., MejiaJ.S. and PereiraJd.E.A. (1991) Differential
+  expression of Trypanosoma cruzi neuraminidase in intra- and extracellular
+  trypomastigotes. Infect. lmmun., 59, 464—466.
+Rothe.B., Roggentin,P., Frank,R., Bloecker.H. and Schauer,R. (1989) J. Gen.
+  Microbiol, 135, 3087-3096.
+SambrookJ-, Fritscr^E.F. and Maniatis.T. (1989) Molecular Cloning: A Labo-
+  ratory Manual. Cold Spring Harbor Laboratory Press, Cold Spring Harbor,
+  NY.
+Schauer.R., Kelm.S., Reuter.G., Roggentin,P. and Shaw,L. (1995) In Rosen-
+  b e r g ^ , (ed.), Biology of Sialic Acids. Plenum Press, New York, pp. 7-67,
+Schenkman.S. and Eichinger,D. (1993) Trypanosoma cruzi trans-sialidase and
+  cell invasion. Parasitol. Today, 9, 218-222.
+Schenkman.S., Jiang,M.S., Hart,G.W. and Nussenzweig.V. (1991) A novel
+  cell surface trans-sialidase of Trypanosoma cruzi generates a stage-specific
+  epitope required for invasion of mammalian cells. Cell, 65, 1117-1125.
+Schenkman.S., Eichinger.D., Pereira,M.E.A. and Nussenzweig.V. (1994)
+  Structural and functional properties of Trypanosoma cruzi trans-sialidase.
+  Annu. Rev. Microbiol, 48, 499-523.
+Uemura3., Schenkman.S., Nussenzweig.V. and Eichinger.D. (1992) Only
+  some members of a gene family in Trypanosoma cruzi encode proteins that
+  express both trans-sialidase and neuraminidase activities. EMBO J., 11,
+  3837-3844.
+Varki,A. (1992) Diversity in sialic acids. Gtycobiology, 2, 25-40.
+White.T.C, Rudenko.G. and Borst^. (1986) Three small RNAs within me 10
+  kb trypanosome rRNA transcription unit are analogous to domain VH of
+  other eukaryotic 28s rRNAs. Nucleic Acids Res., 14, 9471-9489.
+Wirtz,E. and Clayton.C. (1995) Inducible gene expression in trypanosomes
+  mediated by a prokaryotic repressor. Science, 268, 1179—1183.
+Zingales3., Carniol.C, de Lederkremer,R.M. and Colli.W. (1987) Direct sialic
+  acid transfer from a protein donor to glycolipids of trypomastigotc forms of
+  Trypanosoma cruzi. Mol. Biochem. Parasitol, 26, 135-144.
+
+Received on February 18, 1997; revised on April 23, 1997; accepted on April
+24, 1997
+
+
+
+
+964
+

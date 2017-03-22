@@ -1,0 +1,887 @@
+                      Prion
+
+
+
+
+                      ISSN: 1933-6896 (Print) 1933-690X (Online) Journal homepage: http://www.tandfonline.com/loi/kprn20
+
+
+
+
+                The Prion Protein Knockout Mouse
+
+                Andrew D. Steele, Susan Lindquist & Adriano Aguzzi
+
+                To cite this article: Andrew D. Steele, Susan Lindquist & Adriano Aguzzi (2007) The Prion
+                Protein Knockout Mouse, Prion, 1:2, 83-93, DOI: 10.4161/pri.1.2.4346
+
+                To link to this article: http://dx.doi.org/10.4161/pri.1.2.4346
+
+
+
+
+                       Published online: 21 May 2007.
+
+
+
+                       Submit your article to this journal
+
+
+
+                       Article views: 144
+
+
+
+                       View related articles
+
+
+
+                       Citing articles: 48 View citing articles
+
+
+
+
+                                      Full Terms & Conditions of access and use can be found at
+                             http://www.tandfonline.com/action/journalInformation?journalCode=kprn20
+
+Download by: [BSP ENSP-Fiocruz]                                                                           Date: 15 December 2015, At: 07:52
+                                                             [Prion 1:2, 83-93; April/May/June 2007]; ©2007 Landes Bioscience
+
+
+
+                                                             Review
+
+                                                             The Prion Protein Knockout Mouse
+                                                             A Phenotype Under Challenge
+
+
+                                                             Andrew D. Steele1                                                                   Abstract
+                                                             Susan Lindquist1                                                                           The key pathogenic event in prion disease involves misfolding and aggregation of
+                                                                                                                                                   the cellular prion protein (PrP). Beyond this fundamental observation, the mechanism
+                                                             Adriano Aguzzi2
+
+
+
+
+                                                                                                                                                                                                              .
+                                                                                                                                                   by which PrP misfolding in neurons leads to injury and death remains enigmatic. Prion
+
+
+
+
+                                                                                                                                                                                                       E
+                                                             1Whitehead Institute for Biomedical Research; Department of Biology;                  toxicity may come about by perverting the normal function of PrP. If so, understanding the
+
+
+
+
+                                                                                                                                                                                                    UT
+                                                             Massachusetts Institute of Technology; Cambridge, Massachusetts USA                   normal function of PrP may help to elucidate the molecular mechansim of prion disease.
+                                                             2Institute of Neuropathology; University Hospital of Zürich; Zürich, Switzerland      Ablation of the Prnp gene, which encodes PrP, was instrumental for determining that
+
+
+
+
+                                                                                                                                                                                       RIB
+                                                                                                                                                   the continuous production of PrP is essential for replicating prion infectivity. Since the
+                                                             Correspondence to: Andrew D. Steele; Whitehead Institute for Biomedical               ­structure of PrP has not provided any hints to its possible function, and there is no obvious
+                                                             Research; Department of Biology; Massachusetts Institute of Technology; Nine
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                                                                                                                 ­phenotype in PrP KO mice, studies of PrP function have often relied on intuition and
+
+
+
+
+                                                                                                                                                                                    IST
+                                                             Cambridge Center; Cambridge, Massachusetts 02142 USA; Tel.: 617.258.6223;
+                                                             Fax: 617.258.7226; Email: steele@wi.mit.edu / Susan Lindquist; Whitehead             ­serendipity. Here, we enumerate the multitude of phenotypes described in PrP deficient
+                                                             Institute for Biomedical Research; Department of Biology; Massachusetts Institute     mice, many of which manifest themselves only upon physiological challenge. We discuss
+                                                                                                                                                   the pleiotropic phenotypes of PrP deficient mice in relation to the possible normal function
+
+
+
+
+                                                                                                                                                                          D
+                                                             of Technology; Nine Cambridge Center; Cambridge, Massachusetts 02142 USA;
+                                                             Tel.: 617.258.5184; Fax: 617.258.7226; Email: Lindquist_admin@wi.mit.edu
+                                                                                                                                                   of PrP. The critical question remains open: which of these phenotypes are primary effects
+                                                             / Adriano Aguzzi; Institute of Neuropathology; University Hospital of Zürich;
+
+
+
+
+                                                                                                                                                                       OT
+                                                             Schmelzbergstrasse 12; Zürich CH 8091 Switzerland; Tel.: 41.44.255.2107; Fax:         of PrP deletion and what do they tell us about the function of PrP?
+                                                             41.44.255.4402; Email: adriano.aguzzi@usz.ch
+
+                                                             Original manuscript submitted: 02/25/07
+                                                             Revised manuscript submitted: 04/23/07
+                                                             Manuscript accepted: 04/25/07                                                       Introduction
+                                                                                                                                                              ON
+                                                                                                                                                       .D
+                                                             Previously published online as a Prion E-publication:                                    The prion protein (PrPC) is a conserved glycoprotein tethered to cell membranes by
+                                                             http://www.landesbioscience.com/journals/prion/article/4346
+                                                                                                                                                 a glycosylphosphatidylinositol (GPI) anchor.1 PrPC denotes “cellular” or “normal” PrP
+                                                                                                                                                 CE
+
+                                                                                                                                                  to differentiate it from PrPSc for “scrapie” or disease associated isoform of PrPC. PrPC
+                                                             Key words                                                                           is expressed in many tissues, most abundantly in brain, heart, muscle, and also in select
+                                                                                                                                        IEN
+
+
+
+                                                             transmissible spongiform encephalopathy,                                            lymphoid and myeloid cells.2 The role of PrPSc in the pathogenesis of the ­transmissible
+                                                             amyloid, PrP                                                                         spongiform encephalopathies (TSE), the prion diseases, has been intensively studied.1‑5
+                                                                                                                                                 Conversely, much less attention has been focused on the role of PrPC in normal physiology.6
+                                                                                                                              SC
+
+
+
+
+                                                             Abbreviations                                                                       Of note, normal function studies of proteins associated with other neurodegenerative
+                                                                                                                                                 diseases, such as amyloid precursor protein and the secretases for Alzheimer’s disease,7
+                                                                                                               BIO
+
+
+
+
+                                                             PrP	            prion protein                                                       a‑synuclein for Parkinson’s disease,8 and huntingtin for Huntington’s disease,9 are helping
+                                                             KO	             knockout                                                            to provide deeper insights into the pathophysiology of these diseases. Analogously, a clearer
+                                                             GPI	            glycosylphosphatidylinositol                                          understanding of the function of PrPC in homeostasis may provide valuable insights into
+                                                                                                  ES
+
+
+
+
+                                                             Cu	             copper                                                              the molecular pathways of prion pathogenesis. However, the extent of overlap between
+                                                             CC	             charge cluster                                                      understanding the pathogenic dysfunction of PrPSc in prion diseases and the normal
+                                                                                     ND
+
+
+
+
+                                                             HC	             hydrophobic core                                                     ­function of PrPC in cell physiology remains to be determined (depicted in Fig. 1).
+                                                             SOD	            superoxide dismutase                                                     Many approaches have been utilized to understand the physiological function of PrPC,
+                                                                          LA
+
+
+
+
+                                                                                                                                                 including but not limited to the identification of multiple interaction partners, human
+                                                             Acknowledgements                                                                      genetic studies of the Prnp (prion protein gene) locus, ectopic and overexpression of PrPC
+                                                             07
+
+
+
+
+                                                             See page 90.                                                                        in a variety of cell types and organisms, and finally deletion or ‘knockout’ (KO) studies in
+                                                                                                                                                   the mouse,10 cow,11 and even goat,12 providing additional exciting tools for ­understanding
+                                                             20
+
+
+
+
+                                                                                                                                                  aspects of PrPC physiology that may not be addressable in mice (Fig. 2). The search
+                                                                                                                                                  for protein interaction partners of PrPC, by a variety of methods, has led to interesting
+©
+
+
+
+
+                                                                                                                                                 candidates but functional demonstration of the importance of these ­ interactions is still
+                                                                                                                                                 missing.2,13 Furthermore, overexpression and ectopic expression studies of PrPC, or
+                                                                                                                                                 expression of mammalian PrPC in lower organisms is yet to reveal an irrefutable ­function
+                                                                                                                                                 for PrPC. Another approach includes large scale genetic association studies to look for
+                                                                                                                                                 PRNP mutations or polymorphisms associated with human genetic disorders. Some
+                                                                                                                                                 ­interesting genetic associations with Alzheimer’s disease susceptibility have been found but
+                                                                                                                                                   lack consensus in the field.14‑16 Polymorphisms in PrPC have been associated with rare
+                                                                                                                                                 forms of cortical malformation,17 differences in surgical outcome for a form of epilepsy,18
+                                                                                                                                                 and even learning and memory.19
+
+                                                             www.landesbioscience.com	                                                                             Prion	                                                                    83
+                                                                                                                        Prion Protein Knockout Mouse Phenotypes
+
+
+
+
+                                                             Figure 1. The overlap between the normal function of PrPC and the
+                                                             ­pathogenic dysfunction of PrPSc in disease depicted as a Venn diagram. The
+                                                             extent of overlap between the normal function of PrPC and its role in prion
+                                                             disease is open to speculation, the circles could have a much greater or
+                                                             perhaps even less overlap.
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                                   A large pool of PRNP mutations have been identified in humans,
+                                                                but all of these are associated with familial prion diseases, or
+                                                                appear to represent harmless polymorphisms.20 Perhaps there are
+                                                              ­heretofore undiscovered humans with small chromosomal deletions
+                                                              that ­ encompass the PRNP locus, or even mutations that render                 Figure 2. Different approaches to study PrPC’s normal function. There are
+                                                                humans haploinsufficient or even null for PrP. Such human patients           many ways to approach the study of the normal function of PrPC, none of
+                                                               may tell us volumes about the function of PrPC and perhaps that it is         which have conclusively demonstrated PrPC’s function. Interacting partners of
+                                                                                                                                             PrPC have yielded many interesting candidates, human genetic studies have
+                                                              dispensable for normal life as is the case for mice10 and cows.11
+                                                                                                                                             found associations of PrPC with diseases beyond prion disease and even to
+                                                                   Because PrPC is so conserved among mammals, there was great               learning and memory, over‑ and ectopic-expression studies constitute another
+                                                                expectation that ablation of Prnp in the mouse would reveal a normal         approach to determine the function of PrPC, and finally, the focus of this
+                                                                function for this enigmatic gene.21 Since the PrP KO mice have no            review, the PrP KO has given some clues to the function of PrPC.
+                                                               overt phenotype,10,22 it was clear that PrPC is not essential for the
+                                                               survival of the laboratory mouse. However, genetic ­ compensation              KO studies and potential caveats of phenotypes in PrP KO mice.
+                                                                and developmental plasticity may mask the phenotype of PrPC                   The advent of “gene‑targeting”, or the specific deletion/replacement
+                                                               ­deficient mice and thus, it may take an appropriate challenge to              of chromosomal segments, in mice has revolutionized functional
+                                                               reveal any phenotype. Although the original reports on the Zurich              studies of mammalian genes in vivo. However, technical aspects of
+                                                               and Edinburgh PrP KO mice (two different targeting strategies to               generating gene‑targeted mice from embryonic stem cells can create
+                                                               delete PrP, named after the city where the experiments took place)             a potential caveat to interpreting phenotypic data. This caveat arises
+                                                                reported “no phenotype”, many subsequent studies have revealed that           because often the resultant mice utilized for functional studies are
+                                                               this KO mouse has an abundance of phenotypes, some of which have               maintained on “mixed” genetic backgrounds, a random mixture of
+                                                              been contested and many of which are subtle (Table 1). This review              alleles from embryonic stem cells (often a 129 sub‑strain) and the
+                                                             ­summarizes the recent research in determining the normal function               parental line (C57Bl/6, Balb/c, or others). Three concerns arise when
+                                                             of PrPC by utilizing the PrP KO mouse. Although many claims                      working on mice of a mixed genetic background, which encom-
+                                                                to PrPC ­ function have been generated from the study of cultured             pass most studies of PrP KO mice: 1) increases in the phenotypic
+                                                               cells,3,23 we will mostly confine our discussion to studies utilizing          variability and thus a higher chance of spurious results 2) the hetero-
+                                                                mice: the PrP KO, the deletion of the PrPC homolog doppel (Dpl),              zygosity at many loci increases the noise of most measurements,
+                                                               and overexpression transgenics of PrPC and Dpl. Prnp is one of the            potentially obscuring subtle phenotypes, and 3) the possibility that
+                                                                most frequently knocked out mammalian genes, and a plethora of               alleles linked to the deleted gene (which is continually selected for by
+                                                                PrP‑deficient mice have been generated with a wealth of strategies.          ­investigators during breeding) are actually responsible for the pheno-
+                                                                Detailed reviews of the construction of the various available PrP             type in ­question.26 Another point to consider is that depending on
+                                                                KO mice exists.24,25 The neurodegeneration caused by the ectopic              how the investigator maintains the KO line (either by inbreeding
+                                                               expression of Dpl in the Nagasaki and Rcm PrP KO (generated with               separate populations of PrP‑/‑ and PrP+/+, or by intercrossing
+                                                                a different gene targeting strategy than the Zurich and Edinburgh PrP         PrP+/‑ mice) we also have to contend with genetic drift, that is the
+                                                               KOs) has been reviewed in detail,24,25 and will be discussed only in           tendency for certain alleles to become “fixed” (100% frequency) in
+                                                               so far as PrPC and Dpl function(s) are concerned.                              populations simply by chance.
+                                                                                                                                                  The availability of the fully‑sequenced mouse genome, in concert
+                                                                                                                                              with physical maps of polymorphic short‑tandem repeats, would
+                                                             The Caveats of a Phenotype                                                       allow for eliminating the confounding genetic factors ­ enumerated
+                                                                Given the abundance of phenotypes attributed to the deletion                  above. For example, the “speed congenic” technologies which
+                                                             of PrP, we will first discuss several technical concerns relating to             are being offered commercially—but can be enacted in‑house by
+
+                                                             84	                                                                        Prion	                                                    2007; Vol. 1 Issue 2
+                                                                                                                     Prion Protein Knockout Mouse Phenotypes
+
+
+                                                             real‑time PCR and sequencing—enable selective breeding of mice               neuronal cells is required for prion propagation associated toxicity.
+                                                             that are genetically homogeneous at any given chromosomal region.            This evidence supports our conjecture that deciphering the normal
+                                                              However, almost none of the phenotypes described in the following           function or signaling pathway through which PrPC operates will help
+                                                              pages have been ascertained using such genetic controls—and this            illuminate the devastating sequence of events in prion disease.
+                                                             represents a major caveat in the interpretation of phenotypic data. Of           The PrP KO mouse enabled another important series of studies
+                                                             the various PrP KOs that have been generated,25 only the Edinburgh           that defined some of the sequence elements required for PrPSc to
+                                                             KO has been maintained on a pure 129/Ola background22 and this               retain infectivity by expressing truncated PrP transgenes on the KO
+                                                             strain background is notoriously difficult to work with because of           background and infecting these mice with prions. This approach
+                                                             poor breeding and several other abnormalities.26 Backcrossing PrP            revealed that the octapeptide repeats (Fig. 3) were not necessary for
+                                                             KOs onto a pure genetic background helps to eliminate this concern.          prion replication or toxicity, but indicated that they may be required
+                                                             However, despite intensive backcrossing, regions on the ­chromosome          for the rampant spongiosis and production of high titers of prion
+                                                             adjacent to the Prnp locus are carried along through all the                 infectivity normally associated with prion diseases.32,33
+                                                             ­generations of backcrossing, such that even after 12 ­ generations of
+                                                              backcross the KO allele would be flanked by about 1% of the ES cell         PrP in Sleep Regulation
+                                                             genome.26 As a consequence, it is difficult to conclude with certainty
+                                                             that a phenotype is due to the genetic background of the mouse or                 Sleep disturbances and altered circadian rhythms were the first
+                                                             the deleted gene in question. Another point worth considering is that        documented phenotypes in PrP KOs,34 other than the resistance
+                                                             on pure backgrounds it is possible to obtain a phenotype that is a            to prion infection which is technically a lack of a phenotype.28
+                                                                                                                                           PrPC might be involved in regulating sleep, as certain mutations in
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                              combination of the deletion in question (i.e., PrP KO) and a specific
+                                                              allele(s) of the background (i.e., a C57Bl/6 allele of a gene). Such a       PRNP cause a prion disease known as fatal familial insomnia.35 This
+                                                              KO and strain background synergistic phenotype would be difficult            disease eventually results in broadly disseminated neurodegeneration
+                                                             to replicate unless other investigators are using the same mice.             but one key symptom is a nearly complete inability to sleep. Sleep
+                                                                  Rescue experiments, whereby a transgene is reintroduced into            deficits are also a documented feature in human Creutzfeldt‑Jakob
+                                                              the KO to rescue a phenotype, are time‑consuming and are not                 disease of sporadic origin.36 Tobler and colleagues found that during
+                                                              “fool‑proof ”, but represent one approach toward eliminating an             a normal light/dark cycle PrP KOs had similar patterns of running
+                                                              effect of a linked allele or a chance observation in a mixed genetic        wheel activity as controls. However, in constant darkness, wild‑type
+                                                              background. On the other hand, such reliance on rescue experiments          mice display a shorter circadian period (as is customary for wild‑type
+                                                              led to the erroneous assignment of pathological phenotypes to the           mice without circadian cues) whereas PrP KOs remarkably ­maintain
+                                                             deficiency of PrP (in Nagasaki PrP KOs),27 whereas the phenotype             a normal period as if still “entrained” by light.34 This finding was
+                                                             was in reality brought about by the overexpression of Dpl in a PrP            shown in both the Edinburgh and Zurich PrP KOs. Further studies by
+                                                             KO background.25                                                              Tobler and colleagues revealed that PrP KOs have more fragmented
+                                                                  A separate concern from genetic background arises from ­intensive        sleep episodes than do controls, leading the authors to conclude
+                                                             and multi‑faceted hunting for phenotypes. Since all biological               that PrPC plays a role in promoting sleep continuity.37 The fact
+                                                             measurements, but particularly those made on animals, are associated         that PrPC alters sleep and that PrPSc production also leads to sleep
+                                                             with intrinsic variability, we expect to find some spurious phenotypes        ­abnormalities supports our hypothesis that understanding PrPC
+                                                             just by chance. For example, if the null hypothesis is that PrP KOs are      ­function will help to understand prion disease. But in nearly a decade
+                                                             not different from wild‑type with a conventional threshold of signifi-       since this ­ phenotype was documented there is still no clarity as to
+                                                             cance of p < 0.05, we expect that if 100 labs study the PrP KO that as       how PrPC regulates sleep at a molecular level.
+                                                             many as five may find spurious phenotypes. This is an example of the
+                                                             “multiple hypothesis testing problem” and is an inescapable reality of       A Role for PrP in Oxidative Stress:
+                                                             biological research. Independent confirmation of findings in more            Copper Binding, SOD‑Activity and Mitochondria
+                                                              than one type of the PrP KO mouse, for example the Edinburgh or
+                                                             Zurich PrP KOs, or by more than one laboratory will be important                 A considerable amount of work has focused on the copper (Cu)
+                                                             for building confidence in PrP KO phenotypes.                                binding and potential anti‑oxidant function of PrPC. The genesis
+                                                                                                                                          of this work is the observation that recombinant PrPC binds to Cu
+                                                             The Clearest of PrP Phenotypes: PrP Knockout Mice                            and that copper levels were diminished in brains of PrP KOs.38 The
+                                                                                                                                          ability of PrPC to bind Cu has been well supported but ­alteration in
+                                                             are Resistant to Prion Infection and Cannot Replicate                        Cu content in PrP KO brains is controversial.39 A study by Wong
+                                                             Prions                                                                       et al. suggests that PrPC is involved in defense against ­ oxidative
+                                                                 To date, the clearest phenotype of the PrP KO is resistance to           damage.40 They observed higher levels of oxidized proteins and
+                                                             infection with prions.28,29 This experiment—originally designed              lipids in the brains of Edinburgh PrP KOs.40 A similar situation was
+                                                             to disprove the prion hypothesis21—solidified its central tenet:             observed in Zurich PrP KOs by Klamt and colleagues, who further
+                                                             the requirement of a host protein for prion replication. Further             found that superoxide dismutase (SOD) activity was significantly
+                                                             variations of this experiment have taught us that PrPC expression            decreased in the brain and muscle of PrP KOs.41 On the other hand,
+                                                             is required for prion‑induced toxicity.30 Neurografting brain tissue         Waggoner et al. could not detect differences in enzymatic activity
+                                                             from wild‑type mice into PrP KO brains revealed that Prnp+/+ tissue          of Cu‑Zn ­ superoxide dismutase.39 This may be due to differences
+                                                             grafts ­ replicated prions with accompanying damage to neurons               in ­experimental conditions.42 However, mouse genetic experiments
+                                                             while nearby PrP‑deficient tissue was unharmed.31 Thus, PrPC on              argue against a SOD‑like activity for PrPC in vivo.43 We reasoned
+
+                                                             www.landesbioscience.com	                                               Prion	                                                                  85
+                                                                                                                        Prion Protein Knockout Mouse Phenotypes
+
+
+                                                                that if PrPC has a SOD activity, then deficiency in both PrPC and             Intriguingly, the viral infection induced neuronal cell death much
+                                                                SOD1 will result in diminished SOD activity compared to deficiency            more dramatically in PrP overexpression transgenics, connecting PrPC
+                                                                in SOD1 only, and conversely PrPC overexpression in a SOD1 KO                 to cell survival pathways (discussed below). Several of these findings
+                                                                or WT background will result in increased SOD activity. However,              were confirmed in a follow‑up study by the same group.52
+                                                             these genetically defined crosses did not reveal any ­ alterations in                Recent work suggests that PrPC may play a role in the
+                                                                SOD activity with respect to PrPC deletion.43                                ­immunological synapse. Ballerini et al., demonstrated that PrPC is
+                                                                    One intriguing phenotype at the cellular level is the ­ reduction         important in an interaction between T cells and dendritic cell.53 PrPC
+                                                             in number of mitochondria per cell in the CA1 region of the                      was dispensable on T cells for this interaction but PrPC on dendritic
+                                                             h­ippocampus and in the myocardium of Edinburgh PrP KOs.44 The                   cells was important in stimulating T cells in vitro and in vivo assay.53
+                                                                mice used in this study were inbred 129/Ola strain, which reduces             Another study reports that aβ T cells are greatly diminished in tga20
+                                                                the likelihood of genetic background artifacts but could also result in       PrP overexpression transgenic mice, and these mice also display an
+                                                                strain specific effect of a gene deletion (discussed above). This study       atrophy of the thymus.54 However, this ­ phenotype may represent
+                                                                was stimulated by the identification of differentially expressed genes        an insertional mutagenesis artifact since tga19 transgenic mice
+                                                                in the PrP KO, revealing only three genes that were differentially            derived from the same construct do not show these anomalies (AA,
+                                                                expressed‑all of which were involved in mitochondrial ­ biogenesis            unpublished data). One study has attempted to link copper uptake
+                                                                and physiology.44 Also, mitochondria having ­ morphological                   and interleukin expression in T cells, finding a slight delay in inter-
+                                                              ­abnormalities were more abundant in the PrP KO (Edinburgh).44 It is            leukin‑2 expression in PrP KO T cells.55 To summarize, PrPC may
+                                                               ­noteworthy that we identified swollen mitochondria in a ­transgenic           be important for host‑pathogen interactions, immune synapses and
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                                model of prion disease, where PrP is mislocalized to the cytosol,            T cell homeostasis, but further studies will be needed to decipher the
+                                                             another possible connection between PrPC in normal physiology                    role of PrPC in the immune system.
+                                                              and disease.45 Lobao‑Soares and colleagues sought to extend the
+                                                             ­observation of abnormal mitochondria in PrP KOs to a functional                Neuronal Excitability
+                                                               level by measuring mitochondrial respiration in several regions of PrP
+                                                              KO brains, but found similar levels between PrP KOs and controls                    The high level of PrPC expression in neuronal cells led to an
+                                                               in all regions examined.46 However, it should be noted that isolated           interest in detecting electrophysiological defects in the PrP KO. This
+                                                                mitochondria were utilized in this study and it is possible that small       topic is no less controversial than any other we have discussed in
+                                                                numbers of abnormal mitochondria may not be detected by their                this review, but the weight of the evidence clearly lies on the side of
+                                                                assays. Further studies will be required to clarify the role of PrPC—if      altered neuronal excitability in PrP KO neurons. Electrophysiological
+                                                                any—in oxidative stress and mitochondrial physiology.                        studies of PrP KOs were first under‑taken by John Collinge and
+                                                                                                                                              John Jefferys, who found that CA1 neurons in Zurich PrP KOs had
+                                                                                                                                              faster after‑hyperpolarization currents and were impaired in long
+                                                             The Role of PrP in the Immune System, Phagocytosis                               term potentiation (LTP).56 Jean Manson and colleagues had similar
+                                                             and as a Microbial Receptor                                                      findings in purebred Edinburgh PrP KOs.57 In addition it was shown
+                                                                   Recent reports have suggested a role for PrPC in cellular                  that both wild‑type and a familial mutant human PrPC were capable
+                                                              ­internalization pathways, perhaps a function that has been ­co‑opted           of rescuing this electrophysiological phenotype when expressed as
+                                                             by microbes. Work from Rafael Linden and colleagues add to the                   transgenes in the PrP KO background.58,59 Soon after these ­findings
+                                                               growing list of phenotypes for the PrP KO. Prnp null macrophages              were reported opposing reports surfaced. Herms et al. examined
+                                                              displayed increased rates of phagocytosis in vitro and in vivo, leading        synaptic transmission in Purkinje cells of Zurich PrP KOs but did
+                                                               to the conclusion that under physiological conditions PrPC ­negatively         not detect any differences from controls.60 Another group found no
+                                                             regulates ­phagocytosis.47 This is extremely surprising since the expres-       differences between Zurich PrP KOs and controls in the CA1 region
+                                                              sion levels of PrPC in macrophages are ­typically below the limits of           of the hippocampus.61 Over the ensuing years there have been several
+                                                             ­detection (Christina Sigurdson and A. Aguzzi, unpublished data).               other attempts to clarify the electrophysiological ­ phenotype (or
+                                                             Studies of ­ microbial pathogenesis in PrP KOs may be connected                 lack thereof ) in PrP KOs.62‑64 However, only one thing is clear—
+                                                             with a role for PrPC in phagocytosis or ­cytokine ­production. Watarai          ­detection of the electrophysiological phenotype depends on which
+                                                             and colleagues have discovered that the PrP KO is more resistant                 line of mice is being used, who is investigating, and the age of the
+                                                             to ­ infection with the bacterial pathogen Brucella abortus.48,49               PrP KOs being used.65 It is worth noting that authors on two of the
+                                                              Localization and biochemical experiments pinpointed bacterial heat              papers reporting “no phenotype”60,61 have reversed their ­position in
+                                                               shock protein 60 as an interaction partner with PrPC on the cell              later studies.66,67 Finally, the post natal neuronal‑specific KO of PrPC
+                                                              surface.48 It would be interesting to examine the ­ consequences of             showed a ­reduction of after‑hyperpolarization potentials in neurons
+                                                             PrPC overexpression and B. abortus infection. These results were not             in CA1,68 an identical phenotype to what had been ­ originally
+                                                               confirmed in a different laboratory in studies using B. suis.50               reported by Collinge and colleagues.56
+                                                                   Virologists have made use of the PrP KO as well, revealing yet                 The neuronal excitability phenotypes may relate to one of the
+                                                              another phenotype likely relating to cellular internalization ­pathways.       strongest phenotypes of PrP KOs, which presents under the challenge
+                                                             In this study, Thackray and Bujdoso demonstrate that PrP KOs are                of seizure inducing drugs. Zurich PrP KOs are much more ­susceptible
+                                                             refractory to infection with a neurotropic herpes simplex virus whereas          to repeated doses of pentylene tetrazol and kainic acid, both of
+                                                             PrP overexpression transgenics (Tga20) were highly ­ susceptible to             which induce seizures.69 Approximately 50% of PrP KOs died
+                                                              infection.51 Studies of viral titers and maturation markers suggest that       from a single administration of kainic acid while 100% of control
+                                                              viral replication is retarded in PrP KOs in favor of establishing latency.      animals survived.69 This result has been confirmed independently
+
+                                                             86	                                                                        Prion	                                                  2007; Vol. 1 Issue 2
+                                                                                                                              Prion Protein Knockout Mouse Phenotypes
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                             Figure 3. A model for the effects of PrPC deletion and deletion mutants of PrPC. (A) Schematic diagram of wild‑type PrPC and deletion mutants. SP, signal
+                                                             ­peptide; octapeptide repeats are indicated in blue; CC, charge cluster; HC, hydrophobic core; H1, H2, H3 Helix 1,2 and 3, respectively; GFP, GPI‑anchor
+                                                              addition sequence (B). PrP (black) consists of a globular C‑terminal domain (hexagon) and a N‑terminal flexible tail (arch) encompassing the octapeptide
+                                                              repeats (ORs) (circle). The model rests on the following assumptions: (1) PrP activates a hitherto unidentified receptor (PrPR) which transmits myelin ­maintenance
+                                                             signals (flashes); (2) in the absence of PrP, PrPR exerts some residual activity, either constitutively or by recruiting a surrogate ligand; (3) the activity of PrP and
+                                                             its mutants requires homo‑ or heterodimerization, and induces dimerization of PrPR; and (4) PrP dimers containing PrPDCD or PrPDCD trap PrPR in an inactive
+                                                             dominant‑negative state. Finally, (5) the OR region stabilizes the interaction between PrP and PrPR, but does not contribute directly to signaling.
+
+
+                                                             by Rangel, et al., who also note increased neuronal cell death in PrP                  and colleagues who found that spatial learning was defective in PrP
+                                                             KOs injected with kainic acid.70 The increased seizure sensitivity may                 KOs.62 This phenotype was PrP‑dependent as it was rescued by
+                                                             be due to higher levels of ectonucleotidase activity which destroys                    crossing PrP KO mice with a transgene driving expression of hamster
+                                                             adenosine, an endogenous anticonvulsant agent, in PrP KOs.71,72                        PrPC under a neuron‑specific promoter.62 Another study describes
+                                                             Finally, it is also worth noting that a defect in neuronal architecture                PrP KOs as having normal short‑  and long‑term memory at three
+                                                             of the ­hippocampus in Zurich PrP deficient mice has been reported                     months of age but impairments by 9 months of age.76 Aged PrP KOs
+                                                             and may be relevant to several of the findings discussed above.73                      also showed less exploratory activity in an open field.76 A follow‑up
+                                                             Timm stained sections of the hippocampus from PrP KO had more                          study suggested that the interaction of PrPC and laminin may be key
+                                                             sprouting of axons than did controls in the granule cell layer of the                  to memory consolidation in rats,77although there is no clarity about
+                                                             dentate gyrus and the infrapyramidal region of CA3 region.73 This                      which molecular events might be triggered by the binding of PrPC
+                                                             is said to resemble the mossy fiber collateral and terminal sprouting                  to laminin. Finally, a study in humans suggests that the M129V
+                                                             seen in certain human epilepsies.                                                     ­polymorphism in PrPC, which influences susceptibility to prion
+                                                                                                                                                    infection in humans‑may be involved in learning and memory.19
+                                                             Behavioral Phenotypes: is PrP Involved                                                    In an attempt to reveal a behavioral phenotype, investigators
+                                                             in Learning and Memory?                                                                have challenged PrP KOs in various ways during phenotypic testing.
+                                                                                                                                                    Coitinho et al. dosed PrP KO mice with various psychotropic
+                                                                 If they bear any relevance to real life, the electrophysiological                  drugs and interestingly, PrP KOs show a decreased response to the
+                                                             defects described above for the PrPC null neurons might manifest                       psychotropic drug MK‑801, which normally causes increased motor
+                                                             in the behavior of the PrP KO mouse. The abundant expression                           activity.78 Amphetamine and caffeine induced hyper‑locomotion
+                                                             of PrPC in regions important in learning and memory, such as                           to an equal extent in PrP KOs and controls.78 Nico et al. subjected
+                                                             the ­ hippocampus, has lead to a series of behavioral studies aimed                    Zurich PrP KOs to acute stress by foot shock or swimming trial and
+                                                             at detecting abnormalities in PrP KOs. Initial studies by Charles                      found that PrP KOs showed less anxiety than controls after these
+                                                             Weissmann, Hans Peter Lipp, and colleagues did not detect any                          treatments.79 In non-stress conditions, PrP KOs appeared identical
+                                                             phenotype of Zurich PrP KOs in a long‑term study using maze                            to controls.79 Another study notes a very subtle increase in locomotor
+                                                             tests.10,74 Further, a study by Roesler et al. failed to detect any                    activity in PrP KOs in an open field test.75 This increased locomotor
+                                                             abnormalities in anxiety nor inhibitory avoidance learning in PrP                      activity has not been observed using extensively backcrossed C57Bl/6
+                                                             KOs.75 Cognitive defects have been detected in PrP KOs by Criado                       PrP KOs (both Edinburgh and Zurich) in the home cage using high
+
+                                                             www.landesbioscience.com	                                                        Prion	                                                                             87
+                                                                                                                      Prion Protein Knockout Mouse Phenotypes
+
+
+                                                             resolution techniques recently used to study prion disease in detail,80         abrogated by ­reintroduction of a single copy of PrPC.91,92 However,
+                                                             however, our testing conditions are not equivalent to an open field             both Weissmann and Katamine have shown that PrPC cannot
+                                                             test (ADS and SL, unpublished results).                                         suppress higher amounts of transgene driven Dpl expression,93,94
+                                                                                                                                             suggesting that Dpl and PrPC are competitive antagonists and
+                                                             Diverse Neuroprotective Properties of PrP                                       can be ­ stoichiometrically titrated against each other. Interestingly,
+                                                                                                                                             PrPC devoid of the octapeptide repeats (amino acids 23–88) is
+                                                                   Many studies have claimed that protection against neuronal                incapable of rescuing Dpl toxicity, suggesting an important role for
+                                                               damage is one of PrPC’s raison d’être. Neuroprotection (defined                the N‑proximal region of PrPC in its neuroprotective functions.95
+                                                              generically as protecting neurons from dysfunction or death)                   However, a trafficking defect in this deletion mutant of PrP was
+                                                               may represent one of the best‑supported functions of PrPC. This               not ruled out, so PrP may not be reaching the cell surface in these
+                                                              ­protection applies to both physiological challenges and to a ­peculiar         transgenic mice.
+                                                              yet fascinating paradigm whereby the closest homolog of PrPC,                      A similar phenomenon is observed when an artificial deletion
+                                                              Dpl, when ectopically expressed in the brain causes loss of Purkinje           mutant of PrPC, missing amino acids 32‑134 and termed “DF”,
+                                                               neurons in the cerebellum but only in a PrP KO background.27                  is expressed as a transgene in the PrP KO. This trangenic mouse
+                                                                   We will begin our discussion of PrP’s protective properties with          develops a dramatic loss of granular neurons in the cerebellum,
+                                                              one of the most agreed upon observations‑PrP KOs are much more                referred to as “Shmerling syndrome” (Fig. 3a).96 The deletions of
+                                                              susceptible to ischemic damage. McLennan and colleagues were the               amino acids 32‑121 or 32‑134, but not shorter deletions of the
+                                                               first to document that PrP KOs are more susceptible to stroke.81 They        N‑terminus, caused this phenotype. The “DF” truncated PrPC
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                              were led to the PrP KO through studying a dramatic upregulation                targeted specifically to Purkinje cells causes these cells to die in a PrP
+                                                               of PrP expression at sites of stroke in human brains.81 Subsequent           KO background showing that this is a cell‑autonomous phenomenon
+                                                              studies have replicated and extended these results in acute82 and            akin to Dpl toxicity.97 It has also become clear that truncated PrPC
+                                                              long term models of ischemia83 and even in transgenic rats.84                  and Dpl are toxic to myelinated cells in a PrP KO background.98 The
+                                                              Interestingly, transgenic overexpression of PrP in the mouse does not          white matter pathology was detected in the cerebellum, brainstem,
+                                                               protect above wild‑type PrP levels85 while in the rat increasing PrP           and spinal cord in “DF” mice and extended more broadly in Dpl
+                                                              levels did confer protection. Weise and colleagues note that PrP KOs          overexpression where it was also found in the forebrain, pyramidal
+                                                              have lower levels of phosphorylated‑Akt both in basal ­ conditions             projections, and the corpus callosum.98 Further deletion mapping
+                                                             and during ischemic injury, pointing towards a general role of PrP             of PrPC has narrowed the critical region to forty amino acids in
+                                                             in activation of cell survival pathways.83 Other researchers have              the middle of PrP, 94‑134. When PrP lacking these amino acids is
+                                                              noted significant increases in the phosphorylation of ERK‑1 and ‑2,           expressed in PrP KOs it results in a severe motor phenotype brought
+                                                              STAT‑1, and JNK‑1 in ischemic PrP KO brains.85 Recently, Gains                about by extensive central and peripheral myelin degeneration
+                                                               and colleagues have extended PrP’s neuroprotective spectrum. They            (Fig. 3A).99 PrPC lacking the octapeptide repeats was able to rescue
+                                                               dosed neonatal PrP KOs and controls with a high dose of ethanol,             this deletion mutant induced phenotype unlike the case of Dpl
+                                                              a paradigm for inducing Bax mediated apoptosis, and noted a                  toxicity discussed above.
+                                                               dramatic increase in cell death in brains of PrP KOs.86 Another brief             Most interestingly, careful histopathological analysis clearly
+                                                              report documents an enhanced brain injury in PrP KOs after head              ­identified a myelin degeneration phenotype in PrP KO mice.91,99
+                                                              trauma,87 however, it is likely that these mice overexpress Dpl and            Since this phenotype is seen both in Zurich I and in Nagasaki
+                                                              therefore display a confounding effect. To test PrP’s neuroprotective          mice, it cannot result from spurious overexpression of Dpl and may
+                                                              function in another setting, we crossed PrP KOs to several transgenic         indeed represent a consequence of PrP deficiency. The similarity
+                                                             models of neurodegenerative disease—Huntington’s, Parkinson’s and              of this phenotype to Shmerling’s syndrome is striking—although
+                                                             Alzheimer’s disease. Much to our surprise, the phenotypes of these             Shmerling’s syndrome is much more severe and is visible in much
+                                                              diseases were largely unaltered by PrP deletion (ADS, Z. Zhou,                 younger mice. This finding suggests that myelin maintenance may
+                                                              W. Jackson, M. Moskowitz, S. Lindquist, unpublished). Thus, the                represent an important physiological function of PrPC, and that the
+                                                              wide‑ranging neuroprotective functions of PrP have ­ limitations              defects seen in Shmerling’s disease may represent an exaggerated form
+                                                             and these observations of protection in unique models need to be               of a PrPC deficiency syndrome.
+                                                             ­understood in mechanistic detail.                                                  In the studies discussed above, all toxic mutants displayed
+                                                                   The second well‑studied paradigm in which PrP exerts a ­protective       ­disruption of the charge cluster (CC, residues 95–110) and a part
+                                                              function deals with the neurotoxicity induced by its nearest homolog.         of the hydrophobic core (HC, residues 111–121) of PrP (Fig. 3).
+                                                              The exciting and circuitous discovery of Dpl began with conflicting             Toxicity was ameliorated by co-expressing PrP variants with intact
+                                                              reports on the phenotype of the PrP KO, with two groups reporting               CC and HC, even if these variants lacked the octarepeat region. We
+                                                              no phenotype10,22 and one group reporting a late onset ataxia                   therefore posit that PrP exerts its neuroprotective activity by ­signalling
+                                                               and Purkinje cell loss in Nagasaki PrP KO mice.27,88 Later it was             through the central domain to an unknown receptor ­ (tentatively
+                                                               determined by several groups that a previously undescribed tightly             termed PrPR). In all paradigms investigated, the ­ phenotype was
+                                                              linked homolog of PrPC (called “doppel” for “Downstream of the                determined by the stoichiometry of mutant to full‑length PrP,
+                                                              Prnp locus”) was upregulated by the deletion strategy used in the             suggesting that PrP, any of the various PrP mutants, and PrPR
+                                                              Nagasaki PrP KO line. The Nagasaki deletion strategy fused PrP’s               form ­hetero‑oligomeric complexes (Fig. 3B). The mild ­pathological
+                                                              promoter to Dpl, driving expression of Dpl in the brain, where it              ­phenotype of PrP KO mice suggests that myelin integrity is supported
+                                                              is not normally expressed.89,90 Subsequent experiments determined               by residual PrPR activity, whereas disruption of the central domain
+                                                               that the toxicity induced by ectopic Dpl expression in the PrP KO is          (CD) domain sequesters PrPR in a dominant‑negative state. Complex
+
+                                                             88	                                                                      Prion	                                                     2007; Vol. 1 Issue 2
+                                                                                                                       Prion Protein Knockout Mouse Phenotypes
+
+
+
+                                                             Table 1	    Proposed functions for PrP from analysis of PrP knockout mice
+
+                                                             Phenotype in PrP KO	Reference	Confirmed?	Opposing?
+                                                             	     Circadian/Sleep regulation
+                                                             Abnormal circadian rhythm	                                          34
+                                                             Interrupted sleep patterns	                                         37	
+                                                             	Oxidative stress: copper binding,
+                                                             	 SOD‑activity and mitochondria 			
+                                                             Decreased copper content in brain	                                  38		                                                             39
+                                                             Decreased SOD activity; increased oxidative damage	                 40, 42	                            41	                           39, 43, 46
+                                                             Reduction/abnormal mitochondria	                                    44		                                                             46
+                                                             	   Immune system, phagocytosis
+                                                             	    and as a microbial receptor
+                                                             Increased phagocytosis	                                             47		
+                                                             Resistance to infection with B. abortus	                            48		                                                             50
+                                                             Resistance to infection with HSV‑1	                                 51	                                52	
+                                                             Immune synapse, T cell response	                                    53
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                             Interleukin expression	                                             55		
+                                                             	      Neuronal excitability
+                                                             Impaired long term potentiation	 56	                                                                   62, 59, 67, 64, 66, 	         60, 61, 63, 65
+                                                             		                                                                                                     57, 58	
+                                                             Increased susceptibility to seizures	                               69	                                70
+                                                             Mossy fiber disorganization in hippocampus	                         73
+                                                             	      Behavioral phenotypes
+                                                             Cognitive defects/memory impairment	                                76, 62		                                                         10
+                                                             Increased locomotor / exploratory activity	                         75	                                76
+                                                             Increased hyperlocomotion induced by MK‑801	                        78
+                                                             Decreased anxiety	                                                  79
+                                                             	           Neuroprotection
+                                                             Susceptible to Dpl toxicity	                                        27	                                89–92
+                                                             Susceptible to “DF” PrP induced toxicity	                           96	                                97, 98
+                                                             Enhanced susceptibility to ischemia	                                81	                                82,83,85
+                                                             Enhanced susceptibility to ethanol induced apoptosis	               86
+                                                             Enhanced susceptibility to traumatic brain injury	                  87
+                                                             	          Stem/precursor cells
+                                                             Impaired self‑renewal of hematopoietic stem cells	                  100
+                                                             Decreased proliferation of neural precursors	                       102
+                                                             	             Miscellaneous
+                                                             Abnormality in dentin in teeth	                                     109
+
+
+                                                              stability could be ­influenced by domains distinct from those involved        A Role for PrP in Stem/Progenitor Cell Biology
+                                                             in executing signal transduction: the context‑dependent toxicity
+                                                             of PrP missing part of the hydrophobic core (PrPDpHC) implicates                     Recently, it was demonstrated that PrPC is expressed on the
+                                                              the octapeptide repreat as one such domain.99 Although deletion                surface of hematopoietic stem cells.100 Zhang and colleagues then
+                                                             of 40 amino acids produced a powerfully toxic molecule, ablation                  challenged PrP KO bone marrow with serial transplantations into
+                                                              of eight amino acids within this domain (PrPDpHC) was innocuous                  lethally ­irradiated recipient mice. After several ­transplantations, the
+                                                              to both wild‑type and PrP KO mice. Crossing ­ experiments show                  ­repopulating potential of PrP KO bone marrow was exhausted whereas
+                                                             that PrPDpHC is not functionally equivalent to PrP. The toxicity                control bone marrow was still competent to ­ repopulate lethally
+                                                             of PrPDF was diminished, yet that of PrPDCD was augmented by                   ­irradiated recipient mice, demonstrating that PrP KO ­hematopoietic
+                                                             ­coexpression of PrPDpHC. In the frame of the signaling model,                 stem cells were deficient in “self‑renewal”.100 Reintroduction of PrP
+                                                             the deletion in PrPDpHC may affect the ­ interaction between PrP                  into PrP null bone marrow cells rescued this defect in self‑renewal,
+                                                             and PrPR. Verification of the model presented above requires the                  arguing against an artifact of genetic background. The molecular
+                                                             physical ­identification of PrPR. Towards that goal, it will be crucial           pathway by which PrP promotes the self‑renewal of hematopoietic
+                                                              to ­ identify the cellular ­ constituents, which may not necessarily all         stem cells remains unclear but is consistent with many of the suggested
+                                                              consist of protein, binding differentially to PrPC.                            ­protective functions of PrPC. The studies of PrPC in hematopoietic
+
+                                                             www.landesbioscience.com	                                                 Prion	                                                                       89
+                                                                                                                       Prion Protein Knockout Mouse Phenotypes
+
+
+                                                             stem cells prompted an examination of PrPC was expression/function                    Looking to PrPC’s closest homologue in the mouse, Dpl, may be
+                                                             in neural stem/precursor cells in the adult brain. Adult neurogenesis           fruitful for determining the function of PrPC. Interestingly, the Dpl
+                                                             is normally neuroanatomically restricted to the dentate gyrus of the             KO results in male sterility,110,111 a phenotype that can be rescued
+                                                             hippocampus and the subventricular zone.101 We pulse labeled BrdU                by testis specific expression of a PrP with an N‑terminal deletion
+                                                             into PrP KO and overexpression transgenics and noted that in the                  in the testes suggesting a functional equivalence of Dpl and the C
+                                                             dentate gyrus PrP KOs had a lower level of proliferating cells whereas            terminus of PrP (A. Aguzzi, unpublished results). Deletion of both
+                                                             in the PrPC overexpression ­transgenic cell proliferation was enhanced           PrPC and Dpl (dKO) had no discernable phenotypes aside from the
+                                                             in the subventricular zone.102 Culturing of neural ­ progenitor cells             male infertility present in Dpl KOs.112,113 Deciphering the pathway
+                                                             from embryonic PrP KOs and ­ overexpression ­ transgenics revealed               through which Dpl affects male fertility could inform future studies
+                                                             that PrPC may promote the exit from a precursor state and ­maturation            of PrPC ­function. A more distant cousin of PrP, called “Shadoo”114
+                                                             into a neuronal lineage.102 The signaling pathway through which                   may also hold promise for revealing PrPC’s function.
+                                                             PrPC presumably operates in this process is still undetermined.                       Will the transgenic mice expressing PrPC without a GPI anchor
+                                                             Collectively, these results demonstrate that careful scrutiny reveals a          (GPI‑) prove useful for elucidating the normal or the disease function
+                                                             subtle function for PrPC in stem and precursor cell biology and it will           of PrP? These mice are very intriguing because replication of prion
+                                                             be interesting to examine whether PrPC functions in other adult stem              infectivity is more or less unaffected whereas toxicity is significantly
+                                                             cell populations that can be more readily isolated. In concert with the           suppressed in the PrP KO background.115,116 It may be that the
+                                                             possible protection against seizure, ischemia, pathogen infection, and           hypothesized signal transduction properties of PrPC are defective
+                                                             evolutionary conservation of PrPC, these results add to the evidence             without a GPI anchor attachment, leaving the GPI—mice fully
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                             for its relevance to mammalian physiology.                                      competent for PrPC’s only ironclad function—prion replication. This
+                                                                                                                                              mouse provides an excellent tool in distinguishing PrPSc replication
+                                                             Future Prospects for Determining PrP Function                                    from toxicity.
+                                                             From In Vivo Studies: Beyond the Prion Protein                                        There are many unresolved questions with respect to PrPC
+                                                                                                                                              ­function: What is the connection between PrP function and
+                                                             Knockout Mouse                                                                  ­pathogenesis? What is the functional relevance of differential
+                                                                 Several investigators have expressed PrPC in yeast in order to             ­expression of PrPC in subpopulations of neurons in the brain? How
+                                                             better understand the disease‑associated properties of this protein.103          do we assign the many described phenotypes in PrP KOs to discrete
+                                                             Furthermore PrPC has been expressed in yeast (which do not express               molecular pathways? Perhaps physiological stress will only bring out
+                                                             a PrP homolog) to investigate normal function, but perhaps this is                the effects of non-relevant linked genes, leading down a garden path
+                                                             aiming too “low” in terms of model organisms as initial studies have             of genetic artifacts? Is the conformational diversity attained by PrPSc
+                                                             not revealed any role for PrPC in copper transport, a well ­characterized         reflecting a possible conformational diversity of PrPC as recently
+                                                             process in yeast.104 Interestingly PrPC expression rescues Bax induced            speculated by Stanley Prusiner?117 It is fascinating to speculate that
+                                                             cell death in yeast;105 however the significance and relevance of                 this labile structure of PrPC may encipher its function. Hopefully one
+                                                             this paradigm is unclear even in mammalian cells.106 Given the                  day the question of PrPC function will be settled, but for now there
+                                                             remarkable conservation of PrP structure among vertebrates,107,108                remains plenty of work to do!
+                                                             the use of non-mammalian models could open up new avenues for
+                                                                                                                                                Acknowledgements
+                                                             prion research. For instance, the first dramatic phenotypes of PrP
+                                                             loss‑ and gain‑of‑function have been produced in zebrafish (Edward                  We are grateful to numerous enthusiastic and collegial PrP
+                                                             Málaga‑Trillo, Gonzalo Solis, Yvonne Schrock, Lydia Luncz, Venus               f­ unction collaborators: Artur Topolszki, Cheng Cheng Zhang,
+                                                             Thomanetz, and Claudia Stuermer, personal communication).                       Harvey Lodish, Oliver King, Walker Jackson and Rob Wheeler
+                                                             Notably, early knockdown of PrP in fish embryos is lethal but can be            (WIBR), Jason Emsley, Hande Ozdinler, Jeffrey Macklis, Zhipeng
+                                                             partially rescued by expression of mouse PrP, ruling out potential off         Zhou, Katharina Haerter, Michael Moskowitz and Carla Bender Kim
+                                                             target effects of the knockdown construct. Analysis of the molecular           (Harvard Medical School), to Tom DiCesare of WIBR bioinformatics
+                                                             pathways involved in fish PrP function should guide future studies              for graphical assistance, to Caroline Yi (Harvard Medical School),
+                                                             in the mammalian system. Studies in the rat offer the advantage                Walker Jackson (WIBR) and Edward Málaga‑Trillo (University
+                                                             of larger brains that make surgical and other interventions more               of Konstanz) for valuable comments on the manuscript. Susan
+                                                             feasible.77 However, it is unlikely that deletion of PrPC will be much         Lindquist is a Howard Hughes Medical Institute Investigator
+                                                             more informative in the rat than it has been for the mouse. Very                and is supported by funding from the Ellison Medical Research
+                                                             recently it has become possible to study PrPC function in ­ruminants            Foundation, U.S. Department of Defense and the NIH. Adriano
+                                                             lacking PrPC which appear normal up to 20 months of age.11 Also,                Aguzzi is supported by a ­ philanthropic donation by Dr. Arthur
+                                                             hemizygous PrPC deletion goats now exist and homozygous null                    Meier‑Schenk, and by grants from the European Union (TSEUR),
+                                                             animals should be forthcoming.12 Perhaps the longer lifespans of                the Swiss National Foundation, the Ernst‑Jung Foundation and the
+                                                             the cow and goat will reveal age dependent ­ phenotypes associated              National Competence Center for Research on Neural Plasticity and
+                                                             with PrPC deletion. Likewise it may be worthwhile to delete Prnp in             Repair. We apologize to authors whose work could not be discussed
+                                                             a non-human primate, where much more detailed cognitive testing                 due to limitations in space and scope.
+                                                             could be conducted. That being said, it remains possible that the PrP
+                                                             KO mouse holds the key to understanding PrPC function, perhaps
+                                                             even through the study of unexpected phenotypes, such as the
+                                                             recently reported tooth abnormality in PrP KOs.109
+
+                                                             90	                                                                       Prion	                                                   2007; Vol. 1 Issue 2
+                                                                                                                                           Prion Protein Knockout Mouse Phenotypes
+
+
+                                                                 References                                                                                        	 30.	 Bueler H, Raeber A, Sailer A, Fischer M, Aguzzi A, Weissmann C. High prion and PrPSc
+                                                             	 1.	 Prusiner SB. Prions. Proc Natl Acad Sci USA 1998; 95:13363‑83.                                         levels but delayed onset of disease in scrapie‑inoculated mice heterozygous for a disrupted
+                                                             	 2.	 Aguzzi A, Heikenwalder M. Pathogenesis of prion diseases: Current status and future out-               PrP gene. Mol Med 1994; 1:19‑30.
+                                                                    look. Nat Rev Microbiol 2006; 4:765‑75.                                                        	 31.	 Brandner S, Isenmann S, Raeber A, Fischer M, Sailer A, Kobayashi Y, Marino S, Weissmann
+                                                             	 3.	 Hetz C, Maundrell K, Soto C. Is loss of function of the prion protein the cause of prion               C, Aguzzi A. Normal host prion protein necessary for scrapie‑induced neurotoxicity. Nature
+                                                                    disorders? Trends Mol Med 2003; 9:237‑43.                                                             1996; 379:339‑43.
+                                                             	 4.	 Aguzzi A. Prion diseases of humans and farm animals: Epidemiology, genetics, and patho-         	 32.	 Fischer M, Rulicke T, Raeber A, Sailer A, Moser M, Oesch B, Brandner S, Aguzzi A,
+                                                                    genesis. J Neurochem 2006; 97:1726‑39.                                                                Weissmann C. Prion protein (PrP) with amino‑proximal deletions restoring susceptibility
+                                                                                                                                                                          of PrP knockout mice to scrapie. Embo J 1996; 15:1255‑64.
+                                                             	 5.	 Caughey B, Baron GS. Prions and their partners in crime. Nature 2006; 443:803‑10.
+                                                                                                                                                                   	 33.	 Flechsig E, Shmerling D, Hegyi I, Raeber AJ, Fischer M, Cozzio A, von Mering C, Aguzzi
+                                                             	 6.	 Sakudo A, Onodera T, Suganuma Y, Kobayashi T, Saeki K, Ikuta K. Recent advances in
+                                                                                                                                                                          A, Weissmann C. Prion protein devoid of the octapeptide repeat region restores susceptibil-
+                                                                    clarifying prion protein functions using knockout mice and derived cell lines. Mini Rev Med
+                                                                                                                                                                          ity to scrapie in PrP knockout mice. Neuron 2000; 27:399‑408.
+                                                                    Chem 2006; 6:589‑601.
+                                                                                                                                                                   	 34.	 Tobler I, Gaus SE, Deboer T, Achermann P, Fischer M, Rulicke T, Moser M, Oesch B,
+                                                             	 7.	 Aguzzi A, Haass C. Games played by rogue proteins in prion disorders and Alzheimer’s
+                                                                                                                                                                          McBride PA, Manson JC. Altered circadian activity rhythms and sleep in mice devoid of
+                                                                    disease. Science 2003; 302:814‑8.
+                                                                                                                                                                          prion protein. Nature 1996; 380:639‑42.
+                                                             	 8.	 Abeliovich A, Schmitz Y, Farinas I, Choi‑Lundberg D, Ho WH, Castillo PE, Shinsky N,
+                                                                                                                                                                   	 35.	 Lugaresi E, Tobler I, Gambetti P, Montagna P. The pathophysiology of fatal familial insom-
+                                                                    Verdugo JM, Armanini M, Ryan A, Hynes M, Phillips H, Sulzer D, Rosenthal A. Mice lack-
+                                                                                                                                                                          nia. Brain Pathol 1998; 8:521‑6.
+                                                                    ing alpha‑synuclein display functional deficits in the nigrostriatal dopamine system. Neuron
+                                                                    2000; 25:239‑52.                                                                               	 36.	 Landolt HP, Glatzel M, Blattler T, Achermann P, Roth C, Mathis J, Weis J, Tobler I, Aguzzi
+                                                                                                                                                                          A, Bassetti CL. Sleep‑wake disturbances in sporadic Creutzfeldt‑Jakob disease. Neurology
+                                                             	 9.	 Zuccato C, Ciammola A, Rigamonti D, Leavitt BR, Goffredo D, Conti L, MacDonald
+                                                                                                                                                                          2006; 66:1418‑24.
+                                                                    ME, Friedlander RM, Silani V, Hayden MR, Timmusk T, Sipione S, Cattaneo E. Loss
+                                                                    of huntingtin‑mediated BDNF gene transcription in Huntington’s disease. Science 2001;          	 37.	 Tobler I, Deboer T, Fischer M. Sleep and sleep regulation in normal and prion protein‑de-
+                                                                    293:493‑8.                                                                                            ficient mice. J Neurosci 1997; 17:1869‑79.
+                                                             	 10.	 Bueler H, Fischer M, Lang Y, Bluethmann H, Lipp HP, DeArmond SJ, Prusiner SB,                  	 38.	 Brown DR, Qin K, Herms JW, Madlung A, Manson J, Strome R, Fraser PE, Kruck T, von
+                                                                    Aguet M, Weissmann C. Normal development and behaviour of mice lacking the neuronal                   Bohlen A, Schulz‑Schaeffer W, Giese A, Westaway D, Kretzschmar H. The cellular prion
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                                    cell‑surface PrP protein. Nature 1992; 356:577‑82.                                                    protein binds copper in vivo. Nature 1997; 390:684‑7.
+                                                             	 11.	 Richt JA, Kasinathan P, Hamir AN, Castilla J, Sathiyaseelan T, Vargas F, Sathiyaseelan J,      	 39.	 Waggoner DJ, Drisaldi B, Bartnikas TB, Casareno RL, Prohaska JR, Gitlin JD, Harris DA.
+                                                                    Wu H, Matsushita H, Koster J, Kato S, Ishida I, Soto C, Robl JM, Kuroiwa Y. Production                Brain copper content and cuproenzyme activity do not vary with prion protein expression
+                                                                    of cattle lacking prion protein. Nat Biotechnol 2006.                                                 level. J Biol Chem 2000; 275:7455‑8.
+                                                             	 12.	 Yu G, Chen J, Yu H, Liu S, Xu X, Sha H, Zhang X, Wu G, Xu S, Cheng G. Functional               	 40.	 Wong BS, Liu T, Li R, Pan T, Petersen RB, Smith MA, Gambetti P, Perry G, Manson JC,
+                                                                    disruption of the prion protein gene in cloned goats. J Gen Virol 2006; 87:1019‑27.                   Brown DR, Sy MS. Increased levels of oxidative stress markers detected in the brains of mice
+                                                                                                                                                                          devoid of prion protein. J Neurochem 2001; 76:565‑72.
+                                                             	 13.	 Marc D, Mercey R, Lantier F. Scavenger, transducer, RNA chaperone? What ligands of the
+                                                                    prion protein teach us about its function. Cell Mol Life Sci 2007.                             	 41.	 Klamt F, Dal‑Pizzol F, Conte da Frota MJ, Walz R, Andrades ME, da Silva EG, Brentani
+                                                                                                                                                                          RR, Izquierdo I, Fonseca Moreira JC. Imbalance of antioxidant defense in mice lacking
+                                                             	 14.	 Riemenschneider M, Klopp N, Xiang W, Wagenpfeil S, Vollmert C, Muller U, Forstl
+                                                                                                                                                                          cellular prion protein. Free Radic Biol Med 2001; 30:1137‑44.
+                                                                    H, Illig T, Kretzschmar H, Kurz A. Prion protein codon 129 polymorphism and risk of
+                                                                    Alzheimer disease. Neurology 2004; 63:364‑6.                                                   	 42.	 Brown DR, Nicholas RS, Canevari L. Lack of prion protein expression results in a neuronal
+                                                                                                                                                                          phenotype sensitive to stress. J Neurosci Res 2002; 67:211‑24.
+                                                             	 15.	 Ahn K, Kim E, Kwon YA, Kim DK, Lee JE, Jo SA. No association of prion protein gene
+                                                                    polymorphisms with Alzheimer‘s disease in Korean population. Exp Mol Med 2006;                 	 43.	 Hutter G, Heppner FL, Aguzzi A. No superoxide dismutase activity of cellular prion protein
+                                                                    38:727‑31.                                                                                            in vivo. Biol Chem 2003; 384:1279‑85.
+                                                             	 16.	 Del Bo R, Scarlato M, Ghezzi S, Martinelli‑Boneschi F, Fenoglio C, Galimberti G, Galbiati      	 44.	 Miele G, Jeffrey M, Turnbull D, Manson J, Clinton M. Ablation of cellular prion protein
+                                                                    S, Virgilio R, Galimberti D, Ferrarese C, Scarpini E, Bresolin N, Comi GP. Is M129V of                expression affects mitochondrial numbers and morphology. Biochem Biophys Res Commun
+                                                                    PRNP gene associated with Alzheimer’s disease? A case‑control study and a meta‑analysis.              2002; 291:372‑7.
+                                                                    Neurobiol Aging 2006; 27:770 e1‑e5.                                                            	 45.	 Ma J, Wollmann R, Lindquist S. Neurotoxicity and neurodegeneration when PrP accumu-
+                                                             	 17.	 Walz R, Castro RM, Landemberger MC, Velasco TR, Terra‑Bustamante VC, Bastos AC,                       lates in the cytosol. Science 2002; 298:1781‑5.
+                                                                    Bianchin M, Wichert‑Ana L, Araujo D, Alexandre Jr V, Santos AC, Machado HR, Carlotti           	 46.	 Lobao‑Soares B, Bianchin MM, Linhares MN, Carqueja CL, Tasca CI, Souza M, Marques
+                                                                    Jr CG, Brentani RR, Martins VR, Sakamoto AC. Cortical malformations are associated with               Jr W, Brentani R, Martins VR, Sakamoto AC, Carlotti Jr CG, Walz R. Normal brain
+                                                                    a rare polymorphism of cellular prion protein. Neurology 2004; 63:557‑60.                             mitochondrial respiration in adult mice lacking cellular prion protein. Neurosci Lett 2005;
+                                                             	 18.	 Walz R, Castro RM, Velasco TR, Alexandre Jr V, Lopes MH, Leite JP, Santos AC, Assirati                375:203‑6.
+                                                                    Jr JA, Wichert‑Ana L, Terra‑Bustamante VC, Bianchin MM, Maciag PC, Ribeiro KB,                 	 47.	 de Almeida CJ, Chiarini LB, da Silva JP, PM ES, Martins MA, Linden R. The cellular
+                                                                    Guarnieri R, Araujo D, Cabalero O, Moura R, Salim AC, Kindlmann K, Landemberger                       prion protein modulates phagocytosis and inflammatory response. J Leukoc Biol 2005;
+                                                                    MC, Marques Jr W, Fernandes RM, Serafini LN, Machado HR, Carlotti Jr CG, Brentani                     77:238‑46.
+                                                                    RR, Sakamoto AC, Martins VR. Surgical outcome in mesial temporal sclerosis correlates          	 48.	 Watarai M, Kim S, Erdenebaatar J, Makino S, Horiuchi M, Shirahata T, Sakaguchi S,
+                                                                    with prion protein gene variant. Neurology 2003; 61:1204‑10.                                          Katamine S. Cellular prion protein promotes Brucella infection into macrophages. J Exp
+                                                             	 19.	 Papassotiropoulos A, Wollmer MA, Aguzzi A, Hock C, Nitsch RM, de Quervain DJ.                         Med 2003; 198:5‑17.
+                                                                    The prion gene is associated with human long‑term memory. Hum Mol Genet 2005;                  	 49.	 Aguzzi A, Hardt WD. Dangerous liaisons between a microbe and the prion protein. J Exp
+                                                                    14:2241‑6.                                                                                            Med 2003; 198:1‑4.
+                                                             	 20.	 Zan Q, Wen B, He Y, Wang Y, Xu S, Qian J, Lu D, Jin L. Complete sequence data support          	 50.	 Fontes P, Alvarez‑Martinez MT, Gross A, Carnaud C, Kohler S, Liautard JP. Absence of
+                                                                    lack of balancing selection on PRNP in a natural Chinese population. J Hum Genet 2006;                evidence for the participation of the macrophage cellular prion protein in infection with
+                                                                    51:451‑4.                                                                                             Brucella suis. Infect Immun 2005; 73:6229‑36.
+                                                             	 21.	 Weissmann C, Bueler H. A mouse to remember. Cell 2004; 116:S111‑3.                             	 51.	 Thackray AM, Bujdoso R. PrPC expression influences the establishment of herpes simplex
+                                                             	 22.	 Manson JC, Clarke AR, Hooper ML, Aitchison L, McConnell I, Hope J. 129/Ola mice car-                  virus type 1 latency. J Virol 2002; 76:2498‑509.
+                                                                    rying a null mutation in PrP that abolishes mRNA production are developmentally normal.        	 52.	 Thackray AM, Bujdoso R. Elevated PrPC expression predisposes to increased HSV‑1 patho-
+                                                                    Mol Neurobiol 1994; 8:121‑7.                                                                          genicity. Antivir Chem Chemother 2006; 17:41‑52.
+                                                             	 23.	 Roucou X, Gains M, LeBlanc AC. Neuroprotective functions of prion protein. J Neurosci          	 53.	 Ballerini C, Gourdain P, Bachy V, Blanchard N, Levavasseur E, Gregoire S, Fontes P,
+                                                                    Res 2004; 75:153‑61.                                                                                  Aucouturier P, Hivroz C, Carnaud C. Functional implication of cellular prion protein
+                                                             	 24.	 Weissmann C, Flechsig E. PrP knock‑out and PrP transgenic mice in prion research. Br Med              in antigen‑driven interactions between T cells and dendritic cells. J Immunol 2006;
+                                                                    Bull 2003; 66:43‑60.                                                                                  176:7254‑62.
+                                                             	 25.	 Weissmann C, Aguzzi A. Perspectives: Neurobiology: PrP’s double causes trouble. Science        	 54.	 Jouvin‑Marche E, Attuil‑Audenis V, Aude‑Garcia C, Rachidi W, Zabel M, Podevin‑Dimster
+                                                                    1999; 286:914‑5.                                                                                      V, Siret C, Huber C, Martinic M, Riondel J, Villiers CL, Favier A, Naquet P, Cesbron JY,
+                                                             	 26.	 Gerlai R. Gene‑targeting studies of mammalian behavior: Is it the mutation or the back-               Marche PN. Overexpression of cellular prion protein induces an antioxidant environment
+                                                                    ground genotype? Trends Neurosci 1996; 19:177‑81.                                                     altering T cell development in the thymus. J Immunol 2006; 176:3490‑7.
+                                                             	 27.	 Sakaguchi S, Katamine S, Nishida N, Moriuchi R, Shigematsu K, Sugimoto T, Nakatani             	 55.	 Kubosaki A, Nishimura‑Nasu Y, Nishimura T, Yusa S, Sakudo A, Saeki K, Matsumoto Y,
+                                                                    A, Kataoka Y, Houtani T, Shirabe S, Okada H, Hasegawa S, Miyamoto T, Noda T. Loss of                  Itohara S, Onodera T. Expression of normal cellular prion protein (PrPC) on T lymphocytes
+                                                                    cerebellar Purkinje cells in aged mice homozygous for a disrupted PrP gene. Nature 1996;              and the effect of copper ion: Analysis by wild‑type and prion protein gene‑deficient mice.
+                                                                    380:528‑31.                                                                                           Biochem Biophys Res Commun 2003; 307:810‑3.
+                                                             	 28.	 Bueler H, Aguzzi A, Sailer A, Greiner RA, Autenried P, Aguet M, Weissmann C. Mice              	 56.	 Collinge J, Whittington MA, Sidle KC, Smith CJ, Palmer MS, Clarke AR, Jefferys JG.
+                                                                    devoid of PrP are resistant to scrapie. Cell 1993; 73:1339‑47.                                        Prion protein is necessary for normal synaptic function. Nature 1994; 370:295‑7.
+                                                             	 29.	 Sailer A, Bueler H, Fischer M, Aguzzi A, Weissmann C. No propagation of prions in mice         	 57.	 Manson JC CA, Johnston A, Black C, MacLeod N. PrP Gene dosage and long term poten-
+                                                                    devoid of PrP. Cell 1994; 77:967‑8.                                                                   tiation. Neurodegeneration 1995; 4:113‑4.
+
+
+                                                             www.landesbioscience.com	                                                                        Prion	                                                                                             91
+                                                                                                                                          Prion Protein Knockout Mouse Phenotypes
+
+
+                                                             	 58.	 Whittington MA, Sidle KC, Gowland I, Meads J, Hill AF, Palmer MS, Jefferys JG, Collinge       	 85.	 Spudich A, Frigg R, Kilic E, Kilic U, Oesch B, Raeber A, Bassetti CL, Hermann DM.
+                                                                    J. Rescue of neurophysiological phenotype seen in PrP null mice by transgene encoding                Aggravation of ischemic brain injury by prion protein deficiency: Role of ERK‑1/‑2 and
+                                                                    human prion protein. Nat Genet 1995; 9:197‑201.                                                      STAT‑1. Neurobiol Dis 2005; 20:442‑9.
+                                                             	 59.	 Asante EA, Li YG, Gowland I, Jefferys JG, Collinge J. Pathogenic human prion protein          	 86.	 Gains MJ, Roth KA, LeBlanc AC. Prion protein protects against ethanol‑induced
+                                                                    rescues PrP null phenotype in transgenic mice. Neurosci Lett 2004; 360:33‑6.                         Bax‑mediated cell death in vivo. Neuroreport 2006; 17:903‑6.
+                                                             	 60.	 Herms JW, Kretzchmar HA, Titz S, Keller BU. Patch‑clamp analysis of synaptic transmis-        	 87.	 Hoshino S, Inoue K, Yokoyama T, Kobayashi S, Asakura T, Teramoto A, Itohara S. Prions
+                                                                    sion to cerebellar purkinje cells of prion protein knockout mice. Eur J Neurosci 1995;               prevent brain damage after experimental brain injury: A preliminary report. Acta Neurochir
+                                                                    7:2508‑12.                                                                                           Suppl 2003; 86:297‑9.
+                                                             	 61.	 Lledo PM, Tremblay P, DeArmond SJ, Prusiner SB, Nicoll RA. Mice deficient for prion           	 88.	 Katamine S, Nishida N, Sugimoto T, Noda T, Sakaguchi S, Shigematsu K, Kataoka Y,
+                                                                    protein exhibit normal neuronal excitability and synaptic transmission in the hippocampus.           Nakatani A, Hasegawa S, Moriuchi R, Miyamoto T. Impaired motor coordination in mice
+                                                                    Proc Natl Acad Sci USA 1996; 93:2403‑7.                                                              lacking prion protein. Cell Mol Neurobiol 1998; 18:731‑42.
+                                                             	 62.	 Criado JR, Sanchez‑Alavez M, Conti B, Giacchino JL, Wills DN, Henriksen SJ, Race R,           	 89.	 Moore RC, Lee IY, Silverman GL, Harrison PM, Strome R, Heinrich C, Karunaratne A,
+                                                                    Manson JC, Chesebro B, Oldstone MB. Mice devoid of prion protein have cognitive deficits             Pasternak SH, Chishti MA, Liang Y, Mastrangelo P, Wang K, Smit AF, Katamine S, Carlson
+                                                                    that are rescued by reconstitution of PrP in neurons. Neurobiol Dis 2005; 19:255‑65.                 GA, Cohen FE, Prusiner SB, Melton DW, Tremblay P, Hood LE, Westaway D. Ataxia in
+                                                             	 63.	 Maglio LE, Perez MF, Martins VR, Brentani RR, Ramirez OA. Hippocampal synaptic plas-                 prion protein (PrP)‑deficient mice is associated with upregulation of the novel PrP‑like
+                                                                    ticity in mice devoid of cellular prion protein. Brain Res Mol Brain Res 2004; 131:58‑64.            protein doppel. J Mol Biol 1999; 292:797‑817.
+                                                             	 64.	 Curtis J, Errington M, Bliss T, Voss K, MacLeod N. Age‑dependent loss of PTP and LTP in       	 90.	 Li A, Sakaguchi S, Atarashi R, Roy BC, Nakaoke R, Arima K, Okimura N, Kopacek J,
+                                                                    the hippocampus of PrP‑null mice. Neurobiol Dis 2003; 13:55‑62.                                      Shigematsu K. Identification of a novel gene encoding a PrP‑like protein expressed as chi-
+                                                             	 65.	 Maglio LE, Martins VR, Izquierdo I, Ramirez OA. Role of cellular prion protein on LTP                meric transcripts fused to PrP exon 1/2 in ataxic mouse line with a disrupted PrP gene. Cell
+                                                                    expression in aged mice. Brain Res 2006; 1097:11‑8.                                                  Mol Neurobiol 2000; 20:553‑67.
+                                                             	 66.	 Herms JW, Tings T, Dunker S, Kretzschmar HA. Prion protein affects Ca2+‑activated K+          	 91.	 Nishida N, Tremblay P, Sugimoto T, Shigematsu K, Shirabe S, Petromilli C, Erpel SP,
+                                                                    currents in cerebellar purkinje cells. Neurobiol Dis 2001; 8:324‑30.                                 Nakaoke R, Atarashi R, Houtani T, Torchia M, Sakaguchi S, DeArmond SJ, Prusiner SB,
+                                                             	 67.	 Carleton A, Tremblay P, Vincent JD, Lledo PM. Dose‑dependent, prion protein                          Katamine S. A mouse prion protein transgene rescues mice deficient for the prion protein
+                                                                    (PrP)‑mediated facilitation of excitatory synaptic transmission in the mouse hippocampus.            gene from purkinje cell degeneration and demyelination. Lab Invest 1999; 79:689‑97.
+                                                                                                                                                                  	 92.	 Valenti P, Cozzio A, Nishida N, Wolfer DP, Sakaguchi S, Lipp HP. Similar target, differ-
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                                    Pflugers Arch 2001; 442:223‑9.
+                                                             	 68.	 Mallucci GR, Ratte S, Asante EA, Linehan J, Gowland I, Jefferys JG, Collinge J. Post‑natal           ent effects: Late‑onset ataxia and spatial learning in prion protein‑deficient mouse lines.
+                                                                    knockout of prion protein alters hippocampal CA1 properties, but does not result in neu-             Neurogenetics 2001; 3:173‑84.
+                                                                    rodegeneration. Embo J 2002; 21:202‑10.                                                       	 93.	 Anderson L, Rossi D, Linehan J, Brandner S, Weissmann C. Transgene‑driven expression
+                                                             	 69.	 Walz R, Amaral OB, Rockenbach IC, Roesler R, Izquierdo I, Cavalheiro EA, Martins                     of the Doppel protein in Purkinje cells causes Purkinje cell degeneration and motor impair-
+                                                                    VR, Brentani RR. Increased sensitivity to seizures in mice lacking cellular prion protein.           ment. Proc Natl Acad Sci USA 2004; 101:3644‑9.
+                                                                    Epilepsia 1999; 40:1679‑82.                                                                   	 94.	 Yamaguchi N, Sakaguchi S, Shigematsu K, Okimura N, Katamine S. Doppel‑induced
+                                                             	 70.	 Rangel A, Burgaya F, Gavin R, Soriano E, Aguzzi A, Del Rio JA. Enhanced susceptibility               Purkinje cell death is stoichiometrically abrogated by prion protein. Biochem Biophys Res
+                                                                    of Prnp‑deficient mice to kainate‑induced seizures, neuronal apoptosis, and death: Role of           Commun 2004; 319:1247‑52.
+                                                                    AMPA/kainate receptors. J Neurosci Res 2007.                                                  	 95.	 Atarashi R, Nishida N, Shigematsu K, Goto S, Kondo T, Sakaguchi S, Katamine S. Deletion
+                                                             	 71.	 Pereira GS, Walz R, Bonan CD, Battastini AM, Izquierdo I, Martins VR, Brentani RR,                   of N‑terminal residues 23–88 from prion protein (PrP) abrogates the potential to rescue
+                                                                    Sarkis JJ. Changes in cortical and hippocampal ectonucleotidase activities in mice lacking           PrP‑deficient mice from PrP‑like protein/doppel‑induced Neurodegeneration. J Biol Chem
+                                                                    cellular prion protein. Neurosci Lett 2001; 301:72‑4.                                                2003; 278:28944‑9.
+                                                             	 72.	 Walz R, Castro RM, Velasco TR, Carlotti Jr CG, Sakamoto AC, Brentani RR, Martins VR.          	 96.	 Shmerling D, Hegyi I, Fischer M, Blattler T, Brandner S, Gotz J, Rulicke T, Flechsig E,
+                                                                    Cellular prion protein: Implications in seizures and epilepsy. Cell Mol Neurobiol 2002;              Cozzio A, von Mering C, Hangartner C, Aguzzi A, Weissmann C. Expression of amino‑ter-
+                                                                    22:249‑57.                                                                                           minally truncated PrP in the mouse leading to ataxia and specific cerebellar lesions. Cell
+                                                                                                                                                                         1998; 93:203‑14.
+                                                             	 73.	 Colling SB, Khana M, Collinge J, Jefferys JG. Mossy fibre reorganization in the hippocam-
+                                                                    pus of prion protein null mice. Brain Res 1997; 755:28‑35.                                    	 97.	 Flechsig E, Hegyi I, Leimeroth R, Zuniga A, Rossi D, Cozzio A, Schwarz P, Rulicke T, Gotz
+                                                                                                                                                                         J, Aguzzi A, Weissmann C. Expression of truncated PrP targeted to Purkinje cells of PrP
+                                                             	 74.	 Lipp HP, Stagliar‑Bozicevic M, Fischer M, Wolfer DP. A 2‑year longitudinal study of
+                                                                                                                                                                         knockout mice causes Purkinje cell death and ataxia. EMBO J 2003; 22:3095‑101.
+                                                                    swimming navigation in mice devoid of the prion protein: No evidence for neurological
+                                                                    anomalies or spatial learning impairments. Behav Brain Res 1998; 95:47‑54.                    	 98.	 Radovanovic I, Braun N, Giger OT, Mertz K, Miele G, Prinz M, Navarro B, Aguzzi A.
+                                                                                                                                                                         Truncated prion protein and Doppel are myelinotoxic in the absence of oligodendrocytic
+                                                             	 75.	 Roesler R, Walz R, Quevedo J, de‑Paris F, Zanata SM, Graner E, Izquierdo I, Martins VR,
+                                                                                                                                                                         PrPC. J Neurosci 2005; 25:4879‑88.
+                                                                    Brentani RR. Normal inhibitory avoidance learning and anxiety, but increased locomotor
+                                                                    activity in mice devoid of PrPC. Brain Res Mol Brain Res 1999; 71:349‑53.                     	 99.	 Baumann F, Tolnay M, Brabeck C, Pahnke J, Kloz U, Niemann HH, Heikenwalder M,
+                                                                                                                                                                         Rulicke T, Burkle A, Aguzzi A. Lethal recessive myelin toxicity of prion protein lacking its
+                                                             	 76.	 Coitinho AS, Roesler R, Martins VR, Brentani RR, Izquierdo I. Cellular prion protein abla-
+                                                                                                                                                                         central domain. Embo J 2007; 26:538‑47.
+                                                                    tion impairs behavior as a function of age. Neuroreport 2003; 14:1375‑9.
+                                                                                                                                                                  	100.	 Zhang CC, Steele AD, Lindquist S, Lodish HF. Prion protein is expressed on long‑term
+                                                             	 77.	 Coitinho AS, Freitas AR, Lopes MH, Hajj GN, Roesler R, Walz R, Rossato JI, Cammarota
+                                                                                                                                                                         repopulating hematopoietic stem cells and is important for their self‑renewal. Proc Natl
+                                                                    M, Izquierdo I, Martins VR, Brentani RR. The interaction between prion protein and
+                                                                                                                                                                         Acad Sci USA 2006; 103:2184‑9.
+                                                                    laminin modulates memory consolidation. Eur J Neurosci 2006; 24:3255‑64.
+                                                                                                                                                                  	101.	 Emsley JG, Mitchell BD, Kempermann G, Macklis JD. Adult neurogenesis and repair of
+                                                             	 78.	 Coitinho AS, Dietrich MO, Hoffmann A, Dall’Igna OP, Souza DO, Martins VR, Brentani
+                                                                                                                                                                         the adult CNS with neural progenitors, precursors, and stem cells. Prog Neurobiol 2005;
+                                                                    RR, Izquierdo I, Lara DR. Decreased hyperlocomotion induced by MK‑801, but not
+                                                                                                                                                                         75:321‑41.
+                                                                    amphetamine and caffeine in mice lacking cellular prion protein (PrPC). Brain Res Mol
+                                                                    Brain Res 2002; 107:190‑4.                                                                    	102.	 Steele AD, Emsley JG, Ozdinler PH, Lindquist S, Macklis JD. Prion protein (PrPC) posi-
+                                                                                                                                                                         tively regulates neural precursor proliferation during developmental and adult mammalian
+                                                             	 79.	 Nico PB, de‑Paris F, Vinade ER, Amaral OB, Rockenbach I, Soares BL, Guarnieri R,
+                                                                                                                                                                         neurogenesis. Proc Natl Acad Sci USA 2006; 103:3416‑21.
+                                                                    Wichert‑Ana L, Calvo F, Walz R, Izquierdo I, Sakamoto AC, Brentani R, Martins VR,
+                                                                    Bianchin MM. Altered behavioural response to acute stress in mice lacking cellular prion      	103.	 Ma J, Lindquist S. De novo generation of a PrPSc‑like conformation in living cells. Nat Cell
+                                                                    protein. Behav Brain Res 2005; 162:173‑81.                                                           Biol 1999; 1:358‑61.
+                                                             	 80.	 Steele AD, Jackson WS, King OD, Lindquist S. The power of automated high‑resolution           	104.	 Li A, Dong J, Harris DA. Cell surface expression of the prion protein in yeast does not alter
+                                                                    behavior analysis revealed by its application to mouse models of Huntington’s and prion              copper utilization phenotypes. J Biol Chem 2004; 279:29469‑77.
+                                                                    diseases. Proc Natl Acad Sci USA 2007; 104:1983‑8.                                            	105.	 Li A, Harris DA. Mammalian prion protein suppresses Bax‑induced cell death in yeast. J
+                                                             	 81.	 McLennan NF, Brennan PM, McNeill A, Davies I, Fotheringham A, Rennison KA, Ritchie                   Biol Chem 2005; 280:17430‑4.
+                                                                    D, Brannan F, Head MW, Ironside JW, Williams A, Bell JE. Prion protein accumulation           	106.	 Bounhar Y, Zhang Y, Goodyer CG, LeBlanc A. Prion protein protects human neurons
+                                                                    and neuroprotection in hypoxic brain damage. Am J Pathol 2004; 165:227‑35.                           against Bax‑mediated apoptosis. J Biol Chem 2001; 276:39145‑9.
+                                                             	 82.	 Sakurai‑Yamashita Y, Sakaguchi S, Yoshikawa D, Okimura N, Masuda Y, Katamine S,               	107.	 Calzolai L, Lysek DA, Perez DR, Guntert P, Wuthrich K. Prion protein NMR structures of
+                                                                    Niwa M. Female‑specific neuroprotection against transient brain ischemia observed in mice            chickens, turtles, and frogs. Proc Natl Acad Sci USA 2005; 102:651‑5.
+                                                                    devoid of prion protein is abolished by ectopic expression of prion protein‑like protein.     	108.	 Rivera‑Milla E, Oidtmann B, Panagiotidis CH, Baier M, Sklaviadis T, Hoffmann R, Zhou
+                                                                    Neuroscience 2005; 136:281‑7.                                                                        Y, Solis GP, Stuermer CA, Malaga‑Trillo E. Disparate evolution of prion protein domains
+                                                             	 83.	 Weise J, Sandau R, Schwarting S, Crome O, Wrede A, Schulz‑Schaeffer W, Zerr I, Bahr M.               and the distinct origin of Doppel‑ and prion‑related loci revealed by fish‑to‑mammal com-
+                                                                    Deletion of cellular prion protein results in reduced Akt activation, enhanced postischemic          parisons. Faseb J 2006; 20:317‑9.
+                                                                    caspase‑3 activation, and exacerbation of ischemic brain injury. Stroke 2006; 37:1296‑300.    	109.	 Schneider K, Korkmaz Y, Addicks K, Lang H, Raab WH. Prion Protein (PrP) in human
+                                                             	 84.	 Shyu WC, Lin SZ, Chiang MF, Ding DC, Li KW, Chen SF, Yang HI, Li H. Overexpression                   teeth: An unprecedented pointer to PrP’s function. J Endod 2007; 33:110‑3.
+                                                                    of PrPC by adenovirus‑mediated gene targeting reduces ischemic injury in a stroke rat         	110.	 Behrens A, Genoud N, Naumann H, Rulicke T, Janett F, Heppner FL, Ledermann B,
+                                                                    model. J Neurosci 2005; 25:8967‑77.                                                                  Aguzzi A. Absence of the prion protein homologue Doppel causes male sterility. EMBO J
+                                                                                                                                                                         2002; 21:3652‑8.
+
+
+
+                                                             92	                                                                                             Prion	                                                                    2007; Vol. 1 Issue 2
+                                                                                                                                            Prion Protein Knockout Mouse Phenotypes
+
+
+                                                             	111.	 Tuzi NL, Gall E, Melton D, Manson JC. Expression of doppel in the CNS of mice does not
+                                                                    modulate transmissible spongiform encephalopathy disease. J Gen Virol 2002; 83:705‑11.
+                                                             	112.	 Genoud N, Behrens A, Miele G, Robay D, Heppner FL, Freigang S, Aguzzi A. Disruption
+                                                                    of Doppel prevents neurodegeneration in mice with extensive Prnp deletions. Proc Natl
+                                                                    Acad Sci USA 2004; 101:4198‑203.
+                                                             	113.	 Paisley D, Banks S, Selfridge J, McLennan NF, Ritchie AM, McEwan C, Irvine DS,
+                                                                    Saunders PT, Manson JC, Melton DW. Male infertility and DNA damage in Doppel knock-
+                                                                    out and prion protein/Doppel double‑knockout mice. Am J Pathol 2004; 164:2279‑88.
+                                                             	114.	 Premzl M, Sangiorgio L, Strumbo B, Marshall Graves JA, Simonic T, Gready JE. Shadoo,
+                                                                    a new protein highly conserved from fish to mammals and with similarity to prion protein.
+                                                                    Gene 2003; 314:89‑102.
+                                                             	115.	 Chesebro B, Trifilo M, Race R, Meade‑White K, Teng C, LaCasse R, Raymond L, Favara
+                                                                    C, Baron G, Priola S, Caughey B, Masliah E, Oldstone M. Anchorless prion protein results
+                                                                    in infectious amyloid disease without clinical scrapie. Science 2005; 308:1435‑9.
+                                                             	116.	 Aguzzi A. Cell biology. Prion toxicity: All sail and no anchor. Science 2005; 308:1420‑1.
+                                                             	117.	 Legname G, Nguyen HO, Peretz D, Cohen FE, DeArmond SJ, Prusiner SB. Continuum
+                                                                    of prion protein structures enciphers a multitude of prion isolate‑specified phenotypes. Proc
+                                                                    Natl Acad Sci USA 2006; 103:19105‑10.
+Downloaded by [BSP ENSP-Fiocruz] at 07:52 15 December 2015
+
+
+
+
+                                                             www.landesbioscience.com	                                                                         Prion	                 93
+

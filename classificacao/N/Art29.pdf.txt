@@ -1,0 +1,668 @@
+                         Review                           TRENDS in Pharmacological Sciences             Vol.26 No.5 May 2005
+
+
+
+
+Yeast as a model for medical and
+medicinal research
+Willem H. Mager1 and Joris Winderickx2
+1
+  Department of Chemistry and Pharmaceutical Sciences, Faculty of Sciences, Vrije Universiteit, De Boelelaan 1083,
+1081 HV Amsterdam, The Netherlands
+2
+  Functional Biology, Department of Biology, Katholieke Universiteit Leuven, Kasteelpark Arenberg 31, 3001 Heverlee, Belgium
+
+
+
+In the past, studies using the yeast Saccharomyces                                            controlled efficiently and effectively by adjusting environ-
+cerevisiae enabled major breakthroughs in the under-                                          mental conditions. Yeast is also genetically well defined:
+standing of basic cellular and molecular processes.                                           its entire genome sequence has been elucidated and
+Today, the use of yeast is undergoing a ‘rebirth’ in                                          the corresponding databases are generally accessible
+both fundamental and applied research. Indeed,                                                (Table 1). Moreover, it is a genetically tractable organism,
+advances in yeast technology have paved the way for a                                         amenable to modifications such as gene disruption, gene
+variety of new genome-wide screening approaches.                                              marking, mutation or gene-dosage effects. Because of
+Experimental strategies using yeast aim to unravel                                            these advantageous features, yeast has become the model
+disease-related molecular events and to discover novel                                        organism of choice for medicine-related research. For
+medicinal compounds. In this article, the impact of yeast                                     example, studies with yeast have contributed greatly to
+as an experimental tool for disease-related studies is                                        our knowledge of the regulation of eukaryotic cell division,
+summarized and the use of yeast in high-throughput                                            including the cancer-related disturbances thereof [1]. Up
+screenings for pharmacological purposes is evaluated.                                         to now, yeast has maintained its role as a useful model
+The recently applied and promising approach of so-                                            system in fundamental studies of disease processes.
+called humanized yeast systems is also discussed.                                             Indeed, recent studies revealed the presence of a regulat-
+                                                                                              ory network of apoptosis in yeast that encompasses many
+Yeast: a model for fundamental and applied research                                           of the crucial events that occur in mammalian cells [2].
+The unicellular bakers’ yeast Saccharomyces cerevisiae is                                        Major advances in yeast technology have stimulated
+a proven model eukaryote for molecular and cellular                                           a new recovery of this model organism for medical
+biology studies. Yeast growth and division can be                                             and medicinal purposes. In particular, genome-wide
+Table 1. Useful websites on yeast research
+ Database or search                                                                             Url
+ General yeast genome and proteome databases
+ Saccharomyces Genome Database (SGD Stanford)                                                   http://www.yeastgenome.org/
+ Comprehensive Yeast Genome Database (CYGD-MIPS)                                                http://mips.gsf.de/genre/proj/yeast/index.jsp
+ Kyoto Encyclopedia of Genes and Genomes (KEGG)                                                 http://www.genome.jp/kegg/
+ Yeast mutant collections
+ Saccharomyces Genome Deletion Project                                                          http://www-sequence.stanford.edu/group/yeast_deletion_project/
+ EUROpean Saccharomyces Cerevisiae ARchive for Functional                                       http://web.uni-frankfurt.de/fb15/mikro/euroscarf/
+ analysis (EUROSCARF)
+ Yeast–mammalian or yeast–human homology searches
+ Mammalian homology to yeast (SGD)                                                              http://www.yeastgenome.org/mammal/
+ Clusters of orthologous groups of proteins (COGs)                                              http://www.ncbi.nlm.nih.gov/COG/
+ Discover homologs (Homologene)                                                                 http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?dbZhomologene
+ Yeast–human diseases
+ Mitochondria-related proteins, genes and diseases (MitoP)                                      http://ihg.gsf.de/mitop2/
+ Yeast homologs of human disease-associated genes                                               http://mips.gsf.de/proj/yeast/reviews/human_diseases.html
+ Yeast proteome analysis
+ Yeast Protein Localisation database (YPLdb)                                                    http://genome.tugraz.at/YPL/YPL.html
+ Yeast GFP Fusion Localization database (yeastgfp)                                              http://yeastgfp.ucsf.edu/
+ Database of Interacting Proteins (DIP)                                                         http://dip.doe-mbi.ucla.edu
+ Molecular Interactions Database (MINT)                                                         http://160.80.34.4/mint/
+ Yeast expression analysis
+ Stanford Microarray database                                                                   http://genome-www5.stanford.edu/
+ Yeast Microarray Global Viewer (yMGV)                                                          http://www.transcriptome.ens.fr/ymgv/
+ Yeast phenotypic analysis
+ Saccharomyces cerevisiae Morphological Database (SCMD)                                         http://yeast.gi.k.u-tokyo.ac.jp/
+ PROfiling of PHEnotypic Characteristics in Yeast (PROPHECY)                                    http://prophecy.lundberg.gu.se/
+
+    Corresponding author: Mager, W.H. (WH.Mager@few.vu.nl).
+    Available online 2 April 2005
+
+www.sciencedirect.com 0165-6147/$ - see front matter Q 2005 Elsevier Ltd. All rights reserved. doi:10.1016/j.tips.2005.03.004
+266                     Review          TRENDS in Pharmacological Sciences   Vol.26 No.5 May 2005
+
+
+
+approaches have been developed that have yielded                   unviable (Figure 2). The pertinent genes, therefore, are
+promising results in screening for new biologically active         most probably functionally related. Recently, the con-
+compounds and the elucidation of drug-induced molecular            struction of a global genetic interaction network [SGA
+mechanisms. The underlying novel experimental                      (synthetic genetic array)] based on synthetic lethality has
+approaches such as haplo-insufficiency screening, fitness          been initiated by crossing 132 selected yeast mutants with
+profiling and synthetic lethality screening will be high-          w4700 viable mutant strains [7]. This analysis led to the
+lighted below. In addition, we will focus on yeast cell-based      identification of 1000 synthetic lethal interactions in the
+assays. In the past, expression of human cDNA in yeast             resulting double mutants.
+has been employed primarily for complementation pur-                  In addition, a vast number of microarray analyses to
+poses. Now, more-sophisticated assays aimed at identify-           study transcript profiles under various environmental
+ing genes or chemical compounds that interfere with the            conditions have been performed. These included genome-
+functioning of the expressed human protein are in use.             wide measurements of the effects of external drugs on
+Furthermore, yeast offer an attractive cellular environ-           transcript levels, which enabled identification of the
+ment to investigate disease-related proteins that have no          putative molecular targets of these drugs [8]. Moreover,
+apparent homologous counterpart in this organism. These            genome-wide mapping approaches have provided sub-
+so-called humanized yeast systems hold great promise for           stantial protein–protein interaction [9] and protein
+the dissection of disease-related molecular processes and          expression and localization data [10–12], and systematic
+the discovery of novel medicinal compounds.                        analyses of the organization of the yeast proteome have
+                                                                   led to insight into the assembly of proteins into functional
+Yeast genes and human disease                                      multiprotein complexes [13]. Furthermore, these analyses
+Comparison of the yeast and human genomes, reported                highlighted a strikingly high level of conservation from
+in 1997, revealed that 30% of known genes involved                 yeast to humans. Useful websites on yeast genome and
+in human disease have yeast orthologs (i.e. functional             proteome technology are listed in Table 1.
+homologs) [3]. Furthermore, hundreds of yeast genes
+exhibit a link to human disease genes (Table 1). Most of           Yeast as an experimental tool
+these genes correspond to key components in signal                 Protein–protein interactions
+transduction or specific metabolic processes. Although it          Yeast cells represent a ‘toolbox’ for protein–protein
+is sometimes difficult to assess the functional conservation       interaction studies. A widely applied tool is the two-hybrid
+between yeast genes and human disease-associated genes,            analysis and its variants, the one-hybrid or three-hybrid
+yeast studies might provide a clue about the biological            screens. By applying two-hybrid analyses in yeast, it has
+function of these human genes. Since the initial compari-          become possible to search for molecular partners of a large
+sons between human and yeast genes, analysis of the                number of eukaryotic (including human) proteins of
+human genome sequence has been completed and, there-               interest. The three-hybrid approach has been used, for
+fore, it is likely that more similarities will be identified       example, to scan the proteome for targets of kinase
+with further comparisons. Notably, a systematic screen for         inhibitors [14]. The techniques are outlined in Figure 3.
+human disease genes that are associated with mito-
+chondrial deficiencies has been performed recently in              High-throughput screening
+yeast [4]. In addition to previously known mitochondrial-          Several efficient high-throughput methodologies have
+related human disease genes, several candidate genes               been developed to identify in yeast chemical inhibitors of
+associated with putative mitochondrial-related disorders           human proteins. These methods are usually based on
+were identified.                                                   sensitive (liquid) growth assays. Briefly, expression of a
+                                                                   human protein in yeast causes a growth defect that can be
+Advances in yeast technology                                       suppressed by either drug-induced inhibition of this
+The yeast genome was the first published eukaryotic                protein or by expressing a second human protein as an
+genome sequence [5]. Since the publication of this                 inhibitor of the first protein. With respect to the chemical
+sequence in 1996, a wealth of genome-wide information              compound screening procedure, initially it was a dis-
+has become available (Table 1) as a result of a collective         advantage that yeast possesses efficient efflux pumps by
+effort in functional analyses. Indeed, Saccharomyces               which small-molecule drugs (lead compounds) are
+cerevisiae has emerged as one of the eukaryotic model              extruded from the cell. However, today, yeast strains in
+systems of choice for the development of genomic                   which the major efflux pumps Pdr5p and Snq2p are
+technology [6]. The field of yeast genomics, among others,         missing [15] or strains that display increased membrane
+encompasses genome-wide mutational analyses to inves-              permeability (ERG6 deletion) in combination with the
+tigate the expression and function of genes. To this end,          absence of regulators of multidrug resistance (PDR1 and
+genome-wide collections of yeast deletions strains, both           PDR3 deletion) [16] exist.
+haploid and diploid, have been constructed (Figure 1).                The ‘yeast estrogen screen’ is an elegant example of
+These strain collections have made a major contribution to         methods designed to identify small-molecule compounds
+the rebirth of yeast in medicine-related screening strate-         that bind to heterologous proteins expressed in yeast.
+gies (discussed later). A novel genome-wide approach               Steroid receptors expressed in yeast are responsive to
+focuses on the global analysis of synthetic lethality.             their cognate ligands. Hence, the combination of a mamma-
+Synthetic lethality occurs when mutations in two different         lian estrogen receptor expressed in yeast and a reporter
+genes separately are viable but in combination are                 gene that can be activated through estrogen-responsive
+www.sciencedirect.com
+                         Review                          TRENDS in Pharmacological Sciences            Vol.26 No.5 May 2005                                                   267
+
+
+
+
+                                                                               ORF1
+
+
+                                                        U    UPTAG           KanMX         DOWNTAG U
+
+
+
+
+                                                                                     ORF2
+
+
+                                                               U   UPTAG            KanMX         DOWNTAG U
+
+
+
+
+                                   Screening
+
+
+                                                                                                                                  Over-represented
+
+                                                 PCR                                 Hybridization
+
+
+                                                                                                                                          Under-represented
+
+
+
+
+                                                                                                                             TRENDS in Pharmacological Sciences
+
+Figure 1. The use of the genome-wide collection of yeast deletion mutants in drug discovery. In a typical yeast collection, each yeast open reading frame (ORF) has been
+replaced with a cassette containing unique tag sequences that enable rapid parallel analysis of strains in a pool by using hybridization to a high-density nucleotide array
+(e.g. [55]). More specifically, the ORFs are replaced by a cassette containing a selectable marker gene such as KanMX, which confers geneticin (G418) resistance, and
+two 20-nucleotide ‘barcodes’ uniquely assigned to the marker gene. The barcode sequences, called UPTAGs and DOWNTAGs, are flanked with universal priming sets (U) for
+polymerase chain reaction (PCR) amplification and the resulting products can be used as hybridization probes to identify each mutant. The resultant hybridization pattern can
+be used to determine the presence, absence or under- or over-representation of a particular mutant in a population after treatment with chemical compounds or other types
+of environmental changes. A variation on the collection of (tagged) yeast deletion mutants is a library consisting of diploid yeast strains each being heterozygous for a
+specific gene. Qualitatively, the deletion of one of two functionally equivalent duplicate gene copies will have no obvious phenotypic effect. However, if one quantitatively
+measures the effect of the reduced level of a certain gene product, it can make a difference. This phenomenon is called haplo-insufficiency [31] because the reduced
+concentration of a certain gene product might be insufficient to ensure growth and division at the normal rate. The heterozygous diploid library, therefore, can be screened for
+phenotypic effects (e.g. retarded growth as a result of the exposure to certain chemical compounds). Consistently, this type of screening has been called drug-induced haplo-
+insufficiency screening because it presumes that lowering the level of expression of a specific gene will render the corresponding strain sensitive to a target drug or toxin [31].
+Subsequently, the target gene can be identified by PCR-mediated amplification and hybridization to DNA microarrays.
+
+
+promoter elements forms an effective screening system for                                   sensor [25]. In this system, a ligand-binding protein
+potential ligands [17–19].                                                                  (domain) of interest is inserted in the endogenous yeast
+   G-protein-coupled receptors (GPCRs) belong to one of the                                 dihydrofolate reductase (Dhfrp). As a consequence of this
+most important families of drug targets because they have                                   insertion, the host yeast strain exhibits temperature
+an essential role in signal-mediated cellular responses.                                    sensitivity. Stabilization of Dhfrp and thus suppression
+GPCRs can discriminate between many external signals by                                     of the temperature-sensitivity phenotype occurs by bind-
+selective ligand binding, and have been applied to high-                                    ing of a cognate ligand to the inserted protein. This growth
+throughput drug-discovery assays in yeast [20–22]. For                                      assay provides an effective method of identifying novel
+example, the endogenous GPCR system in yeast serves to                                      ligands and ligand-binding domains [25].
+respond to mating factor and this pheromone GPCR has                                           Screening of chemical libraries for compounds that
+been replaced by, among others, the somatostatin receptor                                   interfere with the toxic effects of the heterologous
+[20]. To reconstitute a functional system it appeared to be                                 expression of growth-hampering proteins, in general,
+essential to coexpress part of the heterologous a-subunit of                                might lead to the identification of novel drugs. An
+the trimeric G protein in the form of a hybrid Ga protein.                                  example is the expression of the human genes encod-
+Screening for GPCR ligands was performed in a growth                                        ing poly(ADP-ribose)polymerases 1 and 2 (PARP1 and
+assay, making use of a selective, ‘pheromone-inducible’                                     PARP2), which cause inhibition of yeast growth. This
+reporter gene. These systems can be used to screen                                          phenotype has been used successfully to validate the
+combinatorial libraries for novel agonists and antagonists                                  action of a known inhibitor of PARP1 and PARP2 and
+that might also be effective in vivo. Recent progress in                                    to identify novel inhibitors of these enzymes because
+understanding the specificity of the GPCR–Ga protein                                        exposure to these compounds appeared to restore cell
+interactions [23,24] will probably lead to a further refine-                                growth [26].
+ment of the yeast-based screening assays.                                                      Recently, the relevance of yeast model systems for
+   Another approach that makes use of the yeast high-                                       anticancer drug discovery has been reviewed [27], empha-
+throughput potential is a so-called yeast-based ligand                                      sizing the value of the experimental yeast system in view
+www.sciencedirect.com
+268                      Review                          TRENDS in Pharmacological Sciences                 Vol.26 No.5 May 2005
+
+
+
+
+                                   (a) Synthetic genetic lethality                              (b) Synthetic genetic array
+                                                                                                              ∆a           ∆c . . . ∆n
+                                                                                                                     ∆b      ∆d
+                                                                                                         ∆1
+                                         Viable                                                          ∆2
+                                                                                                          ∆3
+                                                                                                          ∆4
+                                           ∆1                        Unviable                              ∆5
+                                                                                                            ∆6
+                                                                                                             .
+                                                                      ∆1, ∆n                                  .
+                                         Viable                                                                 .
+                                                                                                                 .
+                                                                                                                     .
+                                           ∆n                                                                         ∆z
+                                                                                                                           = Viable       = Unviable
+
+
+
+                                   (c) Synthetic chemical-genetic lethality              (d) Synthetic chemical-genetic array
+
+                                   Normal medium                Medium containing              Normal medium                           Medium containing
+                                                               inhibitor drug for Ap                                                  inhibitor drug for Ap
+                                                                                               ∆a         ∆c . . . ∆n
+                                                                                                     ∆b     ∆d
+                                                                                                                                            ∆1
+                                        Viable                        Viable              ∆1                                                ∆2
+                                                                                          ∆2                                                 ∆3
+                                                                                           ∆3                                                ∆4
+                                      Wild type                      Wild type             ∆4                                                 ∆5
+                                                                                            ∆5                                                 ∆6
+                                                                                             ∆6                                                  .
+                                                                                               .                                                  .
+                                                                                                .                                                     .
+                                                                                                    .                                                  .
+                                        Viable                       Unviable                        .                                                 .
+                                                                                                     .
+                                                                                                                                                      ∆z
+                                                                                                    ∆z
+                                          ∆1                            ∆1
+                                                                                                                     = Viable          = Unviable
+
+                                                                                                                     TRENDS in Pharmacological Sciences
+
+Figure 2. Global strategy to relate chemical compounds to their putative cellular targets. If deletion of gene 1 or deletion of gene n shows a viable phenotype, whereas the
+double deletion of gene 1 and gene n is lethal, genes 1 and n are said to be synthetically lethal (a). Synthetic lethality suggests a functional relationship of the corresponding
+genes. In the past, this method has been employed frequently in classical yeast genetics. Recently, the technique has been used in a global version, and a genome-wide array
+of synthetic lethal interactions has been set up [7] (b). In the example, gene a is synthetically lethal with genes 2, 3 and z (because the pertinent double deletion strains do not
+show growth) but not with genes 1, 4, 5 or 6 (because the pertinent double deletion strains are viable). Deletion of a gene can be mimicked by functional inhibition of its gene
+product. Based on this, synthetic lethality can also arise from deletion of one gene and inhibition of the protein (Ap) encoded by another gene (c). This principle has also been
+applied in a genome-wide manner, by the development of synthetic chemical-genetic arrays [36] (d). In the example, the global pattern of synthetic lethality of the drug of
+interest is similar to that obtained with gene a. The results therefore strongly suggest that the product of gene a is the target of this drug.
+
+
+of the functional conservation of key pathways between                                       identified, which most probably is involved in the
+yeast and humans.                                                                            metabolism of double-strand DNA breaks in vivo.
+                                                                                                The usefulness of genome-wide haplo-insufficiency
+                                                                                             screening (Figure 1; Table 2) was demonstrated initially
+Genome-wide screening                                                                        by the identification of both novel target gene products of
+Using collections of yeast deletion mutants, numerous                                        known inhibitors and the targets of novel drugs [31]. More
+genome-wide screens have been applied (Table 2). For                                         recently, the method has been refined [32,33]. In what is
+example, a screen to identify genes that affect UV                                           called a chemogenomic profiling screen, ten different
+irradiation sensitivity [28] revealed several novel genes                                    compounds, including anticancer agents, were assayed
+that confer UV sensitivity and, interestingly, some of these                                 in 80 genome-wide screens [32]. The results validated the
+have human orthologs associated with cancer. This                                            known interactions of well-characterized drugs (methotrex-
+screening method can also be applied to other phenotypes,                                    ate, azoles and statins) with their targets. For both
+for example, those produced by treatment with pharma-                                        methotrexate and the statins, pathway-related genes were
+ceutical compounds or toxic agents that target pathways                                      identified, which might lead to the discovery of novel drug
+or processes that are similar between yeast and mamma-                                       targets. In addition, the assays revealed a previously
+lian cells [29].                                                                             unknown interaction (for alverine citrate), and led to the
+   Yeast deletion collections have also been used success-                                   identification of several genes involved in the transport of
+fully to perform genome-wide transformation-based                                            small molecules [32]. A similar chemical genetic approach
+assays. For example, a plasmid repair assay was applied                                      was used to show that dihydromotuporamine C, used in
+in a screen for components of the non-homologous end-                                        preclinical trials as a potential inhibitor of angiogenesis and
+joining (NHEJ) pathway [30]. This pathway is required for                                    metastasis by an unknown mechanism, targets sphingolipid
+efficient transformation of plasmids linearized at                                           metabolism and leads to a decrease in ceramide levels [33].
+sequences that lack homology to the yeast genome. In                                            In a comparable, so-called yeast ‘fitness-profiling’
+this way, apart from known genes a novel gene, NEJ1, was                                     approach, a yeast deletion strain is grown competitively
+www.sciencedirect.com
+                         Review                           TRENDS in Pharmacological Sciences         Vol.26 No.5 May 2005                                                   269
+
+
+
+                  (a)
+                                               Nucleus                                                                 Nucleus
+
+                                                                                                       TAD
+                                                             TAD
+                                                                                                       cDNA
+                                                             cDNA
+
+                                     Bait                                                                 Bait
+                                                                    No growth                                                            Growth
+                                     DBD                                                                  DBD
+                                                      Reporter ORF                                                       Reporter ORF
+                                                                                                                         Transcription
+
+
+                  (b)
+
+
+
+                                                           Ras                                                                    Ras
+                                                           GDP                                    cDNA Bait           hSOS        GDP
+                           cDNA
+
+                        Cytoplasm                                                            Cytoplasm
+                                                                                                                                               Ras
+                                                   Bait          hSOS                                                                          GTP
+
+                            CDC25                                                                  CDC25                        Growth
+                                                          No growth
+
+
+
+                  (c)
+
+
+
+                                                                                                                       mRas
+                                                                                                   Bait    cDNA                               yRas
+                           Bait                            mRas          yRas                                          GTP
+                                             cDNA                                                                                             GDP
+                                                           GTP           GDP
+
+                        Cytoplasm                                                            Cytoplasm
+                                                                                                                         Growth
+
+                            CDC25                         No growth                                CDC25
+
+
+
+
+                  (d)
+                                                          Bait                                                      cDNA      Bait
+                                  cDNA
+
+                                                       Cub                                                          NubG      Cub
+                                   NubG
+
+
+                                                       TF                                                                    TF
+                        Cytoplasm                                                             Cytoplasm
+                                                                 No growth                                                                Growth
+                                                                                                           TF
+                                                       Reporter ORF                                                      Reporter ORF
+                                                                                                                          Transcription
+
+
+                                                                                                                         TRENDS in Pharmacological Sciences
+
+
+
+Figure 3. Yeast tools for the analysis of protein–protein interactions. Originally, the two-hybrid technique was based on the reconstruction via protein–protein interaction of a
+functional transcription factor governing the transcription of a reporter gene [open reading frame (ORF)] [56] (a). Usually, ‘bait’ represents a defined protein sequence of
+interest bound to a DNA-binding domain (DBD) of the gene of interest, whereas a library of protein sequences (‘cDNA’) represents the ‘prey’, bound to a transcription
+activating domain (TAD). To date, several variants have been reported such as the one- and three-hybrid system [14,57]. Interestingly, the ternary partner in such a
+
+www.sciencedirect.com
+270                      Review                          TRENDS in Pharmacological Sciences           Vol.26 No.5 May 2005
+
+
+
+Table 2. Yeast cell-based assays
+ Assay                                        Result                                                                                                                   Refs
+ Genome-wide screening of the collection of yeast deletion mutants
+ UV radiation                                 Genes that confer UV sensitivity are identified                                                                          [28]
+ DNA damaging                                 Identification of 231 mutants that display hypersensitivity and five mutants that                                        [35]
+                                              display resistance to bleomycin
+ Plasmid repair and non-homologous            Identification of the NEJ1 gene                                                                                          [30]
+ end-joining
+ Growth under respiratory conditions          Identification of 265 new proteins and human orthologs involved in mitochondrial                                         [4]
+                                              respiration
+ Fitness profiling under non-optimal          Identification of genes required for growth in the presence of high salt or sorbitol or                                  [60]
+ growth conditions                            galactose, or at pH8, or in minimal medium, or following nystatin treatment
+ Genome-wide haplo-insufficiency screening
+ Sensitivity to different compounds           Identification of gene products that functionally interact with anticancer and                                           [32]
+ including anticancer and antifungal drugs    antifungal agents, statins, the muscle relaxant alverine citrate and the anesthetic drug
+                                              dyclonine
+ Sensitivity to the metastasis inhibitor      Identification of sphingolipid metabolism as a target                                                                    [33]
+ dihydromotuporamine C
+ Yeast fitness profiling for 78 clinically    Identification of the mode of action of several compounds (e.g. lanosterol synthase as                                   [34]
+ used therapeutic agents and agricultural     a target of the anti-anginal drug molsidomine and the rRNA exosome as a target of the
+ chemicals                                    cell growth inhibitor 5-fluorouracil)
+ Cell-based and humanized yeast systems
+ p53-functional assay                         Identification of dominant and recessive p53 mutants                                                                     [38]
+ p53-induced lethality                        Mutation analysis of p53 and dissection of p53-regulated responses                                                       [40]
+ p53-functional assay                         Identification of p53 mutants able to inhibit p73b                                                                       [39]
+ Bax-induced lethality                        Identification of Bax inhibitor 1 (BI-1) as a mammalian suppressor of apoptosis                                          [41]
+ Bax-induced lethality                        Identification of Bar (regulator of apoptosis)                                                                           [42]
+ Bax-induced lethality                        Identification of Ku70 (suppressor of apoptosis)                                                                         [43]
+ Bax-resistance complementation               Identification of the mitochondrial F0F1-ATPase proton pump as a target of the pro-                                      [61]
+                                              apoptotic protein Bax
+ Bak-induced lethality                        Identification of the chromosomal high-mobility group box-1 protein (HMGB1) as a                                         [44]
+                                              suppressor of apoptosis
+ Yeast estrogen bioassay                      Ranking of synthetic hormones and phytoestrogens according to their estrogenic                                           [19]
+                                              potency
+ GPCR-based screening                         Identification of potential peptide ligands                                                                              [22]
+ Dihydrofolate reductase-based ligand         Identification of potential ligands and mutation analysis of ligand-binding domains                                      [25]
+ sensor
+ PARP-induced toxicity                        Inhibitors of poly (ADP-ribose) polymerase (PARP)                                                                        [26]
+ Prion-based screening assay                  Isolation of drugs active against mammalian prions                                                                       [16]
+ Humanized yeast system for a-synuclein       Dissection of a-synuclein properties                                                                                     [47,48]
+ a-Synuclein- and huntingtin-induced          Selection of 86 genes that enhance the toxicity of a-synuclein and 52 genes that                                         [46]
+ toxicity assays                              enhance the toxicity of huntingtin
+ Humanized system for huntingtin protein      Identification of the poly-Q aggregation inhibitors sulfobenzoic acid, naphtalimide,                                     [54]
+                                              annelated thiazole and oxoethyl salicylate derivates
+ b-Secretase sensor                           Validated identification method for BACE (b-secretase) inhibitors                                                        [51,53]
+ Humanized yeast system for g-secretase       Reconstitution and dissection of g-secretase activity                                                                    [52,62]
+ Tau- and a-synuclein-based functional        Clearance of amyloid-like aggregates by the immunosuppressant rapamycin                                                  [49]
+ assays
+
+
+with wild-type cells and the relative ‘fitness’ of the mutant                               identification of lanosterol synthase as one of its targets
+strain in the presence of a certain chemical compound is                                    [34]. Hence, in addition to the elucidation of the inter-
+determined. Testing 78 clinically relevant compounds for                                    actions of small molecules with gene products, the mode of
+their effects on a pool of O3000 heterozygous yeast                                         drug action can become apparent.
+deletion strains, known targets have been confirmed and                                        In the near future, additional variations of the yeast
+new modes of action have been elucidated [34]. An                                           fitness-profiling assay are likely to be developed. Of course
+interesting example is the anti-anginal drug molsidomine,                                   homozygous deletion strains can also be screened for
+which has been shown to confer a cholesterol-lowering                                       drug effects that have not been revealed on the basis of
+effect. The latter could now be explained by the                                            haplo-insufficiency. Recently, for example, haploid
+
+three-component interaction does not need to be a protein but can be RNA, a hormone or even a drug. Note that instead of a gain-of-function system, two-hybrid analysis can
+also be used to study loss-of-function based on the absence of transcription of the URA3 gene, enabling yeast cells to grow in the presence of 5-fluoro-orotic acid. Instead of a
+transcriptional read-out, a ‘signaling read-out’ has been employed in the so-called SOS recruitment system (hSOS is a human Ras guanyl nucleotide exchange factor) (b) and
+its derived Ras recruitment systems (c) [58]. These screening systems are based on the observation that an active GTP-bound Ras protein is required at the plasma membrane
+to sustain growth of yeast cells in the absence of the endogenous guanyl nucleotide exchange factor CDC25. Protein sequences indicated by ‘cDNA’ (b) or ‘bait’ (c) are
+localized to the plasma membrane via a myristoylated tag. A fourth method makes use of the split-ubiquitin approach (d) where the interaction of two proteins enables
+reconstitution of ubiquitin, which in turn gives rise to proteolytic cleavage and subsequent release of a transcription factor (TF) that triggers induction of a gene encoding a
+detectable reporter [59]. NubG and Cub represent, respectively, N-terminal and C-terminal fragments of ubiquitin. It should be noted that the split-ubiquitin systems in
+addition to the SOS and Ras recruitment systems have proven to be successful in the identification of interactions between proteins without nuclear localization signals, such
+as membrane proteins. The two-hybrid systems illustrated differ with respect to the cellular location where the protein–protein interaction occurs. The original two-hybrid
+method in (a) is based on interaction in the nucleus, whereas the interactions in (b) and (c) occur at the plasma membrane, and the interaction in (d) is cytosolic, although also
+in the latter case a transcriptional read-out is used.
+
+www.sciencedirect.com
+                        Review           TRENDS in Pharmacological Sciences   Vol.26 No.5 May 2005                            271
+
+
+
+deletion strains have been screened successfully for both              Yeast cell-based assays in which the biological function
+hypersensitivity to and resistance against bleomycin, an            of specific human proteins that do not have a yeast
+effective agent in the treatment of different cancers [35].         functional counterpart are studied are designated
+   Another appealing approach is derived from the global            ‘humanized yeast systems’. Examples that demonstrate
+synthetic lethality analyses described earlier. In addition         the use of humanized yeast assays for the study of human
+to mutations in two different genes, the combination of one         disease are those focused on neurological disorders such as
+mutation in a particular gene and treatment with a drug             Huntington’s disease, which is correlated with expansion
+that inhibits the action of another gene product might lead         of polyglutamine tracts [45]. A screen in yeast was per-
+to lethality of a yeast strain (Figure 2). Recently, following      formed to identify genes that enhance the toxicity of a
+this reasoning, chemical-genetic and genetic interaction            mutant huntingtin protein fragment (with an expanded
+data have been used successfully to link 12 small organic           polyQ domain) [46]. The results confirmed the important
+inhibitor molecules to their putative cellular target path-         role of stress-responsive, protein-folding and ubiquitin-
+ways [36]. Potentially, this is a promising approach to             related genes in Huntington’s disease.
+elucidate the mechanism of action by which bioactive                   a-Synuclein has a crucial role in the pathology of
+compounds affect living organisms.                                  another neurodegenerative disease, Parkinson’s disease
+                                                                    [45]. The biological function of this protein, both under
+Yeast cell-based assays and humanized yeasts                        normal and pathological conditions, remains elusive.
+Yeast transformants bearing a human cDNA that func-                 a-Synuclein was expressed in yeast where it appeared to
+tionally complements a yeast mutation are the ‘classic’             associate intensely with the plasma membrane [47–49]. In
+cell-based systems that have been created for medicinal             addition, a-synuclein was found to inhibit phospholipase
+purposes (Table 2). In these cases the phenotype of a yeast         D and to promote the accumulation of lipids. Notably, a
+mutant can be ‘rescued’ by the expression of a human                small change in the level of its expression caused disease-
+protein. This finding can form a starting point for more-           related toxicity to yeast cells, which might reflect the gene
+detailed structure–function studies in yeast, and might             dosage-dependent premature onset of Parkinson’s disease
+also lead to the identification of novel effector molecules.        found in humans [47,50].
+For example, p53, a key regulator of cell cycle and                    A major feature of Alzheimer’s disease is the extra-
+apoptosis in mammals [37–39], causes a growth defect                cellular aggregation of b-amyloid peptides derived from
+when expressed at high levels. Making use of this                   the transmembrane amyloid precursor protein (APP).
+phenotype, a random mutagenesis screen was used to                  Hence, b-secretase (BACE) and g-secretase, which are
+isolate p53 mutants showing increased growth inhibition,            involved in the sequential cleavage of APP, are the subject
+or even lethality, in yeast. This screen for toxic p53              of many scientific investigations. Both b- and g-secretase
+mutants can identify novel p53 variants that might be               activities have been reconstituted in yeast [51,52]. A
+useful for the dissection of the p53-regulated cellular             cellular growth selection system in yeast for the functional
+responses and, thus, the development of new cancer                  expression of human BACE was used recently for high-
+therapies [40].                                                     throughput selection of secretase inhibitors [53].
+   Using similar yeast-based screens of mammalian cDNA                 Humanized yeast systems have also been developed to
+libraries cloned in a yeast expression vector, several              elucidate the parameters that trigger aggregation of the
+inhibitors of the pro-apoptotic protein Bax have been               human protein tau into paired helical filaments and
+identified. Mammalian Bax confers lethality to yeast cells,         neurofibrillary tangles. These are typical hallmarks for
+which can be rescued by coexpression of the anti-apoptotic          neurodegenerative disorders, including Alzheimer dis-
+protein Bcl-2. Therefore, the lethal effect of heterologous         ease, which are generally known as tauopathies. Tau is a
+expression of Bax in yeast was employed to screen for               microtubule-associated protein that is important for the
+mammalian proteins that suppress the Bax-mediated cell              stabilization of microtubule and axonal transport. The
+death. In this way, Bax inhibitor 1 (BI-1), which is an             dynamics of phosphorylation of tau is an important issue
+integral membrane protein that is able to interact with             in the elucidation of the molecular basis of the tauopathies
+Bcl-2 but not with Bax, was identified [41]. Subsequently,          because several reports have demonstrated that tau
+using a similar functional screen, another apoptosis                protein is highly phosphorylated in its aggregated form.
+regulator, Bar, was identified [42]. Ku70, a protein                The use of humanized systems that express tau in yeast
+that has a role in double-strand-break repair both in               mutants that are deficient in selected protein kinases and
+yeasts and in mammalian cells [43], and HMGB1 (a                    phosphatases offers the opportunity to decipher this
+chromosomal high mobility group box 1 protein that is               aspect in a focused, isolated manner ([49]; J. Winderickx,
+highly expressed in human primary breast carcinoma)                 unpublished). Of course, humanized yeast systems such as
+[44] were identified using a similar cell-based yeast               those described above can be used as screening tools to
+survival assay.                                                     select chemical compounds and to identify proteins that
+   A yeast-based assay was also used to isolate anti-prion          interfere with fibrillization and toxicity of aggregation-
+drugs [16]. In this study, focus was initially on endogenous        prone proteins [49,54].
+yeast prions, but the compounds identified also appeared
+to promote the clearance of mammalian prions. The                   Concluding remarks
+findings support the notion that the biochemical mechan-            Yeast research performed in the recent past has demon-
+isms that regulate prion formation and maintenance are              strated the tremendous potential of this organism as a
+conserved from yeast to humans.                                     model system for medical and medicinal purposes.
+www.sciencedirect.com
+272                     Review                    TRENDS in Pharmacological Sciences   Vol.26 No.5 May 2005
+
+
+
+Fundamental studies in yeast have made a considerable                         25 Tucker, C.L. and Fields, S. (2001) A yeast sensor of ligand binding.
+contribution to our present understanding of conserved                           Nat. Biotechnol. 19, 1042–1046
+                                                                              26 Perkins, E. et al. (2001) Novel inhibitors of poly(ADP-ribose)
+biological processes. In addition, yeast has proven to be a                      polymerase/PARP1 and PARP2 identified using a cell-based screen
+valuable experimental tool, in particular in the develop-                        in yeast. Cancer Res. 61, 4175–4183
+ment of genomic technologies. Genome-wide approaches                          27 Simon, J.A. and Bedalov, A. (2004) Opinion - Yeast as a model system
+have provided a wealth of information about the function                         for anticancer drug discovery. Nat. Rev. Cancer 4, 481–488
+of eukaryotic proteins. For the near future, the use of                       28 Birrell, G.W. et al. (2001) A genome-wide screen in Saccharomyces
+                                                                                 cerevisiae for genes affecting UV radiation sensitivity. Proc. Natl.
+yeast also holds great promise in high-throughput                                Acad. Sci. U. S. A. 98, 12608–12613
+analyses to identify novel molecular mechanisms and                           29 Chan, T.F. et al. (2000) A chemical genomics approach toward
+their participating proteins and to discover lead com-                           understanding the global functions of the target of rapamycin protein
+pounds that have the potential to become novel drugs.                            (TOR). Proc. Natl. Acad. Sci. U. S. A. 97, 13227–13232
+Moreover, the use of yeast cell-based assays (and                             30 Ooi, S.L. et al. (2001) A DNA microarray-based genetic screen for
+                                                                                 nonhomologous end-joining mutants in Saccharomyces cerevisiae.
+‘humanized yeast systems’ in particular) should help                             Science 294, 2552–2556
+identify disease-related cellular events and novel phar-                      31 Giaever, G. et al. (1999) Genomic profiling of drug sensitivities via
+macological agents to interfere with these processes.                            induced haploinsufficiency. Nat. Genet. 21, 278–283
+                                                                              32 Giaever, G. et al. (2004) Chemogenomic profiling: identifying the
+                                                                                 functional interactions of small molecules in yeast. Proc. Natl. Acad.
+References
+                                                                                 Sci. U. S. A. 101, 793–798
+ 1 Hartwell, L.H. (2002) Yeast and cancer. Biosci. Rep. 22, 373–394
+                                                                              33 Baetz, K. et al. (2004) Yeast genome-wide drug-induced haploinsuffi-
+ 2 Madeo, F. et al. (2002) Apoptosis in yeast: a new model system with
+                                                                                 ciency screen to determine drug mode of action. Proc. Natl. Acad. Sci.
+   applications in cell biology and medicine. Curr. Genet. 41, 208–216
+                                                                                 U. S. A. 101, 4525–4530
+ 3 Foury, F. (1997) Human genetic diseases – a cross-talk between man
+                                                                              34 Lum, P.Y. et al. (2004) Discovering modes of action for therapeutic
+   and yeast. Gene 195, 1–10
+                                                                                 compounds using a genome-wide screen of yeast heterozygotes. Cell
+ 4 Steinmetz, L.M. et al. (2002) Systematic screen for human disease
+                                                                                 116, 121–137
+   genes in yeast. Nat. Genet. 31, 400–404
+                                                                              35 Aouida, M. et al. (2004) A genome-wide screen in Saccharomyces
+ 5 Goffeau, A. et al. (1996) Life with 6000 genes. Science 274, 546–549
+                                                                                 cerevisiae reveals altered transport as a mechanism of resistance to
+ 6 Kumar, A. and Snyder, M. (2001) Emerging technologies in yeast
+                                                                                 the anticancer drug bleomycin. Cancer Res. 64, 1102–1109
+   genomics. Nat. Rev. Genet. 2, 302–312
+                                                                              36 Parsons, A.B. et al. (2004) Integration of chemical-genetic and genetic
+ 7 Tong, A.H.Y. et al. (2004) Global mapping of the yeast genetic
+                                                                                 interaction data links bioactive compounds to cellular target path-
+   interaction network. Science 303, 808–813
+                                                                                 ways. Nat. Biotechnol. 22, 62–69
+ 8 Hughes, T.R. et al. (2000) Functional discovery via a compendium of
+                                                                              37 Nigro, J.M. et al. (1992) Human P53 and Cdc2hs genes combine to
+   expression profiles. Cell 102, 109–126
+                                                                                 inhibit the proliferation of Saccharomyces-cerevisiae. Mol. Cell. Biol.
+ 9 Kumar, A. et al. (2002) Subcellular localization of the yeast proteome.
+                                                                                 12, 1357–1365
+   Genes Dev. 16, 707–719
+                                                                              38 Inga, A. et al. (1997) Simple identification of dominant p53 mutants by
+10 Kumar, A. et al. (2002) The TRIPLES database: a community resource
+                                                                                 a yeast functional assay. Carcinogenesis 18, 2019–2021
+   for yeast molecular biology. Nucleic Acids Res. 30, 73–75
+11 Ghaemmaghami, S. et al. (2003) Global analysis of protein expression       39 Monti, P. et al. (2003) Characterization of the p53 mutants ability to
+   in yeast. Nature 425, 737–741                                                 inhibit p73 beta transactivation using a yeast-based functional assay.
+12 Huh, W.K. et al. (2003) Global analysis of protein localization in            Oncogene 22, 5252–5260
+   budding yeast. Nature 425, 686–691                                         40 Inga, A. and Resnick, M.A. (2001) Novel human p53 mutations that
+13 Gavin, A.C. et al. (2002) Functional organization of the yeast proteome       are toxic to yeast can enhance transactivation of specific promoters
+   by systematic analysis of protein complexes. Nature 415, 141–147              and reactivate tumor p53 mutants. Oncogene 20, 3409–3419
+14 Becker, F. et al. (2004) A three-hybrid approach to scanning the           41 Xu, Q.L. and Reed, J.C. (1998) Bax inhibitor-1, a mammalian
+   proteome for targets of small molecule kinase inhibitors. Chem. Biol.         apoptosis suppressor identified by functional screening in yeast.
+   11, 211–223                                                                   Mol. Cell 1, 337–346
+15 Lichtenberg-Frate, H. et al. (2003) A yeast-based method for the           42 Zhang, H. et al. (2000) Structural basis of BFL-1 for its interaction
+   detection of cyto and genotoxicity. Toxicol. In Vitro 17, 709–716             with BAX and its anti-apoptotic action in mammalian and yeast cells.
+16 Bach, S. et al. (2003) Isolation of drugs active against mammalian            J. Biol. Chem. 275, 11092–11099
+   prions using a yeast-based screening assay. Nat. Biotechnol. 21,           43 Sawada, M. et al. (2003) Ku70 suppresses the apoptotic translocation
+   1075–1081                                                                     of Bax to mitochondria. Nat. Cell Biol. 5, 320–329
+17 Routledge, E.J. and Sumpter, J.P. (1996) Estrogenic activity of            44 Brezniceanu, M.L. et al. (2003) HMGB1 inhibits cell death in yeast
+   surfactants and some of their degradation products assessed using a           and mammalian cells and is abundantly expressed in human breast
+   recombinant yeast screen. Environ. Toxicol. Chem. 15, 241–248                 carcinoma. FASEB J. 17, 1295–1297
+18 Coldham, N.G. et al. (1997) Evaluation of a recombinant yeast cell         45 Sherman, M.Y. and Muchowski, P.J. (2003) Making yeast tremble –
+   estrogen screening assay. Environ. Health Perspect. 105, 734–742              yeast models as tools to study neurodegenerative disorders. Neuro-
+19 Bovee, T.F.H. et al. (2004) Development of a rapid yeast estrogen             molecular Med. 4, 133–146
+   bioassay, based on the expression of green fluorescent protein. Gene       46 Willingham, S. et al. (2003) Yeast genes that enhance the toxicity
+   325, 187–200                                                                  of a mutant huntingtin fragment or alpha-synuclein. Science 302,
+20 Pausch, M.H. (1997) G-protein-coupled receptors in Saccharomyces              1769–1772
+   cerevisiae – high-throughput screening assays for drug discovery.          47 Outeiro, T.F. and Lindquist, S. (2003) Yeast cells provide insight into
+   Trends Biotechnol. 15, 487–494                                                alpha-synuclein biology and pathobiology. Science 302, 1772–1775
+21 Reilander, H. and Weiss, H.M. (1998) Production of G-protein-coupled       48 Outeiro, T.F. and Muchowski, P. (2004) Molecular genetics approaches
+   receptors in yeast. Curr. Opin. Biotechnol. 9, 510–517                        in yeast to study amyloid diseases. J. Mol. Neurosci. 23, 49–59
+22 Dowell, S.J. and Brown, A.J. (2002) Yeast assays for G-protein-coupled     49 Zabrocki, P. et al. (2005) Characterization of alpha-synuclein aggrega-
+   receptors. Receptors Channels 8, 343–352                                      tion and its synergistic toxicity with protein tau in yeast. FEBS J. 272,
+23 Ladds, G. et al. (2003) Modified yeast cells to investigate the coupling      1386–1400
+   of G protein- coupled receptors to specific G proteins. Mol. Microbiol.    50 Singleton, A.B. et al. (2003) alpha-synuclein locus triplication causes
+   47, 781–792                                                                   Parkinson’s disease. Science 302, 841
+24 Cismowski, M.J. et al. (2002) Identification of modulators of              51 Luthi, U. et al. (2003) Human beta-secretase activity in yeast detected
+   mammalian G-protein signaling by functional screens in the yeast              by a novel cellular growth selection system. Biochim. Biophys. Acta
+   Saccharomyces cerevisiae. Methods Enzymol. 344, 153–168                       1620, 167–178
+www.sciencedirect.com
+                        Review                  TRENDS in Pharmacological Sciences   Vol.26 No.5 May 2005                                        273
+
+
+
+52 Edbauer, D. et al. (2003) Reconstitution of gamma-secretase activity.    58 Aronheim, A. (2001) Ras signaling pathway for analysis of protein-
+   Nat. Cell Biol. 5, 486–488                                                  protein interactions. Methods Enzymol. 332, 260–270
+53 Middendorp, O. et al. (2004) Yeast growth selection system for the       59 Stagljar, I. and Heesen, S.T. (2000) Detecting interactions between
+   identification of cell-active inhibitors of beta-secretase. Biochim.        membrane proteins in vivo using chimeras. Methods Enzymol. 327,
+   Biophys. Acta 1674, 29–39                                                   190–198
+54 Zhang, X. et al. (2005) A potent small molecule inhibits polyglutamine   60 Giaever, G. et al. (2002) Functional profiling of the Saccharomyces
+   aggregation in Huntington’s disease neurons and suppresses neuro-           cerevisiae genome. Nature 418, 387–391
+   degeneration in vivo. Proc. Natl. Acad. Sci. U. S. A. 102, 892–897       61 Matsuyama, S. et al. (1998) The mitochondrial F0F1-ATPase proton
+55 Winzeler, E.A. et al. (1999) Functional characterization of the             pump is required for function of the proapoptotic protein Bax in yeast
+   S-cerevisiae genome by gene deletion and parallel analysis. Science         and mammalian cells. Mol. Cell 1, 327–336
+   285, 901–906                                                             62 Edbauer, D. et al. (2004) Co-expression of nicastrin and presenilin
+56 Phizicky, E.M. and Fields, S. (1995) Protein-protein interactions –
+                                                                               rescues a loss of function mutant of APH-1. J. Biol. Chem. 279,
+   methods for detection and analysis. Microbiol. Rev. 59, 94–123
+                                                                               37311–37315
+57 Henthorn, D.C. et al. (2002) A GAL4-based yeast three-hybrid system
+   for the identification of small molecule-target protein interactions.
+   Biochem. Pharmacol. 63, 1619–1628
+
+
+
+
+                        Elsevier.com – Dynamic New Site Links Scientists to New Research & Thinking
+
+   Elsevier.com has had a makeover, inside and out. Designed for scientists’ information needs, the new site, launched in January, is
+   powered by the latest technology with customer-focused navigation and an intuitive architecture for an improved user experience and
+   greater productivity.
+
+   Elsevier.com’s easy-to-use navigational tools and structure connect scientists with vital information – all from one entry point. Users can
+   perform rapid and precise searches with our advanced search functionality, using the FAST technology of Scirus.com, the free science
+   search engine. For example, users can define their searches by any number of criteria to pinpoint information and resources. Search by a
+   specific author or editor, book publication date, subject area – life sciences, health sciences, physical sciences and social sciences – or by
+   product type. Elsevier’s portfolio includes more than 1800 Elsevier journals, 2200 new books per year, and a range of innovative
+   electronic products. In addition, tailored content for authors, editors and librarians provides up-to-the-minute news, updates on
+   functionality and new products, e-alerts and services, as well as relevant events.
+
+   Elsevier is proud to be a partner with the scientific and medical community. Find out more about who we are in the About section: our
+   mission and values and how we support the STM community worldwide through partnerships with libraries and other publishers, and
+   grant awards from The Elsevier Foundation.
+
+   As a world-leading publisher of scientific, technical and health information, Elsevier is dedicated to linking researchers and professionals
+   to the best thinking in their fields. We offer the widest and deepest coverage in a range of media types to enhance cross-pollination of
+   information, breakthroughs in research and discovery, and the sharing and preservation of knowledge. Visit us at Elsevier.com.
+
+                                          Elsevier. Building Insights. Breaking Boundaries.
+
+www.sciencedirect.com
+

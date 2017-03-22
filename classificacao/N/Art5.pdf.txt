@@ -1,0 +1,395 @@
+Vol 440|30 March 2006|doi:10.1038/nature04670
+
+
+
+
+                                                                                                                               ARTICLES
+Global landscape of protein complexes in
+the yeast Saccharomyces cerevisiae
+Nevan J. Krogan1,2*†, Gerard Cagney1,3*, Haiyuan Yu4, Gouqing Zhong1, Xinghua Guo1, Alexandr Ignatchenko1,
+Joyce Li1, Shuye Pu5, Nira Datta1, Aaron P. Tikuisis1, Thanuja Punna1, Jose´ M. Peregrı´n-Alvarez5,
+Michael Shales1, Xin Zhang1, Michael Davey1, Mark D. Robinson1, Alberto Paccanaro4, James E. Bray1,
+Anthony Sheung1, Bryan Beattie6, Dawn P. Richards6, Veronica Canadien6, Atanas Lalev1, Frank Mena6,
+Peter Wong1, Andrei Starostine1, Myra M. Canete1, James Vlasblom5, Samuel Wu5, Chris Orsi5, Sean R. Collins7,
+Shamanta Chandran1, Robin Haw1, Jennifer J. Rilstone1, Kiran Gandi1, Natalie J. Thompson1, Gabe Musso1,
+Peter St Onge1, Shaun Ghanny1, Mandy H. Y. Lam1,2, Gareth Butland1, Amin M. Altaf-Ul8, Shigehiko Kanaya8,
+Ali Shilatifard9, Erin O’Shea10, Jonathan S. Weissman7, C. James Ingles1,2, Timothy R. Hughes1,2, John Parkinson5,
+Mark Gerstein4, Shoshana J. Wodak5, Andrew Emili1,2 & Jack F. Greenblatt1,2
+
+Identification of protein–protein interactions often provides insight into protein function, and many cellular processes are
+performed by stable protein complexes. We used tandem affinity purification to process 4,562 different tagged proteins
+of the yeast Saccharomyces cerevisiae. Each preparation was analysed by both matrix-assisted laser desorption/
+ionization–time of flight mass spectrometry and liquid chromatography tandem mass spectrometry to increase coverage
+and accuracy. Machine learning was used to integrate the mass spectrometry scores and assign probabilities to the
+protein–protein interactions. Among 4,087 different proteins identified with high confidence by mass spectrometry from
+2,357 successful purifications, our core data set (median precision of 0.69) comprises 7,123 protein–protein interactions
+involving 2,708 proteins. A Markov clustering algorithm organized these interactions into 547 protein complexes
+averaging 4.9 subunits per complex, about half of them absent from the MIPS database, as well as 429 additional
+interactions between pairs of complexes. The data (all of which are available online) will help future studies on individual
+proteins as well as functional genomics and systems biology.
+
+Elucidation of the budding yeast genome sequence1 initiated a                           natural chromosomal locations followed by mass spectrometry13,17
+decade of landmark studies addressing key aspects of yeast cell                         has provided the best coverage and accuracy16. To map more
+biology on a system-wide level. These included microarray-based                         completely the yeast protein interaction network (interactome),
+analysis of gene expression2, screens for various biochemical activi-                   S. cerevisiae strains were generated with in-frame insertions of TAP
+ties3,4, identification of protein subcellular locations5,6, and identify-              tags individually introduced by homologous recombination at the
+ing effects of single and pairwise gene disruptions7–10. Other efforts                  3 0 end of each predicted open reading frame (ORF) (http://
+were made to catalogue physical interactions among yeast proteins,                      www.yeastgenome.org/)18,19. Proteins were purified from 4L yeast
+primarily using the yeast two-hybrid method11,12 and direct purifi-                     cultures under native conditions, and the identities of the co-
+cation via affinity tags13,14; many of these interactions are conserved in              purifying proteins (preys) determined in two complementary
+other organisms15. Data from the yeast protein–protein interaction                      ways17. Each purified protein preparation was electrophoresed on
+studies have been non-overlapping to a surprising degree, a fact                        an SDS polyacrylamide gel, stained with silver, and visible bands
+explained partly by experimental inaccuracy and partly by indications                   removed and identified by trypsin digestion and peptide mass
+that no single screen has been comprehensive16.                                         fingerprinting using matrix-assisted laser desorption/ionization–
+                                                                                        time of flight (MALDI–TOF) mass spectrometry. In parallel, another
+Proteome-wide purification of protein complexes                                         aliquot of each purified protein preparation was digested in solution
+Of the various high throughput experimental methods used thus                           and the peptides were separated and sequenced by data-dependent
+far to identify protein–protein interactions11–14, tandem affinity                      liquid chromatography tandem mass spectrometry (LC-MS/
+purification (TAP) of affinity-tagged proteins expressed from their                     MS)17,20–22. Because either mass spectrometry method often fails to
+
+1
+  Banting and Best Department of Medical Research, Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, 160 College St, Toronto, Ontario
+M5S 3E1, Canada. 2Department of Medical Genetics and Microbiology, University of Toronto, 1 Kings College Circle, Toronto, Ontario M5S 1A8, Canada. 3Conway Institute,
+University College Dublin, Belfield, Dublin 4, Ireland. 4Department of Molecular Biophysics and Biochemistry, 266 Whitney Avenue, Yale University, PO Box 208114, New Haven,
+Connecticut 06520, USA. 5Hospital for Sick Children, 555 University Avenue, Toronto, Ontario M4K 1X8, Canada. 6Affinium Pharmaceuticals, 100 University Avenue, Toronto,
+Ontario M5J 1V6, Canada. 7Howard Hughes Medical Institute, Department of Cellular and Molecular Pharmacology, UCSF, Genentech Hall S472C, 600 16th St, San Francisco,
+California 94143, USA. 8Comparative Genomics Laboratory, Nara Institute of Science and Technology 8916-5, Takayama, Ikoma, Nara 630-0101, Japan. 9Department of
+Biochemistry, Saint Louis University School of Medicine, 1402 South Grand Boulevard, St Louis, Missouri 63104, USA. 10Howard Hughes Medical Institute, Department of
+Molecular and Cellular Biology, Harvard University, 7 Divinity Avenue, Cambridge, Massachusetts 02138, USA. †Present address: Department of Cellular and Molecular
+Pharmacology, UCSF, San Francisco, California 94143, USA.
+*These authors contributed equally to this work.
+
+                                                                                                                                                                        637
+                                                                   © 2006 Nature Publishing Group
+ARTICLES                                                                                                              NATURE|Vol 440|30 March 2006
+
+
+
+identify a protein, we used two independent mass spectrometry              domains, we identified over 70% of the membrane-associated
+methods to increase interactome coverage and confidence. Among             proteins, perhaps because our extraction and purification buffers
+the attempted purifications of 4,562 different proteins (Supplemen-        contained 0.1% Triton X-100. Our identification success rate was
+tary Table S1), including all predicted non-membrane proteins, 2,357       lowest (49%) with proteins for which localization was not estab-
+purifications were successful (Supplementary Table S2) in that at          lished5,6, many of which may not be expressed. We had high success in
+least one protein was identified (in 1,613 cases by MALDI–TOF mass         identifying proteins involved in all biological processes, as defined by
+spectrometry and in 2,001 cases by LC-MS/MS; Fig. 1a) that was not         gene ontology (GO) nomenclature, or possessing any broadly
+present in a control preparation from an untagged strain.                  defined GO molecular function (Fig. 1e, f). We were less successful
+   In total, 4,087 different yeast proteins were identified as preys       (each about 65% success) with transporters and proteins of unknown
+with high confidence ($99%; see Methods) by MALDI–TOF mass                 function; many of the latter may not be expressed.
+spectrometry and/or LC-MS/MS, corresponding to 72% of the
+predicted yeast proteome (Supplementary Table S3). Smaller pro-            A high-quality data set of protein–protein interactions
+teins with a relative molecular mass (M r) of 35,000 were less likely to   Deciding whether any two proteins interact based on our data must
+be identified (Fig. 1b), perhaps because they generate fewer peptides      encompass results from two purifications (plus repeat purifications,
+suited for identification by mass spectrometry. We were more               if performed) and integrate reliability scores from all protein identi-
+successful in identifying smaller proteins by LC-MS/MS than by             fications by mass spectrometry. Removed from consideration as
+MALDI–TOF mass spectrometry, probably because smaller proteins             likely nonspecific contaminants were 44 preys detected in $3% of
+stain less well with silver or ran off the SDS gels. Our success in        the purifications and nearly all cytoplasmic ribosomal subunits
+protein identification was unrelated to protein essentiality (data not     (Supplementary Table S4). Although the cytosolic ribosomes and
+shown) and ranged from 80% for low abundance proteins to over              pre-ribosomes, as well as some associated translation factors, are not
+90% for high abundance proteins (Fig. 1c). Notably, we identified          represented in the interaction network and protein complexes we
+47% of the proteins not detected by genome-wide western blotting18,        subsequently identified, we previously described the interactome for
+indicating that affinity purification followed by mass spectrometry        proteins involved in RNA metabolism and ribosome biogenesis22.
+can be more sensitive. Many hypothetical proteins not detected by             We initially generated an ‘intersection data set’ of 2,357 protein–
+western blotting18 or our mass spectrometry analyses may not be            protein interactions based only on proteins identified in at least
+expressed in our standard cell growth conditions. Although our             one purification by both MALDI–TOF mass spectrometry and
+success rates for identifying proteins were 94% and 89% for nuclear        LC-MS/MS with relatively low thresholds (70%) (Supplementary
+and cytosolic proteins, respectively, and at least 70% in most cellular    Table S5). This intersection data set containing 1,210 proteins was of
+compartments (Fig. 1d), they were lower (61% and 59%, respectively)        reasonable quality but limited in scope (Fig. 2b). Our second
+for the endoplasmic reticulum and vacuole. However, even though we         approach added to the intersection data set proteins identified either
+had not tagged or purified most proteins with transmembrane                reciprocally or repeatedly by only a single mass spectrometry method
+
+
+
+
+Figure 1 | The yeast interactome encompasses a large proportion of the     identified in the screen as baits or preys are shown in relation to protein mass
+predicted proteome. a, Summary of our screen for protein interactions.     (b), expression level (c), intracellular localization (d) and annotated GO
+PPI, protein–protein interactions. b–f, The proportions of proteins        molecular function (e) and GO biological process (f).
+638
+                                                           © 2006 Nature Publishing Group
+NATURE|Vol 440|30 March 2006                                                                                                                     ARTICLES
+
+
+to generate the ‘merged data set’. The merged data set containing                interactions per protein) is 5.26 and the distribution of the number of
+2,186 proteins and 5,496 protein–protein interactions (Supplemen-                interactions per protein follows an inverse power law (Fig. 2c),
+tary Table S6) had better coverage than the intersection network                 indicating scale-free network topology28. These protein–protein
+(Fig. 2b).                                                                       interactions could be represented as a weighted graph (not shown)
+   To deal objectively with noise in the raw data and improve                    in which individual proteins are nodes and the weight of the arc
+precision and recall, we used machine learning algorithms with                   connecting two nodes is the probability that interaction is correct.
+two rounds of learning. All four classifiers were validated by the               Because the 2,357 successful purifications underlying such a graph
+hold-out method (66% for training and 33% for testing) and ten-                  would represent .50% of the detectably expressed proteome18,
+times tenfold cross-validation, which gave similar results. Because              we have typically purified multiple subunits of a given complex. To
+our objective was to identify protein complexes, we used the hand-               identify highly connected modules within the global protein–protein
+curated protein complexes in the MIPS reference database23 as our                interaction network, we used the Markov cluster algorithm, which
+training set. Our goal was to assign a probability that each pairwise            simulates random walks within graphs29. We chose values for the
+interaction is true based on experimental reproducibility and mass               expansion and inflation operators of the Markov cluster procedure
+spectrometry scores from the relevant purifications (see Methods). In            that optimized overlap with the hand-curated MIPS complexes23.
+the first round of learning, we tested bayesian inference networks and           Although the Markov cluster algorithm displays good convergence
+28 different kinds of decision trees24, settling on bayesian networks            and robustness, it does not necessarily separate two or more com-
+and C4.5-based and boosted stump decision trees as providing the                 plexes that have shared subunits (for example, RNA polymerases I
+most reliable predictions (Fig. 2a). We then improved performance                and III, or chromatin modifying complexes Rpd3C(S) and
+by using the output of the three methods as input for a second round             Rpd3C(L))30,31.
+of learning with a stacking algorithm in which logistic regression was              The Markov cluster procedure identified 547 distinct (non-
+the learner25. We used a probability cut-off of 0.273 (average 0.68;             overlapping) heteromeric protein complexes (Supplementary
+median 0.69) to define a ‘core’ data set of 7,123 protein–protein                Table S10), about half of which are not present in MIPS or two
+interactions involving 2,708 proteins (Supplementary Table S7) and a             previous high-throughput studies of yeast complexes using affinity
+cut-off of 0.101 (average 0.42; median 0.27) for an ‘extended’ data set          purification and mass spectrometry (Fig. 3a). New subunits or
+of 14,317 protein–protein interactions involving 3,672 proteins                  interacting proteins were identified for most complexes that had
+(Supplementary Table S8). The interaction probabilities in Sup-                  been identified previously (Fig. 3a). Overlap of our Markov-cluster-
+plementary Tables S7 and S8 are likely to be underestimated because              computed complexes with the MIPS complexes was evaluated (see
+the MIPS complexes used as a ‘gold standard’ are themselves                      Supplementary Information) by calculating the total precision
+imperfect26. We subsequently used the core protein–protein inter-                (measure of the extent to which proteins belonging to one reference
+action data set to define protein complexes (see below), but the                 MIPS complex are grouped within one of our complexes, and vice
+extended data set probably contains at least 1,000 correct interactions          versa) and homogeneity (measure of the extent to which proteins
+(as well as many more false interactions) not present in the core data           from the same MIPS complex are distributed across our complexes,
+set.                                                                             and vice versa) (Fig. 3b). Both precision and homogeneity were
+   The complete set of protein–protein interactions and their associ-            higher for the complexes generated in this study—even for the
+ated probabilities (Supplementary Table S9) were used to generate                extended set of protein–protein interactions—than for complexes
+a ROC curve with a performance (area under the curve) of 0.95                    generated by both previous high-throughput studies of yeast com-
+(Fig. 2b). Predictive sensitivity (true positive rate) or specificity (false     plexes, perhaps because the increased number of successful purifi-
+positive rate), or both, are superior for our learned data set than for          cations in this study increased the density of connections within most
+the intersection and merged data sets, each previous high-through-               modules. The average number of different proteins per complex is
+put study of yeast protein–protein interactions11–14, or a bayesian              4.9, but the distribution (Fig. 3c), which follows an inverse power law,
+combination of the data from all these studies27 (Fig. 2b).                      is characterized by a large number of small complexes, most often
+                                                                                 containing only two to four different polypeptides, and a much
+Identification of complexes within the interaction network                       smaller number of very large complexes.
+In the protein interaction network generated by our core data set of                Proteins in the same complex should have similar function and co-
+7,123 protein–protein interactions, the average degree (number of                localize to the same subcellular compartment. To evaluate this, we
+
+
+
+
+Figure 2 | Machine learning generates a core data set of protein–protein         and for other large-scale affinity tagging13,14 and two-hybrid11,12 data sets,
+interactions. a, Reliability of observed protein–protein interactions was        and a bayesian networks combination of those data sets27, all based on
+estimated using probabilistic mass spectra database search scores and            comparison to MIPS complexes. FP, false positive; TP, true positive. c, Plot of
+measures of experimental reproducibility (see Methods), followed by              the number of nodes against the number of edges per node demonstrates
+machine learning. b, Precision-sensitivity ROC plot for our protein–protein      that the core data set protein–protein interaction network has scale-free
+interaction data set generated by machine learning. Precision/sensitivity        properties.
+values are also shown for the ‘intersection’ and ‘merged’ data sets (see text)
+                                                                                                                                                           639
+                                                              © 2006 Nature Publishing Group
+ARTICLES                                                                                                                  NATURE|Vol 440|30 March 2006
+
+
+
+
+Figure 3 | Organization of the yeast protein–protein interaction network         proportion of subunits sharing significant sequence similarity to various
+into protein complexes. a, Pie charts showing how many of our 547                taxonomic groups (see Methods). Insets provide views of two selected
+complexes have the indicated percentages of their subunits appearing in          complexes—the kinetochore machinery and a previously uncharacterized,
+individual MIPS complexes or complexes identified by other affinity-based        highly conserved fructose-1,6-bisphosphatase-degrading complex (see text
+purification studies13,14. b, Precision and homogeneity (see text) in            for details)—detailing specific interactions between proteins identified
+comparison to MIPS complexes for three large-scale studies. c, The               within the complex (purple borders) and with other proteins that interact
+relationship between complex size (number of different subunits) and             with at least one member of the complex (blue borders). Colours indicate
+frequency. d, Graphical representation of the complexes. This Cytoscape/         taxonomic similarity. e, Relationship between protein frequency in the core
+GenePro screenshot displays patterns of evolutionary conservation of             data set and degree of connectivity or betweenness as a function of
+complex subunits. Each pie chart represents an individual complex, its           conservation. Colours of the bars indicate the evolutionary grouping.
+relative size indicating the number of proteins in the complex. The              f, Colour key indicating the taxonomic groupings (and their phylogenetic
+thicknesses of the 429 edges connecting complexes are proportional to the        relationships). Numbers indicate the total number of ORFs sharing
+number of protein–protein interactions between connected nodes.                  significant sequence similarity with a gene in at least one organism
+Complexes lacking connections shown at the bottom of this figure have ,2         associated with that group and, importantly, not possessing similarity to any
+interactions with any other complex. Sector colours (see panel f) indicate the   gene from more distantly related organisms.
+640
+                                                                © 2006 Nature Publishing Group
+NATURE|Vol 440|30 March 2006                                                                                                                  ARTICLES
+
+
+calculated the weighted average of the fraction of proteins in each               The size and colour of each section of a pie-chart node can be made
+complex that maps to the same localization categories5 (see Sup-               to represent the fraction of the proteins in each complex that maps
+plementary Information). Co-localization was better for the com-               into a given complex from the hand-curated MIPS complexes
+plexes in our study than for previous high-throughput studies but,             (Supplementary Fig. S3). Similar displays can be generated when
+not unexpectedly, less than that for the curated MIPS complexes                highlighting instead the subcellular localizations or GO biological
+(Supplementary Fig. S1). We also evaluated the extent of semantic              process functional annotations of proteins in each complex. Further-
+similarity32 for the GO terms in the ‘biological process’ category for         more, the protein–protein interaction details of individual complexes
+pairs of interacting proteins within our complexes (Supplementary              can readily be visualized (see Supplementary Information).
+Fig. S2), and found that semantic similarity was lower for our core
+data set than for the MIPS complexes or the previous study using               Evolutionary conservation of protein complexes
+TAP tags13, but higher than for a study using protein overproduc-              ORFs encoding each protein were placed into nine distinct evolu-
+tion14. This might be expected if the previous TAP tag study                   tionary groups (Fig. 3f) based on their taxonomic profiles (see
+significantly influenced the semantic classifications in GO.                   Methods), and the complexes displayed so as to show the evolution-
+   To analyse and visualize our entire collection of complexes, the            ary conservation of their components (Fig. 3d). Insets highlight the
+highly connected modules identified by Markov clustering for the               kinetochore complex required for chromosome segregation and a
+global core protein–protein interaction network were displayed                 novel, highly conserved complex involved in degradation of fructose-
+(http://genepro.ccb.sickkids.ca) using our GenePro plug-in for                 1,6-bisphosphatase. Strong co-evolution was evident for com-
+the Cytoscape software environment33 (Fig. 3d). Each complex is                ponents of some large and essential complexes (for example, 19S
+represented as a pie-chart node, and the complexes are connected by            and 20S proteasomes involved in protein degradation, the exosome
+a limited number (429) of high-confidence interactions. Assignment             involved in RNA metabolism, and the ARP2/3 complex required for
+of connecting proteins to a particular module can therefore be                 the motility and integrity of cortical actin patches). Conversely, the
+arbitrary, and the limited number of connecting proteins could                 kinetochore complex, the mediator complex required for regulated
+just as well be part of two or more distinct complexes.                        transcription, and the RSC complex that remodels chromatin have a
+
+
+
+
+Figure 4 | Characterization of three previously unreported protein             with synthetic lethal/sick genetic interactions. d, Microarray analysis on the
+complexes and Iwr1, a novel RNAPII-interacting factor. a, Identification of    indicated deletion strains. Pearson correlation coefficients were calculated
+three novel complexes by SDS–PAGE, silver staining and mass spectrometry.      for the effects on gene expression of each deletion pair and organized by
+The same novel complex containing Vid30 was obtained after purification        two-dimensional hierarchical clustering. e, Antibody generated against the
+from strains with other tagged subunits (data not shown). b, Identification    amino-terminal amino acid sequence (DDDDDDDSFASADGE) of the
+of Iwr1 (interacts with RNAPII). Tagging and purification of unique RNAPII     Drosophila homologue of Iwr1 (CG10528) and a monoclonal antibody (H5)
+subunits identified YDL115C (Iwr1) as a novel RNAPII-associated factor         against RNAPII subunit Rpb1 phosphorylated on S5 of the heptapeptide
+(Supplementary Fig. S5a). Purification of Iwr1 is shown here. c, Genetic       repeat of its carboxy-terminal domain48 were used for co-localization studies
+interactions of Iwr1 with various transcription factors. Lines connect genes   on polytene chromosomes as previously described47.
+                                                                                                                                                         641
+                                                            © 2006 Nature Publishing Group
+ARTICLES                                                                                                             NATURE|Vol 440|30 March 2006
+
+
+
+high proportion of fungi-specific subunits. Previous studies have         involved in transcription by RNAPII, followed by clustering of the
+shown that highly connected proteins within a network tend to be          genes according to the similarity of their effects on gene expression,
+more highly conserved17,34, a consequence of either functional con-       revealed that deletion of IWR1 is most similar in its effects on mRNA
+straints or preferential interaction of new proteins with existing        levels to deletion of RPB4 (Fig. 4d), a subunit of RNAPII with
+highly connected proteins28. For the network as a whole, and              multiple roles in transcription46. We also made use of the fact
+consistent with earlier studies, Fig. 3e reveals that the frequency of    that Iwr1 is highly conserved (Supplementary Fig. S5b), with a
+ORFs with a large number (.10) of connections is proportional to          homologue, CG10528, in Drosophila melanogaster. Fig. 4e shows
+the relative distance of the evolutionary group. ‘Betweenness’ pro-       that Drosophila Iwr1 partly co-localizes with phosphorylated, actively
+vides a measure of how ‘central’ a protein is in a network, typically     transcribing RNAPII on polytene chromosomes, suggesting that Iwr1
+calculated as the fraction of shortest paths between node pairs           is an evolutionarily conserved transcription factor.
+passing through a node of interest. Figure 3e shows that highly
+conserved proteins tend to have higher values of betweenness.             Conclusions
+Despite these average network properties, the subunits of some            We have described the interactome and protein complexes under-
+complexes (for example, the kinetochore complex) display a high           lying most of the yeast proteome. Our results comprise 7,123
+degree of connectedness despite restriction to hemiascomycetes.           protein–protein interactions for 2,708 proteins in the core data set.
+These findings suggest caution in extrapolating network properties        Greater coverage and accuracy were achieved compared with pre-
+to the properties of individual complexes. We also investigated the       vious high-throughput studies of yeast protein–protein interactions
+relationship between an ORF’s essentiality and its conservation,          as a consequence of four aspects of our approach: first, unlike a
+degree of connectivity and betweenness (Supplementary Fig. S4).           previous study using affinity purification and mass spectrometry14,
+Consistent with previous studies17,35, essential genes tend to be more    we avoided potential artefacts caused by protein overproduction;
+highly conserved, highly connected and central to the network (as         second, we were able to ensure greater data consistency and repro-
+defined by betweenness), presumably reflecting their integrating role.    ducibility by systematically tagging and purifying both interacting
+                                                                          partners for each protein–protein interaction; third, we enhanced
+Examples of new protein complexes and interactions                        coverage and reproducibility, especially for proteins of lower abun-
+Among the 275 complexes not in MIPS that we identified three are          dance, by using two independent methods of sample preparation and
+shown in Fig. 4a. One contains Tbf1, Vid22 and YGR071C. Tbf1              complementary mass spectrometry procedures for protein identifi-
+binds subtelomeric TTAGGG repeats and insulates adjacent genes            cation (in effect, up to four spectra were available for statistically
+from telomeric silencing36,37, suggesting that this trimeric complex      evaluating the validity of each PPI); and finally, we used rigorous
+might be involved in this process. Consistent with this, a hypo-          computational procedures to assign confidence values to our pre-
+morphic DAmP allele10 (3 0 untranslated region (UTR) deletion) of         dictions. It is important to note, however, that our data represent
+the essential TBF1 gene causes a synthetic growth defect when             a ‘snapshot’ of protein–protein interactions and complexes in a
+combined with a deletion of VID22 (data not shown), suggesting            particular yeast strain subjected to particular growth conditions.
+that Tbf1 and Vid22 have a common function. Vid22 and YGR071C                Both the quality of the mass spectrometry spectra used for protein
+are the only yeast proteins containing BED Zinc-finger domains,           identification and the approximate stoichiometry of the interacting
+thought to mediate DNA binding or protein–protein interactions38,         protein partners can be evaluated by accessing our publicly available
+suggesting that each uses its BED domain to interact with Tbf1 or         comprehensive database (http://tap.med.utoronto.ca/) that reports
+enhance DNA binding by Tbf1. Another novel complex in Fig. 4a             gel images, protein identifications, protein–protein interactions and
+contains Vid30 and six other subunits (also see Fig. 3d inset). Five of   supporting mass spectrometry data (Supplementary Information
+its subunits (Vid30, Vid28, Vid24, Fyv10, YMR135C) have been              and Supplementary Fig. S6). Soon to be linked to our database will
+genetically linked to proteasome-dependent, catabolite-induced            be thousands of sites of post-translational modification tentatively
+degradation of fructose-1,6-bisphosphatase39, suggesting that the         identified during our LC-MS/MS analyses (manuscript in prepa-
+remaining two subunits (YDL176W, YDR255C), hypothetical pro-              ration). The protein interactions and assemblies we identified pro-
+teins of hitherto unknown function, are probably involved in the          vide entry points for studies on individual gene products, many of
+same process. Vid24 was reported to be in a complex with a M r of         which are evolutionarily conserved, as well as ‘systems biology’
+approximately 600,000 (ref. 39), similar to the sum of the apparent       approaches to cell physiology in yeast and other eukaryotic
+M r values of the subunits of the Vid30-containing complex. The           organisms.
+third novel complex contains Rtt109 and Vps75. Because Vps75 is
+related to nucleosome assembly protein Nap1, and Rtt109 is involved       METHODS
+in Ty transposition40, this complex may be involved in chromatin          Experimental procedures and mass spectrometry. Proteins were tagged,
+assembly or function.                                                     purified and prepared for mass spectrometry as previously described43. Gel
+   Our systematic characterization of complexes by TAP and mass           images, mass spectra and confidence scores for protein identification by mass
+                                                                          spectrometry are found in our database (http://tap.med.utoronto.ca/). Confi-
+spectrometry has often led to the identification of new components
+                                                                          dence scores for protein identification by LC-MS/MS were calculated as
+of established protein complexes (Fig. 3a)41–43. Figure 4 high-           described previously43. After processing 72 database searches for each spectrum,
+lights Iwr1 (YDL115C), which co-purifies with RNA polymerase II           a score of 1.25, corresponding to 99% confidence (A.P.T. and N.J.K, unpublished
+(RNAPII) along with general initiation factor TFIIF and transcrip-        data), was used as a cut-off for protein identification by MALDI–TOF mass
+tion elongation factors Spt4/Spt5 and Dst1 (TFIIS) (Figs 4b and 3d        spectrometry. Synthetic genetic interactions and effects of deletion mutations
+(inset); see also Supplementary Fig. S5a). We used synthetic genetic      on gene expression were identified as described previously30. Drosophila
+array (SGA) technology9 in a quantified, high-density E-MAP for-          polytene chromosomes were stained with dIwr1 anti-peptide antibody and H5
+mat10 to systematically identify synthetic genetic interactions for       monoclonal antibody as previously described47.
+iwr1D with deletions of the elongation factor gene DST1, the SWR          Identification of protein complexes. Details of the methods for identification of
+                                                                          protein complexes and calculating their overlaps with various data sets are
+complex that assembles the variant histone Htz1 into chromatin44,
+                                                                          described in Supplementary Information.
+an Rpd3-containing histone deacetylase complex (Rpd3(L)) that             Protein property analysis. We used previously published yeast protein localiza-
+mediates promoter-specific transcriptional repression30,31, the his-      tion data5,6, and yeast protein properties were obtained from the SGD (http://
+tone H3 K4 methyltransferase complex (COMPASS), the activity of           www.yeastgenome.org/) and GO (http://www.geneontology.org) databases.
+which is linked to elongation by RNAPII45, and other transcription-       Proteins expressed at high, medium or low levels have expression log values of
+related genes (Fig. 4c). Moreover, DNA microarray analyses of the         .4, 3–4, or ,3, respectively18.
+effects on gene expression of deletions of IWR1 and other genes           Phylogenetic analysis. For each S. cerevisiae sequence a BLAST and TBLASTX
+642
+                                                           © 2006 Nature Publishing Group
+NATURE|Vol 440|30 March 2006                                                                                                                                      ARTICLES
+
+
+search was performed against each of the different organism data sets, including           31. Carrozza, M. J. et al. Histone H3 methylation by Set2 directs deacetylation of
+predicted ORFs from fully sequenced genomes, expressed sequence tag con-                       coding regions by Rpd3S to suppress spurious intragenic transcription. Cell 123,
+sensus sequences (obtained from http://www.partigenedb.org) and some raw                       581–-592 (2005).
+                                                                                           32. Lord, P. W., Stevens, R. D., Brass, A. & Goble, C. A. Investigating semantic
+genomic sequences. Using a BLAST bit score cut-off of 50, a taxonomic profile
+                                                                                               similarity measures across the Gene Ontology: the relationship between
+for each ORF was obtained by identifying sequences sharing significant simi-                   sequence and annotation. Bioinformatics 19, 1275–-1283 (2003).
+larity to at least one organism from each group. An ORF is said to be specific to          33. Shannon, P. et al. Cytoscape: a software environment for integrated models of
+each group only if it has a match to an organism within that group and not to any              biomolecular interaction networks. Genome Res. 13, 2498–-2504 (2003).
+organism deemed to be more distantly related. Values of betweenness were                   34. Fraser, H. B., Wall, D. P. & Hirsh, A. E. A simple dependence between protein
+calculated using the software Pajek (http://vlado.fmf.uni-lj.si/pub/networks/                  evolution rate and the number of protein-protein interactions. BMC Evol. Biol. 3,
+pajek/).                                                                                       11 (2003).
+                                                                                           35. Joy, M. P., Brock, A., Ingber, D. E. & Huang, S. High-betweenness proteins in
+Received 20 December 2005; accepted 23 February 2006.                                          the yeast protein interaction network. J. Biomed. Biotechnol. 2005, 96–-103
+Published online 22 March 2006.                                                                (2005).
+                                                                                           36. Fourel, G., Revardel, E., Koering, C. E. & Gilson, E. Cohabitation of insulators
+1.    Goffeau, A. et al. Life with 6000 genes. Science 274, 546, 563–-567 (1996).              and silencing elements in yeast subtelomeric regions. EMBO J. 18, 2522–-2537
+2.    Hughes, T. R. et al. Functional discovery via a compendium of expression                 (1999).
+      profiles. Cell 102, 109–-126 (2000).                                                 37. Brigati, C., Kurtz, S., Balderes, D., Vidali, G. & Shore, D. An essential yeast gene
+3.    Martzen, M. R. et al. A biochemical genomics approach for identifying genes by           encoding a TTAGGG repeat-binding protein. Mol. Cell. Biol. 13, 1306–-1314
+      the activity of their products. Science 286, 1153–-1155 (1999).                          (1993).
+4.    Zhu, H. & Snyder, M. Protein chip technology. Curr. Opin. Chem. Biol. 7, 55–-63      38. Aravind, L. The BED finger, a novel DNA-binding domain in chromatin-
+      (2003).                                                                                  boundary-element-binding proteins and transposases. Trends Biochem. Sci. 25,
+5.    Huh, W. K. et al. Global analysis of protein localization in budding yeast. Nature       421–-423 (2000).
+      425, 686–-691 (2003).                                                                39. Regelmann, J. et al. Catabolite degradation of fructose-1,6-bisphosphatase in
+6.    Kumar, A. et al. Subcellular localization of the yeast proteome. Genes Dev. 16,          the yeast Saccharomyces cerevisiae: a genome-wide screen identifies eight novel
+      707–-719 (2002).                                                                         GID genes and indicates the existence of two degradation pathways. Mol. Biol.
+7.    Ross-Macdonald, P. et al. Large-scale analysis of the yeast genome by                    Cell 14, 1652–-1663 (2003).
+      transposon tagging and gene disruption. Nature 402, 413–-418 (1999).                 40. Scholes, D. T., Banerjee, M., Bowen, B. & Curcio, M. J. Multiple regulators of
+8.    Winzeler, E. A. et al. Functional characterization of the S. cerevisiae genome by        Ty1 transposition in Saccharomyces cerevisiae have conserved roles in genome
+      gene deletion and parallel analysis. Science 285, 901–-906 (1999).                       maintenance. Genetics 159, 1449–-1465 (2001).
+9.    Tong, A. H. et al. Systematic genetic analysis with ordered arrays of yeast          41. Krogan, N. J. & Greenblatt, J. F. Characterization of a six-subunit
+      deletion mutants. Science 294, 2364–-2368 (2001).                                        holo-elongator complex required for the regulated expression of a group of
+10.   Schuldiner, M. et al. Exploration of the function and organization of the yeast          genes in Saccharomyces cerevisiae. Mol. Cell. Biol. 21, 8203–-8212 (2001).
+      early secretory pathway through an epistatic miniarray profile. Cell 123,            42. Krogan, N. J. et al. Proteasome involvement in the repair of DNA double-strand
+      507–-519 (2005).                                                                         breaks. Mol. Cell 16, 1027–-1034 (2004).
+11.   Uetz, P. et al. A comprehensive analysis of protein–-protein interactions in         43. Krogan, N. J. et al. RNA polymerase II elongation factors of Saccharomyces
+      Saccharomyces cerevisiae. Nature 403, 623–-627 (2000).                                   cerevisiae: a targeted proteomics approach. Mol. Cell. Biol. 22, 6979–-6992
+12.   Ito, T. et al. A comprehensive two-hybrid analysis to explore the yeast protein          (2002).
+      interactome. Proc. Natl Acad. Sci. USA 98, 4569–-4574 (2001).                        44. Korber, P. & Horz, W. SWRred not shaken; mixing the histones. Cell 117, 5–-7
+13.   Gavin, A. C. et al. Functional organization of the yeast proteome by systematic          (2004).
+      analysis of protein complexes. Nature 415, 141–-147 (2002).                          45. Hampsey, M. & Reinberg, D. Tails of intrigue: phosphorylation of RNA
+14.   Ho, Y. et al. Systematic identification of protein complexes in Saccharomyces            polymerase II mediates histone methylation. Cell 113, 429–-432 (2003).
+      cerevisiae by mass spectrometry. Nature 415, 180–-183 (2002).                        46. Sampath, V. & Sadhale, P. Rpb4 and Rpb7: a sub-complex integral to
+15.   Xia, Y. et al. Analyzing cellular biochemistry in terms of molecular networks.           multi-subunit RNA polymerases performs a multitude of functions. IUBMB Life
+      Annu. Rev. Biochem. 73, 1051–-1087 (2004).                                               57, 93–-102 (2005).
+16.   von Mering, C. et al. Comparative assessment of large-scale data sets of             47. Eissenberg, J. C. et al. dELL is an essential RNA polymerase II elongation factor
+      protein–-protein interactions. Nature 417, 399–-403 (2002).                              with a general role in development. Proc. Natl Acad. Sci. USA 99, 9894–-9899
+17.   Butland, G. et al. Interaction network containing conserved and essential                (2002).
+      protein complexes in Escherichia coli. Nature 433, 531–-537 (2005).                  48. Allison, L. A., Moyle, M., Shales, M. & Ingles, C. J. Extensive homology among
+18.   Ghaemmaghami, S. et al. Global analysis of protein expression in yeast. Nature           the largest subunits of eukaryotic and prokaryotic RNA polymerases. Cell 42,
+      425, 737–-741 (2003).                                                                    599–-610 (1985).
+19.   Rigaut, G. et al. A generic protein purification method for protein complex
+      characterization and proteome exploration. Nature Biotechnol. 17, 1030–-1032         Supplementary Information is linked to the online version of the paper at
+      (1999).                                                                              www.nature.com/nature.
+20.   Link, A. J. et al. Direct analysis of protein complexes using mass spectrometry.
+      Nature Biotechnol. 17, 676–-682 (1999).                                              Acknowledgements We thank M. Chow, N. Mohammad, C. Chung and V. Fong
+21.   McCormack, A. L. et al. Direct analysis and identification of proteins in            for their assistance with the creation of the web resources. We are grateful to
+      mixtures by LC/MS/MS and database searching at the low-femtomole level.              J. van Helden and S. Brohe´e for sharing information on their comparison of
+      Anal. Chem. 69, 767–-776 (1997).                                                     clustering methods before publication. This research was supported by grants
+22.   Krogan, N. J. et al. High-definition macromolecular composition of yeast RNA-        from Genome Canada and the Ontario Genomics Institute (to J.F.G. and A.E.),
+      processing complexes. Mol. Cell 13, 225–-239 (2004).                                 the Canadian Institutes of Health Research (to A.E., N.J.K., J.F.G., S.J.W., S.P. and
+23.   Mewes, H. W. et al. MIPS: analysis and annotation of proteins from whole             C.J.I.), the National Cancer Institute of Canada with funds from the Canadian
+      genomes. Nucleic Acids Res. 32, D41–-D44 (2004).                                     Cancer Society (to J.F.G.), the Howard Hughes Medical Institute (to J.S.W. and
+24.   Mitchell, T. Machine Learning (McGraw Hill, 1997).                                   E.O.), the McLaughlin Centre for Molecular Medicine (to S.J.W. and S.P.), the
+25.   Wolpert, D. H. Stacked generalization. Neural Netw. 5, 241–-259 (1992).              Hospital for Sick Children (to J.M.P.-A.), the National Sciences and Engineering
+26.   Jansen, R. & Gerstein, M. Analyzing protein function on a genomic scale: the         Research Council (to N.J.K., T.R.H. and A.E.) and the National Institutes of
+      importance of gold-standard positives and negatives for network prediction.          Health (to A.S., M.G., A.P. and H.Y.).
+      Curr. Opin. Microbiol. 7, 535–-545 (2004).
+27.   Jansen, R. et al. A Bayesian networks approach for predicting protein-protein        Author Information Protein interaction information from this paper has been
+      interactions from genomic data. Science 302, 449–-453 (2003).                        provided to the BioGRID database (http://thebiogrid.org), as well as the
+28.   Barabasi, A. L. & Albert, R. Emergence of scaling in random networks. Science        International Molecular Interaction Exchange consortium (IMEx, http://
+      286, 509–-512 (1999).                                                                imex.sf.net) consisting of BIND, DIP, IntAct, MINT and Mpact (MIPS). Reprints
+29.   Enright, A. J., Van Dongen, S. & Ouzounis, C. A. An efficient algorithm for large-   and permissions information is available at npg.nature.com/
+      scale detection of protein families. Nucleic Acids Res. 30, 1575–-1584 (2002).       reprintsandpermissions. The authors declare no competing financial interests.
+30.   Keogh, M. C. et al. Cotranscriptional Set2 methylation of Histone H3 lysine 36       Correspondence and requests for materials should be addressed to J.F.G
+      recruits a repressive Rpd3 complex. Cell 123, 593–-605 (2005).                       (jack.Greenblatt@utoronto.ca) or A.E. (Andrew.emili@utoronto.ca).
+
+
+
+
+                                                                                                                                                                              643
+                                                                      © 2006 Nature Publishing Group
+

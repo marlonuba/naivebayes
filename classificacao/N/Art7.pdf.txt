@@ -1,0 +1,371 @@
+Proteomics 2006, 6, 35–40                  DOI 10.1002/pmic.200500209                                                                35
+
+RESEARCH ARTICLE
+
+Virtual identification of essential proteins within the
+protein interaction network of yeast
+
+Ernesto Estrada
+
+Complex Systems Research Group, X-Ray Unit, RIAIDT, University of Santiago de Compostela,
+Edificio CACTUS, Santiago de Compostela, Spain
+
+
+
+Topological analysis of large scale protein-protein interaction networks (PINs) is important for                 Received: April 7, 2005
+understanding the organizational and functional principles of individual proteins. The number                    Revised: May 23, 2005
+of interactions that a protein has in a PIN has been observed to be correlated with its indis-                  Accepted: May 31, 2005
+pensability. Essential proteins generally have more interactions than the nonessential ones. We
+show here that the lethality associated with removal of a protein from the yeast proteome corre-
+lates with different centrality measures of the nodes in the PIN, such as the closeness of a protein
+to many other proteins, or the number of pairs of proteins which need a specific protein as an
+intermediary in their communications, or the participation of a protein in different protein
+clusters in the PIN. These measures are significantly better than random selection in identifying
+essential proteins in a PIN. Centrality measures based on graph spectral properties of the net-
+work, in particular the subgraph centrality, show the best performance in identifying essential
+proteins in the yeast PIN. Subgraph centrality gives important structural information about the
+role of individual proteins, and permits the selection of possible targets for rational drug dis-
+covery through the identification of essential proteins in the PIN.
+
+Keywords:
+Centrality measures / Complex networks / Essential proteins / Protein-protein interac-
+tions / Spectral graph theory
+
+
+
+
+1    Introduction                                                        parate fields ranging from the Internet to social networks [7–
+                                                                         9]. One of the most important topological characteristics
+A recent explosion of research papers related to the structure           shared by almost all complex networks is the so-called
+of complex networks has led to important results related to              “small-worldness” [10]. Other properties, such as “scale-free-
+the topological properties of biological networks [1]. These             ness” [11] and modularity [12, 13] have also been reported for
+networks, which include metabolic networks [2, 3] and pro-               metabolic networks and PINs. On the other hand, the num-
+tein interaction networks (PINs) [4–6], share important                  ber of links per node (node degree) in the PIN of Sacchar-
+structural features with other real-world networks in dis-               omyces cerevisiae has been observed to be correlated with the
+                                                                         lethality of removing such proteins from the PIN [14].
+                                                                         According to this result those nodes with a large number of
+Correspondence: Ernesto Estrada, Complex Systems Research
+Group, X-Ray Unit, RIAIDT, University of Santiago de Compos-             links, the so-called “hubs”, tend to be essential. The indis-
+tela, Edificio CACTUS, Campus Sur, Santiago de Compos-                   pensability of a gene defines its functional significance and
+tela 15782, Spain                                                        when such genes are knocked out the cell becomes unviable
+E-mail: estrada66@yahoo.com                                              [15]. The yeast PIN has also been the objective of several
+Fax: 134-981-547-077                                                     other topological analyses aimed at the detection of protein
+                                                                         functionality and evolution [16–19].
+Abbreviations: BC, betweenness centrality; CC, closeness cen-
+trality; DC, degree centrality; EC, eigenvector centrality; IC, infor-
+                                                                             Node degree is one of the several local topological prop-
+mation centrality; PIN, protein-protein interaction network; SC,         erties of networks that are known as “centrality measures”.
+subgraph centrality                                                      The notion of centrality comes from its use in social net-
+
+
+ 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim                                                        www.proteomics-journal.com
+36       E. Estrada                                                                                                      Proteomics 2006, 6, 35–40
+
+works [20]. Intuitively, it is related to the ability of a node to            N1
+                                                                     CC ðiÞ ¼ P                                                                (1)
+communicate directly with other nodes, or to its closeness                      dði; jÞ
+to many other nodes or to the quantity of pairs of nodes that                      j
+
+need a specific node as intermediary in their communica-             Another popular centrality measure is BC [29]. BC char-
+tions [21]. These ideas have materialized in some well-              acterizes the degree of influence a protein has in “commu-
+known centrality measures such as degree centrality (DC),            nicating” between protein pairs and is defined as the fraction
+closeness centrality (CC), and betweenness centrality (BC)           of shortest paths going through a given node. If r(i, j) is the
+[20, 22]. Other centrality measures, known as eigenvector            number of shortest paths from protein i to protein j, and r(i,
+centrality (EC) and information centrality (IC), were devel-         k, j) is the number of these shortest paths that pass through
+oped by Bonacich [23, 24] and Stephenson and Zelen [25],             protein k in the PIN, then the BC of node k is given by:
+respectively. More recently Estrada and Rodríguez-Veláz-
+quez [26] introduced a centrality measure that accounts for                     X X Rði; k; jÞ
+                                                                     BC ðkÞ ¼                            ; i 6¼ j 6¼ k                         (2)
+the weighted participation of nodes in all subgraphs of the                            i   j
+                                                                                               Rði; jÞ
+network.
+    Although some centrality measures have been analyzed             The EC introduced by Bonacich [23, 24] is defined as the
+for biological networks [27, 28], a systematic study of the          principal eigenvector of the adjacency matrix A defining the
+relationships between centralities and protein indis-                network. It simulates a mechanism in which each node
+pensability in PINs has not been reported. It has been               affects all of its neighbors simultaneously. The defining
+argued that “the biological consequences of these topologi-          equation of an eigenvector is le = Ae, where A is the adja-
+cal properties are not clear – in fact, there might not be any,      cency matrix of the graph, l is an eigenvalue and e is the
+as both small-world and scale-free behavior can be explained         eigenvector. Thus, EC of protein i is defined as the ith com-
+by well-known evolutionary events” [5]. However, we con-             ponent of the eigenvector e1, e1(i), that corresponds to the
+sider here a more pragmatic approach. The main objective             largest eigenvalue of A, l1 (principal eigenvalue or index):
+of this work lies in analysis of the efficacy of different
+approaches based on centrality measures to identify lethal           EC(i) = e1(i)                                                             (3)
+proteins in a protein-protein interaction network. If we have
+determined the PIN of a pathogenic organism for which we             Accordingly, a protein is considered central if it has a high
+are interested in designing a new drug, our next objective           eigenvector score, which means that it is adjacent to other
+will be to select some proteins from the organism that can           proteins that themselves have high scores.
+be used as targets for this new drug to be designed. In other            Another structural measure of centrality in a network
+words, we need to select some essential proteins that can be         was introduced by Stephenson and Zelen [25] and is known
+attacked by the new drug, thus killing the pathogenic                as IC. It is based on the information that can be transmitted
+organism. To determine which centrality measure is more              between any two points in a connected network. If A is the
+appropriate for selecting essential proteins in a PIN, we            adjacency matrix of a network, D a diagonal matrix of the
+have studied the relationships between DC, CC, BC, EC, IC            degree of each node and J a matrix with all its elements equal
+and subgraph centrality (SC) with essentiality of proteins in        to one, then IC is defined by inverting the matrix B defined
+the yeast PIN.                                                       as B = D 2 A 1 J to obtain the matrix C = (cij) = B21 from
+                                                                     which the information matrix is obtained as follows:
+
+2    Materials and methods                                           Iij = (cii 1 cjj 2 cij)21                                                 (4)
+
+2.1 Centrality measures                                              The IC of the protein i is then defined by using the harmonic
+                                                                     average:
+In the context of PINs, we will refer to “protein centrality”                  "               #1
+to characterize the importance or contribution of an indi-                   1X1
+                                                                     ICðiÞ ¼                                                                   (5)
+vidual protein to the global structure or configuration of the               N j Iij
+PIN.
+     The simplest of all centrality measures is the DC. DC(i) is     Stephenson and Zelen [25] proposed to define Iii as infinite
+the number of ties incident upon a node i, i.e., the number of       for computational purposes, which makes 1=Iii ¼ 0. Newman
+proteins that are interacting with protein i. Another cen-           [30] has recognized that IC is another closeness measure,
+trality measure is the CC of a connected network. The CC of          which in essence measures the harmonic mean lengths of
+protein i is the sum of graph-theoretic distances from all           paths ending at a node i, which is smaller if i has many short
+other proteins in the PIN, where the distance d(i, j) from one       paths connecting it to other nodes.
+protein i to another j is defined as the number of links in the          Finally, we will consider a centrality measure recently
+shortest path from one to the other. The CC of protein i in a        introduced to account for the participation of a node in all
+PIN is given by the following expression:                            subgraphs of the network. The SC is defined [26] as:
+
+
+ 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim                                                                 www.proteomics-journal.com
+Proteomics 2006, 6, 35–40                                                                                         Bioinformatics           37
+
+          X
+          1
+            ml ðiÞ        X
+                          N       2                                            The indispensability of a protein defines the functional
+SCðiÞ ¼               ¼      vj ðiÞ elj                              (6)    significance of a gene at its most basic level. Essential genes
+          l¼0
+                 l!       j¼1
+                                                                            are those upon which the cell depends for its viability. Leth-
+where ml(i) is the number of walks starting and ending at                   ality can be determined without knowing the function of a
+node i, i.e., closed walks of length l starting at i, (n1, n2, . . ., nn)   gene by using, for example, random transposon mutagen-
+is an orthonormal basis of RN composed by eigenvectors of A                 esis [37] or gene-deletion [38]. Using the GENECENSUS
+associated to the eigenvalues l1, l2, . . ., lN, and nj(i) is the ith       database (http://bioinfo.mbb.yale.edu/genome/), we checked
+component of nj.                                                            for all proteins in the main cluster of the yeast PIN for
+    Accordingly, SC(i) counts the total number of closed                    indispensability. Almost 80% of essential proteins in this
+walks in which protein i takes part in the PIN and gives more               main component of the yeast PIN form a connected cluster
+weight to closed walks of short lengths. Closed walks are                   showing a high level of connectivity among essential pro-
+related to the network subgraph [26, 31]. Thus, SC accounts                 teins (see Fig. 2).
+for the number of subgraphs in which a protein participates,
+giving more weights to smaller subgraphs, which have been
+previously identified as important structural motifs in bio-                3    Results
+logical networks [32–34].
+                                                                            The main objective of this work was to analyze the potential
+                                                                            of centrality measures to select essential proteins in a PIN.
+2.2 Yeast PIN data set                                                      DC was previously found to be correlated with protein leth-
+                                                                            ality in yeast PINs in such a way that there is a larger number
+The PIN of yeast, S. cerevisiae, used here, was compiled by Bu              of essential proteins among those highly connected than
+et al. [35]. The original data was obtained by von Mering et al.            among proteins with low degree [14]. Here our approach
+[36] by assessing a total of 80 000 interactions among                      consisted in ranking proteins according to their values of
+5400 proteins reported previously and assigning each inter-                 centrality; we selected the top 1%, top 5%, etc. of proteins,
+action a confidence level. Bu et al. [35] focused on                        and determined how many of these are essential in the yeast
+11 855 interactions between 2617 proteins with high and                     PIN. For purposes of comparison, we also selected proteins
+medium confidence to reduce the interference of false posi-                 at random taking the average of the number of essential
+tives, from which they reported a network consisting on                     proteins after 20 random selections. In Fig. 3 we illustrate
+2361 nodes and 6646 links (http://vlado.fmf.uni-lj.si/pub/                  the number of essential proteins detected by SC, DC, CC,
+networks/data/bio/Yeast/Yeast.htm). This interaction map is                 BC, EC and IC as well as by the random selection method up
+considered here as a network in which proteins are repre-                   to the top 25% of proteins in the PIN, which represents an
+sented as the nodes, and two nodes are linked by an edge if                 amount equivalent to the total number of essential proteins
+the corresponding two proteins can be expected with high or                 in the main cluster of the yeast PIN.
+medium confidence of interacting. The main cluster of                            As can be seen in Fig. 3, all centrality measures perform
+2224 proteins sharing 6608 interactions, which is used here                 significantly better than the random selection method in
+for the analysis, is illustrated in Fig. 1.                                 selecting essential proteins in the yeast PIN. This result is
+                                                                            important from the practical point of view because it means
+                                                                            that the use of centrality measures for selecting essential
+
+
+
+
+Figure 1. The complete PIN of yeast showing essential proteins
+in red and nonessential ones in blue, yellow circles correspond to          Figure 2. The main cluster of essential proteins of yeast contain-
+proteins with unknown essentiality.                                         ing 78.2% of all essential proteins in the PIN.
+
+
+ 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim                                                             www.proteomics-journal.com
+38       E. Estrada                                                                                       Proteomics 2006, 6, 35–40
+
+
+
+
+                                                                                  Figure 3. Percentage of essential proteins select-
+                                                                                  ed by ranking proteins according to their values
+                                                                                  of centrality and at random (after 20 realizations).
+
+
+
+proteins in a PIN is significantly more efficient than random          We have tried to increase the percentage of essential
+selection. If we select these proteins at random, we have a       proteins correctly identified by combining different cen-
+high chance of detecting a low ratio of essential proteins, and   trality measures. For instance, we have selected the top 1% of
+losing time, efforts and resources. However, the use of cen-      proteins according to more than one centrality measure, and
+trality measures to rank the proteins in this PIN and select-     calculated the fraction of essential proteins existing among
+ing, for instance, the top 1% of them will guarantee a higher     them. However, these percentages do not differ significantly
+probability of selecting essential proteins.                      from those obtained using SC. This is probably a con-
+     The percentage of essential proteins identified by SC        sequence of the interrelation between the different centrality
+show certain linear correlation with the percentages of           measures. Our hypothesis is that the essentiality of a protein
+essential proteins detected by the other centrality measures.     in a proteome does not depends only on its topological posi-
+These correlations are expected from the fact that all cen-       tion in the network but also on proper characteristics of the
+trality measures are trying to identify the most central nodes    protein. Consequently, to increase the performance of a
+in the network, even if they are using different criteria [39].   method for identifying essential proteins, we need to use a
+In particular, the best correlation was obtained for the EC,      combination of topological and “molecular” information in
+which is also a spectral centrality measure. In Fig. 4, we il-    the form of weighted networks.
+lustrate these correlations where it is also seen that all cen-        An individual analysis of each centrality measure reveals
+trality measures outperform the random selection method.          interesting characteristics of this selection parameter. In
+                                                                  most of the cases the SC measure identifies the larger num-
+                                                                  ber of essential proteins in the PIN among all centrality
+                                                                  measures, followed very closely by the other spectral cen-
+                                                                  trality measure, EC. The poorest performances are obtained
+                                                                  by using BC and CC, while DC and IC report numbers of
+                                                                  essential proteins intermediate between those of SC-EC and
+                                                                  BC-CC. Any centrality measure is capable of identifying al-
+                                                                  most twice as many indispensable proteins as the random
+                                                                  selection. If we consider the top 1% of proteins in the PIN to
+                                                                  be comprised of 30 proteins, SC is able to identify 63.3% of
+                                                                  these proteins as essential, 17% more than identified by DC.
+                                                                  These differences are less marked as the percentage of pro-
+                                                                  teins selected increases. For instance, when the top 25% of
+                                                                  proteins are selected, SC identifies 8 essential proteins more
+                                                                  than DC and only 6 more than EC. If we are interested in
+                                                                  selecting a few proteins to test their lethality, so as to select
+Figure 4. Linear correlations between the percentages of essen-
+                                                                  some of them as targets for new drugs, the analysis of the top
+tial proteins selected by ranking proteins according to their
+values of SC versus those obtained by other centrality measures   1% of proteins ranked by centrality measures will be more
+and at random (after 20 realizations).                            appropriate than analysis of the top 25%. However, the dif-
+
+
+ 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim                                                    www.proteomics-journal.com
+Proteomics 2006, 6, 35–40                                                                               Bioinformatics           39
+
+ference with respect to BC and CC is still significant because         The sub-networks formed by nodes selected by the two
+SC identifies 51 essential proteins more than BC, and              spectral methods show larger clustering coefficients and
+31 more than CC. At this point SC overtakes the random             lower average distances among all the sub-networks studied.
+selection method for more than 100 essential proteins.             As expected, the sub-networks formed by random selection
+     The proteins selected by each of the centrality measures      of nodes are highly disconnected, showing very low cluster-
+studied together with the links between them can be con-           ing. The clustering coefficient measures the degree of cli-
+sidered as sub-networks of the yeast PIN. For instance, if we      quishness of a node in the network and the sub-networks
+take the top 1% proteins selected by any centrality measure        formed by selecting nodes according to their higher SC and
+we can form a network of 30 nodes together with the links          EC show the largest cliquishness of all the sub-networks
+joining them. These networks are not necessarily con-              studied. Cliquishness refers to the graph theory term
+nected. Suppose that the top x nodes ranked by a centrality        “cliquish” which is used to designate complete graphs, i.e.,
+measure are topologically distant from each other with no          those in which all nodes are connected to each other. Trian-
+link joining any pair of such nodes. In this case we will have     gles, which are accounted by the clustering coefficient, are
+a network formed by x disconnected nodes. However, if a            the complete graph with three nodes. Coincidentally, these
+link exists between each pair of these nodes the resulting         two selection methods are the most efficient for the identifi-
+sub-network will be connected. The study of the topological        cation of essential proteins in the yeast PIN.
+characteristics of these sub-networks can shed some light
+on the place that essential proteins occupy in the yeast PIN.
+In Table 1 we give the values of three topological character-      4    Discussion
+istics for these sub-networks formed by the nodes ranked as
+the top 1%, 10% and 25% according to the different cen-            The fact that centrality measures overtake the random selec-
+trality measures as well as the random selection method.           tion in detecting essential proteins clearly indicate that these
+These topological parameters are the Watts and Strogatz            topological measures encode important structural informa-
+[10] clustering coefficient, C; the average distance among         tion related to protein lethality, i.e., they are describing some
+reachable pairs of nodes, L, i.e., the number of edges in the      fundamental topological information of the PIN, which is
+shortest path between each pair of nodes; and the average          likely to be essential for protein function. Our results also
+degree ,k..                                                        indicates that protein indispensability does not depend on
+                                                                   how close a protein is to many other proteins, nor on the
+Table 1. Topological characteristics of the sub-network formed
+                                                                   number of pairs of proteins that a particular protein needs as
+         by the top 25% of proteins selected by centrality meas-   intermediary in their communications in the protein-protein
+         ures or at random                                         interactions. More importantly, the protein essentiality
+                                                                   appears to be related on how much a protein is implicated in
+Method                      C             La)            ,k.       clusters of proteins forming a large number of subgraphs in
+                                                                   the network. This hypothesis is confirmed in part by the fact
+SC           1%             0.529         1.586          12.67     that the proteins selected by any of the spectral measures of
+            10%             0.391         2.418          11.84     centrality form clusters of highly interconnected nodes
+            25%             0.217         3.052          10.44
+                                                                   showing a high number of triangles as measured by the
+DC           1%             0.306         3.203           3.00
+                                                                   clustering coefficient. These results agree with those report-
+            10%             0.253         2.905           7.49
+            25%             0.200         3.140          11.05     ed by Yu et al. [15], who determined that within the interac-
+BC           1%             0.032         3.120           2.47     tion network, essential proteins tend to be more cliquish.
+            10%             0.130         2.902           6.05         Among these subgraphs, triangles and squares can play
+            25%             0.112         3.310           9.18     an important role in an understanding of the evolution of the
+CC           1%             0.277         2.568           4.60     PIN [32–34]. According to the coupled duplication-diver-
+            10%             0.132         2.498           8.78     gence model of evolution after gene duplication, both of the
+            25%             0.142         2.987          10.74     expressed proteins will have the same interactions [40]. In
+EC           1%             0.529         1.586          12.67     this model, it is proposed that both duplicate genes are sub-
+            10%             0.330         2.210          12.03
+                                                                   ject to degenerative mutations, losing some functions but
+            25%             0.210         3.052          10.27
+                                                                   jointly retaining the full set of functions present in the
+IC           1%             0.361         3.066           4.06
+            10%             0.243         2.681           8.93
+                                                                   ancestral gene. More recently, van Noort et al. [41] have
+            25%             0.198         3.103          11.34     reproduced the scale-free and small-world characteristics of
+Random       1%             0.000         –b)             0.00     the yeast co-expression network using a similar model, based
+            10%             0.000         –b)             0.22     on the simple neutralist’s model, which consists of co-dupli-
+            25%             0.146         5.867           1.42     cation of genes with their transcription factor binding sites
+                                                                   (TFBSs), deletion and duplication of individual TFBSs, and
+a) Average distance among reachable pairs of nodes.                gene loss [41]. Among the effects manifested by these mod-
+b) Very low number of connected nodes.                             els on the topology of the PIN is the tendency to generate bi-
+
+
+ 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim                                                    www.proteomics-journal.com
+40        E. Estrada                                                                                               Proteomics 2006, 6, 35–40
+
+connected triplets and quadruples of nodes; i.e., triangles               [8] Albert, R., Barabási, A.-L., Rev. Mod. Phys. 2002, 74, 47–97.
+and squares. Triangles are formed among the duplicating                   [9] Newman, M. J. E., SIAM Rev. 2003, 45, 167–256.
+genes and any neighbor of the parent gene, and squares are               [10] Watts, D. J., Strogatz, S. H., Nature 1998, 393, 440–442.
+formed analogously between duplicating genes and any pair                [11] Barabási, A.-L., Albert, R., Science 1999, 286, 509–512.
+of neighbors of the parent gene. Triangles and squares can               [12] Ravasz, E., Somera, A. L., Mongru, D. A., Oltvai, Z. N., Bar-
+also be involved in a great number of other subgraphs, which                  abais, A.-L., Science 2002, 297, 1551–1555.
+are all well accounted for by SC. Consequently, SC shows the             [13] Han, J.-D. J., Bertin, N., Hao, T., Goldberg, D. S. et al., Nature
+best performance in selecting essential proteins in the yeast                 2004, 430, 88–93.
+PIN, probably because the indispensability of a given protein            [14] Jeong, H., Mason, S. P., Barabási, A.-L., Oltvai, Z. N., Nature
+in the PIN is related to its implications in certain essential                2001, 411, 41–42.
+structural motifs formed by different structural subgraphs.              [15] Yu, H., Greenbaum, D., Xin Lu, H., Zhu, X., Gerstein, M.,
+    In conclusion, we have shown that the lethality asso-                     Trends Genet. 2004, 20, 227–231.
+ciated with removal of a protein from the yeast proteome                 [16] Vázquez, A., Flammini, A., Maritan, A., Vespignani, A., Nat.
+correlates with different centrality measures of the nodes in                 Biotechnol. 2003, 21, 697–700.
+the PIN. These measures, which reflect different topological             [17] Pereira-Leal, J. B., Enright, A. J., Ouzounis, C. A., Proteins
+characteristics of networks, are significantly better than ran-               2004, 54, 49–57.
+dom selection in identifying essential proteins in a PIN. Our            [18] Wagner, A., Mol. Biol. Evol. 2001, 18, 1283–1292.
+results confirm that the indispensability of a given protein in          [19] Wutchy, S., Genome Res. 2004, 14, 1310–1314.
+a PIN not only depends on the individual biochemical func-               [20] Wasserman, S., Faust, K., Social Network Analysis, Cam-
+tion and genetic redundancy of the protein, but also on the                   bridge University Press, Cambridge 1994.
+global organization of interactions and the topological role of          [21] Gómez, D., González-Arangüena, E., Manuel, C., Owen, G. et
+such proteins in the network [14].                                            al., Math. Soc. Sci. 2003, 46, 27–54.
+    The centrality measures based on graph spectral proper-              [22] Freeman, L. C., Social Networks 1979, 1, 215–239.
+ties of the network, in particular the SC, show the best per-            [23] Bonacich, P., J. Math. Sociol. 1972, 2, 113–120.
+formance in identifying essential proteins in the yeast PIN.
+                                                                         [24] Bonacich, P., Am. J. Sociol. 1987, 92, 1170–1182.
+The SC quantifies the participation of a node in the different
+                                                                         [25] Stephenson, K., Zelen, M., Social Networks 1989, 11, 1–37.
+subgraphs of the network, assigning more importance to the
+                                                                         [26] Estrada, E., Rodríguez-Velázquez, J. A., Phys. Rev. E. 2005,
+smaller ones, which have been identified as important motifs
+                                                                              71, 056103.
+in biological networks [32–34]. Consequently, the use of SC
+                                                                         [27] Wuchty, S., Stadler, P. F., J. Theor. Biol. 2003, 223, 45–53.
+in studying PINs can provide important structural informa-
+                                                                         [28] Ma, H.-W., Zeng, A.-P., Bioinformatics 2003, 19, 1423–1430.
+tion about the role of individual proteins in the global orga-
+nization of protein interactions. At the same time ranking               [29] Freeman, L. C., Sociometry 1977, 40, 35–41.
+proteins by means of this centrality measure can be an                   [30] Newman, M. J. E., Social Networks 2005, 27, 39–54.
+effective method for selecting possible targets for rational             [31] Biggs, N., Algebraic Graph Theory, 2nd Edn., Cambridge
+drug discovery through the identification of essential pro-                   Mathematical Library, Cambridge 1994.
+teins in a PIN.                                                          [32] Milo, R., Itzkovitz, S., Kashtan, N., Levitt, R. et al., Science
+                                                                              2004, 303, 1538–1542.
+                                                                         [33] Milo, R., Shen-Orr, S., Itzkovitz, S., Kashtan, N. et al., Science
+                                                                              2002, 298, 824–827.
+                                                                         [34] Yeger-Lotem, E., Sattath, S., Kashtan, N., Itzkovitz, S. et al.,
+5    References                                                               Proc. Natl. Acad. Sci. USA 2004, 101, 5934–5939.
+                                                                         [35] Bu, D., Zhao, Y., Cai, L., Xue, H. et al., Nucleic Acids Res.
+[1] Barabási, A.-L., Oltvai, Z. N., Nat. Rev. Genet. 2004, 5, 101–            2003, 31, 2443–2450.
+    114.                                                                 [36] von Mering, C., Krause, R., Snel, B., Cornell, M. et al., Nature
+[2] Jeong, H., Tombor, B., Albert, R., Oltvai, Z. N., Barabási, A.-L.,        2002, 417, 399–403.
+    Nature 2000, 407, 651–654.                                           [37] Ross-Macdonald, P., Coelho, P. S. R., Roemer, T., Agarwal, S.
+[3] Fell, D. A., Wagner, A., Nat. Biotechnol. 2000, 189, 1121–1122.           et al., Nature 1999, 402, 413–418.
+[4] Koonin, E. V., Wolf, Y. I., Karev, G. P., Nature 2002, 420, 218–     [38] Winzeler, E. A., Shoemaker, D. D., Astromoff, A., Liang, H. et
+    223.                                                                      al., Science 1999, 285, 901–906.
+[5] Bork, P., Jensen, L. J., von Mering, C., Ramani, A. K. et al.,       [39] Wuchty, S., Stadler, P. F., J. Theor. Biol. 2003, 223, 45–53.
+    Curr. Opin. Struct. Biol. 2004, 14, 292–299.                         [40] Force, A., Lynch, M., Pickett, F. B., Amores, A. et al., Genetics
+[6] Vázquez, A., Flammini, A., Maritan, A., Vespignani, A., Com-              1999, 151, 1531–1545.
+    PlexUs 2003, 1, 38–44.                                               [41] van Noort, V., Snell, B., Huynen, M. A., EMBO Rep. 2004, 5,
+[7] Strogatz, S. H., Nature 2001, 410, 268–276.                               1–5.
+
+
+
+
+ 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim                                                             www.proteomics-journal.com
+

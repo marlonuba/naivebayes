@@ -1,0 +1,1123 @@
+REPORTS
+      despite their socioeconomic importance. Until                4.   M. Chen et al., Plant Cell 14, 537 (2002).                  25. We thank D. Boyer, K. Paux, and members of the
+      now, the selection of genomes for sequencing                 5.   P. E. Klein et al., Genome Res. 10, 789 (2000).                 GENTYANE platform for technical assistance; M. Ganal
+                                                                   6.   F. Wei et al., PLoS Genet. 3, e123 (2007).                      (Trait Genetics), P. Jack (RAGT), and F. Azanza (Syngenta)
+      has been determined on the basis of genome                   7.   M. C. Luo et al., Genomics 82, 378 (2003).                      for providing SSR markers and genotyping data; the
+      simplicity and not agronomic relevance, with                 8.   J. Dolezel et al., Chromosome Res. 15, 51 (2007).               support of F. Legeai and D. Steinbach from Unité de
+      serious consequences for crop improvement and                9.   J. Safar et al., Plant J. 39, 960 (2004).                       Recherche en Génomique-Info in establishing the
+      food security [for example, by neglecting wheat             10.   T. R. Endo, B. S. Gill, J. Hered. 87, 295 (1996).               Gbrowse display of the integrated physical map;
+                                                                  11.   Materials and methods are available as supporting               A. Kumar (Choudhury Charan Singh University Meerut),
+      or choosing the diploid of cotton, Gossypium                      material on Science Online.                                     O. Riera-Lizarazu (Oregon State University), and Y. Gu
+      raimondii, to sequence first rather than focus-             12.   B. S. Gill et al., Genome 34, 830 (1991).                       (U.S. Department of Agriculture–Agricultural Research
+      ing on the economically important tetraploid                13.   E. Paux et al., Plant J. 48, 463 (2006).                        Service) for significant contributions to the RH mapping
+      G. hirsutum (24)]. Our work may pave the way                14.   J. D. Munkvold et al., Genetics 168, 639 (2004).                work; and F. Quetier (Agence Nationale de la Recherche)
+                                                                  15.   M. Akbari et al., Theor. Appl. Genet. 113, 1409                 for support and discussions. Supported by the Agence
+      for a major change in how the next genomes                        (2006).                                                         Nationale de la Recherche (grant ANR-05-BLANC-0258-01)
+      for de novo sequencing are selected, thereby                16.   M. Dilbirligi et al., Genetics 166, 461 (2004).                 and the INRA.
+      accelerating improvements in economically im-               17.   K. G. Hossain et al., Genetics 168, 415 (2004).
+                                                                  18.   K. C. Cone et al., Plant Physiol. 130, 1598 (2002).
+                                                                                                                                    Supporting Online Material
+      portant crop species.                                                                                                         www.sciencemag.org/cgi/content/full/322/5898/101/DC1
+                                                                  19.   M. La Rota, M. E. Sorrells, Funct. Integr. Genomics 4, 34
+                                                                        (2004).                                                     Materials and Methods
+                                                                                                                                    Figs. S1 to S3
+          References and Notes                                    20.   R. Kota et al., Theor. Appl. Genet. 112, 492 (2006).
+       1. B. Wollenweber et al., Curr. Opin. Plant Biol. 8, 337   21.   S. Liu et al., Funct. Integr. Genomics 6, 83 (2006).        Tables S1 to S8
+                                                                  22.   M. D. McNeil et al., Mol. Breed. 22, 15 (2008).             References
+          (2005).
+
+
+
+
+                                                                                                                                                                                                     Downloaded from www.sciencemag.org on December 15, 2015
+       2. T. Itoh et al., Genome Res. 17, 175 (2007).             23.   J. Dolezel et al., Chromosome Res. 12, 77 (2004).           16 June 2008; accepted 10 September 2008
+       3. R. L. Warren et al., Genome Res. 16, 768 (2006).        24.   Z. J. Chen et al., Plant Physiol. 145, 1303 (2007).         10.1126/science.1161847
+
+
+
+
+                                                                                                                                    richia coli (11, 12), S. cerevisiae (13–16), and
+      High-Quality Binary Protein                                                                                                   humans (17).
+                                                                                                                                         To investigate fundamental questions of inter-
+
+      Interaction Map of the Yeast                                                                                                  actome network structure and function, it is nec-
+                                                                                                                                    essary to understand how the size and quality of
+                                                                                                                                    currently available maps, including thorough eval-
+      Interactome Network                                                                                                           uation of differences between binary and co-
+                                                                                                                                    complex maps, might have affected conclusions
+      Haiyuan Yu,1,2* Pascal Braun,1,2* Muhammed A. Yıldırım,1,2,3* Irma Lemmens,4                                                  about global and local properties of interactome
+      Kavitha Venkatesan,1,2 Julie Sahalie,1,2 Tomoko Hirozane-Kishikawa,1,2 Fana Gebreab,1,2                                       networks (18, 19). Here, we address these issues
+      Na Li,1,2 Nicolas Simonis,1,2 Tong Hao,1,2 Jean-François Rual,1,2 Amélie Dricot,1,2                                           using the yeast S. cerevisiae as a model system.
+      Alexei Vazquez,5 Ryan R. Murray,1,2 Christophe Simon,1,2 Leah Tardivo,1,2 Stanley Tam,1,2                                          First, we compared the quality of existing high-
+      Nenad Svrzikapa,1,2 Changyu Fan,1,2 Anne-Sophie de Smet,4 Adriana Motyl,6                                                     throughput binary and co-complex data sets to
+      Michael E. Hudson,6 Juyong Park,1,7 Xiaofeng Xin,8 Michael E. Cusick,1,2 Troy Moore,9                                         information obtained from curating low-throughput
+      Charlie Boone,8 Michael Snyder,6 Frederick P. Roth,1,10 Albert-László Barabási,1,7                                            experiments described in the literature (Fig. 1A).
+      Jan Tavernier,4 David E. Hill,1,2 Marc Vidal1,2†                                                                              For binary interactions, we examined (i) the sub-
+                                                                                                                                    set found by Uetz et al. in a proteome-scale all-
+                                                                                                                                    by-all screen (“Uetz-screen”), excluding the pairs
+      Current yeast interactome network maps contain several hundred molecular complexes with                                       found in a focused, potentially biased experiment
+      limited and somewhat controversial representation of direct binary interactions. We carried out a                             involving only 193 baits (“Uetz-array”) (2); and
+      comparative quality assessment of current yeast interactome data sets, demonstrating that                                     (ii) the Ito et al. interactions found three times or
+      high-throughput yeast two-hybrid (Y2H) screening provides high-quality binary interaction                                     more (“Ito-core”), independently from those found
+      information. Because a large fraction of the yeast binary interactome remains to be mapped, we                                one or two times (“Ito-noncore”), a distinction
+      developed an empirically controlled mapping framework to produce a “second-generation”                                        recommended by the authors but seldom applied
+      high-quality, high-throughput Y2H data set covering ~20% of all yeast binary interactions. Both                               in the literature (3). For co-complex associations,
+      Y2H and affinity purification followed by mass spectrometry (AP/MS) data are of equally high quality                          we investigated two high-throughput AP/MS data
+      but of a fundamentally different and complementary nature, resulting in networks with different                               sets referred to as “Gavin” (15) and “Krogan”
+      topological and biological properties. Compared to co-complex interactome models, this binary                                 (16). For literature-curated interactions, we con-
+      map is enriched for transient signaling interactions and intercomplex connections with a                                      sidered only those curated from two or more publi-
+      highly significant clustering between essential proteins. Rather than correlating with essentiality,                          cations (“LC-multiple”) (20), which we judged of
+      protein connectivity correlates with genetic pleiotropy.                                                                      higher quality than those curated from a single
+                                                                                                                                    publication.
+               crucial step toward understanding cel-             a protein interaction reconstitutes a transcrip-                       To experimentally compare the quality of these
+
+      A        lular systems properties is mapping net-
+               works of physical DNA-, RNA-, and
+      protein-protein interactions, the “interactome
+                                                                  tion factor that activates expression of report-
+                                                                  er genes. High-throughput Y2H maps have
+                                                                  been generated for Saccharomyces cerevisiae
+                                                                                                                                    data sets, we selected a representative sample of
+                                                                                                                                    ~200 protein interaction pairs from each one and
+                                                                                                                                    tested them by means of two independent inter-
+      network,” of an organism of interest as com-                (1–3), Caenorhabditis elegans (4–6), Drosophila                   action assays, Y2H and a yellow fluorescent pro-
+      pletely and accurately as possible. One approach            melanogaster (7), and humans (8–10). An al-                       tein complementation assay (PCA) (21) [Supporting
+      consists in systematically testing all pairwise             ternative approach consists in generating “co-                    Online Material (SOM) I]. In PCA, bait and prey
+      combinations of predicted proteins to derive                complex” interactome maps, achievable by                          proteins are fused to nonfluorescent fragments of
+      the “binary” interactome. Early attempts at bi-             high-throughput coaffinity purification followed                  yellow fluorescent protein that, when brought in
+      nary interactome mapping used high-throughput               by mass spectrometry (AP/MS) to identify pro-                     close proximity by interacting proteins, reconstitute
+      yeast two-hybrid (Y2H) screening, in which                  teins bound to tagged baits, as done for Esche-                   a fluorescent protein in mammalian cells. In con-
+
+
+104                                                  3 OCTOBER 2008             VOL 322          SCIENCE           www.sciencemag.org
+                                                                                                                                                                                                                                                                                                                 REPORTS
+trast, reconstitution of a transcription factor in Y2H             although of intrinsically good quality (15, 16),                                                                                   ses, the quality of a data set is often determined by
+experiments takes place in the nucleus of yeast                    should be used cautiously when binary interaction                                                                                  the fraction of interactions also present in a pre-
+cells. In terms of assay designs, Y2H and PCA can                  information is needed.                                                                                                             defined gold standard set (24). Generally, MIPS
+be considered as orthogonal assays and can be                          Our experimental results contrast markedly                                                                                     complexes have been considered as gold standard,
+used to validate each other’s results.                             with computational analyses that suggested that                                                                                    with all proteins constituting a given complex
+     No single assay is expected to detect 100% of                 high-throughput Y2H data sets contain more false-                                                                                  modeled as interacting with each other. Such
+genuine interactions, and the actual fraction of                   positives than literature-curated or high-throughput                                                                               modeling results in limited and biased sampling
+positives detected is inherently linked to the                     AP/MS data sets (24, 25). In computational analy-                                                                                  issues against binary interactions because not all
+stringency at which the assay is implemented. To
+identify the optimal scoring condition of each
+assay, we selected a set of ~100 well-documented                   A
+                                                                                                Reference                           Uetz et al. (2 )                                Ito et al. (3 )                                    Gavin et al. (15 )        Krogan et al. (16 )        Reguly et al. (20 )
+yeast protein-protein interaction pairs [“positive                                             Dataset name                Uetz-screen          Uetz-array                    Ito-core      Ito-noncore                                     Gavin                     Krogan                     LC-multiple
+
+reference set” (PRS)] and a set of ~100 random                                   Number of reported
+                                                                                    interactions
+                                                                                                                                 682                 281                        843             3632                                         6942                       7123                          2925
+pairs [“random reference set” (RRS)] (Fig. 1B;
+SOM II). Because RRS pairs were picked uniformly                                                                                                          Binary                                                                                      Co-complex                                 Literature
+from the 14 × 106 possible pairings of proteins
+within our yeast ORFeome collection (22) (exclud-                  B                                                                                   308 interactions from
+                                                                                                         11858 literature-curated interactions         small MIPS complexes
+ing those reported as interacting), these pairs are                                                      from BIND, DIP, MIPS, MINT, and IntAct        156 interactions from
+                                                                                                                                                                                                                                                  6
+                                                                                                                                                                                                                                          ~18x10 possible pairs from predicted yeast ORFome
+extremely unlikely to be interacting.                                                                                                                  PDB structures
+
+
+     Sampled pairs from binary Uetz-screen and                                                                                              2 papers 2 databases
+
+Ito-core data sets tested positive at levels as high                                                                                            308 interactions from
+                                                                                                                                                small MIPS complexes
+                                                                                                                    1172 high-quality                                                                                                          ~18x10 6 possible pairs from predicted yeast
+as those of the positive-control PRS, demonstrating                                                            literature-curated interactions 156 interactions from                                                                           ORFeome excluding all reported interactions
+                                                                                                                                                PDB structures
+their high quality (Fig. 1C). A sample of literature-                                                                                       Recuration
+curated LC-multiple interactions tested slightly
+lower with Y2H, while being indistinguishable by                                                                                 1318 Binary-GS
+                                                                                                                                 interactions
+                                                                                                                                                                                                                                                            6
+                                                                                                                                                                                                                                                  ~14x10 possible pairs in MORF library
+PCA (Fig. 1C), demonstrating that high-throughput                                                                                                                                                                                                                           Random selection
+Y2H data sets can be comparable in quality to
+literature-curated information. In marked contrast,                                                                             188 interactions
+                                                                                                                                 with >4 papers
+                                                                                                                                                                                                                                                                 1000 random pairs
+
+sampled pairs from Ito-noncore tested positive at                                                                                           In MORF library                                                                                                                 Random selection
+levels similar to those of the negative-control RRS,
+                                                                                                                                    116 PRS                                                                                                                           116 RRS
+confirming the low quality of this particular data                                                                                interactions                                                                                                                         pairs
+set (Fig. 1C).                                                                                           Yeast Positive Reference Set (PRS)                                                                                               Yeast Random Reference Set (RRS)
+     Sampled pairs from Gavin and Krogan high-
+throughput AP/MS data sets tested poorly in our                    C 40%                                                                                                                                                         40%
+                                                                                                                                                                                                      Fraction positive by PCA
+                                                                    Fraction positive by Y2H
+
+
+
+
+two binary interaction assays (Fig. 1C), albeit at                                                                                                                      Tested by Y2H                                                                                                        Tested by PCA
+levels similar to those of Munich Information                                                  30%                                                                                                                               30%
+
+Center for Protein Sequences (MIPS) complexes,
+                                                                                               20%                                                                                                                               20%
+a widely used “gold standard” (23). This observa-
+tion demonstrates that, at least for detecting binary                                          10%                                                                                                                               10%
+interactions, Y2H performs better than AP/MS.
+     Our experimental data quality assessment                                                  0%                                                                                                                                0%
+                                                                                                                                 en
+
+
+
+
+                                                                                                                                                                                                                                                                    en
+                                                                                                                                 re
+
+
+
+
+                                                                                                                                                                                                                                                                    re
+                                                                                                                        Ito le
+
+
+
+
+                                                                                                                                                                                                                                                           Ito le
+                                                                                                                                  e
+
+
+
+
+                                                                                                                                                                                                                                                                     e
+                                                                                                                                                                           n
+
+
+
+
+                                                                                                                                                                                                                                                                                                   n
+                                                                                                                                                                          in
+
+
+
+
+                                                                                                                                                                                                                                                                                                  in
+                                                                                                                                                                           S
+
+
+
+
+                                                                                                                                                                                                                                                                                             K S
+                                                                                                           S
+
+
+
+
+                                                                                                                                                                                                                                             S
+                                                                                                     S
+
+
+
+
+                                                                                                                                                                                                                                     S
+
+
+
+
+shows that binary Uetz-screen, Ito-core, and
+                                                                                                                              tip
+
+
+
+
+                                                                                                                                                                                                                                                                 tip
+                                                                                                                               or
+
+
+
+
+                                                                                                                                                                                                                                                                  or
+                                                                                                                                                                        ga
+
+
+
+
+                                                                                                                                                                                                                                                                                                ga
+                                                                                                                              co
+
+
+
+
+                                                                                                                                                                                                                                                                 co
+                                                                                                                              re
+
+
+
+
+                                                                                                                                                                                                                                                                 re
+                                                                                                                                                                        IP
+
+
+
+
+                                                                                                                                                                                                                                                                                                IP
+                                                                                                          R
+
+
+
+
+                                                                                                                                                                                                                                            R
+                                                                                                 PR
+
+
+
+
+                                                                                                                                                                                                                                   PR
+                                                                                                                                                                       av
+
+
+
+
+                                                                                                                                                                                                                                                                                               av
+                                                                                                                            -c
+
+
+
+
+                                                                                                                                                                                                                                                               -c
+                                                                                                         R
+
+
+
+
+                                                                                                                                                                                                                                           R
+                                                                                                                           ul
+
+
+
+
+                                                                                                                                                                                                                                                              ul
+                                                                                                                           sc
+
+
+
+
+                                                                                                                                                                                                                                                              sc
+                                                                                                                                                                     ro
+
+
+
+
+                                                                                                                                                                                                                                                                                              ro
+                                                                                                                                                                      M
+
+
+
+
+                                                                                                                                                                                                                                                                                              M
+                                                                                                                          on
+
+
+
+
+                                                                                                                                                                                                                                                             on
+                                                                                                                                                                     G
+
+
+
+
+                                                                                                                                                                                                                                                                                              G
+                                                                                                                       -m
+
+
+
+
+                                                                                                                                                                                                                                                          -m
+                                                                                                                                                                    K
+                                                                                                                        z-
+
+
+
+
+                                                                                                                                                                                                                                                           z-
+                                                                                                                       -n
+
+
+
+
+LC-multiple data sets are of high quality, whereas                                                                                                                                                                                                       -n
+                                                                                                                     et
+
+
+
+
+                                                                                                                                                                                                                                                        et
+                                                                                                                   LC
+
+
+
+
+                                                                                                                                                                                                                                                      LC
+                                                                                                                   Ito
+
+
+
+
+                                                                                                                                                                                                                                                      Ito
+                                                                                                                   U
+
+
+
+
+                                                                                                                                                                                                                                                      U
+
+
+
+
+Ito-noncore should not be used. AP/MS data sets,                                                Controls                      Binary                           Co-complex                                                         Controls                         Binary                    Co-complex
+                                                                                                                                                                                               Brief summary                                                                                            P -values
+                                                                                                                                                                                                                                                                 Representative datasets
+1
+  Center for Cancer Systems Biology (CCSB), Dana-Farber Cancer     Fig. 1. Evaluation of S.                                                                                           (For detecting binary interactions)                                                                             Y2H      PCA
+                                                                                                                                                                               1. Y2H is comparable to LC-multiple                                              Uetz-screen >
+                                                                                                                                                                                                                                                                            – LC-multiple         P <10-16 P =0.1
+Institute, Boston, MA 02115, USA. 2Department of Cancer            cerevisiae protein-protein in-
+Biology, Dana-Farber Cancer Institute, and Department of           teraction data sets. (A) Num-                                                                               2. Ito-noncore is of extremely low quality                                                      ~ RRS
+                                                                                                                                                                                                                                                                   Ito-noncore ~                   P =0.9                   P =0.2
+Genetics, Harvard Medical School, Boston, MA 02115, USA.           ber of interactions reported in                                                                             3. Y2H performs better than AP/MS                                                  Uetz-screen > Krogan                              -30             -3
+3                                                                                                                                                                                                                                                                                                 P <10                     P <10
+ School of Engineering and Applied Sciences, Harvard Uni-
+versity, Cambridge, MA 02138, USA. 4Department of Medical          various large-scale S. cerevisiae                                                                           4. Y2H performs better than MIPS                                                   Uetz-screen > MIPS              P <10-41 P <10-5
+Protein Research, VIB, and Department of Biochemistry, Faculty     protein-protein interaction data
+of Medicine and Health Sciences, Ghent University, 9000 Ghent,     sets. (B) Schema of pipeline
+                                                                   used to assemble binary posi- D
+                                                                                                                                                                             40%                                                                                                            20%
+Belgium. 5The Simons Center for Systems Biology, Institute for                                                                                                                           MIPS gold standard                                                 Binary gold standard
+                                                                                                                                                                                                                                                                                                  according to Binary-GS
+
+
+
+
+Advanced Studies, Princeton, NJ 08540, USA. 6Department of
+                                                                                                                                                         according to MIPS
+
+
+
+
+                                                                   tive and random reference sets.
+                                                                                                                                                         Fraction positive
+
+
+
+
+                                                                                                                                                                                                                                                                                                     Fraction positive
+
+
+
+
+                                                                                                                                                                             30%                                                                                                            15%
+Molecular, Cellular, and Developmental Biology, Yale University,
+New Haven, CT 06620, USA. 7Center for Complex Network
+                                                                   (C) Fraction of a random sam-
+Research and Departments of Physics, Biology, and Computer         ple of interactions from each                                                                             20%                                                                                                            10%
+
+Science, Northeastern University, Boston, MA 02115, USA.           data set confirmed by Y2H
+8                                                                                                                                                                            10%                                                                                                            5%
+ Banting and Best Department of Medical Research and               and PCA. (D) Fraction of pos-
+Department of Medical Genetics and Microbiology, Terrence          itive interactions in each data                                                                           0%                                                                                                             0%
+Donnelly Centre for Cellular and Biomolecular Research,            set calculated with MIPS and
+                                                                                                                                                                                         e
+
+                                                                                                                                                                                        en
+
+
+
+
+                                                                                                                                                                                                        n
+
+                                                                                                                                                                                                       in
+
+
+
+
+                                                                                                                                                                                                                                                           e
+
+                                                                                                                                                                                                                                                          en
+
+
+
+
+                                                                                                                                                                                                                                                                              n
+
+                                                                                                                                                                                                                                                                             in
+
+
+
+
+University of Toronto, Toronto, ON M5S 3E1, Canada. 9Open
+                                                                                                                                                                                       or
+
+
+
+
+                                                                                                                                                                                                                                                         or
+                                                                                                                                                                                                     ga
+
+
+
+
+                                                                                                                                                                                                                                                                           ga
+                                                                                                                                                                                                     av
+
+
+
+
+                                                                                                                                                                                                                                                                           av
+                                                                                                                                                                                      re
+
+
+
+
+                                                                                                                                                                                                                                                        re
+                                                                                                                                                                                     -c
+
+
+
+
+                                                                                                                                                                                                                                                       -c
+                                                                                                                                                                                                   ro
+
+
+
+
+                                                                                                                                                                                                                                                                         ro
+
+
+
+
+                                                                   Binary-GS. Error bars indi-
+                                                                                                                                                                                                   G
+
+
+
+
+                                                                                                                                                                                                                                                                         G
+                                                                                                                                                                                   sc
+
+
+
+
+                                                                                                                                                                                                                                                     sc
+                                                                                                                                                                                  Ito
+
+
+
+
+                                                                                                                                                                                                                                                    Ito
+                                                                                                                                                                                                  K
+
+
+
+
+                                                                                                                                                                                                                                                                        K
+
+
+
+
+Biosystems, Huntsville, AL 35806, USA. 10Department of
+                                                                                                                                                                                 z-
+
+
+
+
+                                                                                                                                                                                                                                                   z-
+                                                                                                                                                                              et
+
+
+
+
+                                                                                                                                                                                                                                                et
+
+
+
+
+                                                                   cate SE.
+                                                                                                                                                                             U
+
+
+
+
+                                                                                                                                                                                                                                               U
+
+
+
+
+Biological Chemistry and Molecular Pharmacology, Harvard                                                                                                                                                                                                               Co-complex
+                                                                                                                                                                              Binary            Co-complex                                          Binary
+Medical School, Boston, MA 02115, USA.
+                                                                                                                                                                                              Brief summary                                                                  Representative datasets                       P -values
+*These authors contributed equally to this work.                                                                                                                                                                                                                                                                                 -12
+                                                                                                                                             1. AP/MS performs well at detecting co-complex associations according to MIPS                                                     Uetz-screen < Krogan                        P <10
+†To whom correspondence should be addressed. E-mail:                                                                                                                                                                                                                                                                               -5
+                                                                                                                                             2. Y2H performs well at detecting binary interactions according to Binary-GS                                                      Uetz-screen > Krogan                        P <10
+marc_vidal@dfci.harvard.edu
+
+
+                                                  www.sciencemag.org                                             SCIENCE                   VOL 322                             3 OCTOBER 2008                                                                                                                                            105
+REPORTS
+      proteins in a complex contact each other directly          used. The fraction of all theoretically detectable                                                 2B). In total, ~ 88,000 colonies were selected,
+      (fig. S1), and not all direct physical interactions        interactions by a particular assay found in a given                                                of which 21,432 scored positive upon more de-
+      occur within complexes (fig. S2 and SOM III).              experiment is its “sampling sensitivity.” These                                                    tailed phenotyping (SOM I). After identifying
+      Hence, although MIPS complexes are appropri-               three parameters fully account for the seemingly                                                   all putative interaction pairs by sequencing, phe-
+      ate for benchmarking co-complex membership                 small overlap between Ito-core and Uetz-screen                                                     notypically retesting them with fresh cultures
+      data sets, they are not appropriate for binary             (SOM VII), demonstrating that a large fraction                                                     from archival stocks, and eliminating de novo
+      interaction data sets. This distinction is corrob-         of the S. cerevisiae binary interactome remains                                                    autoactivators (28), we obtained a final data set,
+      orated by the poor experimental confirmation               to be mapped. Therefore, we carried out a new                                                      “CCSB-YI1,” of 1809 interactions among 1278
+      rate of pairs from MIPS complexes with binary              proteome-scale yeast high-throughput Y2H screen                                                    proteins, which can be downloaded from our
+      assays (Fig. 1C).                                          (fig. S3).                                                                                         Web site (http://interactome.dfci.harvard.edu/
+          To computationally reexamine the quality of                We used 5796 Gateway-cloned ORFs available                                                     S_cerevisiae).
+      existing yeast interactome data sets, we assem-            in the yeast movable ORF (MORF) collection                                                              To validate the overall quality of CCSB-YI1,
+      bled a binary gold standard set (“Binary-GS”)              (22). After subcloning these ORFs into Y2H vec-                                                    we tested 94 randomly chosen interactions by
+      of 1318 high-confidence physical binary interac-           tors and removing autoactivators (27, 28), our search                                              PCA and mammalian protein-protein interaction
+      tions (Fig. 1B and SOM III). Binary-GS includes            space became 3917 DB-Xs against 5246 AD-Ys,                                                        trap (MAPPIT; SOM I) (21, 29). MAPPIT takes
+      direct physical interactions within well-established       representing a completeness of 77% (Fig. 2A and                                                    place at the mammalian cell membrane and mea-
+      complexes, as well as conditional interactions             SOM VI), comparable to that of recent AP/MS                                                        sures interactions via activation of signal trans-
+      (e.g., dependent on posttranslational modifica-            data sets (15) (~78%; SOM VI).                                                                     ducer and activator of transcription 3 (STAT3)–
+      tions), and thus represents well-documented di-                To address sampling sensitivity, we deter-                                                     dependent reporter expression. Using both PCA
+      rect physical interactions in the yeast interactome        mined what fraction of all detectable interactions                                                 and MAPPIT, we found that the confirmation
+      (26). When measured against Binary-GS, the                 is found in each pass after eight trials in a search                                               rate of CCSB-YI1 was similar to those of Ito-
+      quality of high-throughput Y2H data sets (with             space of 658 DB-X and 1249 AD-Y ORFs. A                                                            core and Uetz-screen (Fig. 1C). The precision
+      the exception of Ito-noncore) was substantial-             single trial identified about 60% of all possible                                                  [i.e., fraction of true positives in the data set (30)]
+      ly better (SOM IV and V) than that of high-                interactions that can be detected with our high-                                                   of CCSB-YI1 is estimated at 94 to 100% (Fig.
+      throughput AP/MS data sets (Fig. 1D). Our                  throughput Y2H, whereas three to five repeats                                                      2C, fig. S4, and SOM VI). Additionally, the per-
+      results demonstrate the distinct nature of bina-           were required to obtain 80 to 90% (Fig. 2B and                                                     formance of our high-throughput Y2H approach
+      ry and co-complex data. Generally, Y2H data                SOM VI). Consequently, we screened the whole                                                       was confirmed via a larger RRS of 1000 random
+      sets contain high-quality direct binary interac-           search space three times independently to yield                                                    pairs (30) (Fig. 1B), none of which tested positive
+      tions, whereas AP/MS co-complex data sets are              an estimated sampling sensitivity of 85% (Fig.                                                     (SOM II).
+      composed of direct interactions mixed with pre-
+      ponderant indirect associations (SOM VI).                                A                                                                                                                                              5246 ADs                ~6000 ORFs
+          The proteome-wide binary data sets, Uetz-                                                                          5796 Entry clones from
+      screen and Ito-core, contain 682 and 843 inter-                                                                         yeast MORF library
+      actions, respectively (2, 3). The overlap between                                                                                      LR
+      these two data sets appears low (3, 24): 19%                                                                                                                                                                  77% completeness
+
+                                                                                                                                                                            3917 DBs
+      of Uetz-screen and 15% of Ito-core interactions                                                                 5552 AD plasmids         5194 DB plasmids
+      were detected in the other data set. Given our                                                                            yeast transformation
+      demonstration of high quality for these data sets                                                                 5246 AD yeast              4891 DB yeast
+      (Fig. 1, C and D), we conclude that the small                                                                     strains                    strains
+      overlap stems primarily from low sensitivity (i.e.,                                                                                                                                                           974 DB auto-activators
+                                                                                                                                                   3917 non-
+      many false-negatives) rather than from low spec-
+                                                                                                                                                                                 ~6000 ORFs
+
+
+
+
+                                                                                                                                                   autoactivating
+      ificity (i.e., many false-positives, as previously                                                                                           DB strains
+
+      suggested).
+          Several factors might affect sensitivity. First,
+      the space of pairwise protein combinations actually                               B                                                                                                                   C
+                                                                                                                                                                            Fraction positive by an assay
+                                                                               Percentage of interactions
+
+
+
+
+                                                                                                     100%                                                                                           110%
+      tested in each data set might have been consider-                                                                                                                                                            PRS
+                                                                                                                                                                                                    100%
+      ably different. We refer to the fraction of all possible                                              80%                                                                                                    RRS
+      pairs tested in a given screen as the “completeness.”
+                                                                                                                                                                                                            50%
+                                                                                      uncovered
+
+
+
+
+                                                                                                                                                                                                                   CCSB-YI1
+                                                                                                            60%                     CCSB-YI1                                                                40%
+      For example, missing 10% of open reading frames                                                                                                                                                       30%
+                                                                                                            40%
+      (ORFs) in each mapping project could reduce the                                                                                                                                                       20%
+                                                                                                            20%
+      common tested space down to 66% [(0.9 × 0.9) ×                                                                                                                                                        10%
+      (0.9 × 0.9)] of all possible pairwise combinations.                                                   0%                                                                                              0%
+                                                                                                                  0      1      2        3     4         5      6   7   8
+      Second, different protein interaction assays or                                                                               Number of trials
+                                                                                                                                                                                                                  PCA                MAPPIT              Y2H
+      even different versions of the same assay detect
+      different subsets of pairs out of all possible inter-      Fig. 2. Large-scale Y2H interactome screen. (A) Com-                                                   D                                                              Our search space
+                                                                                                                                                                                                                                                  6
+      actions, which explains partly the limited overlap         pleteness of the Y2H screen. (B) Sampling sensitivity of                                                                                                                   14x10 pairs
+                                                                                                                                                                                                                          CCSB-YI1
+      between data sets obtained with different Y2H              CCSB Y2H screens measured by screening a subspace                                                                                                            1535
+      versions. For any assay, the “assay sensitivity” is        multiple times. (C) Fraction of protein pairs in PRS, RRS,
+      estimated as the fraction of PRS interactions              and CCSB-YI1 that test positive by PCA, MAPPIT, or
+      detected, which for our Y2H assay was deter-               Y2H. (D) Overlaps between three high-quality large-                                                                                                    69*          150*
+                                                                                                                                                                                                                                *
+      mined empirically to be ~20% (Fig. 1C). Finally,           scale S. cerevisiae Y2H data sets (*P < 10−7). All error                                                                                         293
+                                                                                                                                                                                                                               55
+                                                                                                                                                                                                                               37*
+                                                                                                                                                                                                                                            339
+
+      when screening tens if not hundreds of millions of         bars indicate SE.                                                                                                                                190          38*          224
+                                                                                                                                                                                                                  Uetz-screen        Ito-core
+      protein pairs in any tested space, that search space                                                                                                                                                                                                 6
+                                                                                                                                                                                                                                     Whole space      18x10 pairs
+      might need to be sampled multiple times to report
+      all or nearly all interactions detectable by the assay                                                                                                                                                                                           * P < 10-7
+
+
+
+106                                               3 OCTOBER 2008            VOL 322                                      SCIENCE               www.sciencemag.org
+                                                                                                                                                                                                                                                                                                           REPORTS
+    The overlaps of Uetz-screen (27%) and Ito-                                                         pairwise confirmation of those two data sets (Fig.                                                                                           Factoring in completeness, precision, and assay
+core (35%) with CCSB-YI1 (Fig. 2D) can be ex-                                                          1C). Similar principles apply to other large-scale                                                                                       and sampling sensitivity, we estimated that the
+plained by the completeness, assay sensitivity,                                                        experiments such as AP/MS, likely accounting                                                                                             yeast binary interactome consists of ~18,000 T
+and sampling sensitivity of the three experiments                                                      for the low overlap between Krogan and Gavin                                                                                             4500 interactions (SOM VI), experimentally val-
+(SOM VII) and agree well with the results of the                                                       (~25%; fig. S5B).                                                                                                                        idating previous computational estimates of 17,000
+
+
+               A                                                            Binary                                                           Co-complex                                                                                                                        Literature
+                                                                          (Y2H-union)                                                    (Combined-AP/MS)                                                                                                                    (LC-multiple)
+
+
+
+
+               B                                                                                                                                     C
+                                                            1                                                                                                                                1
+
+
+
+
+                                                                                                                                                         Fraction of essential genes (E )
+                        Fraction of essential genes (E )
+
+
+
+
+                                                                                     E = 0.02k + 0.5                         Y2H-union                                                                                                                                       Uetz-array         E = 0.05k + 0.3
+                                                                                       R 2 = 0.84                            Combined-AP/MS
+                                                           0.8                                                                                                                              0.8                                                                              Uetz-screen       E = 0.006k + 0.2
+                                                                                        P < 10-9                             LC-multiple
+                                                                                                                                                                                                                                                                             Ito-core          E = 0.009k + 0.2
+                                                           0.6                                                       E = -0.004k + 0.6                                                      0.6                                                                              CCSB-YI1          E = -0.003k + 0.3
+                                                                                                                        R 2 = 0.57
+                                                                                                                         P = 10-15
+                                                           0.4                                                                                                                              0.4
+
+
+                                                           0.2                         E = 0.0002k + 0.2                                                                                    0.2
+                                                                                         R 2 = 0.0025
+                                                                                           P = 0.81
+                                                            0                                                                                                                                0
+                                                                 0   10        20        30       40        50      60        70        80    90                                                  0                                               5                   10                   15                      20
+                                                                                                Degree (>
+                                                                                                        –k)                                                                                                                                                         Degree (>
+                                                                                                                                                                                                                                                                            –k)
+
+                                                                                                                                                                                                                                   23
+               D                                   5.5                                                                                                                                            E                                         Y2H-union
+                                                                                                                                   Pleiotropy                                                                                      21
+                                                                                                Y2H-union
+                                                            5
+                                                                                                                                                                                                      Characteristic path length
+                # of phenotypes (N )
+
+
+
+
+                                                                                                Combined-AP/MS                                                                                                                     19
+                                                   4.5
+                                                                                                                                                                                                                                   17
+                                                            4                                               N = 0.2k + 2.8
+                                                                                                              R 2 = 0.89                                                                                                           15
+                                                                                                                                                                                                                                                         P < 10-12
+                                                   3.5                                                         P < 10-3
+                                                                                                                                                                                                                                   13
+                                                            3
+                                                                                                                                                                                                                                   11
+                                                   2.5                     N = -0.0007k + 2.9
+                                                                              R 2 = 0.001                                                                                                                                           9
+                                                                                P = 0.87
+                                                            2                                                                                                                                                                       7
+                                                                 0         5             10            15           20             25           30
+                                                                                                                                                                                                                                    5
+                                                                                                 Degree (>
+                                                                                                         –k)                                                                                                                            0               500             1000               1500               2000
+
+Fig. 3. Network analysis of Y2H-union, Combined-AP/MS, and LC-multiple data sets.                                                                                                                                                  8.5
+                                                                                                                                                                                                                                            Combined-AP/MS
+(A) Network representations. Shown are relationships between increasing degree of a
+                                                                                                                                                                                                                                    8
+                                                                                                                                                                                                      Characteristic path length
+
+
+
+
+gene product and (B) the fraction of essential genes with the corresponding degree,
+(C) the fraction of essential genes with the corresponding degree for Y2H data sets,                                                                                                                                               7.5
+and (D) the number of phenotypes associated with deletion of the encoding gene. (E)
+Contribution of date hubs and party hubs as measured by change in the characteristic                                                                                                                                                7                   P < 10-24
+path length after simulated removal of edges by deleting the indicated types of nodes.
+                                                                                                                                                                                                                                   6.5
+(Inset) Fraction of date hubs and party hubs for each data set. All error bars indicate SE.
+                                                                                                                                                                                                                                    6                                                          All hubs
+                                                                                                                                                                                                                                                                                               Date hubs
+                                                                                                                                                                                                                                   5.5                                                         Party hubs
+                                                                                                                                                                                                                                                                                               Random nodes
+                                                                                                                                                                                                                                    5
+                                                                                                                                                                                                                                            0     1000        2000         3000         4000        5000      6000
+                                                                                                                                                                                                                                                                # edges removed
+
+
+                                                                                     www.sciencemag.org                      SCIENCE         VOL 322                                                   3 OCTOBER 2008                                                                                                   107
+REPORTS
+      to 25,000 interactions (31, 32). To obtain a more         Fig. 4. Clustering of essential      A
+      comprehensive map of the binary yeast inter-              proteins. (A) Average fraction of                                     0.45
+
+
+
+
+                                                                                                     Fraction of essential proteins
+      actome, we combined the three available high-             essential proteins among pro-                                                                                                           Essential
+      quality proteome-scale Y2H data sets (SOM VII).           teins whose distance is equal to                                                                                                        All
+      The union of Uetz-screen, Ito-core, and CCSB-             d from a protein selected from                                        0.35                                                              Non Essential
+      YI1, “Y2H-union,” contains 2930 binary inter-             essential, nonessential, and all
+      actions among 2018 proteins, which, according             proteins. (B) Giant component
+      to our empirical estimate of the interactome size,        size of network formed by es-                                         0.25
+      represents ~20% of the whole yeast binary in-             sential proteins (arrow) compared
+      teractome (Fig. 3A).                                      to 100,000 random networks of
+          We reexamined global topological features of          same topological properties. (C)
+      this new yeast interactome network, facing lower          The number of interacting es-                                         0.15
+                                                                                                                                                   1         2        3             4         5         6       7          8
+      risk of overinterpreting properties due to limited        sential proteins that are also                                                                    Distance from reference protein (d )
+      sampling and various biases in the data (18). To          found in the same complex com-
+      contrast topological properties of the binary             pared to 10,000 random selec-        B                                0.02
+
+      Y2H-union network with that of the co-complex             tions of proteins of the same                                                                                                     Observed
+                                                                                                                                                                                                          -3
+      network, we used an integrated AP/MS data set             number as essential proteins                                          0.015                                                        P < 10
+                                                                (SOM IX).
+
+
+
+
+                                                                                                     Distribution
+      (33), which was generated by combining raw
+      high-throughput AP/MS data (15, 16). This                                                                                       0.01
+      “Combined-AP/MS” data set, composed of 9070
+      co-complex membership associations between                                                                                      0.005
+      1622 proteins, attempts to model binary inter-
+      actions from co-complex data (Fig. 3A).
+                                                                                                                                        0
+          As found previously for other macromolecular                                                                                        0        20    40     60         80       100       120   140    160    180      200
+      networks, the connectivity or “degree” distribu-                                                                                            Giant component size of network among essential proteins
+      tion of all three data sets is best approximated by a
+      power-law (34) (fig. S6 and SOM VIII). Highly                                                  C                                 0.1
+      connected proteins, or “hubs,” are reportedly                                                                                                                                                                  Observed
+                                                                                                                                      0.08                                                                                   -5
+      more likely encoded by essential genes than                                                    Distribution                                                                                                     P < 10
+      less-connected proteins (35). Surprisingly, Y2H-                                                                                0.06
+      union lacked any correlation between degree and
+      essentiality (Fig. 3B). This discrepancy might                                                                                  0.04
+      stem from biases in the data sets available at the
+      time of the original observation: interactions                                                                                  0.02
+
+      reported in Uetz et al. (Uetz-array and Uetz-                                                                                     0
+      screen) and literature-curated interactions. Al-                                                                                        0             20            40             60             80           100             120
+      though Uetz-array is of high quality (fig. S7), its                                                                                         Number of protein pairs connected by an edge that are
+                                                                                                                                                                  in the same complex
+      experimental design could negatively influence
+      network analyses. Most hub proteins in Uetz-array
+      were found as baits (fig. S8), and the percentage of      which it participates than with its essentiality. The                                            Surprisingly, essential proteins strongly tended
+      essential proteins in the 193 bait proteins is twice as   correlation between degree and number of phe-                                                to interact with each other (Fig. 4A and SOM IX).
+      high (34.7%) as that of all protein-encoding ORFs         notypes is not observed in Combined-AP/MS,                                                   By concentrating on the subnetwork formed by
+      in the yeast genome (18.4%), explaining the high          likely because co-complex associations reflect the                                           interactions mediated by and among essential
+      correlation between degree and essentiality (Fig.         size of protein complexes more than the number of                                            proteins (fig. S10), we found a giant component
+      3C). Likewise, literature-curated interactions seem       processes they might be involved in.                                                         whose size is much larger than expected by chance
+      prone to sociological and other inspection biases             We confirmed the concept of modularity in                                                (Fig. 4B). To better understand the clustering of
+      (SOM VII). Thus, we refrain hereinafter from              the yeast interactome network, whereby date hubs                                             essential proteins, we examined the interacting
+      using LC-multiple in our further topological              that dynamically interact with their partners appear                                         essential protein pairs that are also reported to be in
+      and biological analyses. No significant correlation       particularly central to global connectivity, whereas                                         the same complex; we found 106 interacting
+      between degree of connectedness and essentiality          static party hubs appear to function locally in                                              essential protein pairs, a number greater than
+      was observed in any of the three proteome-wide            specific biological modules (37). The propor-                                                expected by chance (Fig. 4C and SOM IX).
+      high-throughput binary data sets currently availa-        tion of date and party hubs is substantially differ-                                             We investigated the overall relationships be-
+      ble (i.e., Ito-core, Uetz-screen, and CCSB-YI1;           ent between Y2H-union and Combined-AP/MS                                                     tween Y2H-union and Gene Ontology (GO) at-
+      Fig. 3C), as well as in new versions of our C.            (Fig. 3E). There are significantly more date hubs                                            tributes (38), phenotypic and expression profiling
+      elegans and human interactome maps (fig. S9 and           in the binary network, whereas party hubs are                                                similarities (39), and transcriptional regulatory
+      SOM IX).                                                  prevalent in the co-complex network. In the bi-                                              networks (40). Both Y2H-union and Combined-
+          Hub proteins instead relate to pleiotropy, the        nary network, date hubs are crucial to the topo-                                             AP/MS show significant enrichment (all P < 10−10)
+      number of phenotypes observed as a consequence            logical integrity of the network, whereas party                                              for functionally similar pairs in all three GO
+      of gene knockout (SOM I). There was a significant         hubs have minimal effects. However, in the co-                                               branches (Fig. 5A) (41). There is also significant
+      correlation in Y2H-union between connectivity             complex network, date and party hubs affect                                                  enrichment of positive correlations of phenotypic
+      and the number of phenotypes observed in global           the topological integrity of the network equally,                                            profiles (36) between interacting pairs in both
+      phenotypic profiling analyses of yeast genes (36)         likely because most hubs in Combined-AP/MS                                                   data sets (Fig. 5B and fig. S11). Such interactions,
+      (Fig. 3D). Thus, the number of binary physical            reside in large stable complexes, whereas hubs                                               when supported by strong phenotypic informa-
+      interactions mediated by a protein seems to better        in Y2H-union preferentially connect diverse cel-                                             tion, constitute likely possibilities of functional
+      correlate with the number of cellular processes in        lular processes.                                                                             relationships. Lastly, both data sets are significant-
+
+
+108                                              3 OCTOBER 2008            VOL 322       SCIENCE                                      www.sciencemag.org
+                                                                                                                                                                                                                                                         REPORTS
+Fig. 5. Biological features                   Y2H-union            Combined-AP/MS                                        Random
+of yeast interactome data A                                                                                                                                B
+
+
+
+
+                                   Log enrichment of functionally
+sets. (A) Enrichment of               8
+                                          GO annotation
+                                                                                                                                                                                    0.6
+                                                                                                                                                                                                                                    Phenotypic correlation
+interacting protein pairs (rel-
+
+
+
+
+                                                                                                                                                           Fraction of gene pairs
+                                      7
+                                                                                                                                                                                    0.5
+ative to random) that share           6
+
+
+
+
+                                            similar pairs
+GO annotations in the                 5
+                                                                                                                                                                                    0.4
+biological process, cellular                                                                                                                                                        0.3
+                                      4
+component, and molecular
+                                      3
+function branches of GO                                                                                                                                                             0.2
+ontology. (B) Pearson corre-          2
+                                                                                                                                                                                    0.1
+lation coefficient (PCC) of           1
+phenotypic profiles between           0                                                                                     Random                                                   0
+                                                BP               CC                MF                                                                                                     -1     -0.8   -0.6   -0.4   -0.2   0    0.2   0.4        0.6   0.8        1
+interacting pairs in different                                                                                           Expectation
+                                                                                                                                                                                                               PCC of phenotypic profiles
+data sets. (C) Coexpression
+correlation between inter-
+                                C 0.2                                                                                        D                             40
+acting pairs. (D) (Left) En-              Expression correlation                                                                                                                                                  *                           **
+
+
+
+
+                                                                                                                              Fold enrichment of overlap
+                                                                                                                                                                                     * P < 10-3
+                             Fraction of gene pairs
+
+
+
+
+                                                                                                                                with regulatory network
+richment of interacting                                                                                                                                                              ** P < 10-10
+                                                                                                                                                                                                                                                           0.6
+
+
+
+
+                                                                                                                                                                                                                                                                 Fraction of edges
+                                  0.15                                                                                                                     30
+proteins as targets of a
+common TF (co-regulated),                                                                                                                                                                                                *
+                                                                                                                                                                                                                                                           0.4
+and enrichment of inter-           0.1                                                                                                                     20
+acting TFs in a common
+MIM (co-regulating) (*P <         0.05                                                                                                                     10                                      *                                                       0.2
+10−3). (Right) Fraction of
+bottlenecks from each data                                                                                                                                                                 *
+                                     0                                                                                                                     0                                                                                               0
+set in the combined net-                -1 -0.8 -0.6 -0.4 -0.2   0    0.2 0.4 0.6     0.8                            1                                                                Co-regulated             Co-regulating         Bottlenecks
+work (SOM XI). Top 10%                                  PCC of expression profiles
+of edges with the highest
+betweenness are defined as “bottlenecks” (45).
+
+ly enriched with pairs coexpressed across many                                XI), measuring the number of shortest paths be-                                                                  19. D. Scholtens, M. Vidal, R. Gentleman, Bioinformatics 21,
+conditions (fig. S12), although Combined-AP/MS                                tween all protein pairs that traverse a given edge.                                                                  3548 (2005).
+                                                                                                                                                                                               20. T. Reguly et al., J. Biol. 5, 11 (2006).
+shows higher enrichment (Fig. 5C), agreeing                                   The higher edge-betweenness of interactions from                                                                 21. I. Remy, S. W. Michnick, Methods Mol. Biol. 261, 411
+well with the different nature of the two assays:                             Y2H-union shows the tendency of Y2H to de-                                                                           (2004).
+AP/MS aims at detecting stable complexes,                                     tect key interactions outside of complexes sig-                                                                  22. D. M. Gelperin et al., Genes Dev. 19, 2816 (2005).
+                                                                                                                                                                                               23. H. W. Mewes et al., Nucleic Acids Res. 34, D169 (2006).
+whereas Y2H tends to detect more transient and                                nificantly more often than AP/MS (Fig. 5D).
+                                                                                                                                                                                               24. C. von Mering et al., Nature 417, 399 (2002).
+condition-specific protein interactions. This ob-                             Several examples of such complex-to-complex                                                                      25. J. S. Bader, A. Chaudhuri, J. M. Rothberg, J. Chant,
+servation is further supported by enrichment of                               connectivity are evident in a complete map of                                                                        Nat. Biotechnol. 22, 78 (2004).
+kinase-substrate pairs in Y2H-union (SOM X                                    MIPS complexes connected by Y2H interactions                                                                     26. H. Yu et al., Genome Res. 14, 1107 (2004).
+                                                                                                                                                                                               27. P. O. Vidalain, M. Boxem, H. Ge, S. Li, M. Vidal, Methods
+and fig. S13).                                                                (fig. S14).
+                                                                                                                                                                                                   32, 363 (2004).
+    To explore the mechanisms underlying co-                                      Overall, we infer that Y2H interrogates a                                                                    28. A. J. Walhout, M. Vidal, Genome Res. 9, 1128 (1999).
+expression of interacting protein pairs, we com-                              different subspace within the whole interactome                                                                  29. S. Eyckerman et al., Nat. Cell Biol. 3, 1114 (2001).
+bined transcriptional regulatory networks with                                than does AP/MS, and Y2H interactions repre-                                                                     30. R. Jansen, M. Gerstein, Curr. Opin. Microbiol. 7, 535 (2004).
+interactome network information (40). Interact-                               sent key connections between different com-                                                                      31. A. Grigoriev, Nucleic Acids Res. 31, 4157 (2003).
+                                                                                                                                                                                               32. R. Jansen et al., Science 302, 449 (2003).
+ing proteins in both networks tended to be co-                                plexes and pathways. Y2H and AP/MS provide                                                                       33. S. R. Collins et al., Mol. Cell. Proteomics 6, 439 (2007).
+regulated by common transcription factors (TFs;                               orthogonal information about the interactome                                                                     34. A. L. Barabási, R. Albert, Science 286, 509 (1999).
+Fig. 5D). Similar to what we observed in the co-                              and are both vital to obtaining a complete picture                                                               35. H. Jeong, S. P. Mason, A. L. Barabasi, Z. N. Oltvai, Nature
+expression correlation analysis (Fig. 5C), the en-                            of cellular protein-protein interaction networks.                                                                    411, 41 (2001).
+                                                                                                                                                                                               36. A. M. Dudley, D. M. Janse, A. Tanay, R. Shamir,
+richment of interacting pairs in Combined-AP/MS                                                                                                                                                    G. M. Church, Mol. Syst. Biol. 1, 0001 (2005).
+was significantly higher than that of Y2H-union.                                  References and Notes                                                                                         37. J. D. Han et al., Nature 430, 88 (2004).
+Notably, we observed a significant enrichment of                               1. M. Fromont-Racine, J. C. Rain, P. Legrain, Nat. Genet. 16,                                                   38. Gene Ontology Consortium, Nucleic Acids Res. 36, D440
+                                                                                  277 (1997).                                                                                                      (2008).
+protein-protein interactions between TFs involved
+                                                                               2. P. Uetz et al., Nature 403, 623 (2000).                                                                      39. M. Vidal, Cell 104, 333 (2001).
+in a common “multi-input motif” (42, 43) (MIM,                                 3. T. Ito et al., Proc. Natl. Acad. Sci. U.S.A. 98, 4569                                                        40. H. Yu, M. Gerstein, Proc. Natl. Acad. Sci. U.S.A. 103,
+where multiple TFs co-regulate a given set of                                     (2001).                                                                                                          14724 (2006).
+genes; Fig. 5D and SOM X). The fraction of co-                                 4. A. J. Walhout et al., Science 287, 116 (2000).                                                               41. H. Yu, R. Jansen, G. Stolovitzky, M. Gerstein,
+regulating TF pairs is much higher in the binary                               5. J. Reboul et al., Nat. Genet. 34, 35 (2003).                                                                     Bioinformatics 23, 2163 (2007).
+                                                                               6. S. Li et al., Science 303, 540 (2004).                                                                       42. T. I. Lee et al., Science 298, 799 (2002).
+interactome than in the co-complex network, sug-                               7. L. Giot et al., Science 302, 1727 (2003).                                                                    43. R. Milo et al., Science 298, 824 (2002).
+gesting that various TFs function together to form                             8. F. Colland et al., Genome Res. 14, 1324 (2004).                                                              44. N. M. Luscombe et al., Nature 431, 308 (2004).
+transient complexes to differentially regulate tran-                           9. J. F. Rual et al., Nature 437, 1173 (2005).                                                                  45. H. Yu, P. M. Kim, E. Sprecher, V. Trifonov, M. Gerstein,
+scriptional targets (44).                                                     10. U. Stelzl et al., Cell 122, 957 (2005).                                                                          PLOS Comput. Biol. 3, e59 (2007).
+                                                                              11. G. Butland et al., Nature 433, 531 (2005).                                                                   46. Supported by funds from the W. M. Keck Foundation
+    These observations suggest that our binary                                12. M. Arifuzzaman et al., Genome Res. 16, 686 (2006).                                                               (M.V. and F.P.R.); by Institute Sponsored Research
+interactome data set is enriched in transient or                              13. A. C. Gavin et al., Nature 415, 141 (2002).                                                                      funds from the Dana-Farber Cancer Institute Strategic
+condition-specific interactions linking different                             14. Y. Ho et al., Nature 415, 180 (2002).                                                                            Initiative (M.V. and CCSB); by NIH grant R01-HG001715
+subcellular processes and molecular machines.                                 15. A. C. Gavin et al., Nature 440, 631 (2006).                                                                      (M.V. and F.P.R.); by NIH grants U01-A1070499-01 and
+                                                                              16. N. J. Krogan et al., Nature 440, 637 (2006).                                                                     U56-CA113004 (A.-L.B.); by grant GOA12051401 from
+To further explore this possibility, we calculated                            17. R. M. Ewing et al., Mol. Syst. Biol. 3, 89 (2007).                                                               the University of Ghent and grant FWO-V G.0031.06
+“edge-betweenness” for each interaction in a                                  18. J. D. Han, D. Dupuy, N. Bertin, M. E. Cusick, M. Vidal,                                                          from the Fund for Scientific Research Flanders (J.T.); by a
+merged network of all available interactions (SOM                                 Nat. Biotechnol. 23, 839 (2005).                                                                                 grant from the National Cancer Institute of Canada
+
+
+
+                                                                    www.sciencemag.org        SCIENCE            VOL 322                     3 OCTOBER 2008                                                                                                                          109
+REPORTS
+           (C.B.); and by NIH grant HG003224 (F.P.R.). I.L. is a            sets can be downloaded from our Web site (http://      Tables S1 to S5
+           postdoctoral fellow with the Fonds Wetenschappelijk              interactome.dfci.harvard.edu/S_cerevisiae).            References
+           Onderzoek–Vlanderen. M.V. is a “Chercheur Qualifié
+           Honoraire” from the Fonds de la Recherche Scientifique      Supporting Online Material                                  4 April 2008; accepted 1 August 2008
+           (FRS-FNRS, French Community of Belgium). We thank           www.sciencemag.org/cgi/content/full/1158684/DC1             Published online 21 August 2008;
+           members of our laboratories for helpful discussions and     SOM Text                                                    10.1126/science.1158684
+           Agencourt Biosciences for sequencing assistance. All data   Figs. S1 to S35                                             Include this information when citing this paper.
+
+
+
+                                                                                                                                   CS (9, 10), hyl-2(ok1766), lacking a 1626-base pair
+      Ceramide Biogenesis Is Required                                                                                              fragment of the hyl-2 gene locus that eliminates
+                                                                                                                                   exons 2 to 5 corresponding to 74% of the coding
+
+      for Radiation-Induced Apoptosis                                                                                              sequence, displayed no defect in germ cell death
+                                                                                                                                   (fig. S1C).
+
+      in the Germ Line of C. elegans
+                                                                                                                                       In N2 WT strain young adults, apoptotic germ
+                                                                                                                                   cells gradually increased in abundance with age
+                                                                                                                                   from a baseline of 0.7 T 0.1 to 1.8 T 0.2 corpses
+      Xinzhu Deng,1 Xianglei Yin,1 Richard Allan,1 Diane D. Lu,1 Carine W. Maurer,2                                                per distal gonad arm over 48 hours. Exposure to a
+      Adriana Haimovitz-Friedman,3 Zvi Fuks,3 Shai Shaham,2 Richard Kolesnick1*                                                    120-gray (Gy) ionizing radiation dose increased
+                                                                                                                                   germ cell apoptosis to 5.2 T 0.3 cells 36 to 48
+      Ceramide engagement in apoptotic pathways has been a topic of controversy. To address                                        hours after treatment. In contrast, in hyl-1
+      this controversy, we tested loss-of-function (lf) mutants of conserved genes of sphingolipid metabolism                      (ok976) and lagr-1(gk327) animals, age-dependent
+      in Caenorhabditis elegans. Although somatic (developmental) apoptosis was unaffected,                                        and radiation-induced germ cell apoptosis were
+      ionizing radiation–induced apoptosis of germ cells was obliterated upon inactivation of ceramide                             nearly abolished (Fig. 1A). Similar effects were
+      synthase and restored upon microinjection of long-chain natural ceramide. Radiation-induced                                  observed in the lagr-1(gk327);hyl-1(ok976) double
+      increase in the concentration of ceramide localized to mitochondria and was required for                                     mutant (Fig. 1B). The rate of germ cell corpse
+      BH3-domain protein EGL-1–mediated displacement of CED-4 (an APAF-1–like protein) from the                                    removal was unaffected in CS mutants, excluding
+      CED-9 (a Bcl-2 family member)/CED-4 complex, an obligate step in activation of the CED-3 caspase.                            the possibility that defective corpse engulfment ele-
+      These studies define CEP-1 (the worm homolog of the tumor suppressor p53)–mediated accumulation                              vated corpse numbers (table S2). In contrast, loss-
+      of EGL-1 and ceramide synthase–mediated generation of ceramide through parallel pathways that                                of-function (lf) mutations of hyl-1 or lagr-1 did not
+      integrate at mitochondrial membranes to regulate stress-induced apoptosis.                                                   affect developmental somatic cell death, nor did the
+                                                                                                                                   lf hyl-2(ok1766) mutation (table S3). These studies
+               lthough studies that use genetic deficiency             ically just proximal to the bend of the gonadal arm         indicate a requirement for two C. elegans CS genes
+
+      A        in ceramide production support it as es-
+               sential for apoptosis in diverse models (1),
+      many have questioned whether ceramide func-
+                                                                       (5). This apoptotic pathway is antagonized by the
+                                                                       ABL-1 tyrosine kinase, requiring sequentially the
+                                                                       cell cycle checkpoint genes rad-5, hus-1, and
+                                                                                                                                   for radiation-induced germline apoptosis.
+                                                                                                                                       To confirm ceramide as critical for germline
+                                                                                                                                   apoptosis, we injected C16-ceramide into gonads
+      tions as a bona fide transducer of apoptotic signals             mrt-2; the C. elegans p53 homolog cep-1; and the            of young adult WT worms. C16-ceramide is the
+      (2). One reason for skepticism is that, despite                  genes making up the conserved apoptotic machinery,          predominant ceramide species in apoptosis in-
+      delineation of a number of ceramide-activated                    the caspase ced-3, the apoptotic protease activating        duction by diverse stresses in multiple organisms
+      proteins, no single protein has been identified as               factor 1–like protein ced-4, the Bcl-2 protein ced-9,       (11) and in low abundance in C. elegans (12, 13).
+      mediator of ceramide-induced apoptosis. Recent                   and the BH3-domain protein egl-1. This pathway              C16-ceramide microinjection resulted in time- and
+      studies have suggested an alternate mode of cer-                 differs from apoptotic somatic cell death, which            dose-dependent increases in germ cell apoptosis
+      amide action, based on its capacity to self-associate            is not subject to upstream checkpoint regulation            (Fig. 1C), with a median effective dose of ~0.05 mM
+      and locally rearrange membrane bilayers into                     via the CEP-1 pathway (5, 6).                               gonadal ceramide. Peak effect occurred at ~0.1 mM
+      ceramide-rich macrodomains (1 to 5 mm in diam-                       We identified conserved genes that regulate             gonadal ceramide at 36 hours (6.6 T 0.8 versus 1.5 T
+      eter), which are sites of protein concentration and              C. elegans sphingolipid intermediary metabolism             0.4 cell corpses per distal gonad arm, P < 0.0001),
+      oligomerization (3). Ceramide may thus mediate                   and tested deletion alleles (Table 1 and table S1).         qualitatively and quantitatively mimicking the
+      apoptosis through its ability to reconfigure mem-                Screening for mutants resistant to radiation-               120-Gy effect in WT worms. In contrast, C16-
+      branes, coordinating protein complexation at crit-               induced germ cell apoptosis revealed apoptosis              dihydroceramide, which differs from C16-ceramide
+      ical junctures of signaling cascades.                            suppression in only deletion mutants of hyl-1 and           in a trans double bond at sphingoid base position
+          To establish the role of ceramide definitively,              lagr-1, two of the three ceramide synthase (CS)             four to five, was without effect (0.71 T 0.28 cell
+      we used a model of radiation-induced apoptosis                   genes (Fig. 1A). CS gene products regulate de               corpses per distal gonad arm at ~1 mM), indicating
+      in Caenorhabditis elegans germ cells (4). Germ-                  novo ceramide biosynthesis, acylating sphinganine           specificity for ceramide in apoptosis induction.
+      line stem cells, located at the distal gonad tip,                to form dihydroceramide that is subsequently con-           Furthermore, C16-ceramide microinjection into
+      divide incessantly throughout adult life, with                   verted to ceramide by a desaturase (7). CSs contain         lagr-1(gk327);hyl-1(ok976) animals (~1 mM gonadal
+      daughter cells arresting in meiotic prophase. Upon               six to seven putative transmembrane domains and             ceramide) resulted in a 5.7-fold increase in germ
+      exiting prophase, germ cells become sensitive to                 a Lag1p motif [which confers enzyme activity (8)],          cell apoptosis (from 0.60 T 0.17 to 3.43 T 0.88, P <
+      radiation-induced apoptosis, detected morpholog-                 regions conserved in the C. elegans orthologs. The          0.0001) (Fig. 1D). Note that the baseline level of
+                                                                       deleted CS sequences in hyl-1(ok976) and lagr-              apoptosis in lagr-1(gk327);hyl-1(ok976) was less
+      1
+        Laboratory of Signal Transduction, Memorial Sloan-Kettering    1(gk327) result in frameshifts that disrupt the Lag1p       than one-half that in WT worms. Moreover,
+      Cancer Center (MSKCC), New York, NY 10021, USA. 2Lab-            motifs (fig. S1A). We detected a ~1.6-kb hyl-1 transcript   ~0.005 mM gonadal ceramide, a concentration
+      oratory of Developmental Genetics, Rockefeller University,       in wild-type (WT) worms and a smaller ~1.35-kb              without impact on germ cell apoptosis, completely
+      New York, NY, 10021, USA. 3Department of Radiation
+      Oncology, Memorial Sloan-Kettering Cancer Center, New            transcript in hyl-1(ok976), whereas we observed             restored radiation (120 Gy)–induced apoptosis, an
+      York, NY 10021, USA.                                             a ~1.4-kb lagr-1 transcript in WT worms and a               effect inhibitable in a lf ced-3 background (Fig.
+      *To whom correspondence should be addressed. E-mail:             ~1.25-kb transcript in lagr-1(gk327) (fig. S1B).            1E). C16-ceramide’s ability to bypass the genetic
+      r-kolesnick@ski.mskcc.org                                        In contrast, a deletion mutant of the third C. elegans      defect and restore the radiation-response pheno-
+
+
+110                                                   3 OCTOBER 2008               VOL 322          SCIENCE          www.sciencemag.org
+                               High-Quality Binary Protein Interaction Map of the Yeast Interactome
+                               Network
+                               Haiyuan Yu et al.
+                               Science 322, 104 (2008);
+                               DOI: 10.1126/science.1158684
+
+
+
+                               This copy is for your personal, non-commercial use only.
+
+
+
+
+             If you wish to distribute this article to others, you can order high-quality copies for your
+
+
+
+
+                                                                                                                      Downloaded from www.sciencemag.org on December 15, 2015
+             colleagues, clients, or customers by clicking here.
+             Permission to republish or repurpose articles or portions of articles can be obtained by
+             following the guidelines here.
+
+             The following resources related to this article are available online at
+             www.sciencemag.org (this information is current as of December 15, 2015 ):
+
+             Updated information and services, including high-resolution figures, can be found in the online
+             version of this article at:
+             http://www.sciencemag.org/content/322/5898/104.full.html
+             Supporting Online Material can be found at:
+             http://www.sciencemag.org/content/suppl/2008/08/21/1158684.DC1.html
+             A list of selected additional articles on the Science Web sites related to this article can be
+             found at:
+             http://www.sciencemag.org/content/322/5898/104.full.html#related
+             This article cites 45 articles, 21 of which can be accessed free:
+             http://www.sciencemag.org/content/322/5898/104.full.html#ref-list-1
+             This article has been cited by 107 article(s) on the ISI Web of Science
+             This article has been cited by 100 articles hosted by HighWire Press; see:
+             http://www.sciencemag.org/content/322/5898/104.full.html#related-urls
+             This article appears in the following subject collections:
+             Genetics
+             http://www.sciencemag.org/cgi/collection/genetics
+
+
+
+
+Science (print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last week in December, by the
+American Association for the Advancement of Science, 1200 New York Avenue NW, Washington, DC 20005. Copyright
+2008 by the American Association for the Advancement of Science; all rights reserved. The title Science is a
+registered trademark of AAAS.
+

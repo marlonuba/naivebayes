@@ -1,0 +1,610 @@
+The EMBO Journal Vol. 22 No. 19 pp. 4991±5002, 2003
+
+
+Clathrin-mediated endocytosis is essential in
+Trypanosoma brucei
+
+
+
+Clare L.Allen, David Goulding and                                    viable, suggesting that clathrin-mediated endocytosis is
+Mark C.Field1                                                        non-essential in metazoans (Wettey et al., 2002). In both
+                                                                     yeast and vertebrates, comparatively minor alterations in
+Wellcome Trust Laboratories for Molecular Parasitology, Department
+of Biological Sciences, Imperial College, Exhibition Road,           transport are observed in cells lacking functional clathrin
+London SW7 2AY, UK                                                   (Yeung et al., 1999; Wettey et al., 2002), which is perhaps
+1
+ Corresponding author
+                                                                     counter-intuitive, given the number of pathways in which
+e-mail: m®eld@imperial.ac.uk                                         clathrin has been implicated and the extensive protein±
+                                                                     protein interaction networks that centre on clathrin (e.g.
+In Trypanosoma brucei, the plasma membrane is                        Costaguta et al., 2001; Takei and Haucke, 2001).
+dominated by glycosylphosphatidylinositol (GPI)-                        Besides clathrin, the most important components of
+anchored proteins. Endocytic activity correlates with                clathrin-mediated      endocytosis      include     dynamin
+expression levels of the clathrin heavy chain TbCLH,                 (Merri®eld et al., 2002), epsin (Ford et al., 2002) and a
+and additional evidence suggests that rapid endocyto-                heterotetrameric adaptor complex, AP-2, which binds both
+sis may play a role in evasion of the immune response.               clathrin and cytoplasmic tyrosine-based signals on trans-
+TbCLH is present on both endocytic vesicles and post-                membrane proteins (Boehm and Bonifacino, 2002). Other
+Golgi elements, suggesting a similar range of functions              factors are also important (Takei and Haucke, 2001).
+in trypanosomes to higher eukaryotes. We have                        Clathrin also participates in trans-Golgi-derived transport
+assessed the role of TbCLH using RNA interference                    and endosomal sorting; here, clathrin operates in the
+(RNAi). Suppression of TbCLH expression results in                   context of a distinct set of proteins, including adaptor
+rapid lethality in the bloodstream stage, the form                   complexes 1, 3 and, possibly, 4 (Boehm and Bonifacino,
+most active for endocytosis. The ¯agellar pocket, the                2002).
+site of both endocytosis and exocytosis, becomes                        Clathrin-independent mechanisms are less well char-
+massively enlarged, suggesting that membrane                         acterized; the best-understood system involves caveolin.
+delivery is unaffected but removal is blocked.                       The caveolin-mediated mechanism also appears to require
+Endocytosis in TbCLHRNAi cells is essentially                        dynamin (Le et al., 2002; Magalhaes et al., 2002), but
+undetectable, suggesting that clathrin-mediated mech-                other clathrin pathway factors are most likely not
+anisms are the major route for endocytosis in T.brucei               involved. Most importantly, for the majority of cell types
+and hence that GPI-anchored proteins are endo-                       and proteins studied, the clathrin-independent pathway is
+cytosed by clathrin-dependent pathways in trypano-                   responsible for endocytosis of glycosylphosphatidylinosi-
+somes. In contrast, a massive internal accumulation of               tol (GPI)-anchored proteins (Benting et al., 1999; Wang
+vesicles and signi®cant alterations to traf®cking of a               et al., 2002). As these molecules lack cytoplasmic protein
+lysosomal protein were observed in the procyclic                     domains, association of this class of protein with lipid rafts
+stage, indicating developmental variation in clathrin                provides an explainable mechanism for GPI-anchored
+function in trypanosomes.                                            protein endocytosis. All pathways appear to converge
+Keywords: clathrin/endocytosis/post-Golgi transport/                 within the endocytic system (Magalhaes et al., 2002;
+protein sorting/vesicle traf®cking                                   Sabharanjak et al., 2002).
+                                                                        Trypanosoma brucei provides a unique opportunity for
+                                                                     insight into endocytic systems, as the plasma membrane is
+Introduction                                                         dominated by GPI-anchored proteins, endocytosis
+In higher eukaryotic systems, endocytosis of cell surface            is developmentally regulated and membrane traf®cking
+components is achieved by at least two mechanisms,                   is highly polarized, with all endocytosis taking place from
+principally de®ned by requirement for, or independence               the ¯agellar pocket (Morgan et al., 2002a,b). Expression
+from, the membrane coat protein clathrin (Nichols and                of the trypanosome clathrin heavy chain, TbCLH, correl-
+Lippincott-Schwartz, 2001). The clathrin-dependent path-             ates with endocytic activity (Morgan et al., 2001), but
+way is well characterized in metazoans, yeasts and plants            extensive searches of the T.brucei genome database have
+and involves a large number of protein factors, together             failed to detect trypanosome AP-2 complex subunits
+with membrane lipids (Takei and Haucke, 2001). In yeast,             (Ilgoutz and McConville, 2001; Morgan et al., 2002b).
+the pathway is non-essential in culture when cells are               Despite this, ultrastructural evidence indicates that GPI-
+allowed to adapt to clathrin absence (Seeger and Payne,              anchored proteins are endocytosed by clathrin-coated
+1992). In vertebrate cells, clathrin de®ciency invokes an            vesicles (Grunfelder et al., 2003). There is no direct
+apoptotic pathway (Wettey et al., 2002), suggesting an               evidence for clathrin-independent mechanisms; despite
+anti-apoptotic role. Most interestingly, in chick DKO-R              observations of detergent-resistant membrane-like struc-
+cells lacking the apoptotic pathway, clathrin knockouts are          tures in trypanosomatids, including T.brucei (Denny et al.,
+
+ã European Molecular Biology Organization                                                                                    4991
+C.L.Allen, D.Goulding and M.C.Field
+
+
+
+
+Fig. 1. Depletion of clathrin heavy chain leads to BigEye morphology. (A) Gallery of images from cultures expressing clathrin RNAi. The top line
+shows interphase cells with increased abnormality running from left to right. The majority of cells in early cultures correspond to the four leftmost
+images, whilst more severe phenotypes, as shown on the right, emerge and increase in prevalence in older cultures. The bottom line shows examples
+of mitotic cells exhibiting BigEye phenotype. In this case, more than one vacuole is present, and these are frequently of very different sizes (BigEye/
+LittleEye cells). Scale bar: 2 mm. (B) Immuno¯uorescence analysis demonstrates knockdown of clathrin expression following induction in bloodstream
+form (BSF) cells. Left, phase-contrast image; right, DAPI (blue) and anti-TbCLH stain (red). Par, BSF 90-13 parental cells; BSFp2T7TiCLH, RNAi
+cells uninduced (±Tet) and induced (+Tet). Scale bar: 2 mm.
+
+
+2001), sequences corresponding to caveolin are absent                          endocytic activity in the bloodstream form (BSF).
+from the genome.                                                               Trypanosomes are ef®ciently lysed by antibody-directed
+   Endocytic mechanisms in T.brucei appear to have a role                      mechanisms if antibody is allowed to remain at the cell
+in immune evasion, as well as in normal cellular functions                     surface. Critically, antibody bound to the highly abundant
+(Morgan et al., 2002a,b), and underlie the high level of                       GPI-anchored variant surface glycoprotein (VSG) can be
+
+4992
+                                                                                                   Clathrin is essential in Trypanosoma brucei
+
+
+
+
+Fig. 2. BigEye is due to ¯agellar pocket enlargement. (A) Parental cells. The ¯agellar pocket is comparatively small, with a diameter of ~0.5 mm and
+a ¯ask shape due to tight association with the ¯agellum. (B) Induced clathrin RNAi cells. The ¯agellar pocket is enlarged. Other structures, including
+acidocalcisomes, the nucleus and endosomal membranous structures appear normal. Note also the presence of electron-dense material on either side of
+the ¯agellum where it contacts the pocket membrane, suggesting the structures responsible for ¯agellum/¯agellar pocket association are still present in
+this cell. In both (A) and (B), the inset shows a Golgi complex. For both the parental and induced cell lines, the Golgi pro®le appears normal.
+E, endosome; F, ¯agellum; FP, ¯agellar pocket; FAZ, ¯agellar attachment zone; K, kinetoplast; N, nucleus. Arrows indicate the electron-dense variant
+surface glycoprotein (VSG) coat of the ¯agellar pocket. Scale bars: (A and A inset) 200 nm, (B) 1 mm and (B inset) 500 nm.
+
+
+
+
+rapidly internalized, degraded and recycled (O'Beirne                          Decrease of clathrin expression results in `BigEye'
+et al., 1998). This pathway involves transport steps                           phenotype
+mediated by the trypanosome homologues of Rab5 and                             Rapidly following induction in BSF cells, a phase light
+Rab11 (Jeffries et al., 2001; Pal et al., 2002, 2003).                         structure was observed in some cells at the posterior end
+Importantly, both proteins are developmentally regulated                       (Figure 1). This structure increased in volume with time,
+(Jeffries et al., 2001; Pal et al., 2002), suggesting that the                 and the proportion of cells exhibiting the abnormal
+endocytic system is activated in the bloodstream stage.                        structure was greater after more prolonged induction
+Here, the role of clathrin in endocytosis has been                             periods. Eventually, the structure became so large as to ®ll
+addressed by functional depletion using RNA interference                       a major proportion of the cell volume, such that cells
+(RNAi).                                                                        became grossly distorted. As the emergence of the
+                                                                               structure resembled an eye socket in some examples, we
+                                                                               designated this phenotype `BigEye'.
+Results                                                                           In the BSF cultures, expression of TbCLH was never
+Clathrin heavy chain expression is essential in                                completely lost (see Supplementary ®gure 1B), most likely
+trypanosomes                                                                   due to the asynchronous nature of the RNAi system, and
+We expressed double-stranded RNA from the p2T7Ti                               was investigated further by immuno¯uorescence
+plasmid corresponding to a portion of the TbCLH open                           (Figure 1B). The severity of the BigEye morphology
+reading frame in BSF and procyclic culture form (PCF)                          correlated well with residual clathrin expression; the
+cell lines engineered for inducible expression (LaCount                        examples shown illustrate that low levels of clathrin may
+et al., 2000). In both life stages examined, a rapid and                       be detected in some cells displaying a strong BigEye
+severe phenotype was observed, which correlated with                           phenotype (Figure 1B). Hence, it is likely that cells
+decreased expression of the clathrin heavy chain protein                       progress through to death rapidly following loss of clathrin
+(see Supplementary ®gure 1B available at The EMBO                              expression, and therefore true clathrin-negative cells are a
+Journal Online). In the case of BSF cells, growth ceased                       small minority within the population. Importantly, a
+very rapidly following induction (within 16 h) and growth                      signi®cant proportion of induced cells were clearly
+cessation continued for about 4 days (see Supplementary                        undergoing mitosis (Figure 1, bottom); therefore, deple-
+®gure 1A). After this period, loss of expression of RNAi                       tion of clathrin heavy chain did not prevent mitosis per se.
+led to recovery of growth plus re-expression of the clathrin                   Furthermore, in cells undergoing cytokinesis, two poster-
+protein. This phenomenon has been observed previously                          ior structures were present, and these structures were of
+by several workers and is a general feature of RNAi in                         different sizes (as the larger structure was designated
+trypanosomes (Wang et al., 2000).                                              `BigEye', the smaller structure was designated
+
+                                                                                                                                                4993
+C.L.Allen, D.Goulding and M.C.Field
+
+
+
+
+Fig. 3. Endocytosis is perturbed in BigEye cells. (A) In uninduced TbCLH RNAi cells at 4°C, lectin concanavalin A (Con A) is retained at the
+¯agellar pocket, at 12°C the lectin is internalized to the endocytic system and at 37°C the lectin is delivered to the terminal lysosome. Induced cells
+demonstrate a severe defect in uptake. At 37°C, the lectin remains associated with the ¯agellar pocket. (B) Enlarged image of induced bloodstream
+form (BSF) clathrin RNAi cells (from A), showing that Con A is localized to the enlarged ¯agellar pocket at 37°C. (C) At 4°C, FM 4-64 accumulates
+in the ¯agellar pocket in both the parental and induced clathrin RNAi cell line. Note that the staining appears rather more extensive in the RNAi cells
+due to the enlargement of the pocket. At 37°C, the ¯uorophore has been internalized in the parental cells, but remains associated with the enlarged
+pocket structure in the RNAi cell line. (A) Left, phase; right, DAPI (DNA) in blue, lectin in green. (C) Left, phase; right, DAPI (DNA) in blue,
+FM 4-64 in red. Scale bar: 2 mm. Par, BSF 90-13 parental cells; ±Tet, uninduced BSFp2T7TiCLH cells; +Tet, BSFp2T7TiCLH cells induced for
+16 h.
+
+
+
+`LittleEye'). In the vast majority of BigEye cells, the                        The BigEye structure is the ¯agellar pocket
+¯agellum became detached from the cell body, and many                          Electron microscopy (EM) demonstrated clearly that the
+cells had multiple ¯agellae. In late stage cultures, large                     BigEye phenotype was the result of a massively enlarged
+numbers of free ¯agella accumulated, suggesting that the                       ¯agellar pocket (Figure 2). In wild-type cells, this structure
+¯agellum persists during cellular disintegration.                              is a small ¯ask-shaped structure, but in RNAi cells the
+
+4994
+                                                                                                 Clathrin is essential in Trypanosoma brucei
+
+
+
+
+Fig. 4. Preservation of normal morphology of internal membrane structures in BigEye cells. Immuno¯uorescence analysis for endoplasmic reticulum
+(TbBiP), recycling endosome (TbRAB11) and lysosomal (p67) proteins. Top, the parental BSF 90-13 cells (Par); middle, uninduced bloodstream form
+(BSF) RNAi line (±Tet); and bottom, induced (+Tet). Induction is con®rmed by the presence of the BigEye. The distribution of marker proteins is un-
+altered between cell lines. Left, phase; right, DAPI (DNA) in blue, TbBiP or TbRAB11 in red, p67 in green. Scale bar: 2 mm.
+
+
+
+pocket became enlarged and ®lled a substantial proportion                    Supplementary ®gure 2). Assays of several modes of
+of the cell volume. The designation as the ¯agellar pocket                   endocytosis were used to assess the ability of BigEye cells
+was made by the presence of an electron-dense VSG coat                       to carry out internalization. Trypanosomes actively
+on the membrane, the inclusion of the glycan-rich matrix                     endocytose the mannose-binding lectin concanavalin A
+within the pocket lumen and the presence of the ¯agellum,                    (Con A), an excellent marker for membrane-bound
+bound to the membrane via a visible ¯agellum attachment                      endocytic activity (Brickman et al., 1995). At 4°C,
+zone. Critically, other membranous structures in moderate                    Con A is restricted to the ¯agellar pocket, whereas at
+BigEye cells were unaffected; for example, the Golgi                         12°C the lectin penetrates deeper into the cell, and
+stacks remain with normal morphology (Figure 2). At later                    localizes to the TbRAB5A endosome, or collecting tubules
+times, more extensive disruption of internal membranes                       (Jeffries et al., 2001). At 37°C, the lectin is endocytosed
+was observed, including fragmentation of the nuclear                         into the lysosome (see Supplementary ®gure 4A).
+envelope (data not shown). However, these changes are                        Essentially identical staining was obtained in uniduced
+interpreted as arising from toxic effects of clathrin                        cells, but Con A was not transported correctly in induced
+depletion. Enlargement of the ¯agellar pocket indicates                      cells (Figure 3A). At 4°C, Con A marked the ¯agellar
+that a severe imbalance in membrane transport occurred,                      pocket, but at 12°C and 37°C most of the lectin remained
+and most likely that endocytosis has been compromised                        associated with the ¯agellar pocket, indicating a decrease
+while exocytosis continues. This manifestation of pheno-                     in Con A endocytosis. Additional co-staining for both the
+type is radically different from that reported in a vertebrate               ¯agellar pocket and markers for endocytic compartments
+clathrin knockout study (Wettey et al., 2002) and most                       con®rmed a gross defect in endocytosis (see Supple-
+likely results from several unusual aspects of the                           mentary data and Supplementary ®gure 4B and C). A
+trypanosome system.                                                          similar accumulation of material in the ¯agellar pocket
+   Identi®cation of the BigEye vacuole as the ¯agellar                       was also obtained with anti-VSG antibody capping
+pocket also explained the origin of BigEye/LittleEye                         experiments (see Supplementary data and Supplementary
+mitotic cells. The BigEye is the original ¯agellar pocket,                   ®gure 4D).
+whereas the LittleEye is most probably the daughter                             The effect of clathrin depletion on bulk lipid endo-
+pocket, the size difference being due to the shorter period
+                                                                             cytosis was also evaluated using the ¯uorophore N-(3-
+of time that the second pocket has been present.
+                                                                             triethylammoniumpropyl)-4-{6-[4-(diethylamino)phenyl]-
+Importantly, the emergence of an enlarged pocket indi-
+                                                                             hexatrienyl} pyridinium dibromide (FM 4-64). Again, at
+cates that the daughter structure becomes active for
+                                                                             4°C, most of this label is found in the ¯agellar pocket in
+exocytosis prior to completion of cytokinesis.
+                                                                             parental cells, but at 37°C the ¯uorophore is ef®ciently
+                                                                             endocytosed to internal membrane compartments. In
+BigEye cells are defective in endocytosis                                    contrast, in the BigEye cells, FM 4-64 stains a more
+An assay to monitor exocytosis of VSG, which accounts                        extensive structure at 4°C, consistent with the enlarged
+for ~90% of cell surface protein, indicated that export of                   ¯agellar pocket, and at 37°C the stain remains associated
+this protein was unaffected (see Supplementary data and                      with this membrane (Figure 3C). Hence, a general lipid
+
+                                                                                                                                            4995
+C.L.Allen, D.Goulding and M.C.Field
+
+
+
+
+Fig. 5. Variant surface glycoprotein location in BigEye cells. CryoimmunoEM images of parental (A and C) and clathrin-depleted cells (B and D).
+Variant surface glycoprotein (VSG) is observed on the plasma membrane, within the ¯agellar pocket and over a number of internal structures,
+tentatively assigned as endoplasmic reticulum (arrowheads) and TbRAB11 recycling endosomes (arrows), based on previous studies (Grunfelder et al.,
+2002, 2003). In the BigEye cells, VSG is also seen with similar distribution on the plasma membrane, endoplasmic reticulum and in recycling
+endosome ®gures. Hence, VSG remains associated with TbRAB11 transport intermediates, and these structures retain normal morphology. Scale
+bar: 200 nm.
+
+probe also exhibits defective endocytosis. These data                       profound effect on structures not sampled by EM.
+indicate an extreme blockade to endocytosis of Con A                        BigEye cells were analysed for the distribution of
+receptors (VSG and other glycoproteins), anti-VSG anti-                     endoplasmic reticulum (ER), endosomes and the lysosome
+body and lipid membranes.                                                   by staining with antibodies against TbBiP, TbRAB11 and
+                                                                            p67, respectively (Bangs et al., 1993; Jeffries et al., 2001;
+Other membrane compartments are unaffected in                               Alexander et al., 2002) (Figure 4). The distributions of all
+BigEye cells                                                                of these markers were unchanged in BigEye cells,
+The dramatic decrease in endocytosis and the morpho-                        suggesting that these structures were essentially unaltered
+logical distortion of the BigEye cells could have a                         in BSF parasites depleted of clathrin.
+
+4996
+                                                                                                 Clathrin is essential in Trypanosoma brucei
+
+
+
+
+Fig. 6. Depletion of clathrin heavy chain in procyclic culture form (PCF) cells leads to a rounded morphology. (A) Gallery of phase images from PCF
+cultures expressing clathrin RNAi. The leftmost image shows the `normal' PCF phenotype, the next two images show the `fat' phenotype, and the
+three images on the right show the `round' phenotype. (B) Incidence of aberrant cell morphologies in induced PCF clathrin RNAi cell cultures. Blue
+bars, uninduced PCFp2T7TiCLH cells cultured for 48 h (dark blue) or 72 h (pale blue); red bars, induced PCFp2T7TiCLH cultures at 48 h (dark red) or
+72 h (pale red). Morphologies were de®ned as follows: normal, average cell body length 15 mm, average width 1.54 mm; long, cell body length
+>20 mm, average cell body length 23.3 mm, average width 1.54 mm; fat, enlarged posterior of the cell, average cell body length 8.55 mm, average
+width 3.07 mm; round, cell body completely rounded up, with detached or no visible ¯agellum, average cell body length 4.66 mm, average width
+4.26 mm; other, all other abnormal forms.
+
+
+
+   Furthermore, we investigated the distribution of VSG                      particles were detected over ER membrane and associated
+and endosome structures by cryoimmunoEM. Parental                            with TbRAB11 endosomes (Figure 5D). These data
+cells and induced clathrin RNAi cells were sectioned and                     indicate that recycling compartments are still present in
+stained with anti-VSG 221 antibodies at a low concentra-                     the BigEye cells, and therefore their integrity does not
+tion (Figure 5). In the parental cells, gold particles                       depend on continuous endocytosis.
+decorated the plasma membrane, the ¯agellar pocket
+membrane and a number of intracellular structures                            Intracellular compartments are more distorted in
+(Figure 5A and C), including tubular structures most                         procyclic clathrin RNAi cells than in the BSF
+likely ER, plus highly characteristic smaller electron-                      Several major differences in the endocytic routing of
+dense structures that appear as small tubules or discs                       proteins have been reported between procyclic and
+described elsewhere as TbRAB11 recycling endosomes                           bloodstream stage T.brucei. In contrast to the distinct
+(Grunfelder et al., 2003). These data, together with the                     BigEye morphology of induced BSF clathrin RNAi cells, a
+exocytosis assay in the Supplementary data, indicate that                    range of distinct morphologies were observed in PCF
+VSG can be detected at the surface, in the recycling system                  clathrin RNAi cultures. To determine which morphology
+and, less prominently, in the biosynthetic apparatus                         was associated with the loss of TbCLH expression, the
+(Grunfelder et al., 2003).                                                   incidence of each phenotype was scored by light
+   When BigEye cells were analysed, a broadly similar                        microscopy of ®xed cells from cultures induced for 24,
+distribution of gold particles was obtained; signi®cantly,                   48 or 72 h in comparison with uninduced and parental cell
+despite a similar gold particle density being recovered on                   cultures. Ninety-seven percent of both uninduced and
+the plasma membrane, a much increased concentration of                       induced cells at 24 h growth showed morphology essen-
+VSG was observed in the ¯agellar pocket and, in                              tially indistinguishable from parental cultures (data not
+particular, in the lumen (Figure 5B and D). The origin of                    shown). The number of normal cells in induced cultures
+the luminal VSG is unclear, but it may have been shed                        dropped to 53% after 48 h and to 23% by 72 h (Figure 6B).
+from the membrane (Geuskens et al., 2000); the absence of                    As the number of normal cells decreased, the number of
+endocytosis in these cells would suggest that the shedding                   `fat' and `round' cells increased. The fat cells are probably
+phenomenon does not involve the recycling system. Gold                       precursors of the round cells (Figure 6A), suggesting that
+
+                                                                                                                                            4997
+C.L.Allen, D.Goulding and M.C.Field
+
+
+
+
+Fig. 7. Alteration of lysosomal protein targeting in procyclic culture form (PCF) BigEye cells. Clathrin RNAi cells were stained following 24, 48 and
+72 h of induction as indicated. For TbBiP a disorganization was observed, suggesting that the endoplasmic reticulum has become deformed. In
+addition, the localization of p67 was altered, so that at 48 h the stain was less intense and defocused, and at 72 h this was more extreme with a major
+loss of integrity. Left image of each set, phase; right image, DAPI (DNA) in blue, TbBiP in red, p67 in green. Scale bar: 2 mm. Par, PCF 29-13
+parental cells; ±Tet, uninduced PCF 29-13p2T7TiCLH cells; +Tet, PCF29-13p2T7TiCLH cells induced for indicated time periods.
+
+
+
+loss of TbCLH expression results in gradual rounding up                        distorted trans-Golgi stack. A similar phenotype was
+of the cell and detachment or loss of the ¯agellum. By EM,                     obtained in clathrin-de®cient Saccharmoyces cerevisiae,
+these cells exhibited a most remarkable phenotype,                             where the accumulated vesicles were assigned as Berkeley
+completely distinct from the BSF RNAi cells. Massive                           bodies, post-Golgi transport intermediates (Payne et al.,
+numbers of vesicles, of ~50±400 nm diameter, were                              1987). Clearly, these data indicate that the main effect in
+observed to ®ll the cytoplasm (Figure 8A and B), but there                     the PCF is not ¯agellar pocket enlargement, but an
+were no manifest effects on the nucleus, mitochondrion or                      accumulation of transport intermediates within the
+kinetoplast. The PCF clathrin RNAi cells were also                             cytoplasm.
+distorted, being rounded up; this morphology is most                              The distributions of selected markers were examined in
+likely a result of internal pressure due to the presence of                    PCF RNAi cells (Figure 7). A clear alteration in p67
+excess membrane accumulating within the cytoplasm.                             distribution was observed, with the lysosomal localization
+Some of the vesicles contained electron-dense matrix                           becoming less clear; at 48 h induction staining of the
+material, which may indicate a ¯agellar pocket origin.                         lysosome decreases in intensity in the `fat' and `round'
+Major perturbation to the trans-Golgi complex was                              cells and at 72 h the stain was diffuse, suggesting loss of
+observed in many cells (Figure 8C and D). Even a                               p67 from lysosomal membranes and mislocalization
+comparatively normal cell (Figure 8A) possesses a                              throughout the cell. There was also a clear alteration in
+
+4998
+                                                                                                   Clathrin is essential in Trypanosoma brucei
+
+
+
+
+Fig. 8. A distinct ultrastructural defect accompanies TbCLH-depletion in procyclic culture form (PCF) trypanosomes. Electron micrographs of PCF
+cells following 48 h induction of clathrin dsRNA. (A) Two cells exhibiting normal (bottom) and abnormal (top) phenotypes. The major effects of
+clathrin double-stranded RNA expression is in the accumulation of vesicular pro®les of variable diameter (~50±400 nm) and a rounding up of the cell.
+Other structures (nucleus, mitochondria, acidocalcisomes) appear normal. (B) A more extreme example of a PCF clathrin RNAi cell. The plasma
+membrane has become smooth, possibly due to increased cytoplasmic pressure. In addition, the nucleus, kinetoplast and mitochondria appear normal.
+(C and D) Details of the Golgi region of PCF RNAi cells showing distortions to the trans-Golgi cisternae and membranes. The cell in (C) is in early
+mitosis, as the Golgi stack appears to be undergoing binary ®ssion (Field et al., 2000). A, acidocalcisomes; K, kinetoplast; FP, ¯agellar pocket;
+M, mitochondria; N, nucleus; *, vesicles containing electron-dense matrix-like material (possibly FP-derived); arrowhead, distorted trans-Golgi. Scale
+bars: (A and B) 500 nm, (C) 200 nm and (D) 250 nm.
+
+
+
+distribution of TbBiP in induced cells. Again, at 48 h                        and the presence of a large expanse of non-supported
+TbBiP was concentrated around the nucleus, with almost                        membrane in the pocket.
+all TbBiP staining becoming perinuclear in cells induced                         In the BSF, loss of clathrin expression led to a massive
+for 72 h.                                                                     enlargement of the ¯agellar pocket. Moreover, all evi-
+                                                                              dence, from multiple assays for endocytosis, indicated that
+                                                                              the levels of endocytic activity were dramatically com-
+                                                                              promised in these cells, but at the same time exocytosis of
+Discussion
+                                                                              VSG appears to be unimpaired. Despite this, both
+Clathrin ablation in trypanosomes is lethal, which sets this                  ultrastructural analysis and immuno¯uorescence using
+divergent organism apart from yeast and vertebrates where                     established marker proteins for the ER (TbBiP), recycling
+deletion of the clathrin gene or protein is tolerated (Seeger                 endosomes (TbRAB11) and the lysosome (p67) (Bangs
+and Payne, 1992; Wettey et al., 2002). Despite a signi®-                      et al., 1993; Jeffries et al., 2001; Alexander et al., 2002)
+cant developmental expression pro®le that correlates with                     indicated that other membrane compartments were essen-
+endocytic activity, clathrin expression is required for                       tially unaffected, and hence the ¯agellar pocket enlarge-
+viability in both life stages (Morgan et al., 2001). In                       ment represents the primary phenotype in this life stage. A
+mammals, endocytosis is dispersed across the entire                           comparatively low level of clathrin heavy chain immuno-
+plasma membrane. Endocytosis is extremely rapid in                            reactivity on Golgi complex membranes is consistent with
+trypanosomes, and more rapid within the ¯agellar pocket                       this interpretation (Morgan et al., 2001). The connection
+zone than in individual mammalian cells, and hence the                        between the subpellicular array and the plasma membrane
+phenotype is very severe in the protozoan. Additionally,                      is clearly maintained, as demonstrated by ultrastructural
+the trypanosome plasma membrane is tightly anchored to a                      analysis.
+subpellicular microtubule array, which prevents abnormal                         The lethality of clathrin heavy chain ablation in the
+addition of membrane to this region; hence, any membrane                      BSFs had a rapid onset. The appearance of the enlarged
+over¯ow must be retained within the ¯agellar pocket. The                      ¯agellar pocket correlated with residual expression of the
+physical stress induced by the addition of membrane to the                    clathrin protein; cells possessing the largest ¯agellar
+¯agellar pocket may also be the major cause of cellular                       pockets were devoid of clathrin immunoreactivity,
+mortality, probably due to compression of the cytoplasm                       whereas trypanosomes retaining clathrin expression had
+
+                                                                                                                                               4999
+C.L.Allen, D.Goulding and M.C.Field
+
+
+a smaller ¯agellar pocket. The rapidity of the onset of the       do transport intermediates accumulate in the PCF and not
+BigEye phenotype, where signi®cant numbers of abnormal            in the BSF? Most likely, the extreme level of endocytic
+cells were observable after a 10 h induction period,              activity in the BSF has the consequence that, as soon as
+indicates a rapid turnover for clathrin in this stage. The        clathrin levels become signi®cantly depleted, the ¯agellar
+BigEye cells were observed to be highly fragile, and even         pocket enlarges and rapid cell death occurs via plasma
+low speed centrifugation resulted in lysis of the majority of     membrane rupture. Even in induced BSF cultures, signi®-
+BigEye cells (data not shown). Taken together, these data         cant accumulation of intracellular vesicles was not
+suggest that the mechanism of cell death in these cells is        observed. Hence, although clathrin may well mediate
+due to mechanical failure, most likely membrane rupture           similar pathways in both PCF and BSF, the relative ¯ux
+due to extreme pressure on the cell as the cytoplasm              through the endocytic and post-Golgi/recycling/sorting
+becomes compressed by the enlarging pocket. However, it           pathways may well be radically different, giving rise to the
+is of signi®cant interest that the pocket retained a near-        stage-speci®c phenotypes. Speci®cally, the major activity
+spherical con®guration, which may suggest the presence            is endocytosis in BSF and post-Golgi transport in PCF.
+of luminal or membrane-associated components respon-                 Perhaps most importantly, the absence of detectable
+sible for providing a compensatory pressure to oppose that        endocytosis in the clathrin RNAi cells indicates that GPI-
+from the cytoplasm. One possible candidate would be the           anchored proteins in this organism must be endocytosed
+gel-like glycan-rich matrix within the pocket lumen.              via a clathrin-mediated mechanism. This conclusion is
+   Signi®cantly, the severity of the phenotype also brought       further strengthened by ultrastructural evidence demon-
+to light a signi®cant asynchrony in the loss of clathrin from     strating VSG in clathrin-coated pits and vesicles
+individual cells within an induced culture. After 16 h, cells     (Grunfelder et al., 2003). It is likely, given the high
+with normally sized ¯agellar pockets were present along-          concentration of VSG on surface membranes, that little, if
+side cells fully devoid of the clathrin heavy chain, but the      any, cargo selection can take place at the point of initial
+proportion of cells exhibiting the most extreme phenotype         endocytosis, a proposal that is further supported by the
+increased in the population over time, indicating that those      absence of trypanosome AP-2 complex subunits in the
+cells at earlier times with residual clathrin expression were     databases (Morgan et al., 2002b). These observations also
+not simply RNAi de®cient. In fact, a very small number of         suggest that clathrin-mediated endocytosis is ancient (or
+cells appeared to survive the RNAi, and these grew out            emerged earlier than other forms of endocytosis), as
+after several days, re-expressed clathrin and had a normal        caveolin homologues are also absent from the trypano-
+morphology.                                                       some genome, suggesting that this latter system is a more
+   In contrast to the BSF, the lethality of loss of clathrin in   recent addition to the endocytic repertoire and may have
+the procyclic stage exhibited a slower onset, with a clear        evolved to deal with a more complex cell surface
+loss of viability from 48 h. As the PCF has a greatly             architecture, where GPI anchors are no longer the
+reduced rate of endocytosis (Pal et al., 2002), this was not      dominant form of protein membrane attachment and
+an unexpected ®nding. At the light level, the PCF cells           where more effective protein sorting mechanisms are
+became round, and ultrastructural analysis indicated that         required. Other vesicle coat systems have also been
+the ¯agellar pocket was not enlarged, but rather that a           described in trypanosomes, including direct demonstration
+severe accumulation of transport vesicles had taken place,        of COP I (Maier et al., 2001), while elements of the COP II
+most likely equivalent to Berkeley bodies of                      system are present in the databases (M.C.Field, unpub-
+Saccharomyces (Payne et al., 1987). The alteration of             lished data), but the lethality of clathrin ablation suggests a
+p67 staining in these cells suggests a sorting defect, the        fundamental lack of ¯exibility in the trypanosome
+diffuse staining resulting from mislocalization of this           endocytic pathway.
+membrane to the multiple vesicles present in these cells.
+The perinuclear TbBiP localization may also result from
+the presence of multiple transport vesicles, which ®ll the
+                                                                  Materials and methods
+PCF clathrin RNAi cells, causing the ER to be deformed
+and restricted to the perinuclear region rather than              Trypanosome growth and induction of RNAi
+spreading throughout the cell.                                    PCF 29-13 and BSF 90-13 T.brucei Lister 427 strain cell lines were gifts
+   The most likely interpretation of the PCF phenotype is         from Elizabeth Wirtz and George Cross (Rockerfeller University) (Wirtz
+that transport vesicles are produced but are unable to fuse       et al., 1999). Cell lines were grown in SDM79 or HMI9 media,
+                                                                  supplemented with 10% heat inactivated fetal bovine serum, as
+with the target membrane. There is strong evidence for            appropriate (Field et al., 1998), and cultured in the continuous presence
+multiple roles for clathrin in endosomal sorting, post-           of 25 mg/ml G418 and 25 mg/ml hygromycin (PCFs) or 2 mg/ml G418 and
+Golgi transport and traf®cking to the lysosome in higher          5 mg/ml hygromycin (BSFs). Following transfection, expression of
+eukaryotes (Boehm and Bonifacino, 2002), and recent data          double-stranded RNA was induced by the addition of tetracycline at
+suggests a similar role in trypanosomes (Grunfelder et al.,       1 mg/ml.
+2003). The possibility that PCF cell death is due to nutrient
+                                                                  RNAi plasmid construction and transfection
+starvation was investigated by culturing PCFs in serum-           To generate the plasmid p2T7TiCLH, a 521 bp fragment of the TbCLH
+free medium; these cells did not exhibit the same                 gene was PCR ampli®ed from T.brucei 427 strain genomic DNA using
+morphological abnormalities as seen by the clathrin               the primers 5¢-CCCAAGC TTCTAGAGATTAACCTG-3¢ and 5¢-CCT-
+RNAi, and they survived for signi®cantly longer.                  CTCGAGTTCCTGCACCTGCCC-3¢, which contain restriction sites for
+Therefore, it is likely that cell death in the PCF is not         HindIII and XhoI, respectively. An extra XhoI site was generated in this
+                                                                  fragment by PCR, causing a 127 bp fragment to be lost from the 3¢ end on
+due to the inability to endocytose essential nutrients.           subsequent digestion. However, the remaining 394 bp fragment of the
+   Broadly similar sorting mechanisms probably exist in           TbCLH gene was subcloned via pBluescript II SK as a BamHI±XhoI
+both the PCF and the BSF (Morgan et al., 2002a,b), so why         fragment into the tetracycline inducible RNAi vector p2T7Ti (a gift from
+
+
+5000
+                                                                                                     Clathrin is essential in Trypanosoma brucei
+
+Douglas LaCount and John Donelson) (LaCount et al., 2002) yielding              Uptake assays
+p2T7TiCLH.                                                                      To follow receptor-mediated endocytosis, Con A uptake was performed
+   For transfection into the PCF 29-13 cell lines, 20 mg of NotI linearized     as described previously (Brickman et al., 1995), with the following
+p2T7TiCLH plasmid was added to 2 3 107 log phase cells in a total               modi®cations. Each assay was performed using 1 3 107 BSF parasites
+volume of 0.45 ml of Opti-MEM (Invitrogen). The sample was mixed,               incubated at the appropriate temperature in 1 ml of serum-free HMI9
+then transferred to a pre-cooled 2 mm gap electrocuvette (Bio-Rad) and          supplemented with 1% BSA and containing 5 mg/ml FITC-Con A (Vector
+chilled on ice for 5 min prior to electroporation (Bio-Rad Gene Pulser II       Laboratories). Mid-log phase parasites were pre-incubated for 30 min in
+electroporator, 1.5 kV, 25 mF). Immediately following electroporation,          serum-free HMI9 supplemented with 1% BSA at 4°C, 12°C or 37°C.
+the cells were transferred into 10 ml of SDM79/10% HI-FBS containing            FITC-Con A was then added to the parasites at a ®nal concentration of
+25 mg/ml G418 and 25 mg/ml hygromycin and left to recover at 27°C               5 mg/ml, and the cells were incubated for a further 30 min at the
+overnight. Approximately 16 h following electroporation, phleomycin             appropriate temperature. After incubation, the cells were transferred to
+was added at 2.5 mg/ml to select for transformants.                             ice and all subsequent manipulations were performed using pre-chilled
+   The BSF 90-13 cell line was transfected with 5±10 mg of NotI                 buffers, on ice, in the cold room. The parasites were washed once in ice-
+linearized p2T7TiCLH using 2.5 3 107 log phase cells per transfection.          cold VBPS and then ®xed in 3% PFA/VPBS at 4°C for 1 h.
+Cells were resuspended in 0.4 ml of pre-warmed cytomix (van den Hoff               Membrane internalization was monitored by following uptake of FM
+et al., 1992) (37°C) and mixed with the DNA in 50 ml of cytomix before          4-64 (Molecular Probes). The procedure was carried out at 4°C or 37°C
+being transferred to a 2 mm Bio-Rad cuvette (at ambient temperature).           on 5 3 107 cells in 250 ml TES buffer (120 mM NaCl, 5 mM KCl, 3 mM
+The sample was electroporated at 1.4 kV, 25 mF, and the cells transferred       MgSO4, 16 mM Na2HPO4, 5 mM KH2PO4, 30 mM TES, 10 mM glucose,
+into 48 ml of HMI9 containing 2 mg/ml G418 and 5 mg/ml hygromycin.              0.1 mM adenosine pH 7.5). The cells were pre-incubated for 10 min at the
+The cells were left to recover for 6 h at 37°C/5% CO2 prior to the addition     appropriate temperature prior to addition of FM 4-64 at a ®nal
+of phleomycin at 2.5 mg/ml for selection. The cells were then transferred       concentration of 40 mM, followed by incubation for a further 5 min.
+to a 24-well tissue culture plate (2 ml per well) and left for drug-resistant   The cells were then transferred to ice, ®xed with 3% PFA/VPBS and
+cells to recover. Clonal cell lines were obtained by serial dilution.           mounted as described above.
+
+                                                                                Electron microscopy
+Protein electophoresis and western blotting                                     For transmission EM, cells were ®xed in suspension by adding chilled 5%
+For protein extraction, mid-log phase cells were harvested, washed in           glutaraldehyde (TAAB) and 8% PFA (Sigma) in PBS in a 1:1 ratio to the
+PBS (Sigma) then resuspended in boiling SDS±polyacrylamide sample               growth medium containing trypanosomes. Cells were ®xed on ice for
+buffer at a concentration of 1 3 106 cell equivalents per microlitre.           10 min, centrifuged at 10 000 r.p.m. for 5 min in 2 ml Eppendorf tubes,
+Samples were electrophoresed on 10% SDS±PAGE minigels gels at                   the supernatant carefully replaced with fresh ®xative for a further 50 min
+1 3 107 cell equivalents per lane and then transferred to Hybond-ECL            without disturbing the pellet, rinsed in 0.1 M sodium cacodylate and post-
+nitrocellulose membrane (Amersham Pharmacia Biotech) by wet blot                ®xed in 1% osmium tetroxide (TAAB) in the same buffer at room
+using transfer buffer [192 mM glycine, 25 mM Tris, 20% (v/v) methanol].         temperature for 1 h. After rinsing, cells were dehydrated in an ethanol
+Transfer and equivalence of loading were checked by staining the                series, adding 1% uranyl acetate at the 30% stage, followed by propylene
+membrane with Ponceau S solution (Sigma) prior to blocking for 1 h at           oxide and then embedded in Epon/Araldite 502 (TAAB) and ®nally
+room temperature in blocking solution [TBS (24.8 mM Tris, 137 mM                polymerized at 60°C for 48 h. Sections were cut on a Leica Ultracut T
+NaCl, 2.7 mM KCl)/0.05% Tween-20/3% dried milk]. Membranes were                 ultramicrotome at 70 nm using a diamond knife, contrasted with uranyl
+incubated for at least 1 h at room temperature with primary antibody at         acetate and lead citrate and examined on a Philips CM100 transmission
+the appropriate dilution in blocking solution, washed 4 3 5 min in              electron microscope.
+TBS/0.05% Tween-20, then incubated for a further hour with horseradish             For cryosections, cells were ®xed in suspension by adding chilled 0.4%
+peroxidase goat anti-rabbit conjugate (Sigma). After washing, bound             glutaraldehyde and 8% PFA in PBS in a 1:1 ratio to the growth medium
+antibodies were detected by reaction with luminol and visualized by             containing trypanosomes to give ®nal dilutions of 0.2% glutaraldehyde
+exposure to X-ray ®lm. Both primary antibodies, rabbit anti-TbCLH Ab            and 4% PFA. Cells were ®xed for 10 min on ice, centrifuged and the
+(Morgan et al., 2001) and rabbit anti-TbBiP Ab (a gift from James Bangs,        supernatant replaced for fresh ®xative for a further 50 min on ice to ®x the
+Madison), were diluted 1:1000 for use in western blots.                         pellet. The cells were then rinsed three times in cold PBS over 15 min and
+                                                                                then infused with cold freshly prepared 2.3 M sucrose in PBS in a
+                                                                                refrigerator for between 8 h and overnight. Pieces of pellet were mounted
+Immuno¯uorescence microscopy                                                    in fresh sucrose solution on aluminium pins (Leica) plunge frozen into
+Indirect immuno¯uorescence microscopy was performed on BSF and                  liquid nitrogen and stored. Cryosections (80 nm) were cut on a Leica FCS
+PCF trypomastigotes harvested at log phase growth. BSF cells were               Ultracut T using a dry diamond knife, collected onto plastic loops
+washed in VPBS (136.9 mM NaCl, 3 mM KCl, 16 mM Na2HPO4, 3 mM                    containing 2.3 M sucrose in PBS and transferred to formvar carbon-
+KH2PO4, 45.9 mM sucrose, 10 mM glucose) (Nolan et al., 2000) then               coated glow-discharged 200 hexagonal mesh copper/palladium grids
+®xed for 1 h at 4°C in 3% paraformaldehyde (PFA). Fixed cells were              (Agar Scienti®c) for immunogold labelling, which was performed as
+adhered to poly-L-lysine-coated polyprep slides (Sigma) for 20 min at           follows.
+room temperature, then permeabilized with 0.1% Triton X-100 (Sigma)                On a strip of Para®lm placed along the laboratory bench, the grids were
+in PBS for 10 min. The slides were blocked for 1 h at room temperature in       transferred section-side down onto drops of 0.05 M glycine for 5 min to
+PBS/10% goat serum, then incubated with the primary antibody at the             block free aldehyde groups within the ®xed cells and then to 5% or 10%
+appropriate dilution in PBS/10% goat serum at room temperature for a            fetal calf serum in PBS (in which blocking medium all subsequent
+further hour. Unbound primary antibody was washed off with PBS/0.05%            reagents were diluted) for 20 min. The grids are thus moved along from
+Triton X-100 prior to incubation with secondary antibodies: Cy3-labelled        drop to drop in rabbit primary antibody 0.5±500 mg/ml for 1 h, rinsed
+anti-rabbit IgG (Sigma) or Oregon-green-labelled anti-mouse IgG                 three times for 5 min each in PBS, incubated in 10 nm protein A gold for
+(Molecular Probes), diluted according to manufacturer's instructions.           45 min, rinsed ®ve times in PBS for 5 min each, ®xed in 2.5%
+All cells were stained with DAPI at 0.5 mg/ml to visualize the nucleus and      glutaraldehyde in PBS for 10 min, rinsed 10 times in freshly distilled
+kinetoplast.                                                                    water over 10 min to remove phosphate, contrasted on drops of 2%
+   Essentially the same procedure was used for immuno¯uorescence                methyl cellulose and 0.3% uranyl acetate on an ice-chilled metal block in
+microscopy of PCF trypomastigotes, except that these cells were ®xed            the dark for 10 min, picked up on wire loops and blotted dry. The grids
+directly in culture with 3.7% formaldehyde for 30 min at room                   were then viewed on a Philips CM100 transmission electron microscope.
+temperature prior to adhesion to the slides. Cells were examined using
+a Nikon ECLIPSE E600 microscope, and images were captured using a               Supplementary data
+Photometrics CoolSNAP FX camera. Digital images were captured and               Supplementary data are available at The EMBO Journal Online.
+false coloured using MetaMorph 5.0 software (Universal Imaging
+Corporation). Figures were assembled from these images using Adobe
+Photoshop 7.0 (Adobe Systems). Primary antibodies were used at the
+following dilutions: rabbit anti-TbCLH, 1:500 (Morgan et al., 2001);            Acknowledgements
+rabbit anti-TbBiP (Bangs et al., 1986), 1:1500 and mouse anit-p67, 1:500
+(both gifts of James Bangs, Madison); and rabbit anti-TbRAB11, 1:1000           We thank Jay Bangs (Madison, Wisconsin) for antibodies to TbBiP and
+(Jeffries et al., 2001).                                                        p67. The Field laboratory is supported by the Wellcome Trust.
+
+
+                                                                                                                                                    5001
+C.L.Allen, D.Goulding and M.C.Field
+
+                                                                               mediated endocytosis in Trypanosoma brucei. J. Cell Sci., 114, 2605±
+References                                                                     2615.
+                                                                             Morgan,G.W., Hall,B.S., Denny,P.W., Carrington,M. and Field,M.C.
+Alexander,D.L., Schwartz,K.J., Balber,A.E. and Bangs,J.D. (2002)
+                                                                               (2002a) The endocytic apparatus of the kinetoplastida. Part I: a
+   Developmentally regulated traf®cking of the lysosomal membrane
+                                                                               dynamic system for nutrition and evasion of host defences. Trends
+   protein p67 in Trypanosoma brucei. J. Cell Sci., 115, 3253±3263.
+                                                                               Parasitol., 18, 491±496.
+Bangs,J.D., Andrews,N.W., Hart,G.W. and Englund,P.T. (1986)
+                                                                             Morgan,G.W., Hall,B.S., Denny,P.W., Field,M.C. and Carrington,M.C.
+   Posttranslational modi®cation and intracellular transport of a
+                                                                               (2002b) The endocytic apparatus of the kinetoplastida. Part II:
+   trypanosome variant surface glycoprotein. J. Cell Biol., 103, 255±263.
+                                                                               machinery and components of the system. Trends Parasitol., 18, 540±
+Bangs,J.D., Uyetake,L., Brickman,M.J., Balber,A.E. and Boothroyd,J.C.
+                                                                               546.
+   (1993) Molecular cloning and cellular localization of a BiP
+                                                                             Nichols,B.J. and Lippincott-Schwartz,J. (2001) Endocytosis without
+   homologue in Trypanosoma brucei. Divergent ER retention signals
+                                                                               clathrin coats. Trends Cell Biol., 11, 406±412.
+   in a lower eukaryote. J. Cell Sci., 105, 1101±1113.
+                                                                             Nolan,D.P. et al. (2000) Characterization of a novel alanine-rich protein
+Benting,J.H., Rietveld,A.G. and Simons,K. (1999) N-glycans mediate the
+                                                                               located in surface microdomains in Trypanosoma brucei. J. Biol.
+   apical sorting of a GPI-anchored, raft-associated protein in Madin-
+                                                                               Chem., 275, 4072±4080.
+   Darby canine kidney cells. J. Cell Biol., 146, 313±320.
+                                                                             O'Beirne,C., Lowry,C.M. and Voorheis,H.P. (1998) Both IgM and IgG
+Boehm,M. and Bonifacino,J.S. (2002) Genetic analyses of adaptin                anti-VSG antibodies initiate a cycle of aggregation±disaggregation of
+   function from yeast to mammals. Gene, 286, 175±186.                         bloodstream forms of Trypanosoma brucei without damage to the
+Brickman,M.J., Cook,J.M. and Balber,A.E. (1995) Low temperature                parasite. Mol. Biochem. Parasitol., 91, 165±193.
+   reversibly inhibits transport from tubular endosomes to a perinuclear,    Pal,A., Hall,B.S., Nesbeth,D.N., Field,H.I. and Field,M.C. (2002)
+   acidic compartment in African trypanosomes. J. Cell Sci., 108,              Differential endocytic functions of Trypanosoma brucei Rab5
+   3611±3621.                                                                  isoforms reveal a glycosylphosphatidylinositol-speci®c endosomal
+Costaguta,G., Stefan,C.J., Bensen,E.S., Emr,S.D. and Payne,G.S. (2001)         pathway. J. Biol. Chem., 277, 9529±9539.
+   Yeast Gga coat proteins function with clathrin in Golgi to endosome       Pal,A., Hall,B.S., Jeffries,T.R. and Field,M.C. (2003) Rab5 and Rab11
+   transport. Mol. Biol. Cell, 12, 1885±1896.                                  mediate transferrin and anti-variant surface glycoprotein antibody
+Denny,P.W., Field,M.C. and Smith,D.F. (2001) GPI-anchored proteins             recycling in Trypanosoma brucei. Biochem. J., 374, 443±451.
+   and glycoconjugates segregate into lipid rafts in Kinetoplastida. FEBS    Payne,G.S., Hasson,T.B., Hasson,M.S. and Schekman,R. (1987) Genetic
+   Lett., 491, 148±153.                                                        and biochemical characterization of clathrin-de®cient Saccharomyces
+Field,H., Farjah,M., Pal,A., Gull,K. and Field,M.C. (1998) Complexity          cerevisiae. Mol. Cell. Biol., 7, 3888±3898.
+   of trypanosomatid endocytosis pathways revealed by Rab4 and Rab5          Sabharanjak,S., Sharma,P., Parton,R.G. and Mayor,S. (2002) GPI-
+   isoforms in Trypanosoma brucei. J. Biol. Chem., 273, 32102±32110.           anchored proteins are delivered to recycling endosomes via a
+Field,H., Sherwin,T., Smith,A.C., Gull,K. and Field,M.C. (2000) Cell-          distinct cdc42-regulated, clathrin-independent pinocytic pathway.
+   cycle and developmental regulation of TbRAB31 localisation, a GTP-          Dev. Cell, 2, 411±423.
+   locked Rab protein from Trypanosoma brucei. Mol. Biochem.                 Seeger,M. and Payne,G.S. (1992) A role for clathrin in the sorting of
+   Parasitol., 106, 21±35.                                                     vacuolar proteins in the Golgi complex of yeast. EMBO J., 11,
+Ford,M.G., Mills,I.G., Peter,B.J., Vallis,Y., Praefcke,G.J., Evans,P.R.        2811±2818.
+   and McMahon,H.T. (2002) Curvature of clathrin-coated pits driven by       Takei,K. and Haucke,V. (2001) Clathrin-mediated endocytosis:
+   epsin. Nature, 419, 361±366.                                                membrane factors pull the trigger. Trends Cell Biol., 11, 385±391.
+Geuskens,M., Pays,E. and Cardoso de Almeida,M.L. (2000) The lumen            van den Hoff,M.J., Moorman,A.F. and Lamers,W.H. (1992)
+   of the ¯agellar pocket of Trypanosoma brucei contains both intact and       Electroporation in `intracellular' buffer increases cell survival.
+   phospholipase C-cleaved GPI anchored proteins. Mol. Biochem.                Nucleic Acids Res., 20, 2902.
+   Parasitol., 108, 269±275.                                                 Wang,J., Gunning,W., Kelley,K.M. and Ratnam,M. (2002) Evidence for
+Grunfelder,C.G., Engstler,M., Weise,F., Schwarz,H., Stierhof,Y.D.,             segregation of heterologous GPI-anchored proteins into separate lipid
+   Boshart,M. and Overath,P. (2002) Accumulation of a GPI-anchored             rafts within the plasma membrane. J. Membr. Biol., 189, 35±43.
+   protein at the cell surface requires sorting at multiple intracellular    Wang,Z., Morris,J.C., Drew,M.E. and Englund,P.T. (2000) Inhibition of
+   levels. Traf®c, 3, 547±559.                                                 Trypanosoma brucei gene expression by RNA interference using an
+Grunfelder,C.G., Engstler,M., Weise,F., Schwarz,H., Stierhof,Y.D.,             integratable vector with opposing T7 promoters. J. Biol. Chem., 275,
+   Morgan,G.W., Field,M.C. and Overath,P. (2003) Endocytosis of a              40174±40179.
+   glycosylphosphatidylinositol-anchored protein via clathrin-coated         Wettey,F.R., Hawkins,S.F., Stewart,A., Luzio,J.P., Howard,J.C. and
+   vesicles, sorting by default in endosomes and exocytosis via Rab11-         Jackson,A.P. (2002) Controlled elimination of clathrin heavy-chain
+   positive carriers. Mol. Biol. Cell., 14, 2029±2040.                         expression in DT40 lymphocytes. Science, 297, 1521±1525.
+Ilgoutz,S.C. and McConville,M.J. (2001) Function and assembly of the         Wirtz,E., Leal,S., Ochatt,C. and Cross,G.A. (1999) A tightly regulated
+   Leishmania surface coat. Int. J. Parasitol., 31, 899±908.                   inducible expression system for conditional gene knock-outs and
+Jeffries,T.R., Morgan,G.W. and Field,M.C. (2001) A developmentally             dominant-negative genetics in Trypanosoma brucei. Mol. Biochem.
+   regulated rab11 homologue in Trypanosoma brucei is involved in              Parasitol., 99, 89±101.
+   recycling processes. J. Cell Sci., 114, 2617±2626.                        Yeung,B.G., Phan,H.L. and Payne,G.S. (1999) Adaptor complex-
+LaCount,D.J., Bruse,S., Hill,K.L. and Donelson,J.E. (2000) Double-             independent clathrin function in yeast. Mol. Biol. Cell, 10, 3643±3659.
+   stranded RNA interference in Trypanosoma brucei using head-to-head
+   promoters. Mol. Biochem. Parasitol., 111, 67±76.                                     Received January 7, 2003; revised May 9, 2003;
+LaCount,D.J., Barrett,B. and Donelson,J.E. (2002) Trypanosoma brucei                               accepted August 4, 2003
+   FLA1 is required for ¯agellum attachment and cytokinesis. J. Biol.
+   Chem., 277, 17580±17588.
+Le,P.U., Guay,G., Altschuler,Y. and Nabi,I.R. (2002) Caveolin-1 is a
+   negative regulator of caveolae-mediated endocytosis to the
+   endoplasmic reticulum. J. Biol. Chem., 277, 3371±3379.
+Magalhaes,A.C., Silva,J.A., Lee,K.S., Martins,V.R., Prado,V.F.,
+   Ferguson,S.S., Gomez,M.V., Brentani,R.R. and Prado,M.A. (2002)
+   Endocytic intermediates involved with the intracellular traf®cking of a
+   ¯uorescent cellular prion protein. J. Biol. Chem., 277, 33311±33318.
+Maier,A.G., Webb,H., Ding,M., Bremser,M., Carrington,M. and
+   Clayton,C. (2001) The coatomer of Trypanosoma brucei. Mol.
+   Biochem. Parasitol., 115, 55±61.
+Merri®eld,C.J., Feldman,M.E., Wan,L. and Almers,W. (2002) Imaging
+   actin and dynamin recruitment during invagination of single clathrin-
+   coated pits. Nat. Cell Biol., 4, 691±698.
+Morgan,G.W., Allen,C.L., Jeffries,T.R., Hollinshead,M. and Field,M.C.
+   (2001) Developmental and morphological regulation of clathrin-
+
+
+5002
+

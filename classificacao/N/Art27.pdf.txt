@@ -1,0 +1,421 @@
+                        Update                     TRENDS in Genetics Vol.20 No.6 June 2004                                                                  227
+
+
+
+ 2 Muramatsu, M. et al. (1999) Specific expression of activation-induced           edited extensively in livers containing tumors caused by the transgene
+   cytidine deaminase (AID), a novel member of the RNA-editing deaminase           expression of the apoB mRNA-editing enzyme. Genes Dev. 11, 321 – 333
+   family in germinal center B cells. J. Biol. Chem. 274, 18470–18476         21   Dance, G.S. et al. (2000) APOBEC-1 dependent cytidine to uridine editing
+ 3 Muramatsu, M. et al. (2000) Class switch recombination and                      of apolipoprotein B RNA in yeast. Nucleic Acids Res. 28, 424–429
+   hypermutation require activation-induced cytidine deaminase (AID),         22   Okazaki, I.M. et al. (2003) Constitutive expression of AID leads to
+   a potential RNA editing enzyme. Cell 102, 553– 563                              tumorigenesis. J. Exp. Med. 197, 1173– 1181
+ 4 Revy, P. et al. (2000) Activation-induced cytidine deaminase (AID)         23   Okazaki, I.M. et al. (2002) The AID enzyme induces class switch
+   deficiency causes the autosomal recessive form of the Hyper-IgM                 recombination in fibroblasts. Nature 416, 340 – 345
+   syndrome (HIGM2). Cell 102, 565– 575                                       24   Sowden, M.P. et al. (2004) Identification of novel alternative splice
+ 5 Bass, B.L. (2002) RNA editing by adenosine deaminases that act on               variants of APOBEC-1 complementation factor with different capacities
+   RNA. Annu. Rev. Biochem. 71, 817– 846                                           to support apolipoprotein B mRNA editing. J. Biol. Chem. 279, 197–206
+ 6 Wedekind, J.E. et al. (2003) Messenger RNA editing in mammals: new         25   Yu, K. et al. (2003) DNA substrate length and surrounding sequence
+   members of the APOBEC family seeking roles in the family business.              affect the activation induced deaminase activity at cytidine. J. Biol.
+   Trends Genet. 19, 207 – 216                                                     Chem. 279, 6496 – 6500
+ 7 Doi, T. et al. (2003) De novo protein synthesis is required for the        26   Yelamos, J. et al. (1995) Targeting of non-Ig sequences in place of the
+   activation-induced cytidine deaminase function in class-switch recom-           V segment by somatic hypermutation. Nature 376, 225– 229
+   bination. Proc. Natl. Acad. Sci. U. S. A. 100, 2634– 2638                  27   Papavasiliou, F.N. and Schatz, D.G. (2002) Somatic hypermutation of
+ 8 Harris, R.S. et al. (2002) RNA editing enzyme APOBEC1 and some of               immunoglobulin genes: merging mechanisms for genetic diversity.
+   its homologs can act as DNA mutators. Mol. Cell 10, 1247– 1253                  Cell 109 (Suppl.), S35– S44
+ 9 Petersen-Mahrt, S.K. et al. (2002) AID mutates E. coli suggesting a        28   Woo, C.J. et al. (2003) Induction of somatic hypermutation is
+   DNA deamination mechanism for antibody diversification. Nature 418,             associated with modifications in immunoglobulin variable region
+   99 – 104                                                                        chromatin. Immunity 19, 479 – 489
+10 Eto, T. et al. (2003) RNA-editing cytidine deaminase Apobec-1 is           29   Nambu, Y. et al. (2003) Transcription-coupled events associating with
+   unable to induce somatic hypermutation in mammalian cells. Proc.                immunoglobulin switch region chromatin. Science 302, 2137– 2140
+   Natl. Acad. Sci. U. S. A. 100, 12895 – 12898                               30   Sohail, A. et al. (2003) Human activation-induced cytidine deaminase
+11 Pham, P. et al. (2003) Processive AID-catalysed cytosine deamination            causes transcription-dependent, strand-biased C to U deaminations.
+   on single-stranded DNA simulates somatic hypermutation. Nature                  Nucleic Acids Res. 31, 2990– 2994
+   424, 103 – 107                                                             31   Chaudhuri, J. et al. (2003) Transcription-targeted DNA deamination
+12 Rada, C. et al. (2002) Immunoglobulin isotype switching is inhibited            by the AID antibody diversification enzyme. Nature 422, 726– 730
+   and somatic hypermutation perturbed in UNG-deficient mice. Curr.           32   Barreto, V. et al. (2003) C-Terminal deletion of AID uncouples class
+   Biol. 12, 1748– 1755                                                            switch recombination from somatic hypermutation and gene conver-
+13 Imai, K. et al. (2003) Human uracil-DNA glycosylase deficiency                  sion. Mol. Cell 12, 501 – 508
+   associated with profoundly impaired immunoglobulin class-switch            33   Ta, V.T. et al. (2003) AID mutant analyses indicate requirement for
+   recombination. Nat. Immunol. 4, 1023 – 1028                                     class-switch-specific cofactors. Nat. Immunol. 4, 843 – 848
+14 Yoshikawa, K. et al. (2002) AID enzyme-induced hypermutation in an         34   Reynaud, C.A. et al. (2003) What role for AID: mutator, or assembler of
+   actively transcribed gene in fibroblasts. Science 296, 2033– 2036               the immunoglobulin mutasome? Nat. Immunol. 4, 631– 638
+15 Teng, B. et al. (1993) Molecular cloning of an apolipoprotein              35   Mangeat, B. et al. (2003) Broad antiretroviral defence by human
+   B messenger RNA editing protein. Science 260, 1816– 1819                        APOBEC3G through lethal editing of nascent reverse transcripts.
+16 Dance, G.S.C. et al. (2002) Two proteins essential for apolipoprotein           Nature 424, 99 – 103
+   B mRNA editing are expressed from a single gene through alternative        36   Zhang, H. et al. (2003) The cytidine deaminase CEM15 induces
+   splicing. J. Biol. Chem. 277, 12703 – 12709                                     hypermutation in newly synthesized HIV-1 DNA. Nature 424, 94 – 98
+17 Lellek, H. et al. (2000) Purification and molecular cloning of a novel     37   Shindo, K. et al. (2003) The enzymatic activity of CEM15/Apobec-3G is
+   essential component of the apolipoprotein B mRNA editing enzyme-                essential for the regulation of the infectivity of HIV-1 virion but not a sole
+   complex. J. Biol. Chem. 275, 19848 – 19856                                      determinant of its antiviral activity. J. Biol. Chem. 278, 44412–444416
+18 Mehta, A. et al. (2000) Molecular cloning of apobec-1 complementation      38   Larson, E.D. and Maizels, N. (2004) Transcription-coupled mutagen-
+   factor, a novel RNA- binding protein involved in the editing of                 esis by the DNA deaminase AID. Genome Biol. 5, 211
+   apolipoprotein B mRNA. Mol. Cell. Biol. 20, 1846 – 1854                    39   Smith, H.C. et al. (1997) A guide to RNA editing. RNA 3,
+19 Sowden, M. et al. (1996) Overexpression of APOBEC-1 results in                  1105 – 1123
+   mooring sequence-dependent promiscuous RNA editing. J. Biol.
+   Chem. 271, 3011 – 3017                                                     0168-9525/$ - see front matter q 2004 Elsevier Ltd. All rights reserved.
+20 Yamanaka, S. et al. (1997) A novel translational repressor mRNA is         doi:10.1016/j.tig.2004.03.012
+
+
+
+
+                        | Genome Analysis
+
+
+Genomic analysis of essentiality within protein
+networks
+Haiyuan Yu, Dov Greenbaum, Hao Xin Lu, Xiaowei Zhu and Mark Gerstein
+Department of Molecular Biophysics and Biochemistry, 266 Whitney Avenue, Yale University, PO Box 208114, New Haven,
+CT 06520, USA
+
+
+
+In this article, we introduce the notion of ‘marginal                         results from large-scale phenotypic experiments
+essentiality’ through combining quantitatively the                            (e.g. growth rate inhibition from knockouts). We
+                                                                              find that this quantity relates to many of the topo-
+   Corresponding author: Mark Gerstein (Mark.Gerstein@yale.edu).              logical characteristics of protein – protein interaction
+www.sciencedirect.com
+228                     Update        TRENDS in Genetics Vol.20 No.6 June 2004
+
+
+
+networks. In particular, proteins with a greater                 disabled without greatly affecting the viability of the
+degree of marginal essentiality tend to be network               cell [18].
+hubs (i.e. with many interactions) and tend to have                 Recently, Jeong et al. focused on the relationship
+a shorter characteristic path length to their neigh-             between hubs and essential genes and determined that
+bors. We extend our network analysis to encom-                   hubs tend to be essential [19]. Fraser et al. also
+pass transcriptional regulatory networks. Although               observed that the effect of an individual protein on cell
+transcription factors with many targets tend to be               fitness correlates with the number of its interaction
+essential, surprisingly, we find that genes that are             partners [20]. In this article, we extended the previous
+regulated by many transcription factors are usually
+not essential.
+                                                                  (a)                              Schematic illustration of the network
+The functional significance of a gene, at its most basic
+level, is defined by its essentiality. In simple terms, an
+                                                                                                                                                    Essential protein
+essential gene is one that, when knocked out, renders
+the cell unviable. Nevertheless, non-essential genes can                                                                                            Non-essential protein
+be found to be synthetically lethal (i.e. cell death
+occurs when a pair of non-essential genes is deleted
+simultaneously). Because essentiality can be deter-
+mined without knowing the function of a gene
+(e.g. random transposon mutagenesis [1,2] or gene-
+deletion [3]), it is a powerful descriptor and starting
+point for further analysis when no other information is
+available for a particular gene.
+   Although the definition of essentiality is not novel,
+Thatcher et al. recently introduced the ‘marginal
+benefit’ hypothesis [4]. It states that many non-                (b)                               Comparison of key topological statistics
+essential genes make significant but small contri-
+                                                                                                                  Average        Clustering   Characteristic Diameter
+butions to the fitness of the cell although the effects                                                           degree         coeffient     path length
+might not be sufficiently large to be detected by                                                                   (K)             (C)            (L)          (D)
+conventional methods. In this article, we define                              Essential                             18.7           0.182              3.84           10
+systematically ‘marginal essentiality’ (M) as a quanti-                       Synthetic lethal                       9.2           0.083              4.24           10
+tative measure of the importance of a non-essential                           Non-essential                          7.4           0.095              4.49           11
+gene to a cell. Our measure incorporates the results                          P-value                              <10–12          <10–12            <10–12           –
+from a diverse set of four large-scale knockout
+experiments that examined different aspects of the
+impact of a protein on cell fitness. These four exper-            (c)                              Comparison of power-law distributions
+iments measure the effect of a particular knockout on: (i)                                        10 000
+growth rate [5]; (ii) phenotypes under diverse environ-
+ments [2]; (iii) sporulation efficiency [6]; and
+                                                                    Log[number of proteins (n)]
+
+
+
+
+(iv) sensitivity to small molecules [7]. These datasets                                            1000
+                                                                                                                                   y = 1278 ×–1.52        Essential
+are the only available large-scale knockout analyses                                                                               R2 = 0.80              Non-essential
+for yeast. (There are several other smaller datasets
+                                                                                                    100
+[8 – 12] that have data only on a small fraction of the
+genome and were therefore not suitable for our
+analysis.)                                                                                           10
+   Protein networks are characterized by four major                                                              y = 253 ×–1.12
+                                                                                                                 R2 = 0.78
+topological characteristics: degree [number of links per
+node ðKÞ], clustering coefficient ðCÞ; characteristic path                                            1
+                                                                                                           1                10                      100                   1000
+length [average distance between nodes ðLÞ] and                                                                                   Log[degree (k)]
+diameter [maximum inter-node distance ðDÞ; Figure 1a                                                                                                        TRENDS in Genetics
+and supplementary material online] [13 – 16]. It has
+been shown that some protein networks follow power-              Figure 1. (a) Schematic illustration of the diameter of a sub-network. In an undir-
+law distributions [17,18] – that is they consist of many         ected network, the diameter of the essential protein network (shown by the red
+                                                                 line) is the maximum distance between any two essential proteins. The path can
+interconnecting nodes, a few of which have unchar-               go through non-essential proteins but has to start and end at essential proteins;
+acteristically high degrees (hubs). In addition, power-          the same conditions apply to the non-essential protein network. (b) A comparison
+law distributions can be characterized as scale-free –           of key topological characteristics. The values of different characteristics for essen-
+                                                                 tial, synthetic lethal and non-essential proteins are given in the table together with
+that is the possibility for a node to have a certain             the P-values, which measure the statistical significance of the difference between
+number of links does not depend on the total number of           the values for essential and non-essential proteins. The values are calculated as
+nodes within the network (i.e. the scale of the                  described in the supplementary materials online. P-values are calculated using
+                                                                 non-parametric Mann-Whitney U-tests. (c) A comparison of power-law distri-
+network). Scale-free networks provide stability to the           butions. The plot is on a log– log scale. The regression equations (y) and corre-
+cell because many non-hub (i.e. leaf) genes can be               lation coefficients (R) are given close to the corresponding lines in the figure.
+
+www.sciencedirect.com
+                                                          Update                   TRENDS in Genetics Vol.20 No.6 June 2004                                                                            229
+
+
+
+
+                  (a) Interaction network                                                                        (b) Regulator population
+                                                     80                                                                                         40
+                  Percentage of essential proteins
+
+
+
+
+                                                                                                                Percentage of essential genes
+                                                     70                                                                                         35                     P<10–7
+                                                     60                        P<10–12                                                          30
+                                                     50                                                                                         25
+                                                     40                                                                                         20
+                                                     30                                                                                         15
+                                                     20                                                                                         10
+                                                     10                                                                                          5
+                                                      0                                                                                          0
+                                                               Protein hubs              Whole genome                                                    Many (>100)            Rest (<100)
+
+
+                 (c)                                  Target population                                         (d) Number of functions
+                  Percentage of essential proteins
+
+
+
+
+                                                     30                                                                                         30
+
+
+                                                                                                                Percentage of essential genes
+                                                     25                                                                                         25
+                                                                                            P<10–2
+                                                     20              P<10–12                                                                    20
+
+                                                     15                                                                                         15          P<10–111
+                                                     10                                                                                         10
+
+                                                      5                                                                                          5
+
+                                                      0                                                                                          0
+                                                             Many (≥10)       A few (2–9)            Rest (1)                                        0          1         2       3           ≥4
+                                                                                                                                                                                  TRENDS in Genetics
+
+
+Figure 2. The likelihood of essentiality for different classes of genes. (a) Protein hubs in the interaction network tend to be essential. Based on the degree distribution
+(Figure 1 in the supplementary online), 1061 proteins were considered as protein hubs, within which the percentage of essential proteins was examined. ‘Whole genome’
+refers to the likelihood that all proteins in the whole genome that have at least one interaction partner to be essential. There are, in total, 4743 proteins with at least one
+interaction partner in the dataset, among which 977 (,20%) are known to be essential. (b) Transcription factors (TFs) with many (. 100) targets are more likely (P , 1027) to
+be essential than the other proteins. (c) Genes with many regulating TFs ($ 10) are less likely (P , 10212) to be essential than those with only a few TFs (2 –9), whereas these
+genes are less likely (P , 10202) to be essential than those with only one TF. (d) Genes with more functions are more likely to be essential. Proteins whose function is
+annotated as ‘unclassified’ in MIPS are considered to have zero function in this analysis. The P-value measures the difference between genes with only one function and
+those with more than four functions. The P-values in all panels are calculated by the cumulative binomial distribution.
+
+
+
+work to marginal essentiality and performed a genome-                                                                                  online); therefore, 1061 proteins are defined as hubs
+wide analysis of essentiality within a wide variety of                                                                                 within the yeast network. We found , 43% of hubs in
+protein networks. Further information is available                                                                                     yeast are essential (Figure 2a); this is significantly
+from http://bioinfo.mbb.yale.edu/network/essen.                                                                                        higher than random expectation (20%).
+                                                                                                                                          Furthermore, within the interaction network, essen-
+                                                                                                                                       tial proteins also tend to be more cliquish (as
+Comparison between essential and non-essential
+proteins within an interaction network                                                                                                 determined from the clustering coefficient) and tend
+We constructed a comprehensive and reliable yeast-                                                                                     to be more closely connected to each other (as
+interaction network containing 23 294 unique inter-                                                                                    determined from the characteristic path length and
+actions among 4743 proteins (supplementary material                                                                                    diameter). Not surprisingly, the values of these
+online) [16,21]. In a gross comparison we found that                                                                                   topological statistics (except for the clustering coeffi-
+essential proteins, generally, have significantly more                                                                                 cient) for synthetic lethal genes are between those of
+‘links’ than the non-essential proteins, validating ear-                                                                               the essential and non-essential genes (Figure 1b).
+lier findings [19]. Specifically, essential proteins have
+approximately twice as many links compared with non-                                                                                   Topological characteristics for marginal essentiality
+essential proteins (Figure 1b). We can also see from the                                                                               within an interaction network
+power-law plots of the interactions of essential and                                                                                   We expanded our analysis to non-essential genes,
+non-essential genes (Figure 1c) that the essential genes                                                                               analyzing the relationship between marginal essenti-
+have a shallower slope, indicating that a proportion-                                                                                  ality and topological characteristics. Overall, we found
+ately larger fraction of them are hubs.                                                                                                simple, monotonic trends for all four topological
+    Given that essential proteins, on average, tend to                                                                                 characteristics (Figure 3 and supplementary Figure 2
+have more interactions than non-essential proteins, we                                                                                 online). In particular, we found a positive correlation
+determined the fraction of hubs that are essential. We                                                                                 with marginal essentiality for descriptors of local
+define hubs as the top quartile of proteins with respect                                                                               interconnectivity (i.e. degree and clustering coeffi-
+to the number of interactions (supplementary material                                                                                  cient) but an inverse correlation for long-distance
+www.sciencedirect.com
+230                                                 Update                        TRENDS in Genetics Vol.20 No.6 June 2004
+
+
+
+
+(a)                                                                                                          (b)
+                                   16                                                                                                          0.3
+
+
+
+
+                                                                                                              Clustering coefficient (C )
+                                   14
+  Average degree (K)
+
+
+
+
+                                   12
+                                                                                                                                               0.2
+                                   10
+                                   8      P<10–15                                                                                                          P<10–12
+                                   6                                                                                                           0.1
+                                   4
+                                   2
+                                   0                                                                                                               0
+                                            1           2                3            4          5                                                            1       2            3            4           5
+                                                                Marginal essentiality                                                                                     Marginal essentiality
+
+(c)                                                                                                          (d)
+                                                                                                                                             40%
+                                    5.0
+  Characteristic path length (L)
+
+
+
+
+                                    4.8                                                                                                      35%
+                                            P<10–14
+                                    4.6
+
+                                                                                                              Percentage of hubs
+                                                                                                                                             30%
+                                    4.4
+                                                                                                                                             25%
+                                    4.2
+                                    4.0                                                                                                      20%
+                                                                                                                                                           P<10–176
+                                    3.8                                                                                                      15%
+                                    3.6
+                                                                                                                                             10%
+                                    3.4
+                                    3.2                                                                                                         5%
+                                    3.0                                                                                                         0%
+                                                1           2             3             4        5                                                            1       2            3            4           5
+                                                                Marginal essentiality                                                                                     Marginal essentiality
+                                                                                                                                                                                                TRENDS in Genetics
+
+
+Figure 3. Monotonic relationships between topological characteristics and marginal essentiality for non-essential genes. (a) A positive correlation exists between the aver-
+age degree ðK Þ and marginal essentiality ðMÞ: (b) A positive correlation exists between the clustering coefficient ðCÞ and marginal essentiality. (c) A negative correlation
+exists between the characteristic path length ðDÞ and marginal essentiality. (d) A positive correlation exists between hub percentage and marginal essentiality. The marginal
+essentiality for each non-essential gene is calculated by averaging the data from four datasets: (i) growth rate [5]; (ii) phenotype [2]; (iii) sporulation efficiency [6]; and (iv)
+small-molecule sensitivity [7]. Because the raw data in different datasets are on different scales,
+                                                                                              X      all the data points are normalized through dividing by the largest value in
+                                                                                                                                            Fi:j IFmax;j
+each dataset. In particular, the marginal essentiality ðMi Þ for gene i is calculated by: Mi ¼ j[J J    , where Fi,j is the value for gene i in dataset j: Fmax;j is the maximum
+                                                                                                                                        i
+                                                                                                                                               i
+
+value in dataset j: Ji is the number of datasets that have information on gene i in the four datasets. All the data included in the calculations are the raw data from the orig-
+inal datasets, except the growth rate data, which were baseline corrected. Before calculating the marginal essentiality, we verified that the four datasets were mutually inde-
+pendent. Although other methods could also be used to define marginal essentiality, we determined that different definitions have little effect (supplementary material
+online). Genes are grouped into five bins based on their marginal essentialities: bin 1, , 0.05; bin 2 [0.05, 0.1); bin 3 [0.1, 0.2); bin 4 [0.2, 0.3); bin 5, $0.3. The y-axis rep-
+resents the topological characteristics among the genes within the same bin. P-values show the statistical significance of the difference between the first and the last bars
+on each graph. The values of the topological characteristics, the marginal essentialities and the P-values are calculated as described in supplementary material online.
+
+
+
+interactions (i.e. diameter and characteristic path                                                          and the target genes that they regulate) [22 – 26].
+length). Thus, the more marginally essential a gene                                                          These networks differ from protein – protein interaction
+is the more likely it is to have a large number of                                                           networks in that they are directed. We looked at
+interaction partners – in agreement with the con-                                                            regulatory networks from two separate perspectives:
+clusion of Fraser et al. [20]. More importantly, the                                                         (i) the regulator population (e.g. out degree) – where
+greater the marginal essentiality of a protein, the                                                          we examined a directed network of transcription
+more likely it will be closely connected to other                                                            factors acting on targets; and (ii) the target population
+proteins – as reflected by a short characteristic path                                                       (e.g. in degree) – where we analyzed the sets of target
+length. This implies that the effect of that protein on                                                      genes that are regulated by any given transcription
+other proteins is more direct.                                                                               factor.
+   Furthermore, a protein with a greater marginal essenti-                                                       Analyzing the regulator population, we found that
+ality has a higher likelihood of being one of the 1061 hubs                                                  essential genes contribute to a larger percentage of the
+(Figure 3d). Because hubs in the protein-interaction net-                                                    more promiscuous transcription factors (Figure 2b). In
+works have been shown to be important for cell fitness [19],                                                 analyzing the target population, we found that the
+this positive correlation further confirms the biological                                                    targets that are associated with the fewest transcrip-
+relevance of our marginal-essentiality definition.                                                           tion factors have a proportionately higher number of
+                                                                                                             essential genes (Figure 2c).
+Analysis of regulatory networks                                                                                  The results for the regulators and the targets, although
+Finally, we analyzed protein essentiality within many                                                        seemingly contradictory, are logical. If a regulator is
+smaller regulatory networks (i.e. transcription factors                                                      deleted, the expression of all its target genes will be more
+www.sciencedirect.com
+                        Update                   TRENDS in Genetics Vol.20 No.6 June 2004                                                                231
+
+
+
+or less affected. Therefore, the more targets a regulator                          S. cerevisiae genome by gene deletion and parallel analysis. Science
+has, the more important it is. Our analysis of the regulator                       285, 901 – 906
+                                                                               4   Thatcher, J.W. et al. (1998) Marginal fitness contributions of
+population has, logically, shown that the promiscuous
+                                                                                   nonessential genes in yeast. Proc. Natl. Acad. Sci. U. S. A. 95,
+regulators tend to be essential.                                                   253 – 257
+   By contrast, we have found that most essential                              5   Steinmetz, L.M. et al. (2002) Systematic screen for human disease
+genes are ‘house-keeping’ genes [i.e. their expression                             genes in yeast. Nat. Genet. 31, 400– 404
+level is much higher and the fluctuation of their                              6   Deutschbauer, A.M. et al. (2002) Parallel phenotypic analysis of
+                                                                                   sporulation and postgermination growth in Saccharomyces cerevisiae.
+expression is much lower compared with non-essential
+                                                                                   Proc. Natl. Acad. Sci. U. S. A. 99, 15530 – 15535
+genes (supplementary Table 1 online)]. Therefore, the                          7   Zewail, A. et al. (2003) Novel functions of the phosphatidylinositol
+expression of essential genes tends to have less                                   metabolic pathway discovered by a chemical genomics screen with
+regulation, whereas non-essential genes often use                                  wortmannin. Proc. Natl. Acad. Sci. U. S. A. 100, 3345– 3350
+more regulators to control the expression of gene                              8   Smith, V. et al. (1996) Functional analysis of the genes of yeast
+products. This might be because essential proteins                                 chromosome V by genetic footprinting. Science 274, 2069 – 2074
+                                                                               9   Rieger, K.J. et al. (1999) Chemotyping of yeast mutants using robotics.
+perform the most basic and important functions within
+                                                                                   Yeast 15, 973 – 986
+the cell and, consequently, always need to be switched                        10   Entian, K.D. et al. (1999) Functional analysis of 150 deletion mutants
+‘on’. Their expression does not need to be regulated by                            in Saccharomyces cerevisiae by a systematic approach. Mol. Gen.
+many factors because this makes the essential genes                                Genet. 262, 683– 702
+dependent on the viability of more regulators, which                          11   True, H.L. and Lindquist, S.L. (2000) A yeast prion provides a
+                                                                                   mechanism for genetic variation and phenotypic diversity. Nature 407,
+makes the cell less stable.
+                                                                                   477 – 483
+                                                                              12   Sakumoto, N. et al. (2002) A series of double disruptants for protein
+Relationship between essentiality and function                                     phosphatase genes in Saccharomyces cerevisiae and their phenotypic
+Having concluded that the essentiality of a gene is                                analysis. Yeast 19, 587– 599
+directly related to its importance to the cell fitness in                     13   Albert, R. et al. (1999) Diameter of the World-Wide Web. Nature 401,
+both interaction and regulatory networks, we examined                              130– 131
+                                                                              14   Albert, R. and Barabasi, A.L. (2002) Statistical Mechanics of Complex
+the relationship between the number of functions of a
+                                                                                   Networks. Rev. Mod. Phys. 74, 47 – 97
+gene and its tendency to be essential using the                               15   Watts, D.J. and Strogatz, S.H. (1998) Collective dynamics of ‘small-
+functional classification from the Munich information                              world’ networks. Nature 393, 440– 442
+center for protein sequence (MIPS) [27]. Figure 2d                            16   Yu, H. et al. (2004) TopNet: a tool for comparing biological sub-
+shows that the likelihood of a gene being essential has                            networks, correlating protein properties with topological statistics.
+a monotonic relationship with the number of its                                    Nucleic Acids Res. 32, 328– 337
+                                                                              17   Barabasi, A.L. and Albert, R. (1999) Emergence of Scaling in Random
+functions (i.e. genes with more functions are more                                 Networks. Science 286, 509 – 512
+likely to be essential).                                                      18   Albert, R. et al. (2000) Error and attack tolerance of complex networks.
+                                                                                   Nature 406, 378 – 382
+Conclusion                                                                    19   Jeong, H. et al. (2001) Lethality and centrality in protein networks.
+In this article, we have provided a comprehensive                                  Nature 411, 41 – 42
+                                                                              20   Fraser, H.B. et al. (2002) Evolutionary rate in the protein interaction
+definition of ‘marginal essentiality’ and analyzed the
+                                                                                   network. Science 296, 750– 752
+tendency of the more marginally essential genes to                            21   Jansen, R. et al. (2003) A Bayesian networks approach for
+behave as hubs. Surprisingly, we also found that hubs                              predicting protein – protein interactions from genomic data. Science
+in the target subpopulations within the regulatory                                 302, 449 – 453
+networks tend not to be essential genes. The datasets                         22   Yu, H. et al. (2003) Genomic analysis of gene expression
+used in this analysis are available at http://bioinfo.                             relationships in transcriptional regulatory networks. Trends
+                                                                                   Genet. 19, 422 – 427
+mbb.yale.edu/network/essen.                                                   23   Horak, C.E. et al. (2002) Complex transcriptional circuitry at the
+                                                                                   G1/S transition in Saccharomyces cerevisiae. Genes Dev. 16,
+Acknowledgements                                                                   3017 – 3033
+M.G. acknowledges support from the NIH grant: Northeast Biodefense            24   Guelzim, N. et al. (2002) Topological and causal structure of the yeast
+Center, U54AI57158-Lipkin.                                                         transcriptional regulatory network. Nat. Genet. 31, 60 – 63
+                                                                              25   Lee, T.I. et al. (2002) Transcriptional regulatory networks in
+References                                                                         Saccharomyces cerevisiae. Science 298, 799 – 804
+ 1 Akerley, B.J. et al. (1998) Systematic identification of essential genes   26   Wingender, E. et al. (2001) The TRANSFAC system on gene expression
+   by in vitro mariner mutagenesis. Proc. Natl. Acad. Sci. U. S. A. 95,            regulation. Nucleic Acids Res. 29, 281 – 283
+   8927 – 8932                                                                27   Mewes, H.W. et al. (2002) MIPS: a database for genomes and protein
+ 2 Ross-Macdonald, P. et al. (1999) Large-scale analysis of the yeast              sequences. Nucleic Acids Res. 30, 31 – 34
+   genome by transposon tagging and gene disruption. Nature 402,
+   413 – 418                                                                  0168-9525/$ - see front matter q 2004 Elsevier Ltd. All rights reserved.
+ 3 Winzeler, E.A. et al. (1999) Functional characterization of the            doi:10.1016/j.tig.2004.04.008
+
+
+
+
+www.sciencedirect.com
+

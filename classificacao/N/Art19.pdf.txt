@@ -1,0 +1,825 @@
+MICROBIOLOGICAL                        METHODS         FOR THE         DETERMINATION               OF
+                                           AMINO        ACIDS
+        II. A UNIFORM            ASSAY FOR THE           TEK     ESSEXTIAL       AMINO     ACIDS
+        BY    JACOB       I,. STOIiES,       MARION  GUNNESS,         IRLA     M. DWYER,     AND
+                                            MURIEL  C. CASWELL
+(From        the   Research Laboratories,      Merck   and    Company, Inc.,    Rahway, New Jersey)
+                                 (Received for publication,      May 8, 1945)
+   Microbiological methods for the determination of amino acids, becauseof
+their specificity, accuracy, sensitivity, and ability to yield many replicate
+
+
+
+
+                                                                                                        Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+results within a short time, promise to become of increasing importance in
+investigations of the chemistry and biochemistry of proteins and amino
+acids. Although such methods are of relatively recent origin, a considerable
+and rapidly increasing number are already available for the assay of many
+of the amino acids in purified proteins and natural products. Since a pre-
+vious review of the literature (l), a method for lysine (2) and additional
+methods for tryptophane (3) and glutamic acid (4,5) have been published.
+Also a fungus method is available for the assay of leucine (6).
+   With the exception of leucine (6-8), isoleucine (7), valine (7, 8), and
+tryptophane (3,9), microbiological methods have either not been developed
+or existing methods have not been shown to be applicable to the determina-
+tion of the essential amino acids in meats, grains, milk, and other natural
+materials. It is in the analysis of such substances rather than purified
+proteins that microbiological methods will find their most extensive appli-
+cation. Also the analysis of a protein for those amino acids which can be
+measured by established microbiological methods involves use of a variety
+of microorganisms, media, and details of procedure. This is confusing and
+troublesome even to those who have considerable experience with micro-
+biological assay methods. Experience with the latter suggested that a
+large degree of standardization and, therefore, simplification of amino acid
+methods was possible and highly desirable. The present paper describes a
+basic method for the assay of the ten essential amino acids, namely histidine,
+arginine, lysine, leucine, isoleucine, valine, methionine, threonine, trypto-
+phane, and phenylalanine, which is applicable to foodstuffs and other nat-
+ural products    as well as to purified proteins and synthetic amino acid mix-
+tures.   A complete analysis can be made with 1.5 gm. or less of sample.
+Nine of the amino acids are determined with Streptococcus faecalis and
+phenylalanine with Lactobacillus delbriickii LD5.l Although two organisms
+   1 These organisms can be obtained from the American Type Culture Collection,
+Georgetow’n University School of Medicine, Washington, D. C., where Streptococcus
+jaecalis (also known as Streptococcus Zactis R) is listed as No. 9790 and Lactobacillus
+delbrtickii LD5 as No. 9595.
+                                            35
+36                                        DETERMINATION                 OF    AMINO            ACIDS.             II
+
+
+are used, only one standard medium and one procedure are employed.      The
+response of the two organisms to the amino acids is measured by titrating,
+with standard alkali, the lactic acid produced during growth.
+
+                                                                    Procedure
+  The described procedure applies to both Streptococcus faecalis and Lacto-
+bacillus delbriickii except for two indicated minor details and is similar in
+most respects to that already outlined (1).
+
+
+
+
+                                                                                                                                               Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+                                                                    TaBLE        1
+
+                                                               Bascrl    Medium*
+                                                                                                                             -
+dl-leucine          .............                     100 mg.             Sodium            acetate          (anhydrous).            3 gm.
+dl-Isoleucine              ............               160 “               Adenine                                    ..              5 mg.
+dl-Valine.         .. ............                    loo      “          Guanine.....................                               5 cg
+I(-)-Cystine               ............                100     “          Uracil                                                     5 (‘
+dl-Methionine.                  ..........            loo      (‘         Pantothenic                  acid.                      100     y
+dl-Tryptophane .........                              200      ‘(        Riboflavin.                                              100     “
+I(-)-Tyrosine                 ...........             100      “         Thiamine.HCl.                                            100     ‘(
+dl-Phenylalanine ........                             100      “         iSicotinic             acid.                             100     “
+dl-Glutamic               acid ........               100      “         Pyridoxaminet.                                           200     (‘
+dl-Threonine.                ...........              100      tL        p-Aminobenzoic                      acid.                 20     “
+dl-Alanine ..............                             100      “         Biotin.......................                              0.1 “
+dl-Aspartic            acid .........                 100      “         Folic acid:.                                                1.0 1‘s
+l(+)-Lysine.              ............                  50     “         Salts A
+l(+)-Arginine.                  ..........            loo      “             KzHP04                                   .           250 mg.
+1 (+)-Histidine                 ..........            loo      CL            KH?PO,                                               250 I[
+dl-Serine       ................                      100      “          Sa1t.s B
+l(-)-Proline.                ...........              100      IL            MgSO1.‘iH?O.                                         loo     “
+I(-)-Hydroxyproline                        ....       100      ‘(            NaCl......................                              5    “
+dl-Norleucine               ...........               loo      “             FeSOc.7HzO.                                             5    “
+Glycine .................                             loo      “             MnSOd.4H20.                                             5    “
+Glucose .................                                   5 gm.        Adjust           to pH 6.8
+                                                                         Add distilled                  Hz0 to..            ..    250 cc.
+                                                  -
+     *   The amino   acid being assayed    is omitted       from the medium.
+     t   Sold by Merck    and Company,      Inc.
+     $   Obtainable  from Dr. R. J. Williams,        University        of Texas, Austin,                                         Texas.
+     5   Equivalent   to 1.0 y of material   of “potency        40,000.”
+
+
+   Inoculum-The      cells are prepared according to previous directions (1)
+except that Streptococcus faecalis is suspended in 100 cc. of water after being
+centrifuged and washed.       Although one experiment indicated that Lacto-
+btiUus delbriickii also could be diluted to the same degree, most of the
+assay media were inoculated with cells suspended in 20 cc. of water.
+   Assay Medium-The        composition of the basic assay medium is shown in
+Table I. The amino acid which is being determined is omitted from the
+                   STOKES,    GUNNESS,     DWYER,     AND    CASWELL                    37
+
+medium.       Stock solutions of the amino acids, salts, and vitamins are pre-
+pared as indicated previously (1) with the following changes and additions.
+Owing to difficulty in obtaining I(-)-tryptophane,                 the dl form is used.
+Because of its lesser solubility, stock solutions are prepared with 0.2 N HCI
+to contain 20 mg. of dl-tryptophane           per cc. A stock solution containing 1
+mg. per cc. of adenine, guanine, and uracil is prepared by dissolving 870 mg.
+of adenine sulfate, 620 mg. of guanine hydrochloride,              and 500 mg. of uracil
+in 200 cc. of water containing 10 cc. of concentrated HCl and adjusting the
+volume to 500 cc. Individual              aqueous solutions containing per cc. 100
+
+
+
+
+                                                                                              Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+y of thiamine hydrochloride          and 10 y of p-aminobenzoic          acid are also re-
+quired.    A solution of pyridoxamine           dihydrochloride     is prepared in a con-
+centration of 100 y of pyridoxamine              per cc., in place of the more dilute
+solution previously        described, to avoid excessive dilution of the basal
+medium.       It is stable for at least a month when preserved with toluene and
+stored in the refrigerator.
+   Preparation of Samples for Assay-Fresh,               moist substances such as vege-
+tables or meats are sliced and dried at 100” sufficiently to permit grinding
+into a homogeneous mass. It is not necessary to free the samples of fatty
+materials or any other constituent prior to hydrolysis                or assay.   1 gm. of
+dried impure protein is autoclaved with 10 cc. of 10 per cent HC12 in sealed
+ampuls of 20 cc. capacity for 10 hours at 15 pounds pressure and prepared
+for assay as out,lined earlier (1). This quantity should be sufficient for
+determining all of the essential amino acids except tryptophane                  which re-
+quires a separate alkaline hydrolysis.              With purified proteins and other
+matserials available only in small quantities, the amount hydrolyzed may be
+reduced considerably, the degree depending upon the amino acid content of
+the sample.       This can be calculated, approximately,          from the sensitivity of
+each assay as indicated by the standard curves (Fig. 1). Use of smaller
+samples is possible also if only some of the essential amino acids are to be
+determined.       A further reduction should be possible by decreasing, pro-
+portionately,    the scale of the assay from 10 cc. total volume per assay tube
+to 2.5 cc. or less (10, 11).
+   For the determination         of tryptophane,      0.5 gm. of sample is hydrolyzed
+with 10 cc. of 5 N NaOH in 50 cc. Pyrex Erlenmeyer flasks plugged with
+non-absorbent       cotton.    Hydrolysis     in sealed ampuls should also be satis-
+factory and perhaps preferable, since appreciable amounts of water some-
+times enter the flasks during autoclaving.              In the case of purified proteins,
+25 mg. are hydrolyzed with 2 cc. of alkali in sealed ampuls.                 The quantity
+of sample may be reduced as indicated above for acid hydrolysis.                     Diges-
+tion is carried out at 15 pounds steam pressure for 10 hours as for acid hy-
+  2 Concentrated HCl     (about 38 per cent) is diluted     with water to 10 per cent, by
+volume, of HCl .
+38                       DETERMINATION            OF      AMINO        ACIDS.       II
+
+
+drolysis so that both types          of digestion may be made simultaneously     in one
+autoclave.    Frequently a          copious precipitate appears on neutralization    of
+the alkaline digest which             may contain considerable quantities of silica
+dissolved from the flask.            The precipitate is best removed by centrifuga-
+
+
+
+
+                                                                                                                    Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+
+
+
+                                                                    MIcRoGR(MS    OFL%WNE
+
+
+
+
+   FIG. 1. Typical   standard     curves.   The        quantities       of each    amino    acid   are those   of
+the 2 or naturally   occurring    isomer.
+
+
+tion, since filtration through paper may be extremely slow. It is washed
+once with water which is combined then with the remainder of the precipi-
+tate-free hydrolysate.
+   Activity of Optical Isomers and Preparation of Standards-With the ex-
+ception of histidine of which only the 1 isomer was available, the synthetic
+                             STOKES,       GUNNESS,       DWYER,              AND      CASWELL                                  39
+
+dl racemate of each amino acid, under our conditions, was exactly one-
+half as active as the I isomer, indicating that the d or unnatural isomer
+is inactive (12). Data for threonine, which is typical of all the amino acids,
+are given in Table II. Identical standard curves were obtained with the 1
+and dl forms when twice as much of the latter as compared to the 1 isomer
+was used. Therefore, either form can be used as the standard.          It is im-
+portant, obviously, that amino acids of known purity be employed.        It may
+be necessary to purify commerical dl-leucine (13) and dl-isoleucine.
+    It is convenient to prepare solutions of the amino acids, to be used as
+
+
+
+
+                                                                                                                                     Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+standards, in a concentration   of 100 y per cc. of the I isomer.    These may
+be stored under toluene in the refrigerator.   Dilutions are made from these
+primary solutions so that the quantities needed for construction of the stand-
+ard curves (Fig. l), which are in terms of the 1 isomer, can be pipetted
+
+                                                       TABLE       II
+                  Activity    of l’hreonine      Enantiomorphs          for       Streptococcus   jaecalis
+
+                                  I(-)-                    dl-                          -a+)-                 dl-Allo-
+                                                 I                            I                        I
+ Isomer      per tube
+                                                          0.05 N acid formed         per tube
+
+           mg.                       cc.                   cc.                             cc.                      CC.
+
+          0                     0.9,o.g
+          0.01                  3.6, 3.3
+          0.02                  5.1, 5.2               3.7,3.4
+          0.04                  7.9,7.9                5.2, 5.2
+          0.0s                                         8.0, 8.0
+          2.0                                                                         0.9,o.g                1.5,         1.5
+                                                                                                   -
+
+conveniently.       These secondary dilutions, also, may be preserved.           The
+dilutions must be made so that the maximum volume of standard added to
+the assay tubes does not exceed 5 cc.
+    Assay Procedure-This        is identical with that already outlined (1) except
+for the following minor changes applicable only to assays with Streptococcus
+faecalis; there are no changes for the assay of phenylalanine with Lacto-
+bacillus delbriickii.    Streptococcus famalis assays are titrated with approxi-
+mately 0.05 N NaOH after 40 hours incubation at which time maximum
+acid production has occurred.            Some experiments have indicated that it
+may be possible to reduce the incubation period to 16 hours for most routine
+work and that as an alternative to titration the turbidity           of the cultures
+may be measured with a photoelectric cell. However, the latter can be
+used only if the sample does not impart any appreciable amount of color
+ or turbidity to the assay medium.
+    Recording and Calculation of Results-An        example of a convenient method
+ is the assay of beef liver for threonine.        1 gm. of dried liver was digested
+40                             DETERMINATION                    OF   AMINO        ACIDS.         II
+
+
+with 10 cc. of HCl and the hydrolysate neutralized, filtered, and adjusted to
+100 cc. ; a further 1: 12.5 dilution was made prior to assay (Table III).
+   Alkaline hydrolysis used to liberate tryptophane from proteins results in
+complete racemization of this amino acid. Since the d form is inactive for
+Stre@ococcus juecalis, assay values must be multiplied by a factor of 2 to
+arrive at the final correct tryptophane content of the protein.
+
+                                                TABLE    III
+                                     Assay of Beef Liver for Threonine
+
+
+
+
+                                                                                                                                   Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+                                      NaOH required to               Amino acid equivalent       of       Amino add content
+  Diluted    sample added           neutralize   assay tube           titration  figure. as read          calculated   for 1 cc.
+         to assay tube                 after incubation                 from standard    curve             diluted   sam le at
+                                                                                                            each assay Peve1
+
+             cc.                               cc.                                 7                  I             7
+            0.5                              3.6                                  10                              20
+            1.0                              5.1                                  19                              19
+            1.5                              6.8                                  31                              21
+            2.0                              7.s5                                 40                              20
+            3.0                              9.6                                  62                              21
+
+ Average....................................................,                                         I           ____3
+                                                                                                                  ‘xl
+
+               dilution
+     20.2 X -12.5 X 100 = 25.25 mg. of threonine                         per gm., or 2.53 per cent.
+
+                                                       DISCUSSION
+
+   Streptococcus jaecalis was selected for use in the assays because, in con-
+trast to the commonly employed Lactobacillus      casei and Lactobacillus arab-
+inosus, its amino acid requirements are not influenced by pyridoxamine or
+pyridoxal; those members of the vitamin Bc group can substitute for lysine
+and threonine in the nutrition of the lactobacilli (14). The latter are un-
+suitable, therefore, for the assay of lysine and threonine, since pyridoxa-
+mine and pyridoxal or closely related compounds are commonly present in
+natural products (15) or are formed readily in the assay medium during
+sterilization (14, 16).
+   Although initial, short time experiments appeared to indicate that
+Streptococcus jaecalis required all ten essential amino acids for full growth,
+subsequent experience disclosedthat the almost imperceptible development
+evident in 16 to 20 hours, in the absenceof phenylalanine, rapidly increased
+to maximum growth and acid production in 40 hours. Inability to obtain
+cultures from thirty-five single colonies which had an absolute requirement
+for phenylalanine suggests that Streptococcus jaecalis is able to synthesize
+phenylalanine, although too slowly to permit a normal rate of growth.
+This situation is analogous to that of the rat with respect to arginine (17).
+                  STOKES,   GUXNESS,    DWYER,   AND   CASWELL                   41
+
+Lactobacillus arabinosus also developed without phenylalanine.             This was
+not unexpected, since its need for phenylalanine is dependent, critically, on
+the composition of the growth medium (18). However, Lactobacillus del-
+briickii LD5, Lcwtobacillus casei, and Leuconostoc mesenteroides P-60 failed
+to grow unless phenylalanine was in the medium and they responded in ap-
+proximately     linear fashion to increments of the amino acid. The former
+was chosen for development of the phenylalanine assay, because previous
+experience with it in amino acid assays was available (1).
+    The basal medium (Table I.) resembles, closely, those proposed for other
+
+
+
+
+                                                                                       Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+microbial amino acid assay methods.          Although the number of ingredients is
+formidable, most of them are essential for growth.           The amino acids and
+growth factors are in excess both in number and quantity.              Thus proline,
+hydroxyproline,      norleucine, and glycine are not essential for the growth of
+either assay organism and the same applies to thiamine andp-aminobenzoic
+acid and probably also to guanine and uracil.           However, such a medium
+seemed preferable to a “minimum”            medium which might be unduly sensi-
+tive to non-specific stimulatory        substances or inhibitory substances that
+might be introduced with the sample.           Doubling of the glucose and sodium
+acetate increases acid formation only slightly and has no effect on the assay
+values.
+    In the development of the method for lysine, standard curves were ob-
+tained frequently which “dipped” in the center in contrast to normal linear
+curves.     The medium in use at the time was one which had been and still
+was entirely satisfactory        for histidine and threonine assays developed
+earlier.    Amino acid values from such irregular curves did not agree closely
+when calculated from the different assay levels and were high compared to
+those from assays with normal standard curves.          The dip was eliminated by
+doubling the concentration         of adenine, guanine, uracil, and vitamin sup-
+plements, except folic acid. Increase of the purine and pyrimidine bases
+was the most important factor in eliminating the dip, followed by biotin and
+nicotinic acid. However, the higher concentration           of all three was neces-
+sary for linear curves.       The modified basal medium proved to be satisfac-
+tory for the assay of histidine and threonine and also for the remainder of the
+amino acid assay methods developed subsequently.
+    The proposed assay method fulfils, for each of the amino acids, the con-
+ventional but adequate criteria of reliability: (a) Essentially the same amino
+acid values are obtained for a particular protein irrespective of the amount
+of sample assayed, thus indicating that the method is stable to non-specific
+stimulatory    or inhibitory substances which may be introduced with samples
+ (Table IV).      Thii holds for such complex materials as tankage, blood meal,
+and yeast and also for carrots and potatoes which contain only small
+amounts of amino acids and must be added, therefore, in relatively large
+42                               DETERMINATION                        OF     AMISO            ACIDS.            II
+
+
+amounts to the assay medium.      (b) Th e results are readily reproducible, so
+that the same values are obtained for a given protein in repeated assays
+with fresh hydrolysates, different batches of medium, and different opera-
+                                                               TABLE          IV
+                       Amino     Acid      Content       of Proteins               at Different          Assay       Levels
+     The     results     are calculated
+                                            -  for partially               dried
+                                                                                       -
+                                                                                      material.
+
+  Liver
+    Per
+               Tryptophane       Tankage
+                                    Per     IThreonine                       Peas
+                                                                              Per      I  Valine        1 “,‘,”
+                                                                                                        I per
+                                                                                                                              1 Methionine
+                                                                                                                              -
+
+
+
+
+                                                                                                                                                   Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+  ==Y                             t3SSk3Y                                    ESSZ3Y                            assay
+   tube       Found     Content    tube    Found Content                     tube    Found Content               tube           Found :ontent
+             ___--                        --                                        --                   --
+  w.             Y      per cent    mg.      Y    )CI cent                    ng.       Y      per cent           w.             7       per cm;
+  0.2           1.8       0.90       0.5             9         1.8            0.5        6       1.2                5           1.3      0.026
+  0.4           3.4       0.85       1.0            18         1.8            1.0      10        1.0              10            2.2      0.022
+  0.6           5.4       0.90       1.5            28         1.9            2.0      21        1.1              15            3.8      0.025
+  0.8           7.4       0.95       2.0            40         2.0            3.0      35        1.2              20            5.0      0.025
+  1.2          10.4       0.85       3.0            59         2.0            4.0      47        1.2              30            7.5      0.025
+             --                                ~-                                   --                   -I-----
+
+  Average..            .( 0.89   (                             1.90                                      1.14                             0.025
+
+
+                                                                TABLE          V
+                                     Reproducibility                 of Amino          Acid       Values
+     The     results      are calculated        in per cent,               on a dry        basis.
+                                                                                                     7
+
+          Amino acid                                 Protein                                say      1     say 2 ,ssay 3       .ssay 4    Meall
+
+Lysine                           Casein                                                       7.7         7.8         7.6                 7.7
+                                 Soy bean flour,               defatted                       3.2         3.2         3.4       3.5       3.3
+                                 Blood meal                                                   8.2         8.5         8.4       8.4       8.4
+                                 Tankage                                                      4.7         4.9         4.8       4.8       4.8
+Isoleucine                       Yeast,    brewers’                                           2.4         2.4         2.4                 2.4
+                                 Tankage                                                      1.75        1.74        1.89                1.79
+                                 Silk fibroin                                                 1.07        1.17        1.13                1.12
+Methionine                       Wheat,     seed                                              0.15        0.17        0.17                0.16
+                                 Blood meal                                                   1.01        1.01        1.04                1.02
+                                 Tankage                                                      0.84        0.87        0.86                0.86
+                                 Gelatin                                                      0.59        0.58        0.59                0.59
+Threonine                        Liver,   beef                                                3.1         3.1         3.2                 3.1
+                                 Peas                                                         1.17        1.17        1.24                1.19
+                                 Rye, seed                                                    0.36        0.36        0.38                0.37
+                                 Blood    meal                                                3.8         3.8         3.8                 3.8
+                                 Tankage                                                      2.1         2.0         2.0                 2.0
+                                                                                                     -
+
+tors (Table V). (c) Recoveries of known amounts of amino acids added to
+proteins prior to hydrolysis are quantitative, generally within f2 per cent
+ (Table VI).   (d) Compounds related chemically or physiologically to the
+amino acids, other than a few very closely related exceptions, are inactive
+                            STOKES,        GUNNESS,            DWYER,          AND              CASWELL                               43
+
+ (Table VII).     Thus ornithme and citrulline which can individually replace
+arginine in the nutrition of certain Neurospora mutants (19) and the chick
+ (20) are unable to do so for Streptococcus faecalis.   Likewise, the combina-
+tion of choline plus homocystine which can substitute for methionine in the
+growth of the rat (21) and the chick (22) is inactive for S. faecalis.       Also,
+indole and anthranilic acid which can replace tryptophane        for Lactobacillus
+arabinows     (9, 23) and L. casei (23) are inactive for S. faecalis.    This last
+observation simplifies the present tryptophane method, since samples do not
+need to be extracted with ether and toluene to remove indole and anthranilic
+
+
+
+
+                                                                                                                                           Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+                                                          TABLE        VI
+                 Recovery       of Amino    Acids     Added          to Proteins              Prior      to Hydrolysis
+   The      results     are calculated      in mg. per gm.             of partially              dried     material.
+                            -                                                                              -
+                                                                                                                                    Per
+         Amino   acid                         Substance                               ti;t-           Added I   Total    Found      cent
+                                                                                                                                  recov-
+                                                                                                                                   -=Y
+                                _                                                  --                       -- --
+Arginine                        Blood meal                                          36                 39. 4 75.4         76       101
+                                Soy bean flour,       defatted                      38                 39. 4 77.4         72         93
+                                Gelatin                                             80                 83    163         162         99
+Valine                          Casein                                              65.6               61. 5 127.1       124         98
+                                Blood   meal                                        68.1               65    133.1       130         98
+                                Yeast,  brewers’                                    27.5               30     57.5        59.i     104
+Leucine                         Soy bean flour,           defatted                  40.4               45     85.4        84.:       99
+                                Blood   meal                                       104                100    204         204       100
+                                Gelatin                                             31.3               35     66.3        65.:       99
+Phenylalanine                   Casein                                              56.5               50    106.5       107       100
+                                Blood meal                                          62.5               50    112.5       113       loo
+                                Yeast,  brewers’                                    23.5               25     48.5         50.i    104
+Threonine                       Casein                                              42.8               40      82.8        80.1      98
+                                Gelatin                                              18.8              20      38.8        39.!    102
+                                Blood meal                                          35.8               40      75.8        74.:      98
+                                Yeast,  brewers’                                    29.0               30      59.0        57.:      97
+                                Soy bean flour,           defatted                  20.8               20      40.8        40.1      99
+                                                                                                           -
+
+
+acid as is the case with one of the L. arabinosus methods (9). (e) In general,
+the microbiological values for purified and impure proteins are in reasonably
+good agreement with those obtained by the more recent, improved chemi-
+cal methods.     The degree of agreement for lysine is characteristic   of all of
+the essential amino acids with the exception of methionine (Table VIII) for
+which lower microbiological values were obtained, consistently.       In view of
+the remarkable specificity of the microbial response to methionine (Table
+VII) and also to the other amino acids, it seems possible that the higher
+chemical values may include substances other than methionine.           For fur-
+ther comparisons of the microbiological values for the purified proteins and
+44                              DETERMINATION                 OF    AMINO       ACIDS.         II
+
+
+natural products listed in Tables IX and X, with chemical data, reference
+can be made to the recent extensive compilations by Block and Bolling (36).
+If desired, the amino acid values in Table X can be recalculated to esqn-ess
+
+                                                       TABLE        VII
+Activity     of Compounds          Related      Chemically         or Physiologically         to the Essential     Amino
+                                                              Acids
+                                                                                                                      Per
+                                                  Inactive*                                         Active          cent
+           Assay                                                                                                    activ-
+
+
+
+
+                                                                                                                             Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+                                                                                   -I-                               ityt
+
+Histidine                     Histamine, imidazole
+Arginine       .              Omithine, creatine, creatinine, dl-                        Arginine      flavinate    36.5
+                                citrulline
+Lysine.                       Benzoyl-dl-lysine,  e-benzoylamino-
+                                caproic acid, e-benzoylamino-a-
+                                bromocaproic acid
+Leucine            . . .. .                                                              l(-)-Leucine     - 3 -
+                                                                                             naphthalene    sul-
+                                                                                             fonate                 35.5
+                                                                                         a-Bromoisocaproic
+                                                                                             acid                   19.5
+Isoleucine..                  No compounds          tested
+Valine                                                                                   Fonllyl-l(f)-valine         2-5
+Methionine..                  Creatine, creatinine, choline, car-
+                                boxymethylcysteine,          choline +
+                                carboxymethylcysteine,          dl-homo-
+                                cystine, choline + dl-homocys-
+                                tine, I-cystathionine,        choline +
+                                I-cystathionine,     taurine
+Threonine..                   o-Methyl- dl -threonine, formyl-o-
+                                methyl-dl-threonine,         N-benzoyl-
+                                dl - threonine,           N-benzoyl-o-
+                                methyl-dl-threonine,         cr-bromo$-
+                                methoxybutyric       acid
+Tryptophane                   Benzoyl-dl-tryptophane,           indoleal-                dl-Tryptophane
+                                dehyde, 2carboxyindole,             a-car-                  methyl ester            50
+                                bethoxyindole,        indole, anthra-
+                                nilic acid
+Phenylalanine.                                                                           a-Bromo-@-phenyl-
+                                                                                           propionic acid           67
+
+     * Less than 0.25 per cent (weight                    basis).
+     t Weight basis.
+
+percentages of dry weight of sample by multiplying each value by the factor
+(per cent nitrogen)/l6.
+   Investigation of the effect of 5 to 30 hours of acid hydrolysis on liberation
+of each of the essentialamino acids, except tryptophane, from representative
+protein materials indicates that autoclaving for 5 hours is sufficient to give
+                              STOKES,           GUNNESS,                   DWYER,             AND         CASWELL                                            45
+
+                                                                TABLE          VIII
+Comparison           oj Microbiological                Amino         Acid    Values             of Proteins                with           Those     Cited     in
+                                                                  Literature
+
+                                                                   Lysine                            T
+                                                                                                     .-                -
+                                                                                                                                Methionine
+                                                                                                                                              -
+                  Protein                          Per       Per cent of               Biblio-            I ‘ercent        Per cent of               Biblio-
+                                                   cent      dry weight,               graphic                             dry weight,               graphic
+                                                  of dry      liF;i;sre                                    of dry           literature
+                                                I might                               reference            weight                Vdll.3             reference
+                                                                                                                                              --
+Purified            Casein                        7.7           6.25, 6.5              (25, 26,                2.6         3.17, 2.86               (27, 28)
+
+
+
+
+                                                                                                                                                                   Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+                                                                   8.3
+                   Gelatin                        5.8           5.9                   (29”;                    0.59        0.8,* 1.13               (30, 31)
+                   Egg albumin                    6.6           5.06                  (32)                     4.1         5.25, 4.58               (27, 28)
+                   B - Lactoglob-                11.1           10.6, 9.9              (33, 34)                2.5         3.22                     (24)
+                      ulin
+                   Silk fibroin                   0.72 0.25, 0.6                      (35, 2)                  0.15        0                        (36)
+                   Tobacco       mo-              1.36 0.0, 1.35                      (37, 38)            <:0.06           0.0                      (37)
+                      saic virus
+Impure             Rye, seed                      4.2* 4.5, 5.2                        (36)                    1.26’       2.3, 2.7                 (36)
+                   Flour, patent                  2.2* 1.9                             (36)                    0.96’       3                        (36)
+                   Soy bean flour         ,       5.4* 5.4                             (30)                    0.84’       2.0                      (30)
+                      defatted
+                   Linseed meal                   3.3*          2.5                    (36)                    0.811       3                        (36)
+                   Alfalfa      “                 4.9*          4.2                    (36)
+                   Yeast                          6.4*!         6.4                    (30)                    1.37’       2                        (36)
+                   Whole milk                     8.7*1         75                     (30)                    2.1*        2.8                      (30)
+                   Blood meal                     8.8*          6:2, 6.7,              (36)
+                                                                   7.7
+                    Tankage                                                            (30)                    1.28’       3                        (30)
+                    Liver, beef                                                        (39)                    2.0*        2.4, 2.9                 (39)
+             -                                                                                       -                 -                      -
+   * Calculated             to 16 per cent nitrogen.
+
+                                                                 TABLE          IX
+                                 Amino          Acid       Content           of Purified            Proteins
+   The results are in per cent, calculated                                  for oven-dried                     (105”) material.
+
+                 Protein                  “in:-            W&     Lysine        4::;      %‘,“,u- Vafine               t$fiei      Three-
+                                                                                                                                       .          ‘;;F- ;&)I
+                                                                                                                       nine          IUE          phane nine
+                                          ---                                  --                         --                       ---
+Casein, S. M. A..                           2.8            3.9      7.7         9.9           5.6          6.7   2.6                  4.2 1.07              5.9
+Gelatin, Knox..       .                     0.58           9.1      5.8         3.5           1.72         2.7   0.59                 2.0 0.021             2.3
+Egg albumin..                               2.3            5.9      6.6         9.2           7.0          7.0   4.1                  3.6 1.41              7.9
+fi-Lactoglobulin..                          1.50           2.8     11.1        15.3           7.0          5.5   2.5                  4.6 2.1               4.3
+Silk fibroin.                               0.41           1.11     0.72        0.93          1.15         3.5   0.15                 1.360.44              1.49
+Tobacco mosaic virus.                     <0.02            8.9      1.36        7.5           5.7          7.0 <0.06                  8.7 2.3               6.8
+
+
+maximum amino acid values. The data in Table XI are typical.       For some
+of the proteins, there is evidence of slight destruction or racemization of
+some of the amino acids after 30 hours. The results are in accord with
+46                          DETERMINATION                    OF     AMIKO        ACIDS.          II
+
+
+similar microbiological data of other investigators   (7,8, 10) and emphasize,
+unequivocally,   in contrast to conflicting chemical data (36), the marked
+stability of the amino acids to acid hydrolysis.    Since periods of hydrolysis
+considerably in excess of those required for maximum liberation of amino
+acids from proteins cause no apparent. destruction,       the data support the
+view that the amino acid values of protein hydrolysates         are the same as
+those of the intact proteins.
+
+                                                         TABLE        X
+
+
+
+
+                                                                                                                                     Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+                             Amino Acid          Content           of Natural         Products
+                        -
+
+                           h’itro- I
+                                    I            Per cent, calculated to 16 per cent nitrogen. on dry basis
+                                                         T
+        Substance
+                             gen     ISi;-       Argi-                 Leu-     soleu. Ialine                      kyp-  Phen-
+                                                 mm                    tine      tine                               to-  yhla-
+                                   I         I                                                                     )hane nine
+                        . _                                                                                        ~-
+                          P
+
+
+Rye, seed.           1.95 1.72                   4.3         4.2       6.2      4.0       5.0         1.26   3.0   1.31   5.6
+Wheat, seed..        2.22 2.0                    4.2         2.9       6.8      3.6       4.5         1.20   2.5   1.37   5.1
+Flour, patent.       2.28 1.54                   3.1         2.2       7.5      3.7       4.2         0.96   2.5   0.98   5.6
+Soy bean flour, de.
+   fatted..          9.32 2.3                    7.1         5.4   7.4          4.5       4.6         0.84   3.9   1.20   5.3
+Linseed meal.. .     6.94 1.50                   8.4         3.3   5.3          4.2       5.1         0.81   3.0   1.46   5.2
+Blfalfa       “      2.90 1.21                   3.1         4.9 6.6            3.6       4.4         0.15   3.3   1.44   4.1
+Carrots............  1.30 0.74                   0.6)        1.14L 4.8          2.9       3.4         0.56   2.7   0.24   2.8
+Peas                 4.76 1.21                   8.9         5.0   6.4          4.1       4.0         0.43   3.9   0.71   4.8
+Yeast, brewers’.     9.14 2.1                    4.5         6.4   7.1          4.2       5.4         1.37   5.1   1.05   4.4
+Whole milk.          4.34 2.4                    3.6         8.7   9.9          5.2       6.6         2.1    4.0   1.32   5.3
+Blood meal          14.96 5.63                   4.2         8.5 12.2           1.1:      7.7         1.11 4.1     1.28   7.3
+Tankage             10.75 2.4                    5.9         7.2   7.7          2.7       5.4         1.28   3.0   0.83   4.2
+Liver, beef..       12.98 1.87                   3.4         6.1   8.3          4.0       5.7         2.0    3.8   1.38   5.3
+
+                                                                     Per cent of dry weight
+
+Potatoes,    peeled*.               i 0.10 / 0.37 I 0.33 I 0.56 i 0.29 I 0.46 I 0.09 I 0.37 I 0.13 I 0.43
+                        -
+   * The results are not calculated to 16 per cent nitrogen                                      because of difficulty          in
+obtaining concordant nitrogen values.
+
+     For tryptophane  assays with Luctobucillus arabinosus, Ba(OH)z (9) or
+enzymatic       digestion
+                      of proteins (3) has been recommended.     Although   ir-
+regular results have been reported with NaOH digestion (3), it has proved
+satisfactory under our conditions. To insure complete liberation and race-
+mization of tryptophane, it is necessary to hydrolyze proteins for at least 10
+hours (Table XI) and to limit the sample to an amount which doesnot con-
+tain more than 10 to 15 mg. of tryptophane.          There is little danger
+of exceeding that quantity if not more than 0.5 gm. of impure or 100 mg. of
+purified protein is used.
+                             STOKES,        GUNNESS,            DWYER,   AND       CASWELL                                     47
+
+   The described method is eminently suitable for obtaining many analyses
+within a short time. One experienced operator can assay six proteins for
+all essential amino acids in little more than a week.    The techniques re-
+quired are relatively simple although elementary knowledge of bacteriologi-
+cal technique is essential in maintaining purity of stock cultures and pre-
+venting contamination of assays.
+
+                                                             TABLEXI
+                                                         Liberation of Amino
+
+
+
+
+                                                                                                                                    Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+       Effect      of Time       of Hydrolysis        on                               Acids   from    Proteans
+   The results are calculated                    in per cent, on a dry basis.
+                                                                                         Hrs. of hydrolysis*
+      Amino     acid                               Protein                                             -            -7
+                                                                               5         10       15           20         30
+                                                                                                           -
+Threonine                        Casein                                    4.1         4.1      4.1        3.9           3.8
+                                 Blood meal                                3.7         3.8      3.7        3.5           3.6
+                                 Yeast, brewers’                           3.1         3.0      3.0        2.9           2.7
+Histidine                        Gelatin                                   0.59        0.60     0.64       0.58
+                                 Wheat, seed                               0.39        0.36     0.38       0.36          0.38
+                                 Blood meal                                5.4         5.5      5.3                      5.4
+Methionine                       Casein                                    2.6         2.5      2.4        2.3           2.2
+                                 Blood meal                                1.00        1.01     1.02       0.97          0.95
+                                 Yeast, brewers’                           0.79        0.76     0.77       0.76          0.74
+Tryptophane                      Casein                                    1.18        1.16     1.11       1.08          1.04
+                                 Wheat, seed                               0.19        0.19     0.17       0.18          0.15
+                                 Liver, beef                               1.31        1.08     1.10       1.15          1.02
+                                 Egg albumin                                           1.41                1.41
+                                 p-Lactoglobulin                                       2.1                 2.1
+                                 Tobacco mosaic virus                                  2.4                 2.2           2.2
+Phenylalanine                    Casein                                    5.7         5.7      5.4        5.5           5.4
+                                 Blood meal                                6.9         6.7      6.7        6.6           6.2
+                                 Yeast, brewers’                           2.6         2.5      2.5        2.5           2.3
+                             -                                                     -
+   * Autoclaved         at 15 pounds steam pressure (121“).
+
+   The authors are greatly indebted to the following individuals for generous
+supplies of invaluable compounds: Dr. W. H. Stein and the late Dr. Max
+Bergmann, Rockefeller Institute, for egg albumin, silk fibroin, p-lactoglob-
+ulin and I(-)-serine; Dr. W. C. Rose and Dr. Madelyn Womack, Univer-
+sity of Illinois, for Z(-)-phenylalanine,        d(+)-phenylalanine,    I( -)-
+methionine, d(+)-methionine, and dl-argiriine; Dr. M. S. Dunn, University
+of California, for dl-citrulline; Dr. C. M. Lyman, Texas Agricultural Ex-
+periment Station, for I(+)-isoleucine; Dr. W. M. Stanley, Rockefeller
+Institute, for tobacco mosaic virus; Dr. V. du Vigneaud, Cornell University
+Medical College, for dl-homocystine and I-cystathionine; Dr. W. W. Moyer,
+A. E. Staley Manufacturing Company, for Z(-)-phenylalanine and Z(+)-
+isoleucine; Dr. C. P. Berg, State University of Iowa, for I(-)-methionine;
+48                         DETERMINATION             OF     AMINO     ACIDS.      II
+
+
+and Dr. E. E. Howe, Dr. M. Tishler, and Dr. S. A. Harris,                                 Merck      Labora-
+tories, for many of the compounds listed in Table VII.
+
+                                                 SUMMARY
+
+    An accurate, specific, and sensitive microbiological method is described
+for the determination     of the ten essential amino acids, namely histidine,
+arginine, lysine, leucine, isoleucine, valine, methionine, threonine, trypto-
+phane, and phenylalanine, in foodstuffs and other natural products as well
+as in purified proteins and synthetic amino acid mixtures.         A complete
+
+
+
+
+                                                                                                                   Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+amino acid analysis can be made with 1.5 gm. or less of sample. With only
+one medium and procedure, nine of the amino acids are determined with
+Streptococcus faecalis and phenylalanine with Lactobaeillus delbriiclcii LD5.
+The response of the two organisms to the amino acids is measured by
+titrating, with standard alkali, the lactic acid formed during growth.     The
+method yields many replicate results within a short time and lends itself
+readily to routine use. The quantities of essential amino acids in casein,
+gelatin, egg albumin, p-lactoglobulin, silk fibroin, tobacco mosaic virus, rye,
+wheat, patent flour, soy bean flour, whole milk, peas, carrots, potatoes, beef
+liver, brewers’ yeast, blood meal, tankage, alfalfa meal, and linseed meal are
+presented.
+
+                                             BIBLIOGRAPHY
+
+ 1. Stokes,     J. L., and Gunness,          M., J. Biol. Chem., 157, 651 (1945).
+ 2. Dunn,     M. S., Camien,       M. N., Shankman,               S., Frankl,   W., and Rockland,      L. B., J.
+       Biol. Chem., 156,715          (1944).
+ 3. Wooley,      J. G., and Sebrell,        W. H., J. Biol. Chem., 157, 141 (1945).
+ 4. Lewis, J. C., and Olcott,           H. S., J. Biol. Chem., 157,265            (1945).
+ 5. Lyman,       C. M., Kuiken,         K. A., Blotter,       L., and Hale, F., J. Biol. Chem., 157,395
+       (1945).
+ 6. Ryan,     F. J., and Brand,         E., J. BioZ. Chem., 154,161           (1944).
+ 7. Kuiken,      K. A., Norman,          W. H., Lyman,          C. M., Hale, F., and Blotter,      L., J. BioZ.
+       Chem., 151, 615 (1943).
+ 8. Schweigert,        B. S., McIntire,         J. M., Elvehjem,         C. A., and Strong,    F. M., J. BioZ.
+       Chem., 155, 183 (1944).
+ 9. Greene,      R. D., and Black, A., J. BioZ. Chem., 155,1 (1944).
+10. McMahan,         J. R., and Snell, E. E., J. BioZ. Chem., 152,83                  (1944).
+11. Lowry,      0. H., and Bessey, 0. A., J. BioZ. Chem., 155,71 (1944).
+12. Hegsted,       D. hil., J. BioZ. Chem., 157,741            (1945).
+13. Hegsted,       D. M., and Wardwell,            E. D., J. BioZ. Chem., 153, 167 (1944).
+14. Stokes,     J. L., and Gunness,          M., Science, 101,43 (1945).
+15. Snell, E. E., J. BioZ. Chem., 157,491                (1945).
+16. Snell, E. E., J. BioZ. Chem., 154,313                (1944).
+17. Rose, W. C., Science, 86,298               (1937).
+18. Shankman,         S., J. BioZ. Chem., 150,305            (1943).
+19. Srb, A. M., and Horowitz,              N. H., J. BioZ. Chem., 154,129              (1944).
+20. Klose, A. A., and Almquist,              H. J., J. BioZ. Chem., 135,153            (1949).
+                          STOKES,       GUNNESS,         DWYER,        AND     CASWELL                             49
+
+21. du Vigneaud,          V., Chandler,        J. P., Moyer,      A. W., and Keppel,            D. M.,      J. Biol.
+       Chem., 131,57 (1939).
+22. Klose,    A. A., and Almquist,           H. J., J. Biol. Chem., 136,467          (1941).
+23. Snell, E. E., Arch. Biochem., 2,389 (1943).
+24. Brand,     E., and Kassell,        B., Federation      PTOC., 1, pt. 2,103 (1942).
+25. Vickery,      H. B., and White,         A., J. Biol. Chem., 103,413         (1933).
+26. Block,     R. J., Jones, D. B., and Gersdorff,            C. E. F., J. Biol. Chem., 106,667             (1934).
+27. Kassell,      B., and Brand,       E., J. Biol. Chem., 126, 145 (1938).
+28. Lavine,     T. F., J. Biol. Chem., 161,281            (1943).
+29. Dakin,     H. D., J. Biol. Chem., 44,499 (1920).
+30. Block,     R. J., and Bolling,        D., Arch. Biochem., 3,217 (1943).
+
+
+
+
+                                                                                                                         Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+31. Albanese,        A. A., Frankston,        J. E., and Irby,      V., J. Biol. Chem., 156,293            (1944).
+32. Chibnall,       A. C., Proc. Roy. Sot. London, Series B, 131,136                  (1942).
+33. Cannan,       R. K., Palmer,        A. H., and Kibrick,        A. C., J. Biol. Chem., 142,803              (1942).
+34. Bolling,      D., and Block,       R. J., Arch. Biochem., 2,93 (1943).
+35. Vickery,      H. B., and Block,        R. J., J. Biol. Chem., 93,105 (1931).
+36. Block,     R. J., and Bolling,        D., The amino acid composition                of proteins    and foods,
+       Springfield       (1945).
+37. Ross, A. F., J. Biol. Chem., 143,685              (1942).
+38. Knight,       C. A., J. Am. Chem. Sot., 64,2734 (1942).
+39. Beach, E. F., Monks,            B., and Robinson,         A., J. Biol. Chem., 148,431           (1943).
+ARTICLE:
+MICROBIOLOGICAL METHODS FOR
+THE DETERMINATION OF AMINO
+
+
+
+
+                                                       Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+ACIDS: II. A UNIFORM ASSAY FOR
+THE TEN ESSENTIAL AMINO ACIDS
+
+Jacob L. Stokes, Marion Gunness, Irla M.
+Dwyer and Muriel C. Caswell
+J. Biol. Chem. 1945, 160:35-49.
+
+
+
+
+Access the most updated version of this article at
+http://www.jbc.org/content/160/1/35.citation
+
+Find articles, minireviews, Reflections and
+Classics on similar topics on the JBC Affinity
+Sites .
+
+Alerts:
+     • When this article is cited
+     • When a correction for this article is posted
+
+Click here to choose from all of JBC's e-mail
+alerts
+
+This article cites 0 references, 0 of which can be
+accessed free at
+http://www.jbc.org/content/160/1/35.citation.full.ht
+ml#ref-list-1
+

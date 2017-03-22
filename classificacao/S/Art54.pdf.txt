@@ -1,0 +1,1321 @@
+ARTICLE
+Received 25 Jun 2013 | Accepted 4 Nov 2013 | Published 5 Dec 2013                       DOI: 10.1038/ncomms3865
+
+
+Essential regulation of cell bioenergetics
+in Trypanosoma brucei by the mitochondrial
+calcium uniporter
+Guozhong Huang1, Anibal E. Vercesi2 & Roberto Docampo1
+
+
+
+Mechanisms of regulation of mitochondrial metabolism in trypanosomes are not completely
+understood. Here we present evidence that the Trypanosoma brucei mitochondrial calcium
+uniporter (TbMCU) is essential for the regulation of mitochondrial bioenergetics, autophagy
+and cell death, even in the bloodstream forms that are devoid of a functional respiratory chain
+and oxidative phosphorylation. Localization studies reveal its co-localization with MitoTracker
+staining. TbMCU overexpression increases mitochondrial Ca2 þ accumulation in intact and
+permeabilized trypanosomes, generates excessive mitochondrial reactive oxygen species
+(ROS) and sensitizes them to apoptotic stimuli. Ablation of TbMCU in RNAi or conditional
+knockout trypanosomes reduces mitochondrial Ca2 þ uptake without affecting their mem-
+brane potential, increases the AMP/ATP ratio, stimulates autophagosome formation and
+produces marked defects in growth in vitro and infectivity in mice, revealing its essentiality in
+these parasites. The requirement of TbMCU for proline and pyruvate metabolism in procyclic
+and bloodstream forms, respectively, reveals its role in regulation of mitochondrial
+bioenergetics.
+
+
+
+
+1 Center for Tropical and Emerging Global Diseases and Department of Cellular Biology, University of Georgia, Athens, Georgia 30602, USA. 2 Department of
+
+Clinical Pathology, State University of Campinas, Campinas 13083-887, Brazil. Correspondence and requests for materials should be addressed to R.D.
+(email: rdocampo@uga.edu).
+
+NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications                                                         1
+                                               & 2013 Macmillan Publishers Limited. All rights reserved.
+ARTICLE                                                                                      NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865
+
+
+
+
+T
+        rypanosoma brucei belongs to the group of parasites that               MCU in maintaining mitochondrial bioenergetics in both PCF
+        causes nagana in cattle and African sleeping sickness in               and BSF trypanosomes.
+        humans, one of the most neglected diseases in the world.
+Two of its life cycle stages that are easily grown in the laboratory           Results
+are the procyclic form (PCF), which is one of the forms present                Characterization of TbMCU. One gene (Tb927.11.1350)
+in the tse tse ﬂy vector, and the bloodstream form (BSF), which                encoding a putative MCU was found in the T. brucei genome at
+is present in the blood of the infected mammalian host. Each                   the TriTryp database (http://www.tritrypdb.org/tritrypdb/) and
+form has a single mitochondrion that greatly differs in morpho-                named TbMCU. The full-length complementary DNA of TbMCU
+logy and metabolism. The PCF mitochondrion is well developed                   was cloned by PCR ampliﬁcation and conﬁrmed by sequencing
+and has a respiratory chain, while the BSF mitochondrion is                    as described in Methods. The orthologues identiﬁed in T. cruzi
+more rudimentary, does not possess a functional respiratory                    (TcCLB.503893.120) and Leishmania major (LmjF27.0780)
+chain or oxidative phosphorylation and relies on the reverse                   shared 49 and 41% amino-acid identity, respectively, to TbMCU,
+action of the ATP synthase to maintain the mitochondrial                       which shares 20% identity and 33% similarity with the human
+membrane potential1–4. Proline is the key energy source                        MCU. Structural analysis (ELM and TMHMM servers) predicted
+within the tse tse ﬂy5,6 and probably the main energy source of                two transmembrane domains in the carboxy-terminal region
+the PCF7–9 through the mitochondrial generation of ATP by                      between amino acids 201–223 and 233–250. The open reading
+oxidative phosphorylation10,11. In contrast, glucose is abundant               frame predicts a mature (or processed) protein of 259 amino
+in the blood of the mammalian host and the parasite has adapted                acids with an apparent molecular weight of 30 kDa, preceded by a
+to the availability of this substrate by using glycolysis as the main          48 amino acid amino-terminal mitochondrial targeting signal. A
+source of ATP, with generation of pyruvate, which is mostly                    motif for the putative Ca2 þ -speciﬁc selectivity ﬁlter (WDI-
+excreted to maintain its intracellular pH12.                                   MEPV) is present in the loop between transmembrane domains
+   In mammalian cells, mitochondrial Ca2 þ uptake through the                  at the C-terminal region.
+mitochondrial calcium uniporter (MCU) is required to provide
+reducing equivalents to support oxidative phosphorylation13
+through activation of three intramitochondrial dehydro-                        TbMCU localization in PCF and BSF trypanosomes. To investi-
+genases14,15 and the ATP synthase16. Interestingly, BSF possess                gate the localization of T. brucei MCU, a C-terminal green
+a MCU1 despite the absence of respiratory chain and oxidative                  ﬂuorescence protein (GFP)-tagged TbMCU transgenic cell line
+phosphorylation17.                                                             was generated in PCF trypanosomes. Western blot analysis con-
+   The MCU has low afﬁnity and high capacity for Ca2 þ uptake                  ﬁrmed expression of proteins of the expected size (Supplementary
+and although it was ﬁrst identiﬁed more than 50 years ago18,19 its             Fig. S1a). The detection of two bands of tagged TbMCU has been
+molecular nature was discovered only recently20,21. Evidence of                shown before when tagging the mammalian MCU20,27 and could
+the presence of a MCU in trypanosomes22,23 and its absence                     be due to interference of the tag with the processing of the
+in yeast24 was the key to the discovery of the molecular identity              N-terminal mitochondrial targeting signal, as only one band is
+of MCU20,21, and of one modulator of the uniporter, the mito-                  detected when using antibodies against the protein (see below;
+chondrial calcium uptake 1 or MICU1 (ref. 25), in mammalian                    Fig. 1h,i). The GFP-tagged cells grew at the same rate as the wild-
+cells17.                                                                       type cells (Supplementary Fig. S1b). TbMCU localized to the
+   Although the relevance of the MCU in mitochondrial Ca2 þ                    mitochondria, as demonstrated by co-localization with
+uptake has been elucidated20,21,26, it is not yet known whether                MitoTracker (Fig. 1a). To eliminate the possibility of mis-
+this channel is essential for the survival of any organism. In                 targeting of the GFP-tagged protein, antibodies against TbMCU
+addition, the presence of a MCU in the mitochondria of BSF,                    were generated through immunization of mice with the
+which are devoid of respiratory chain and oxidative phosphory-                 recombinant protein. The puriﬁed antibody speciﬁcally bound
+lation, suggests that Ca2 þ could have other functions in the                  to the mitochondria of PCF (Fig. 1b) and BSF (Fig. 1c)
+mitochondria of these cells.                                                   trypanosomes, as shown by co-localization with MitoTracker.
+   In this work, we report that knockdown of the T. brucei
+MCU (TbMCU) gene by RNA interference (RNAi) in PCF                             TbMCU is required for optimal growth in vitro. Knockdown
+and BSF trypanosomes or by conditional knockout (KO) in                        of TbMCU by induction of double-stranded RNA resulted in
+BSF trypanosomes led to marked decrease in mito-                               growth defects in both BSF (Fig. 1d) and PCF trypanosomes
+chondrial calcium uptake without affecting their membrane                      (Fig. 1e). The effects were most pronounced with PCF trypano-
+potential, and marked growth defects in vitro and reduced                      somes, with up to 64±7% reduction in the number of cells at
+infectivity in vivo, underscoring the relevance of this channel for            day 10, while there was a 56±6% reduction in the number of
+parasite survival. In addition, we demonstrate the role of the                 BSF trypanosomes at day 6. Northern blot and ImageJ
+
+
+
+Figure 1 | TbMCU co-localizes with MitoTracker and its downregulation by RNAi affects growth in PCF and BSF trypanosomes. (a) TbMCU-GFP
+co-localization with MitoTracker (MT) in mitochondria of PCF trypanosomes as detected by immunoﬂuorescence analyses with antibodies against
+GFP (Pearson’s correlation coefﬁcient (PCC): 0.912). (b,c) TbMCU co-localization with MitoTracker in the mitochondria of PCF (b) or BSF
+(c) trypanosomes, as detected by immunoﬂuorescence analyses with antibodies against TbMCU. PCC: 0.930 and 0.920, respectively. Merge images
+show the co-localization in yellow. DIC, differential interference contrast microscopy. Scale bar, 10 mm (a–c). (d,e) Growth of BSF (d) and PCF
+(e) trypanosomes in the absence (black lines,  Tet) or presence (red lines, þ Tet) of 1 mg ml  1 tetracycline for the indicated number of days. Values are
+mean±s.d. (n ¼ 3). (f,g) Northern blot analyses of TbMCU RNAi of BSF (f) and PCF (g) trypanosomes grown in the absence (0) and presence (2–8; 2–10)
+of tetracycline (top). Tubulin is shown as a loading control (bottom). Markers are shown on the right. The transcript of TbMCU, including the 50 - and
+30 -UTR was B1.5 kb in length. (h,i) Western blot analyses of TbMCU RNAi of BSF (h) and PCF (i) trypanosomes grown in the absence (0) or presence
+(2–8; 2–10) of tetracycline. Total lysates (30 mg) were subjected to 10% SDS–polyacrylamide gel electrophoresis before transfer to a nitrocellulose
+membrane and then stained with antibodies against TbMCU (top). One band of B30 kDa was detected in T. brucei homogenates. Membranes were
+stripped and re-incubated with antibody against the voltage-dependent anion channel (TbVDAC) as a loading control (bottom).
+
+2                                                           NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications
+                                                & 2013 Macmillan Publishers Limited. All rights reserved.
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865                                                                                                          ARTICLE
+
+analyses showed that the messenger RNA was downregulated                                   blot analyses revealed a correlative decrease in TbMCU expres-
+by 32–75% after 4–10 days of tetracycline addition to PCF try-                             sion in both BSF (Fig. 1h) and PCF (Fig. 1i) trypanosomes.
+panosomes (Fig. 1g). Similar results were observed after RNAi                              All further phenotypic analyses were performed on day 4 of RNAi
+of BSF trypanosomes (Fig. 1f), although the mRNA recovered                                 induction for both PCF and BSF trypanosomes, unless indicated
+from 60% at 4 days to 45% knockdown after 8 days. Western                                  otherwise.
+
+
+
+
+                                                      DIC     α-GFP                         MT                                 Merge
+
+
+
+
+                                                      DIC     α-TbMCU                       MT                                 Merge
+
+
+
+
+                                                      DIC     α-TbMCU                       MT                                 Merge
+
+
+
+
+                                       12                                                                 13
+                                             BSF                 –Tet                                          PCF
+                                                                                                                                  –Tet
+                                       10                                                                 11
+                                                                                         Log (PCF ml–1)
+                      Log (BSF ml–1)
+
+
+
+
+                                        8                                                                  9
+                                                                        +Tet                                                          +Tet
+
+                                        6                                                                  7
+
+
+                                        4                                                                  5
+                                                0              4               8                                   0       4        8               12
+                                                          Time (days)                                                      Time (days)
+
+
+
+                                              Days    0         2        4         8                  0        2       4   6     10
+                                                                                                                                             2 kb
+                                            TbMCU
+                                                                                                                                             1 kb
+                                            Tubulin                                                                                          1.75 kb
+
+
+
+
+                                        α-TbMCU                                                                                              30 kDa
+
+
+                                       α-TbVDAC                                                                                              25 kDa
+
+
+
+NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications                                                                 3
+                                                            & 2013 Macmillan Publishers Limited. All rights reserved.
+ARTICLE                                                                                                                                       NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865
+
+
+
+                                                                              FCCP
+                                                                                  –Tet+RR                                               1.0
+                                                            DIG
+                                                7,000                             +Tet+RR
+
+
+
+
+                                                                                                                 Relative Ca2+ uptake
+                            Fluorescence (FU)
+                                                                                +Tet
+                                                6,000                          FCCP
+                                                                                   –Tet                                                                          **
+                                                                                                                                        0.5
+                                                5,000
+                                                                            FCCP
+                                                4,000
+
+                                                                                                                                        0.0
+                                                        0         300     600          900         1,200
+                                                                                                                                              –Tet –Tet+RR +Tet +Tet+RR
+                                                                        Time (s)
+
+
+
+                                                                                                                                        1.0
+                                                4,500 DIG         Ca2+ EGTA
+
+
+
+
+                                                                                                              Relative Ca2+ uptake
+                            Fluorescence (FU)
+
+
+
+
+                                                                                                   –Tet
+
+                                                                                                                                        0.5
+                                                3,000
+                                                                               +Tet
+
+                                                                                                                                                            **
+                                                                               Ca2+
+                                                1,500                                                                                   0.0
+                                                        0         300        600        900          1,200                                     –Tet        +Tet
+                                                                            Time (s)
+
+
+
+                                                3,600                                                                                   1.0
+                                                                        +Tet+RR EGTA
+                                                            DIG
+                                                                                                              Relative Ca2+ uptake
+
+
+
+                                                                       –Tet+RR
+                            Fluorescence (FU)
+
+
+
+
+                                                                   Oligo
+                                                3,200
+                                                                        +Tet                                                            0.5
+                                                                                                                                                                 ***
+                                                                   Oligo                                                                              **
+                                                2,800                      –Tet                                                                                           *
+
+                                                                                              Ca2+
+                                                                                                                                        0.0
+                                                        0         200        400             600                                              –Tet –Tet+RR +Tet        +Tet+RR
+                                                                             Time (s)
+
+Figure 2 | Silencing of TbMCU expression decreases Ca2 þ uptake of digitonin-permeabilized PCF and BSF trypanosomes. (a) The reaction
+buffer contained 2 mM succinate and 1 mM Calcium Green 5-N. After several pulses of Ca2 þ (8 mM ﬁnal concentration) cells (5  107 trypanosomes
+grown in the absence (black tracing) or presence (green tracing) of tetracycline) were added to the reaction medium (2.45 ml) and the reaction was
+started adding 50 mM digitonin. Ruthenium red (RR, 40 mM, yellow and red tracing), and FCCP (5 mM) were added where indicated. A decrease in
+ﬂuorescence indicates decreasing medium Ca2 þ or increasing vesicular Ca2 þ . (b) Relative Ca2 þ uptake at 700 s as compared with that of control
+trypanosomes grown in the absence of tetracycline considered as 1.0 (  Tet) (means±s.d., n ¼ 3, **Po0.001, Student’s t-test). (c) Similar conditions as in
+a except that further CaCl2 additions (8 mM each time) were added to  Tet trypanosomes to show the high mitochondrial capacity to take up Ca2 þ . EGTA
+(8 mM) and CaCl2 (Ca2 þ ) were added where indicated to show the presence of medium Ca2 þ . (d) Relative initial rate of Ca2 þ uptake by þ Tet as
+compared with  Tet trypanosomes (means±s.d., n ¼ 3, **Po0.001, Student’s t-test). (e) Representative traces of Ca2 þ uptake kinetics in digitonin-
+permeabilized TbMCU BSF trypanosomes cultured in the absence (  Tet) or presence ( þ Tet) of tetracycline. The reactions were started adding 40 mM
+digitonin in the presence of 1 mM ATP and 500 mM sodium orthovanadate. Ca2 þ uptake was monitored over time using 1 mM Calcium Green-5N.
+Ruthenium red (RR, 40 mM, yellow and red tracings), oligomycin (Oligo, 2.5 mg ml  1), EGTA (0.4 mM) and CaCl2 (pulses of 0.4 mM) were added where
+indicated. (f) Relative Ca2 þ uptake at 200 s as compared with that of control BSF trypanosomes grown in the absence of tetracycline considered
+as 1 (  Tet) (means±s.d., n ¼ 3, *( þ Tet±RR), **(  Tet±RR), ***(  Tet/ þ Tet) , Po0.001, Student’s t-test).
+
+
+
+RNAi of TbMCU reduces mitochondrial Ca2 þ uptake. Mito-                                                      of the uncoupler carbonyl cyanide 4-(triﬂuoromethoxy)
+chondrial Ca2 þ ([Ca2 þ ]m] was signiﬁcantly decreased under                                                 phenylhydrazone (FCCP) released the Ca2 þ taken up. This
+resting conditions in TbMCU knockdown PCF trypanosomes                                                       Ca2 þ -transporting activity was fully abrogated by the addition of
+(Supplementary Fig. S1c), while cytosolic Ca2 þ ([Ca2 þ ]i] was                                              40 mM of the MCU inhibitor ruthenium red, indicating that it is
+not affected (Supplementary Fig. S1d). To determine their ability                                            due to the MCU. Knockdown of the expression of TbMCU in
+to take up Ca2 þ , we selectively permeabilized the plasma mem-                                              PCF trypanosomes by RNAi signiﬁcantly reduced their ability
+brane of PCF trypanosomes with digitonin, as described before1,                                              take up Ca2 þ , which was also abrogated by ruthenium red
+and monitored Ca2 þ uptake with Calcium Green-5N. Figure 2a                                                  (Fig. 2a,b). The mitochondria of permeabilized control PCF
+shows that when 50 mM digitonin was added to a reaction                                                      trypanosomes were capable of buffering multiple pulses of
+medium containing PCF trypanosomes, 2 mM succinate and                                                       exogenously added Ca2 þ (Fig. 2c). However, TbMCU-silenced
+40 mM Ca2 þ , a fast decrease in Ca2 þ concentration started                                                 PCF trypanosomes showed a strong attenuated response, hardly
+after a period of about 30 s and continued until addition                                                    buffering a single pulse (Fig. 2c,d).
+
+4                                                                                  NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications
+                                                                    & 2013 Macmillan Publishers Limited. All rights reserved.
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865                                                                                                                                                                                                                                ARTICLE
+
+                                                                                           DIG                                                                                                                                                               Ca2+
+
+
+
+
+                                                                                                                                                                        Fluorescence change (FU)
+                                                                                                                                                             +Tet                                              ADP
+                                                                                                                                                                                                   60
+
+
+
+
+                                                           Fluorescence units (FU)
+                                                                                     250
+                                                                                                                                                              –Tet
+                                                                                     200                                   EGTA                                                                    40
+                                                                                                                                                              WT
+                                                                                                         Oligo
+                                                                                     150
+                                                                                                                    Ca2+                                                                           20                                                              **
+                                                                                                      ADP
+                                                                                     100
+                                                                                                                                                             FCCP
+                                                                                                                   No Ca2+ addition                                                                 0
+                                                                                               100     200      300    400                              500                                              WT    –Tet          +Tet                     –Tet    +Tet
+                                                                                                              Time (s)
+
+
+
+                                                                                                                                                        60                                                                                       60
+
+
+
+
+                                                                                                                                                                                                                      Fluorescence change (FU)
+                                                                                                        FCCP
+
+
+
+
+                                                                                                                             Fluorescence change (FU)
+                                               500                                                                 –Tet
+                                                     DIG
+                     Fluorescence units (FU)
+
+
+
+
+                                                                                           EGTA
+                                                                                                                   +Tet                                 40                                                                                       40
+
+                                                                                                                                                                                                         **
+                                               450                                          EGTA                                                                                                                                                              **
+                                                                                                                                                        20                                                                                       20
+
+                                                                                                  FCCP
+                                               400                                         Ca2+
+                                                                                                                                                        0                                                                                         0
+                                                           100                                200            300                                                     –Tet                               +Tet                                                 –Tet       +Tet
+                                                                                           Time (s)
+
+Figure 3 | Silencing of TbMCU expression does not affect the mitochondrial membrane potential of digitonin-permeabilized PCF and BSF
+trypanosomes. (a) PCF trypanosomes (5  107 cells) were added to the reaction buffer (2.45 ml) containing 2 mM succinate, and 5 mM safranine,
+and the reaction was started with digitonin (50 mM). ADP (10 mM), oligomycin (Oligo, 2 mg ml  1), CaCl2 (40 mM), EGTA (200 mM) and FCCP (10 mM)
+were added where indicated. (b) Changes in safranine ﬂuorescence after addition of ADP or Ca2 þ to  Tet and þ Tet PCF trypanosomes (means±s.d.,
+n ¼ 3, **Po0.01, Student’s t-test). (c) BSF trypanosomes (2  108 cells) were added to the reaction buffer (2.45 ml) containing EGTA (20 mM), ATP
+(1 mM), sodium orthovanadate (500 mM) and 12.5 mM safranine. The reaction was started with digitonin (40 mM). CaCl2 (50 mM), EGTA (200 mM)
+and FCCP (10 mM) were added where indicated. (d,e) Changes in safranine ﬂuorescence after addition of Ca2 þ (d) or FCCP (e) to  Tet and
+þ Tet BSF trypanosomes (means±s.d., n ¼ 3, **Po0.01, Student’s t-test).
+
+
+
+   The mitochondria of BSF trypanosomes lack cytochromes and                                                                                                              When safranine was added to a reaction medium containing
+does not have oxidative phosphorylation. Ca2 þ uptake by these                                                                                                         permeabilized BSF trypanosomes in the presence of ATP and
+mitochondria can be measured by addition of ATP in the                                                                                                                 vanadate, there was a decrease in ﬂuorescence, which indicates
+presence of sodium orthovanadate to inhibit other non-                                                                                                                 stacking of safranine to the energized inner mitochondrial
+mitochondrial Ca2 þ -ATPases (Fig. 2e)1. Ca2 þ uptake was                                                                                                              membrane28. This decrease was completely reversed by oligo-
+signiﬁcantly lower when the expression of TbMCU was silenced                                                                                                           mycin (Supplementary Fig. S1e) or by the protonophore FCCP
+by RNAi and in both cases it was almost completely abrogated by                                                                                                        (Fig. 3c). In contrast with the mitochondria of PCF trypanosomes
+addition of ruthenium red (Fig. 2e,f). Addition of oligomycin                                                                                                          (Fig. 3a), the decrease in DC caused by Ca2 þ was only partially
+released Ca2 þ taken up, indicating the inhibition of the                                                                                                              reversed by EGTA probably indicating a higher sensitivity
+ATP synthase working as an ATPase1. Additions of EGTA                                                                                                                  of these mitochondria to Ca2 þ damage and opening of the
+and Ca2 þ shown in Fig. 2e were done to calibrate the Ca2 þ                                                                                                            permeability transition pore. The decrease in DC in BSF trypano-
+concentrations.                                                                                                                                                        somes, in which TbMCU was silenced by RNAi, was signiﬁcantly
+                                                                                                                                                                       lower than that in control cells (Fig. 3c–e).
+
+RNAi of TbMCU does not alter membrane potential. Previous
+work with the use of safranine determined that mitochondria                                                                                                            Phenotypic changes after RNAi of TbMCU. Trypanosomes rely
+in situ of PCF trypanosomes are able to build up and retain a                                                                                                          on amino-acid catabolism when in their insect host, with a pre-
+membrane potential of the order of 140 mV1. Figure 3a shows                                                                                                            ference for L-proline10. However, PCF prefer glucose when grown
+that addition of ADP to these preparations was followed by the                                                                                                         in medium rich in this sugar10. Accordingly, silencing of TbMCU
+expected28 small decrease in membrane potential that was                                                                                                               in PCF trypanosomes grown in glucose-rich medium (SDM-79)
+inhibited by addition of the ATP synthase inhibitor oligomycin,                                                                                                        had a small effect on the AMP/ATP ratio after a short incubation
+indicating ADP phosphorylation. Addition of 40 mM CaCl2 was                                                                                                            in glucose-rich buffer but the ratio increased more signiﬁcantly in
+followed by a larger decrease compatible with the electrophoretic                                                                                                      the absence of glucose (Fig. 4a). To investigate the relevance
+inﬂux of Ca2 þ into the mitochondria, which returned almost to                                                                                                         of the mitochondrial Ca2 þ for proline metabolism, we cultured
+basal levels after addition of 200 mM EGTA. Further addition of                                                                                                        PCF trypanosomes in glucose-depleted medium (SDM-80)10 and
+FCCP collapsed the membrane potential. Knockdown of the                                                                                                                found that silencing of TbMCU increased more than approxi-
+expression of TbMCU in PCF trypanosomes by RNAi                                                                                                                        mately twofold the AMP/ATP ratio of these cells (Fig. 4b).
+signiﬁcantly reduced the ability of their mitochondria to                                                                                                              In agreement with these results, growth of the RNAi parasites
+decrease the membrane potential because of Ca2 þ uptake,                                                                                                               in this medium was more strongly affected (Supplementary
+without affecting the mitochondrial membrane potential or ADP                                                                                                          Fig. 2a) than in SDM-79 medium (Fig. 1e), suggesting that the
+phosphorylation (Fig. 3a,b), indicating that only the ability of                                                                                                       decrease in ATP levels were not compatible with growth and
+taking up Ca2 þ was affected.                                                                                                                                          survival.
+
+NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications                                                                                                                                                                                       5
+                                                                                                     & 2013 Macmillan Publishers Limited. All rights reserved.
+ARTICLE                                                                                                                                                                               NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865
+
+
+
+                                                            2.0                                                                                                       3
+
+
+
+
+                                   Relative AMP/ATP ratio
+
+
+
+
+                                                                                                                                             Relative AMP/ATP ratio
+                                                            1.5
+                                                                                                          **
+                                                                                                                                                                      2
+                                                            1.0               *
+                                                                                                                                                                                         **
+                                                                                                                                                                      1
+                                                            0.5
+
+                                                            0.0                                                                                                       0
+                                                                                                                                                                                      –Tet                      +Tet
+
+
+
+
+                                                                                                                 l
+                                                                                                                 l
+                                                                                  l
+
+
+                                                                                 l
+
+
+
+
+                                                                                                               -G
+                                                                                                   -G
+                                                                        +G
+
+
+                                                                               +G
+
+
+
+
+                                                                                                             et
+                                                                                                 et
+                                                                      et
+
+
+                                                                             et
+
+
+
+
+                                                                                                           +T
+                                                                                             –T
+                                                                     –T
+
+
+                                                                           +T
+                                                                                                                         20                                                                             SDM-80
+                                                                          α-ATG8.2
+
+
+
+
+                                                                                                 Punctate ATG8.2 cells
+                                                                                                                                           SDM-79
+                                                                                                                         15
+
+
+
+                                                                                                   (% of total cells)
+                                                   RNAi
+                                                                          α-ATG8.2                                       10
+
+
+                                                                                                                          5                                                                        **
+
+                                                                                                                                     **
+                                                   WT
+                                                                                                                         0
+                                                                                                                                    –Tet                                      +Tet             –Tet             +Tet
+
+
+                                                                                                                                                                                                                         SDM-80
+                                                                                                                                                                                               SDM-79
+                                                             SDM-79                       SDM-80                                                                              0.8
+                                                                                                                                                  (ATG8.2-II + ATG8.2-I)
+
+
+
+
+                            kDa                       –Tet                +Tet       –Tet          +Tet
+                                                                                                                                                       ATG8.2-II/
+
+
+
+
+                             15
+                                                                                                                          ATG8.2-I
+                             10                                                                                           ATG8.2-II                                           0.4             **                     **
+
+                             50                                                                                           Tubulin
+
+                                                                                                                                                                              0.0
+                                                                                                                                                                                         –Tet            +Tet       –Tet        +Tet
+
+
+
+                                                       100                                                                                                            10
+                                                                                                                                      Log10 parasites per
+
+
+
+
+                                                            80                                                                                                                      WT –Doxy
+                                  % Survival
+
+
+
+
+                                                                                                                                                                          8
+                                                                                                                                           ml blood
+
+
+
+
+                                                            60
+
+                                                            40
+                                                                                                               +Doxy                                                      6                                     +Doxy
+                                                            20                    –Doxy
+                                                                      WT
+                                                             0                                                                                                            4
+                                                                 0        5         10      15            20              25   30                                             0      5             10      15       20     25     30
+                                                                                         Days p.i.                                                                                                      Days p.i.
+
+Figure 4 | Phenotypic changes after RNAi of TbMCU. (a) Comparison of AMP/ATP ratios between PCF trypanosomes grown in the absence (  Tet)
+or presence ( þ Tet) of tetracycline to induce RNAi, and with or without glucose (Gl), expressed as fold increase (means±s.d., n ¼ 3; *Po0.05; **Po0.01,
+Student’s t-test). (b) Comparison of AMP/ATP ratios between (  Tet) and ( þ Tet) PCF trypanosomes grown in a glucose-depleted medium
+(SDM-80) containing 5.2 mM L-proline for 2 days after 2-day growth in SDM-79±tetracycline, expressed as fold increase (means±s.d., n ¼ 3, **Po0.01,
+Student’s t-test). (c) Fluorescence microscopic images of TbATG8.2 in PCF trypanosomes cultured in SDM-79 in the absence (WT) or presence (RNAi) of
+tetracycline to induce RNAi; scale bars, 10 mm. (d) Quantiﬁcation of autophagosome formation in RNAi PCF trypanosomes grown in SDM-79 or
+SDM-80 medium in the presence ( þ Tet) or absence (  Tet) of tetracycline. Over 500 cells from three experiments with 20 random ﬁelds/experiment
+were analysed (means±s.d., n ¼ 3, **Po0.001, Student’s t-test). (e) Western blot analysis of TbATG8.2 or tubulin in PCF trypanosomes cultured in
+SDM-79 or SDM-80 in the absence (  Tet) or presence ( þ Tet) of tetracycline to induce RNAi. Cell lysates (30 mg) were fractionated in 12% urea-
+SDS–PAGE gel. Immunoblots were labelled with anti-TcATG8.2 or anti-tubulin antibody. (f) Quantiﬁcation of ATG8.2-II/(ATG8.2-II þ ATG8.2-I) presented
+as mean ratios±s.d. (n ¼ 3, **Po0.01, Student’s t-test). (g) Groups of ﬁve mice were infected with WT T. brucei (black line) or trypanosomes transfected
+with the construct for RNAi of TbMCU (red line). Doxycycline (green line; 200 mg ml  1) was given in the drinking water throughout a 30-day period.
+(h) Parasitemia levels in surviving mice were monitored at 2-day intervals after infection. The results are means±s.d. (n ¼ 2).
+
+
+
+
+6                                                                                                NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications
+                                                                                  & 2013 Macmillan Publishers Limited. All rights reserved.
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865                                                                                    ARTICLE
+
+   Autophagy has been reported as a starvation response in                    studied in detail in trypanosomatids17, the PDH E1a subunit
+different trypanosomatids (reviewed in refs 29,30), and block of              seems to possess phosphorylation sites with similarity to those of
+mitochondrial Ca2 þ uptake by inhibitors like Ru360 in DT40                   the mammalian enzyme33, suggesting that, as the mammalian
+cells13 or knockdown of MCU in HeLa cells27 were shown to                     enzyme, it could be activated by Ca2 þ -stimulated dephosphory-
+increase autophagy as a survival mechanism. In agreement with                 lation. Generation of acetyl-coenzyme A (acetyl-CoA) by the PDH
+those reports, knockdown of TbMCU expression by RNAi                          is required for the formation of mitochondrial acetate, which
+increased the percentage of cells with autophagosomes when                    translocates to the cytosol and is used for fatty-acid synthesis34, a
+grown in both SDM-79 and SDM-80 media (Fig. 4c,d). Elevated                   process that is required for efﬁcient mouse infections by BSF
+autophagy in knockdown cells was also detected by quantitative                trypanosomes35. Acetyl-CoA is also used for mitochondrial fatty-
+measurements of the autophagy marker Atg8.2-II (the orthologue                acid synthesis through a FAS II pathway, which is also essential in
+of LC3-II in mammalian cells)31 (Fig. 4e,f).                                  BSF trypanosomes36. In this regard, we were able to detect PDH
+   To investigate whether TbMCU is essential for the establish-               activity in BSF trypanosome lysates, although at lower levels than
+ment of an infection in animals, we inoculated groups of ﬁve to               in PCF trypanosomes (Supplementary Fig. S2d).
+six mice with wild type and RNAi transgenic BSF trypanosomes                     T. brucei possess a threonine dehydrogenase37 that can also
+for TbMCU. Induction of RNAi was obtained by feeding mice                     produce acetyl-CoA bypassing the need of PDH and presumably
+with water containing doxycycline. Mice infected with the wild                without a mitochondrial Ca2 þ requirement. In agreement with
+type and non-induced cells died 5–7 days post infection or had to             this hypothesis, addition of 10 mM threonine to the culture
+be euthanized for ethical reasons when reaching parasitemias of               medium could partially rescue the BSF trypanosome mutants
+108 ml  1 (Fig. 4g,h). This was in contrast to the doxycycline-fed           (Fig. 5a).
+mice, where most mice survived more than 10 days. By 16 days,
+all, except one doxycycline-fed mice, died, suggesting that a small
+number of parasites (RNAi escape mutants) are able to survive in              Overexpression of TbMCU increases oxidative stress. Over-
+                                                                              expressed TbMCU was also localized to the mitochondria of PCF
+the presence of doxycycline and subsequently outgrow and kill
+the mice. In agreement with this suggestion, tetracycline addition            trypanosomes as detected by its co-localization with MitoTracker
+                                                                              (Supplementary Fig. S2e,f). Mitochondrial (Fig. 6a,b) but not
+in vitro reduced but did not completely eliminate the expression
+of TbMCU (Fig. 1h). Doxycycline alone is known to have no                     cytosolic Ca2 þ (Fig. 6c) was constitutively elevated under resting
+                                                                              conditions in TbMCU-overexpressing PCF trypanosomes. In
+effects on mice survival under the conditions used32.
+                                                                              agreement with these results, overexpression of TbMCU increased
+                                                                              the ability of their mitochondria to accumulate Ca2 þ in response
+TbMCU is essential in BSF trypanosomes. Silencing of TbMCU                    to Ca2 þ pulses (Fig. 6d,e), without affecting the mitochondrial
+                                                                              membrane potential (Fig. 6f,g).
+by RNAi caused marked growth defects in vitro (Fig. 1d,e) and
+                                                                                 Mitochondrial Ca2 þ overload is known to generate oxidative
+in vivo (Fig. 4g,h). To conﬁrm the essentiality of TbMCU, we
+analysed the phenotypic changes of BSF trypanosomes with a                    stress and sensitize cells to apoptotic stimuli. Accordingly, ROS
+                                                                              generation was increased in TbMCU-overexpressing PCF trypa-
+conditional KO of the gene. In these cells, we replaced both
+TbMCU alleles with drug resistance genes (Supplementary                       nosomes as compared with control cells and to comparable levels
+                                                                              to those produced by antimycin A addition (Fig. 6h,i). Growth in
+Fig. S3a–c, Supplementary Table S1), but, as TbMCU could be
+required for growth, we introduced an ectopic copy of the                     rich medium was slightly affected by overexpression of TbMCU
+                                                                              (Fig. 6j). However, overexpression of TbMCU sensitized PCF
+TbMCU gene tagged with haemagglutinin (HA), whose expres-
+sion depended on the presence of tetracycline in the culture                  trypanosomes to apoptopic challenge. Microscopy counts of cell
+                                                                              viability after treatment with C2-ceramide or H2O2 showed that
+medium. Growth of the parasites in culture was greatly decreased
+in the absence of tetracycline and the cells died after 4–5 days of           TbMCU-overexpressing trypanosomes were more efﬁciently
+                                                                              killed (Fig. 6k,l), in agreement with the notion that mitochondrial
+culture (Fig. 5a). The genotype of the mutant cell line was veriﬁed
+by Southern blot analysis (Fig. 5b). Levels of mRNA in the pre-               Ca2 þ loading synergizes with apoptotic stimuli38,39.
+sence or absence of tetracycline were analysed by northern blot
+analysis (Fig. 5c). As expected, no TbMCU mRNA was detected in                Discussion
+the absence of tetracycline for the KO cell line. In the presence of          The most signiﬁcant ﬁnding of our studies is that the MCU is
+tetracycline, TbMCU mRNA level of the KO mutant was com-                      essential in BSF trypanosomes, which are organisms devoid of
+parable to that of wild-type cells because of the ectopic gene                oxidative phosphorylation. This pathway has been reported to
+expression. After removal of tetracycline, the expression level of            be the main target of intramitochondrial Ca2 þ in vertebrate
+ectopic TbMCU in these mutants was conﬁrmed by western blot                   cells13–16. The partial rescue by threonine of the lethal effect of
+(Fig. 5d) and immunoﬂuorescence (Fig. 5e) analyses using mouse                the TbMCU-KO suggests that, in contrast to what occurs in
+monoclonal antibodies against HA. Mitochondria of permeabi-                   vertebrate cells, TbMCU in BSF trypanosomes appears necessary
+lized conditional KO BSF trypanosomes obtained after 4 days in                for the generation of acetyl-CoA, not as a substrate of the Krebs
+the absence of tetracycline showed a profound and complete loss               cycle (tricarboxylic acid cycle) that is absent but, as either a
+of Ca2 þ uptake in response to pulses of Ca2 þ (Fig. 5f), while               source of intramitochondrial ATP through substrate level phos-
+their mitochondrial membrane potential remained unaffected                    phorylation, needed for intramitochondrial anabolic reactions40
+(Fig. 5g–i). In vivo studies done in mice with the conditional KOs            or maintenance of the membrane potential by the ATPase1, or for
+showed higher survival of mice infected with mutant parasites,                mitochondrial36 and/or cytosolic fatty-acid synthesis41.
+compared with controls (Supplementary Fig. S2b,c). Wild type                     The current metabolic model in BSF trypanosomes excludes a
+and doxycycline-treated mice died by 5–7 days, while in the                   role of the mitochondrion in the cellular provision of ATP40,42.
+absence of doxycycline most mice, except two that died by day 15,             BSF trypanosomes appear to rely exclusively on glycolysis, with
+survived for the duration of the experiment (30 days; Supple-                 cytosolic generation of ATP and excretion of pyruvate43. How-
+mentary Fig. S2b) and parasitemia was not detectable after                    ever, our results indicate that some Ca2 þ -stimulated PDH acti-
+15 days in these surviving mice (Supplementary Fig. S2c).                     vity is present in their mitochondria and that dephosphorylation
+   Although none of the dehydrogenases (pyruvate dehydro-                     of PDH E1 a subunit (E1a) is activated by Ca2 þ , as occurs in
+genases (PDHs)) stimulated by Ca2 þ in vertebrates have been                  vertebrate mitochondria. In addition to our detection of PDH
+
+NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications                                                   7
+                                               & 2013 Macmillan Publishers Limited. All rights reserved.
+ARTICLE                                                                                                                                                                                 NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865
+
+
+
+                                                                                                                                                                WT +Tet –Tet
+                               9                                 +Tet+Th                    TbMCU    +/+ +/– –/–                                                                                                                        +Tet            –Tet
+                                                                                               kb
+                               8                                                                                                                                                                                                        –          1    2        3   Days
+
+              Log (BSF ml–1)
+                                                                          +Tet
+                                                                                                                                        Phleo/                                                                                 kDa
+                               7                                                             7.1                                        Puro                                                                                                                         α-HA
+                                                                       –Tet+Th                                                                                                                Ect.                             30
+                                                                                     **                                                               End.                                  (1.8 kb)
+                               6
+                                                                       –Tet                                                                         (1.5 kb)
+                                                                                                                                                                                                                               25                                    α-TbVDAC
+                               5
+                                                                                             2.5                                        WT
+                               4
+                                   0   1                 2   3    4           5
+                                                      Time (days)                                                                                                                           Tubulin
+
+
+
+
+                                                                                                                                                                       Fluorescence
+                                                                                                                                                                       (1,000 units)
+                                                                       DIC            α-HA            MT                                    Merge                                                                                           –Tet
+
+                                                                                                                                                               +Tet                    3 min
+
+                                                                                                                                                                                                                                         Ca2+
+                                                                                                                                                                            DIG
+                                                                       DIC            α-HA            MT                                    Merge                                                                             Ca2+
+                                                                                                                                                                                                                                            +Tet
+                                                                                                                                                               –Tet         DIG             Ca2+
+
+
+                                                                                                                                                                                                                                                Ca2+
+                                                                                                                                                                                                                                     Ca2+
+                                                                                                                                                                                                Ca2+
+
+
+                                                                                              –Tet                                           Change post Ca2+ addition
+                                                                                                                                       80                                                                                            Change post FCCP addition
+                                                                                                            Fluorescence change (FU)
+
+
+
+
+                                                           500                       EGTA
+                                       Fluorescence (FU)
+
+
+
+
+                                                                 DIG
+
+
+
+
+                                                                                                                                                                                                   Fluorescence change (FU)
+                                                                                              +Tet                                                                                                                            80
+                                                                                                                                       60
+                                                           450                                                                                                                                                                60
+                                                                              Ca2+
+                                                                                     EGTA                                              40                                                                                                          **
+                                                                                                                                                                                                                              40
+
+                                                           400                                                                         20                                                                                     20
+                                                                                             FCCP                                                                                                                                                           **
+                                                                          Ca2+                                                                      **            **                   **
+                                                                                                                                        0                                                                                      0
+                                                                        100        200             300                Ca2+    +Tet –Tet +Tet –Tet +Tet –Tet                                                                          +Tet –Tet +Tet –Tet +Tet –Tet
+                                                                              Time (s)                                Added (μM) 25        50        100                                                                               25         50        100
+
+Figure 5 | Changes in BSF trypanosomes after conditional KO of TbMCU. (a) Growth of TbMCU-KO BSF in the absence (black line) or presence (red line)
+of 1 mg ml  1 tetracycline for the indicated number of days. Addition of 10 mM threonine to the medium (green line) partially rescued the mutant BSF
+trypanosomes but had no effect on þ Tet cells (yellow line; means±s.d., n ¼ 3, **Po0.001, Student’s t-test). (b) Southern blot analysis of the BSF
+conditional KOs. Genomic DNA from the T. brucei SM parental strain ( þ / þ ), single- ( þ /  ) or double-allele (  /  ) KO cells. (c) Northern blot analysis
+of wild-type (WT) and TbMCU-KO BSF cultured in the presence ( þ Tet) or absence (  Tet) of tetracycline for 2 days. Tubulin is shown as a loading
+control (bottom panel). (d) Western blot analysis of total cell lysates. Proteins from BSF trypanosomes cultured in the presence ( þ Tet) or absence (  Tet)
+of tetracycline were detected using anti-HA antibody. TbVDAC was used as a loading control. (e) Immunoﬂuorescence analysis of control (upper panels)
+and TbMCU-KO (lower panels) trypanosomes. TbMCU co-localized with MitoTracker (MT) in the control parasites ( þ Tet; PCC ¼ 0.808). Scale bar, 10 mm.
+(f) Conditional TbMCU-KO BSF trypanosomes were grown in the presence ( þ Tet) or absence (  Tet) of tetracycline for 2 days. BSF trypanosomes
+(2  108 cells) were incubated as in Fig. 2e. Multiple pulses of CaCl2 (arrowheads) were added to a ﬁnal concentration of 20 mM. A representative
+trace (red or black) of Ca2 þ uptake from one of three independent experiments is shown. (g) Representative traces of mitochondrial membrane
+potential of digitonin-permeabilized BSF trypanosomes grown in the presence ( þ Tet) or absence (  Tet) of tetracycline. The reactions were incubated
+as in Fig. 3c. CaCl2 (50 mM), EGTA (200 mM) and FCCP (10 mM) were added where indicated. (h,i) Changes in safranine ﬂuorescence after addition of
+Ca2 þ (h, as in g, but 25, 50 and 100 mM CaCl2) or FCCP (i) to þ Tet and  Tet BSF trypanosomes (means±s.d., n ¼ 3, **Po0.001, Student’s t-test).
+
+
+
+activity in lysates of BSF trypanosomes, recent proteomic studies                                                                                              Acetyl-CoA generated from pyruvate in the reaction catalysed
+have detected the presence of not only PDH E1a and E1b (ref.                                                                                               by PDH is converted to acetate by the acetate:succinate
+44) but also of the PDH E2 and E3 subunits45,46. An orthologue                                                                                             CoA-transferase49 or by an acetyl-CoA thioesterase34 in PCF
+of the PDH phosphatase that activates the PDH E1a subunit                                                                                                  trypanosomes. Acetate:succinate CoA-transferase transfers the
+(Tb927.5.1660) was also identiﬁed46. Studies of puriﬁed PDH                                                                                                CoA group of acetyl-CoA to succinate to form succinyl-CoA,
+from the bovine kidney and heart mitochondria47 and pig heart                                                                                              which is consequently converted back to succinate by succinyl-
+mitochondria48 have identiﬁed the Ser-5 of the PDH                                                                                                         CoA synthase with a net production of one molecule of ATP per
+E1a sequence: Tyr-His-Gly-His-Ser-Met-Ser-Asn-Pro-Gly-Val-                                                                                                 molecule of acetyl-CoA34,49. ATP generated by this reaction,
+Ser-Tyr-Arg, as the site responsible for inactivation by                                                                                                   if it occurs in BSF, or alternatively, incorporated from the cytosol
+phosphorylation by their intrinsic kinase. A similar peptide                                                                                               by the recently described ADP/ATP carrier TbMCP5 that is also
+Tyr-Met-Gly-His-Ser-Met-Ser-Asp-Pro-Asp-Ser-Gln-Tyr-Arg is                                                                                                 present in BSF trypanosomes50, could be used for intra-
+present in the T. brucei (Tb927.10.12700) orthologue. The                                                                                                  mitochondrial metabolic reactions or for the ATPase to
+presence of this speciﬁc serine residue in the T. brucei PDH                                                                                               maintain the membrane potential. Acetate formed could then
+could account for a phosphorylation/dephosphorylation model                                                                                                be transferred to the cytosol where is converted back into acetyl-
+resembling mammalian E1a. The threonine dehydrogenase                                                                                                      CoA by acetyl-Co synthetase and can be used for fatty-acid
+reaction would bypass the need of a Ca2 þ -stimulated step in                                                                                              synthesis34. Cytosolic fatty-acid synthesis appears to be essential
+the mutant parasites.                                                                                                                                      when the BSF trypanosomes are in their mammalian host35
+
+8                                                                                                        NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications
+                                                                                          & 2013 Macmillan Publishers Limited. All rights reserved.
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865                                                                                                                                                                                                                                                                                                               ARTICLE
+
+                                                                      Control                                                TbMCU-OE
+                                                                                                                                                                                                                                                                                                                                    NS
+
+
+
+
+                                                                                                                                                            Basal mitoch.Ca2+ (FU)
+
+
+
+
+                                                                                                                                                                                                                                                          Basal cytos. Ca2+ (FU)
+                                                                                                                                                                                     600                                                                                           400
+                                                                                                                                                                                                                 **
+                                                                                                                                                                                     400
+                                                                      Control                                                TbMCU-OE                                                                                                                                              200
+                                                                                                                                                                                     200
+
+                                                                                                                                                                                                 0                                                                                     0
+                                                                                                                                                                                                                –Tet         +Tet                                                                                       –Tet               +Tet
+
+
+
+
+                                                                            DIG                                       Ca2+
+                                                                       4,500                                                            –Tet
+                                                                                                                                                                                                                                                                                       DIG                                                       –Tet
+
+
+
+
+                                                                                                                                                    Relative Ca2+ uptake
+                                                                                                                                                                                                                                                                              250
+
+
+
+
+                                                                                                                                                                                                                                                 Fluorescence (FU)
+                                                                       3,500                                                                                                     1.5                                                                                                                                                  EGTA
+                                                  Fluorescence (FU)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                  +Tet
+                                                                                                                                                                                                                                                                              200
+                                                                                                              200 s                                                                                                                                                                                                       Oligo
+                                                                                                                                                                                                                **
+                                                                                                                                                                                 1.0                                                                                          150                                      ADP
+                                                                          DIG                                     Ca2+                  +Tet
+                                                                      4,500
+                                                                                                                                                                                                                                                                              100                                                         Ca2+    FCCP
+                                                                                                                                                                                 0.5
+                                                                      3,500                                                                                                                                    –Tet         +Tet                                                                             100 200 300 400 500
+                                                                                                                                                                                                                                                                                                                    Time (s)
+                                                                      2,500
+                                                                                                          200 s
+
+
+
+                                                                                                                                        FCCP
+
+
+
+
+                                                                                                                                                                                                                                                                                           Fluorescence change (FU)
+                                                                                                                          80 μM Ca2+
+                      Fluorescence change (FU)
+
+
+
+
+                                                                                                                                                                                                                                      C+AA
+                                                 120                                                                                                                                                                                                                                                                  200
+                                                                                                                                                                                     Fluorescence (FU)
+
+
+
+
+                                                                                                                                                                                                         300                          OE+Ca2+
+                                                                                                                                               **
+
+                                                 80                                                                                                                                                                                   C+Ca2+
+                                                                                                                                                                                                         200                                                                                                          100
+                                                                                                          ADP              **
+                                                                                                                                                                                                                                      C                                                                                                                  **
+                                                                                                                                                                                                         100                          –DIG+Ca2+
+                                                 40
+                                                                                                                                                                                                                                                                                                                       0
+                                                                                                                                                                                                                       300      600      900                                                                                  C+AA OE+Ca2+ C+Ca2+
+                                                         0                                                                                                                                                               Time (s)
+                                                                                               –Tet +Tet –Tet +Tet –Tet +Tet
+                                                                       Cell density (106 cells per ml)
+
+
+
+
+                                                                                                         20
+                                                                                                                                           –Tet                                                                                                                      60
+                                                                                                         15
+                                                                                                                                                                                                                                          % Cell death
+
+
+
+
+                                                                                                                                           +Tet                                                                                                                      40                                                              **
+                                                                                                         10
+                                                                                                                                                                                                                                                                     20                                  **
+                                                                                                          5
+                                                                                                                                                                                                                                                                                   0
+                                                                                                          0                                                                                               –Tet               +Tet                                                             –Tet                          +Tet    +Tet     +Tet
+                                                                                                              4       6     8 10 12      14
+                                                                                                                                                                                                                                                                                                                      +H2O2        +C2-ceramide
+                                                                                                                          Time (days)
+
+Figure 6 | Changes on overexpression of TbMCU. (a) Rhod-2 ﬂuorescence in control or overexpressing TbMCU (TbMCU-OE) PCF. Scale bar, 10 mm.
+(b,c) Rhod-2 (mitochondrial) (b) and Fluo-4 (cytosolic) (c) ﬂuorescence in control (  Tet) and overexpressing TbMCU ( þ Tet) PCF (means±s.d., n ¼ 3,
+**Po0.05, Student’s t-test); NS, not signiﬁcant. (d) Ca2 þ uptake by digitonin-permeabilized PCF overexpressing TbMCU. Trypanosomes were incubated
+as in Fig. 2c. Multiple pulses of CaCl2 (arrowheads) were added to a ﬁnal concentration of 8 mM. (e) Ca2 þ uptake in TbMCU-OE PCF ( þ Tet) 200 s
+after addition of Ca2 þ , as compared with uninduced trypanosomes considered as 1 (  Tet) (means±s.d., n ¼ 3, **Po0.01, Student’s t-test).
+(f) Mitochondrial membrane potential of digitonin-permeabilized control (  Tet) and TbMCU-OE ( þ Tet) PCF. The reactions were incubated as in
+Fig. 3a. (g) Changes in safranine ﬂuorescence after addition of ADP, Ca2 þ or FCCP to –Tet and þ Tet PCF trypanosomes (means±s.d., n ¼ 3,
+**Po0.001, Student’s t-test). (h) Mitochondrial oxidative stress as measured with MitoSOX Red in control (C) and TbMCU-overexpressing (OE) PCF
+permeabilized with 50 mM digitonin in the presence of 0.4 mM Ca2 þ . Controls were treated with 2 mM antimycin A (C þ AA), or were trypanosomes
+exposed to 0.4 mM Ca2 þ in the absence of digitonin (  DIG þ Ca2 þ ), and trypanosomes permeabilized with digitonin in the absence of Ca2 þ
+(C, yellow line). (i) Quantiﬁcation of change at 900 s. Results are expressed as mean ﬂuorescence±s.d. (n ¼ 3, **Po0.001, Student’s t-test).
+(j) Growth of trypanosomes in the absence (control, black lines) or presence (TbMCU-OE, red lines) of 1 mg ml  1 tetracycline (means±s.d., n ¼ 3).
+(k) Dead cells in representative ﬁelds of control (  Tet) and TbMCU-OE ( þ Tet) PCF are indicated (white arrows). Scale bar, 10 mm. (l) Cell viability
+on apoptotic challenge of control (  Tet) or TbMCU-OE ( þ Tet) PCF trypanosomes with H2O2 and C2-ceramide. The percentage of cell death was
+obtained from means±s.d. by analysing 460 ﬁelds (including 4400 cells) (n ¼ 3). **Po0.01, Student’s t-test.
+
+
+
+despite their non-essentiality under culture conditions41.                                                                                                                                                             trypanosomes36. Figure 7a shows a scheme of these reactions
+Alternatively, acetyl-CoA could be used for mitochondrial fatty-                                                                                                                                                       occurring in BSF trypanosomes.
+acid synthesis, which is known to result in the generation of                                                                                                                                                             Similar to what occurs in vertebrate cells, and in contrast to
+lipoic acid and myristic acid, a pathway that is essential in BSF                                                                                                                                                      what occurs in BSF trypanosomes, reduction of mitochondrial
+
+NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications                                                                                                                                                                                                                                                                      9
+                                                                                                                                 & 2013 Macmillan Publishers Limited. All rights reserved.
+ARTICLE                                                                                                                          NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865
+
+
+                                                      H+
+
+
+                                                      A
+
+                                                                                                                                                 Glucose
+                                                ADP        ATP
+                                                                                                                              Glycosomes
+
+                                                                                                 H2O
+                                                                                                      O2        TAO
+
+                                                                          FAS II                                 UQ                            DHAP        GAP
+                                                                                                             GPDH
+                                                                                                     Myristic                                   G3P
+
+                                                                                                 Lipoic
+
+
+                                                                                                                 1
+                                                 Acetate                                 AcCoA                             Pyr          PEP
+                                                                                NADH                  NADH
+                                                          Mitochondrion                          7
+                                                                                        Threonine
+
+                                                 Acetate                                AcCoA                           Fatty acids
+
+
+                                                                                                                                           Glycerolipids
+
+
+
+                                                      H+                           H+    H+
+
+                                                      A                      Resp. Ch.
+                                                           5                              NADH
+                                                                         H2O O2 H2O O2    FADH2                                                       Glucose
+                                                ADP ATP                                                                          Glycosomes
+                                                                                  ATP + CoASH
+
+                                                                           ADP 4              Succinate                            Succinate
+                                                                                                     NADH
+                                                FADH2 NADH NADH SCoA                                                                            GAP         DHAP
+                              Proline                          KG    TCA                                   Mal
+                                            8
+                                                                                                                                                            G3P
+                                                                   ATP+   CoASH
+                                                                                           Cit
+                                                  ADP          4
+
+                                                           SCoA          Suc
+                                                                               3                                 1
+                                                 Acetate                                AcCoA                           Pyr          PEP
+                                                                               2
+                                                                     CoA           NADH              NADH
+                                                            Mitochondrion                 7
+                                                                                        Threonine
+                                                           CoASH
+                                                                          6
+                                                Acetate                                 AcCoA                        Fatty acids
+
+                                                                   ATP        AMP
+                                                                              + PPi
+                                                                                                                     Glycerolipids
+
+Figure 7 | Energy metabolism in T. brucei. Scheme of metabolic pathways in BSF (a) and PCF (b) trypanosomes. Arrows indicate steps of glucose,
+proline and threonine metabolism and glycerolipid biosynthesis; dashed arrows indicate steps for which no evidence of ﬂux is available34. A, ATPase
+(a) or ATP synthase (b); AcCoA, acetyl-CoA; Cit, citrate, CoASH, CoA; DHAP, dihydroxyacetone phosphate; FAS II, type II fatty-acid biosynthesis pathway;
+GAP, glyceraldehyde 3-phosphate; G3P, glycerol 3-phosphate; GPDH, glycerol 3-phosphate dehydrogenase; KG, 2-ketoglutarate; Mal, malate;
+PEP, phosphoenolpyruvate; Pyr, pyruvate; Resp. Ch., respiratory chain; TCA, tricarboxylic acid cycle; UQ, ubiquinone. Enzymes are: 1, pyruvate
+dehydrogenase; 2, acetyl-CoA thioesterase; 3, acetate:succinate CoA-transferase; 4, succinyl-CoA synthetase; 5, F0F1-ATP synthase; 6, acetyl-CoA
+synthetase; TAO, trypanosome alternative oxidase; 7, threonine dehydrogenase; 8, proline dehydrogenase. Activities potentially stimulated by Ca2 þ
+are indicated.
+
+
+
+
+Ca2 þ transport in PCF trypanosomes in a glucose-depleted                                                  D1-pyrroline-5-carboxylate dehydrogenase. Glutamate can be
+environment, or when proline is used as substrate, resulted in an                                          deaminated by transaminases or dehydrogenases to be converted
+increased AMP/ATP ratio. It has been demonstrated51 that in a                                              into a-ketoglutarate, which through some of the Krebs cycle
+glucose-depleted environment, conditions present in the insect                                             reactions is converted into succinate. Interestingly, the ﬁrst
+vector, PCF trypanosomes increase the rate of proline                                                      enzyme in the proline metabolic pathway, proline dehydrogenase
+consumption and are more sensitive to oligomycin supporting                                                (Tb927.7.210), possesses an EF-hand domain and it is possibly
+the view that oxidative phosphorylation becomes essential.                                                 the target for intramitochondrial Ca2 þ under these conditions.
+Proline is oxidized to glutamate through two mitochondrial                                                 Figure 7b shows the possible reactions occurring in PCF
+steps. The ﬁrst catalysed by proline dehydrogenase or proline                                              trypanosomes.
+oxidase oxidizes L-proline to D1-pyrroline-5-carboxylate,                                                     Downregulation of TbMCU in PCF trypanosomes resulted in
+which is further hydrolyzed non-enzymatically to glutamic                                                  increased autophagy, as it has also been reported when MCU was
+acid gamma semialdehyde. In a second enzymatic step,                                                       downregulated in mammalian cells27. It has been reported31 that
+D1-pyrroline-5-carboxylate is oxidized to L-glutamate by                                                   autophagy has a role in PCF trypanosomes death, although it can
+
+10                                                                   NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications
+                                                & 2013 Macmillan Publishers Limited. All rights reserved.
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865                                                                                              ARTICLE
+
+also be considered as a survival mechanism13. Although the                    responsible for mitochondrial Ca2 þ uptake in T. brucei. This
+percentage of cells with autophagosomes increased by 33% in                   channel is essential for growth in vitro and in vivo, and has
+cells grown in SDM-80, as compared with cells grown in SDM-79                 important roles in the regulation of the cell bioenergetics in the
+medium, the difference was not signiﬁcant (P ¼ 0.065, Student’s               two main life stages investigated.
+t-test). It is known that the breakdown products derived from
+autophagy have a dual role providing substrates for both energy               Methods
+generation and biosynthesis52. Although we cannot rule out other              Reagents. The p2T7Ti vector65 was a gift from Dr. John Donelson (University of
+mechanisms, one possible explanation for the lack of difference is            Iowa). Rabbit polyclonal antibody against TcATG8.2 was a gift from Dr Vanina
+                                                                              Alvarez (Universidad Nacional de San Martin, Argentina). Rabbit polyclonal
+that the autophagic process requires energy, for example, for the             antibody against TbVDAC was a gift from Dr. Minu Chaudhuri (Meharry Medical
+activity of the different kinases involved as well as for the                 College, TN). Other reagents used are described in Supplementary Methods.
+synthesis/incorporation of the phagosomal membrane compo-
+nents52. Most of the products of autophagy such as amino acids                Culture methods. T. brucei PCF (wild type and 29–13 strains) and BSF (wild type
+and lipids yield ATP through oxidative phosphorylation52, which               and single marker (SM) strains) were used. PCF 29–13 (T7RNAP NEO TETR HYG)
+would be deﬁcient in the absence of TbMCU, while glycogen                     co-expressing T7 RNA polymerase and Tet repressor were a gift from Dr George
+reserves are absent in trypanosomatids. The considerable increase             A.M. Cross (Rockefeller University, NY) and were grown in SDM-79 medium66
+                                                                              supplemented with haemin (7.5 mg ml  1) and 10% heat-inactivated fetal bovine
+in the AMP/ATP ratio in cells grown in proline-rich medium                    serum and at 27 °C in the presence of G418 (15 mg ml  1) and hygromycin
+(SDM-80) in the absence of oxidative phosphorylation would                    (50 mg ml  1) to maintain the integrated genes for T7 RNA polymerase and
+prevent an increase in autophagosome formation over the level                 tetracycline repressor, respectively. BSF (SM strain) were also a gift from Dr.
+observed in cells grown in glucose-rich medium (SDM-79).                      G.A.M. Cross and were grown at 37 °C in HMI-9 medium66 supplemented with
+                                                                              10% fetal bovine serum, 10% serum plus (JRH Biosciences, Inc.) and 2.5 mg ml  1
+   Overexpression of TbMCU in PCF trypanosomes increased the                  G418.
+ability of their mitochondria to take up Ca2 þ , resulting in
+mitochondrial Ca2 þ overload, oxidative stress and higher sensitivity
+                                                                              Anti-TbMCU antibodies. The cDNA fragment of TbMCU corresponding to
+of these mutants to proapoptotic stimuli. These results are in                amino acids 49–200 was ampliﬁed by PCR and cloned in frame into the expression
+agreement with the results obtained after overexpression of MCU in            vector pET32 EK/Lic (Novagen) to generate pET32-TbMCU. The correct plasmid
+HeLa cells21. However, other authors20 did not detect marked gain             pET32-TbMCU was conﬁrmed by sequencing and then transformed into
+of mitochondrial Ca2 þ uptake in HeLa cells overexpressing MCU.               Escherichia coli OverExpress C43 (DE3) strain (Lucigen, WI). His-tagged TbMCU
+                                                                              fusion protein was afﬁnity puriﬁed with Ni-NTA agarose (Qiagen) based on the
+The role of mitochondrial Ca2 þ in activation of programmed cell              manufacturer’s protocol. The puriﬁed protein was used to immunize mice and
+death in mammalian cells is well recognized53,54. Mitochondrial               polyclonal antibodies were puriﬁed from anti-serum with Protein G Agarose
+Ca2 þ has also been recognized as important for apoptosis-like or             Resins (Qiagen). The animal protocol was approved by the Animal Care and
+programmed cell death in trypanosomatids. Mitochondrial Ca2 þ                 Use Committee of the University of Georgia.
+overload on different triggers of cell death results in ROS generation
+and release of cytochrome c55. The production of ROS in T. brucei             Western blot analyses. The blots were incubated with mouse antibodies against
+impairs mitochondrial Ca2 þ transport, and leads to its                       TbMCU (1:500), rabbit antibodies against GFP (1:10,000), mouse antibodies
+                                                                              against HA (1:2,500), rabbit antibodies against TcATG8.2 (1:1,000), rabbit anti-
+accumulation in the nucleus and cell death56. T. cruzi is highly              bodies against TbVDAC (1:2,000) or rabbit antibodies against tubulin (1:20,000)
+resistant to the mitochondrial permeability transition22, and                 for 1 h. After ﬁve washings with PBS-T, the blots were incubated with horseradish
+apoptosis-like death on mitochondrial Ca2 þ overload is                       peroxidase-conjugated anti-mouse or anti-rabbit IgG (H þ L) antibody at a dilution
+apparently dependent on ROS generation57.                                     of 1:20,000 for 1 h. After washing ﬁve times with PBS-T, the immunoblots
+                                                                              were visualized using Pierce ECL western blotting substrate according to the
+   In vertebrate cells, mitochondrial Ca2 þ is important not only             manufacturer’s instructions. Full-length images of gels and immunoblots are
+for the regulation of cellular ATP concentration but also for                 shown in Supplementary Fig. S4.
+shaping Ca2 þ signals58–60. It is well established, through experi-
+ments using aequorin targeted to the mitochondria of T. brucei                TbMCU RNAi constructs. To knockdown the expression of the TbMCU gene
+that, as in vertebrate cells, intramitochondrial Ca2 þ concen-                (Tb927.11.1350) by double-stranded RNA expression, the inducible T7 RNA
+trations in T. brucei can reach values much higher than cytosolic             polymerase-based protein expression system and the p2T7Ti vector with
+Ca2 þ rises when Ca2 þ inﬂux through the plasma membrane or                   dual-inducible T7 promoters were employed. A 921-bp cDNA fragment of TbMCU
+                                                                              (targeted to the nucleotides 4–924 of the open reading frame) was ampliﬁed using
+Ca2 þ release from acidic calcium stores (acidocalcisomes) are                the forward primer 50 -CCCAAGCTTTGGAGGCCTTATACTTTG-30 and
+stimulated61. These results suggest a very close proximity of the             the reverse primer 50 -CGGGATCCTCAGTGATGTTTAAACCACTTCCG-30
+sole mitochondrion of the parasites with the plasma membrane                  (where the underlined nucleotides indicate the introduced BamHI and HindIII
+and acidocalcisomes and the presence of microdomains of high                  sites, respectively) digested with BamHI and HindIII, and then cloned into the
+                                                                              enzyme-cut p2T7Ti vector to generate p2T7(TbMCU). The recombinant construct
+Ca2 þ concentration in their vicinity. The recent ﬁnding of an                p2T7(TbMCU) was conﬁrmed by sequencing at the DNA Analysis Facility at Yale
+inositol 1,4,5-trisphosphate (IP3) receptor in acidocalcisomes of             University (New Haven, CT), NotI-linearized, and then puriﬁed with QIAGEN’s
+T. brucei62 and of a close proximity of acidocalcisomes and                   DNA puriﬁcation kit for cell transfections. TbMCU has a novel nucleotide
+the mitochondria in trypanosomatids63 are compatible with a role              sequence without homologues (420 nucleotide identity) in T. brucei genome/
+                                                                              transcript databases (TriTrypDB), suggesting the absence of any other potential
+of IP3-stimulated Ca2 þ release from acidocalcisomes and                      gene targets. Cell transfections are described in Supplementary Methods.
+mitochondrial Ca2 þ uptake as a requirement for efﬁcient mito-
+chondrial metabolism and normal cell bioenergetics, as it has
+                                                                              GFP-tagged or HA-tagged TbMCUs. To construct C-terminally enhanced
+been described for the endoplasmic reticulum and mitochondria                 GFP-tagged TbMCU for localization of TbMCU in T. brucei, the full-length cDNA
+of vertebrate cells13. In this regard, TbIP3R was found to be                 of TbMCU was ampliﬁed from T. brucei genomic DNA by PCR using the forward
+essential even in BSF trypanosomes62. One of the main functions               primer 50 -CCCAAGCTTATGTGGAGGCCTTATACTTTG-30 and the reverse
+of the MCU in trypanosomes would be, as in vertebrate                         primer 50 -CCGCTCGAGGTGATGTTTAAACCACTTCCG-30 (where the under-
+                                                                              lined nucleotides indicate the introduced HindIII and XhoI sites, respectively).
+mitochondria, to shape the amplitude and spatiotemporal                       The PCR product was digested with HindIII and XhoI and then cloned in frame
+patterns of cytosolic Ca2 þ increases17.                                      into the insertion sites of TbVTC1 in the pUB39 (TbVTC1-GFP) vector66 to replace
+   In summary, our results indicate for the ﬁrst time that the                TbVTC1 and thus generate pUB39(TbMCU-GFP). To construct C-terminally
+MCU is essential for the survival of a eukaryotic organism. In                HA-tagged TbMCU for overexpression or conditional KO of TbMCU in BSF
+                                                                              as described below, the full-length cDNA of TbMCU (924 bp) was ampliﬁed
+contrast to what has been recently described in some mammalian                with Pfu Ultra HF DNA polymerase (Agilent) from T. brucei genomic DNA
+cells, where transient receptor potential 3 channels also regulate            by PCR using the forward primer 50 -CCCAAGCTTATGTGGAGGCCTTATAC
+mitochondrial Ca2 þ uptake64, TbMCU is the sole transporter                   TTTG-30 and the reverse primer 50 CGGGATCCCTATG CGTAATCGGGC
+
+NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications                                                               11
+                                               & 2013 Macmillan Publishers Limited. All rights reserved.
+ARTICLE                                                                                              NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865
+
+
+ACATCGTACGGGTATGCGTAGTCGGGCACGTCGTATGGGTACGCGTAAT                                     ml in the buffer A with glucose and kept on ice. For BSF, trypanosome cells were
+CAGGCACATCGTAAGGGTAGTGATGTTTAAACCATTCCG-30 (where the                                 collected by centrifugation at 1,000 g for 7 min and washed twice with cold
+underlined nucleotides indicate the introduced HindIII and BamHI sites,               separation buffer, which contained 44 mM NaCl, 55 mM D-glucose, 57 mM
+respectively, and where the italicized nucleotides indicate 3  HA-coding sequence    Na2HPO4 and 3 mM KH2PO4 at pH 8.0. BSF trypanosomes were resuspended to a
+in the reverse primer), and then cloned into the enzyme-cut pLew100v5_bsd vector      density of 2  107 cells per ml in the separation buffer and kept on ice. Before each
+to generate pLew100(TbMCU-HA). The double-stranded sequences of GFP-tagged            experiment, a 10-ml aliquot of the BSF cells was concentrated to 50-ml by cen-
+TbMCU in the expression vector pUB39 and HA-tagged TbMCU in the expression            trifugation at 1,600 g at room temperature for 3 min. A 50-ml aliquot of PCF
+vector pLew100v5_bsd were conﬁrmed by sequencing as indicated above. The              (5  107 cells) or BSF (2  108 cells) of the cell suspension was added to the
+correct constructs pUB39(TbMCU-GFP) and pLew100(TbMCU-HA) with the                    reaction buffer (125 mM sucrose, 65 mM KCl, 10 mM HEPES–KOH buffer, pH 7.2,
+inducible T7 RNA polymerase-based protein expression system were linearized           1 mM MgCl2, 2.5 mM potassium phosphate; 2.45 ml) containing 1 mM Calcium
+by NotI and transfected into T. brucei PCF 29–13 or BSF SM trypanosomes.              Green-5N and the reagents indicated in the ﬁgure legends. Ca2 þ uptake by the
+                                                                                      cells was initiated by the addition of 50 mM digitonin (for PCF) or 40 mM digitonin
+                                                                                      (for BSF). Fluorescence changes were monitored in a F-4500 ﬂuorescence spec-
+Northern and Southern blot analyses. The TbMCU probe was generated from               trophotometer (Hitachi) with excitation at 490 nm and emission at 525 nm. Per-
+p2T7(TbMCU), by PCR using the same primers described in the text, and labelled        meabilized cells grown in the presence of tetracycline under the assay conditions
+with [a-32P]-dCTP using a Prime-a-Gene Labeling System according to the               used did not show any ﬂuorescence (excitation at 390 nm and emission at 400–
+manufacturer’s protocol. The [a-32P]-dCTP-labelled probe of Tbb-tubulin gene          650 nm) that could be attributed to tetracycline or its complexes.
+(GeneDB Tb927.1.2390) was generated from T. brucei genomic DNA by PCR using
+the gene-speciﬁc primers (50 -ATGCGCGAAAATCGTCTGCGTTCAGG-30 and
+50 -AGTGCAGACGCGGGAATGGGACAAG-30 ). For Southern blot analysis, 10 mg                 Mitochondrial membrane potential and phosphorylation. Estimation of mito-
+ClaI-digested genomic DNA was separated on a 0.8% agarose gel and transferred to      chondrial membrane potential in situ was done spectroﬂuorometrically using the
+a Zeta-Probe nylon membrane. The membrane was probed with a 295-bp 32P-               indicating dye safranine28. T. brucei PCF and BSF trypanosomes were incubated
+labelled PCR product of the TbMCU 30 -untranslated region (UTR; Supplementary         at 28 °C in the media described in the ﬁgure legends. Fluorescence changes were
+Fig. S3) generated with the Prime-a-Gene Labeling System. The RNA- or DNA-            monitored on a Hitachi 4500 spectroﬂuorometer (excitation ¼ 496 nm;
+bound membranes were hybridized with the 32P-labelled TbMCU or Tbb-tubulin            emission ¼ 586 nm).
+probe in 0.5 M Na2HPO4, pH 7.4 and 7% SDS at 65 °C overnight with agitation.
+After hybridization, the membranes were washed twice for 10 min each at 68 °C
+with 1  SSC and 0.1% SDS and then twice for 30 min at 65 °C with 0.1  SSC and       Cytoplasmic and mitochondrial Ca2 þ concentrations. T. brucei PCF cells were
+0.1% SDS. The hybridized blots were visualized by autoradiography.                    collected by centrifugation and suspended in 5 ml buffer A with glucose containing
+                                                                                      2 mM Rhod-2 AM and 0.02% Pluronic F127. After incubation at 27 °C for 50 min in
+                                                                                      the dark with gentle shaking, cells loaded with Rhod-2 dye were washed and then
+Immunoﬂuorescence microscopy. To determine the localization and expression            re-loaded with 5 mM Fluo-4 AM for additional 30 min at 27 °C, followed by an
+of TbMCU in T. brucei, trypanosome live cells were labelled for 30 min with           additional 10-min incubation in a dye-free buffer A with glucose. Cells were
+Mitotracker Red CMXRos (Invitrogen) at 50 nM in trypanosome culture medium.           resuspended to a ﬁnal density of 1  109 cells per ml in buffer A with glucose and
+Bloodstream trypanosomes were washed in ice-cold PBS with 1% glucose and ﬁxed         kept on ice. A 100-ml aliquot (1  108 cells) of the cell suspension was added to the
+with 1% paraformaldehyde in PBS at 4 °C for 1 h. Procyclic trypanosomes were          1.9-ml reaction buffer. The cytoplasmic and mitochondrial Ca2 þ concentration of
+washed with PBS and then ﬁxed with 4% paraformaldehyde in PBS at room                 cells was monitored in a ﬂuorometer with excitation at 552 nm and emission at
+temperature for 1 h. The ﬁxed parasites were washed twice with PBS, allowed to        581 nm for Rhod-2 and excitation at 494 nm and emission at 516 nm for Fluo-4,
+adhere to poly-L-lysine-coated coverslips and permeabilized with 0.3% Triton          respectively. Fluorescence imaging of [Ca2 þ ]m was carried out by using an
+X-100/PBS for 3 min for PCF or 0.1% Triton X-100/PBS for 5 min for BSF. After         Olympus IX-71 inverted ﬂuorescence microscope with a Photometrix CoolSnapHQ
+blocking with PBS containing 3% BSA, 1% ﬁsh gelatin, 50 mM NH4Cl and 5% goat          charge-coupled device camera driven by DeltaVision software.
+serum for 1 h, trypanosomes were stained in 3% BSA/PBS with the puriﬁed HA.11
+clone 16B12 monoclonal antibody against HA (1:250), rabbit polyclonal antibody
+against GFP (1:1,000), rabbit polyclonal antibody against TcATG8.2 (1:250) or         Mitochondrial oxidative stress. Mitochondrial ROS production was measured
+mouse polyclonal antibody against TbMCU (1:50) for 1 h. After thoroughly              during the exposure of PCF trypanosomes to digitonin in the presence or absence
+washing with PBS containing 3% BSA, cells were incubated with Alexa 488-con-          of Ca2 þ using the ﬂuorescent, mitochondrially targeted probe MitoSOX Red
+jugated goat anti-mouse or anti-rabbit antibody at 1:1,000 for 1 h. The cells were    (Invitrogen) as described57 with some modiﬁcations. PCF trypanosomes (2.5  108
+counterstained with 40 ,6-diamidino-2-phenylindole before mounting with Gold          cells per ml) were loaded with 5 mM MitoSOX Red in buffer A with glucose for
+ProLong Gold antifade reagent (Molecular Probes). Differential interference           10 min at 27 °C and washed once with the same buffer. Cells were resuspended to a
+contrast and ﬂuorescent optical images were captured using an Olympus IX-71           ﬁnal density of 1  109 cells per ml in the buffer A with glucose and kept on ice.
+inverted ﬂuorescence microscope with a Photometrix CoolSnapHQ charge-coupled          A 100-ml aliquot (1  108 cells) of the cell suspension was added to the reaction
+device camera driven by DeltaVision software (Applied Precision, Seattle, WA).        buffer with or without 0.4 mM Ca2 þ and the reagents indicated in the ﬁgure
+Images were deconvolved for 15 cycles using Softwarx deconvolution software.          legends. The reaction was initiated by the addition of 50 mM digitonin.
+Pearson’s correlation coefﬁcients were calculated using the Softwarx software by      Fluorescence changes were monitored in a ﬂuorometer with excitation at
+measuring the whole-cell images.                                                      510 nm and emission at 580 nm.
+
+
+TbMCU conditional KO mutants. To replace the endogenous TbMCU genes,                  Adenine nucleotide levels. TbMCU RNAi PCF trypanosomes were cultivated in
+phleomycin- and puromycin-resistance gene cassettes were generated by PCR             SDM-79 for 4 days with or without tetracycline or in a glucose-depleted medium
+ampliﬁcation using the plasmids p2T7Ti and pMOTag2T as templates with the             (SDM-80) containing 5.2 mM L-proline51 for 2 days in the absence or presence of
+gene-speciﬁc primers, which were designed to bind the 50 - and 30 -termini of the     tetracycline after a 2-day culture in SDM-79 with or without tetracycline. Cells
+resistance genes followed by 149-bp 50 -UTR or 147-bp 30 -UTR of TbMCU. To            were harvested and washed once with cold buffer A. The cells grown for 4 days in
+express the ectopic copy of TbMCU, the inducible expression construct pLew100         SDM-79 medium were further incubated in buffer A with or without glucose for
+(TbMCU-HA) was generated as described above. The resistance gene cassettes and        1 h at room temperature. After washing or incubation, 1  108 cells per treatment
+NotI-linearized pLew100(TbMCU-HA) (B10 mg) were introduced into T. brucei             were centrifuged and resuspended in 100 ml of buffer A, and then lysed on ice for
+BSF SM cells by nucleofection using program X-001 and Amaxa Human T-solu-             30 min by addition of 300 ml of 0.5 M HClO4. The lysates were neutralized (pH 6.5)
+tion following the manufacturer’s instructions. After nucleofection, clones were      by addition of B150 ml of 0.72 M KOH/0.6 M KHCO3. ATP, ADP and AMP in
+obtained by limiting dilution and antibiotic selection (2.5 mg ml  1 phleomycin,     extracted samples were quantiﬁed by a luciferin–luciferase bioluminescence assay
+5 mg ml  1 blasticidin or/and 0.1 mg ml  1 puromycin). The correct gene replace-    in a luminometer as described67,68 with some modiﬁcations. We used an ATP
+ment or integration in the genome was conﬁrmed by PCR analysis (Supplementary         Determination Kit (Invitrogen) according to the manufacturer’s instructions with
+Fig. S3), followed by Southern blot analysis. TbMCU conditional KO BSF mutants        adenylate kinase and/or nucleoside-diphosphate kinase (NDK; Sigma). To
+were maintained in HMI-9 with 1 mg ml  1 tetracycline, 2.5 mg ml  1 G418 and        determine the amount of adenine nucleotides, four measurements were taken of
+5 mg ml  1 blasticidin. To remove tetracycline and shut down expression of ectopic   three different reactions for each sample by end point determination of the ATP
+TbMCU, trypanosomes were washed twice and resuspended in culture medium               concentration: one reaction without addition of any ATP-generating enzyme (for
+lacking tetracycline.                                                                 ATP), another reaction adding NDK (for ATP þ ADP) and the third reaction
+                                                                                      adding both adenylate kinase and NDK (for ATP þ ADP þ AMP). The amount
+                                                                                      of ADP was obtained by subtracting the ATP value from the (ATP þ ADP) value
+Ca2 þ uptake by digitonin-permeabilized T. brucei. The uptake of Ca2 þ by             and the amount of AMP was calculated from the difference between the
+permeabilized T. brucei was assayed by ﬂuorescence measurements at 28 °C using        (ATP þ ADP þ AMP) content and the (ATP þ ADP) content.
+Calcium Green-5N. For PCF, trypanosome cells were collected by centrifugation at
+1,000 g for 7 min and washed twice with cold buffer A with glucose, which con-
+tained 116 mM NaCl, 5.4 mM KCl, 0.8 mM MgSO4, 5.5 mM D-glucose and 50 mM              Autophagy assay. Autophagosome formation in PCF trypanosomes grown in
+HEPES at pH7.0. PCF cells were resuspended to a ﬁnal density of 1  109 cells per     SDM-79 or SDM-80 media, as described above, was estimated by using the
+
+12                                                               NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications
+                                                    & 2013 Macmillan Publishers Limited. All rights reserved.
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865                                                                                                           ARTICLE
+
+autophagy marker TbATG8.2 exactly as described31. Effects of RNAi of TbMCU              10. Coustou, V. et al. Glucose-induced remodeling of intermediary and energy
+on autophagosome formation were analysed by immunoﬂuorescence microscopy                    metabolism in procyclic Trypanosoma brucei. J. Biol. Chem. 283, 16342–16354
+and western blotting using anti-TcATG8.2 antibody as described above.                       (2008).
+                                                                                        11. Zikova, A., Schnaufer, A., Dalley, R. A., Panigrahi, A. K. & Stuart, K. D.
+Enzyme assays. PDH activity was assayed by using a spectrophotometric method                The F0F1-ATP synthase complex contains novel subunits and is essential for
+as described69 with some modiﬁcations. Brieﬂy, midlog phase PCF and BSF                     procyclic Trypanosoma brucei. PLoS Pathog. 5, e1000436 (2009).
+trypanosomes (B2  108 parasites) were washed in ice-cold PBS with 1% glucose           12. Vanderheyden, N., Wong, J. & Docampo, R. A pyruvate-proton symport and
+and resuspended in hypotonic lysis buffer (50 mM Tris–HCl, pH 7.4) containing               an H þ -ATPase regulate the intracellular pH of Trypanosoma brucei at different
+protease inhibitor cocktail. Cells were lysed by freezing and thawing ﬁve times             stages of its life cycle. Biochem. J. 346, 53–62 (2000).
+using liquid nitrogen (5 min) and a 37-°C water bath (1 min). The protein               13. Cardenas, C. et al. Essential regulation of cell bioenergetics by constitutive
+concentration was determined by using Bio-Rad Bradford assay kit. PDH assays                InsP3 receptor Ca2 þ transfer to mitochondria. Cell 142, 270–283 (2010).
+were carried out at 30 °C in the reaction buffer containing 0.3 mM thiamine             14. Denton, R. M. & McCormack, J. G. Ca2 þ as a second messenger within
+pyrophosphate, 2 mM NAD þ , 2.6 mM cysteine-HCl, 0.12 mM CoA, 0.01 mM                       mitochondria of the heart and other tissues. Annu. Rev. Physiol. 52, 451–466
+CaCl2, 0.2 mM MgCl2, 5 mM sodium pyruvate and 50 mM MOPS-HCl (pH 7.4).                      (1990).
+The reaction was initiated by adding 50 ml of cell lysate in a cuvette (light           15. Hajnoczky, G., Robb-Gaspers, L. D., Seitz, M. B. & Thomas, A. P. Decoding of
+path ¼ 1 cm) containing 2.95-ml reaction buffer. The reduction of NAD þ was                 cytosolic calcium oscillations in the mitochondria. Cell 82, 415–424 (1995).
+monitored continuously for 5 min by the increase in absorbance (A) at 340 nm in a       16. Balaban, R. S. The role of Ca2 þ signaling in the coordination of mitochondrial
+SpectraMax M2e cuvette reader (Molecular Devices). One unit of enzyme activity              ATP production with cardiac work. Biochim. Biophys. Acta. 1787, 1334–1341
+is the amount of PDH catalysing the reduction of 1 mmol NAD þ per min.                      (2009).
+                                                                                        17. Docampo, R. & Lukes, J. Trypanosomes and the solution to a 50-year
+Cell death assay. T. brucei transgenic PCF trypanosomes overexpressing                      mitochondrial calcium mystery. Trends Parasitol. 28, 31–37 (2012).
+TbMCU-HA (2  106 parasites per ml) grown in six-well plates were treated with          18. De Luca, H. F. & Engstrom, G. W. Ca2 þ uptake by rat kidney mitochondria.
+C2-ceramide (40 mM) for 20 h or H2O2 (100 mM) for 4 h. Cell viability on apoptotic          Proc. Natl Acad. Sci. USA 47, 1744–1750 (1961).
+challenge (H2O2 and C2-ceramide) were evaluated by using phase contrast                 19. Vasington, F. D. & Murphy, J. V. Ca ion uptake by rat kidney mitochondria
+microscopy and further conﬁrmed by using 0.1% Trypan Blue staining. Rounded                 and its dependence on respiration and phosphorylation. J. Biol. Chem. 237,
+or straight cells without movement and with Trypan Blue dye staining were deﬁned            2670–2677 (1962).
+to be dead cells. The number of viable cells was determined by a haemocytometer         20. Baughman, J. M. et al. Integrative genomics identiﬁes MCU as an essential
+using phase contrast microscopy and over 60 ﬁelds (including 4400 cells) were               component of the mitochondrial calcium uniporter. Nature 476, 341–345
+analysed from each experiment. The percentage of dead cells was obtained by                 (2011).
+analysing three independent experiments and is expressed as mean±s.d. Statistical       21. De Stefani, D., Raffaello, A., Teardo, E., Szabo, I. & Rizzuto, R. A forty-
+analyses are described in Supplementary Methods.                                            kilodalton protein of the inner membrane is the mitochondrial calcium
+                                                                                            uniporter. Nature 476, 336–340 (2011).
+                                                                                        22. Docampo, R. & Vercesi, A. E. Characteristics of Ca2 þ transport by
+In vivo studies. Exponentially growing cell lines (WT, RNAi and conditional KO
+                                                                                            Trypanosoma cruzi mitochondria in situ. Arch. Biochem. Biophys. 272, 122–129
+mutants) were washed once in HMI-9 medium without selectable drugs and sus-
+pended in the same medium. Eight week-old female Balb/c mice (5–10 per group)               (1989).
+were infected with a single intraperitoneal injection of 2  104 BSF trypanosomes       23. Docampo, R. & Vercesi, A. E. Ca2 þ transport by coupled Trypanosoma cruzi
+in 0.2 ml HMI-9 medium. For the RNAi and conditional KO mutants, a single                   mitochondria in situ. J. Biol. Chem. 264, 108–111 (1989).
+inoculum of non-induced trypanosomes was used in two sets of mice with one              24. Carafoli, E., Balcavage, W. X., Lehninger, A. L. & Mattoon, J. R. Ca2 þ
+group being given 200 mg ml  1 doxycycline in 5% sucrose in their drinking water,          metabolism in yeast cells and mitochondria. Biochim. Biophys. Acta 205, 18–26
+and the other group being supplied with drinking water containing 5% sucrose                (1970).
+only. The drinking water with or without doxycycline was provided 3 days before         25. Perocchi, F. et al. MICU1 encodes a mitochondrial EF hand protein required
+infection, exchanging it every 2–3 days, and continuing throughout the 30-day               for Ca2 þ uptake. Nature 467, 291–296 (2010).
+period. Feeding doxycycline induced downregulation of TbMCU expression in the           26. Chaudhuri, D., Sancak, Y., Mootha, V. K. & Clapham, D. E. MCU encodes the
+RNAi parasites while doxycycline induced the expression of ectopic TbMCU in                 pore conducting mitochondrial calcium currents. eLife 2, e00704 (2013).
+the conditional KO parasites. Animals were fed ad libitum on standard chow.             27. Mallilankaraman, K. et al. MCUR1 is an essential component of mitochondrial
+Parasitemia levels were monitored at 2-day intervals after infection70. Mice                Ca2 þ uptake that regulates cellular metabolism. Nat. Cell Biol. 14, 1336–1343
+showing impaired health status and/or with a parasite load 4108 cells per ml                (2012).
+of blood were euthanized. This study was carried out in strict accordance with          28. Figueira, T. R., Melo, D. R., Vercesi, A. E. & Castilho, R. F. Safranine as a
+the recommendations in the Guide for the Care and Use of Laboratory Animals                 ﬂuorescent probe for the evaluation of mitochondrial membrane potential in
+of the National Institutes of Health. The animal protocol was approved by the               isolated organelles and permeabilized cells. Methods Mol. Biol. 810, 103–117
+Institutional Animal Care and Use Committee of the University of Georgia.                   (2012).
+                                                                                        29. Alvarez, V. E. et al. Autophagy is involved in nutritional stress response
+References                                                                                  and differentiation in Trypanosoma cruzi. J. Biol. Chem. 283, 3454–3464
+1. Vercesi, A. E., Docampo, R. & Moreno, S. N. Energization-dependent Ca2 þ                 (2008).
+   accumulation in Trypanosoma brucei bloodstream and procyclic                         30. Duszenko, M. et al. Autophagy in protists. Autophagy 7, 127–158 (2011).
+   trypomastigotes mitochondria. Mol. Biochem. Parasitol. 56, 251–257 (1992).           31. Li, F. J. et al. A role of autophagy in Trypanosoma brucei cell death. Cell
+2. Schnaufer, A., Clark-Walker, G. D., Steinberg, A. G. & Stuart, K. The F1-ATP             Microbiol. 14, 1242–1256 (2012).
+   synthase complex in bloodstream stage trypanosomes has an unusual and                32. Huang, G. et al. Adaptor protein-3 (AP-3) complex mediates the biogenesis of
+   essential function. EMBO J. 24, 4029–4040 (2005).                                        acidocalcisomes and is essential for growth and virulence of Trypanosoma
+3. Nolan, D. P. & Voorheis, H. P. The mitochondrion in bloodstream forms of                 brucei. J. Biol. Chem. 286, 36619–36630 (2011).
+   Trypanosoma brucei is energized by the electrogenic pumping of protons               33. Buscaglia, C. A. et al. A putative pyruvate dehydrogenase alpha subunit gene
+   catalysed by the F1F0-ATPase. Eur. J. Biochem. 209, 207–216 (1992).                      from Trypanosoma cruzi. Biochim. Biophys. Acta 1309, 53–57 (1996).
+4. Brown, S. V., Hosking, P., Li, J. & Williams, N. ATP synthase is responsible for     34. Millerioux, Y. et al. ATP synthesis-coupled and -uncoupled acetate production
+   maintaining mitochondrial membrane potential in bloodstream form                         from acetyl-CoA by mitochondrial acetate:succinate CoA-transferase and
+   Trypanosoma brucei. Eukaryot. Cell 5, 45–53 (2006).                                      acetyl-CoA thioesterase in Trypanosoma. J. Biol. Chem. 287, 17186–17197
+5. Balogun, R. A. Studies on the amino acids of the tse tse ﬂy, Glossina morsitans,         (2012).
+   maintained on in vitro and in vivo feeding systems. Comp. Biochem. Physiol. 49,      35. Vigueira, P. A. & Paul, K. S. Requirement for acetyl-CoA carboxylase in
+   215–222 (1974).                                                                          Trypanosoma brucei is dependent upon the growth environment. Mol.
+6. Bursell, E., Billing, K. J., Hargrove, J. W., McCabe, C. T. & Slack, E. The supply       Microbiol. 80, 117–132 (2011).
+   of substrates to the ﬂight muscle of tsetse ﬂies. Trans. R. Soc. Trop. Med. Hyg.     36. Stephens, J. L., Lee, S. H., Paul, K. S. & Englund, P. T. Mitochondrial fatty acid
+   67, 296 (1973).                                                                          synthesis in Trypanosoma brucei. J. Biol. Chem. 282, 4427–4436 (2007).
+7. Ford, W. C. & Bowman, I. B. Metabolism of proline by the culture midgut form         37. Linstead, D. J., Klein, R. A. & Cross, G. A. Threonine catabolism in
+   of Trypanosoma rhodesiense. Trans. R. Soc. Trop. Med. Hyg. 67, 257 (1973).               Trypanosoma brucei. J. Gen. Microbiol. 101, 243–251 (1977).
+8. Evans, D. A. & Brown, R. C. The utilization of glucose and proline by culture        38. Pinton, P. et al. The Ca2 þ concentration of the endoplasmic reticulum is a key
+   forms of Trypanosoma brucei. J. Protozool. 19, 686–690 (1972).                           determinant of ceramide-induced apoptosis: signiﬁcance for the molecular
+9. ter Kuile, B. H. & Opperdoes, F. R. Comparative physiology of two protozoan              mechanism of Bcl-2 action. EMBO J. 20, 2690–2701 (2001).
+   parasites, Leishmania donovani and Trypanosoma brucei, grown in chemostats.          39. Pacher, P. & Hajnoczky, G. Propagation of the apoptotic signal by
+   J. Bacteriol. 174, 2929–2934 (1992).                                                     mitochondrial waves. EMBO J. 20, 4107–4121 (2001).
+
+NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications                                                                             13
+                                                      & 2013 Macmillan Publishers Limited. All rights reserved.
+ARTICLE                                                                                                  NATURE COMMUNICATIONS | DOI: 10.1038/ncomms3865
+
+
+40. van Hellemond, J. J., Opperdoes, F. R. & Tielens, A. G. The extraordinary            61. Xiong, Z. H., Ridgley, E. L., Enis, D., Olness, F. & Ruben, L. Selective transfer of
+    mitochondrion and unusual citric acid cycle in Trypanosoma brucei. Biochem.              calcium from an acidic compartment to the mitochondrion of Trypanosoma
+    Soc. Trans. 33, 967–971 (2005).                                                          brucei. Measurements with targeted aequorins. J. Biol. Chem. 272, 31022–31028
+41. Lee, S. H., Stephens, J. L., Paul, K. S. & Englund, P. T. Fatty acid synthesis by        (1997).
+    elongases in trypanosomes. Cell 126, 691–699 (2006).                                 62. Huang, G., Bartlett, P. J., Thomas, A. P., Moreno, S. N. & Docampo, R.
+42. Michels, P. A., Bringaud, F., Herman, M. & Hannaert, V. Metabolic functions              Acidocalcisomes of Trypanosoma brucei have an inositol 1,4,5-trisphosphate
+    of glycosomes in trypanosomatids. Biochim. Biophys. Acta 1763, 1463–1477                 receptor that is required for growth and infectivity. Proc. Natl Acad. Sci. USA
+    (2006).                                                                                  110, 1887–1892 (2013).
+43. Haanstra, J. R. et al. Proliferating bloodstream-form Trypanosoma brucei use a       63. Girard-Dias, W., Alcantara, C. L., Cunha-e-Silva, N., de Souza, W. & Miranda,
+    negligible part of consumed glucose for anabolic processes. Int. J. Parasitol. 42,       K. On the ultrastructural organization of Trypanosoma cruzi using
+    667–673 (2012).                                                                          cryopreparation methods and electron tomography. Histochem. Cell Biol. 138,
+44. Vertommen, D. et al. Differential expression of glycosomal and mitochondrial             821–831 (2012).
+    proteins in the two major life-cycle stages of Trypanosoma brucei. Mol.              64. Feng, S. et al. Canonical transient receptor potential 3 channels regulate
+    Biochem. Parasitol. 158, 189–201 (2008).                                                 mitochondrial calcium uptake. Proc. Natl Acad. Sci. USA 110, 11011–11016
+45. Roldan, A., Comini, M. A., Crispo, M. & Krauth-Siegel, R. L. Lipoamide                   (2013).
+    dehydrogenase is essential for both bloodstream and procyclic Trypanosoma            65. LaCount, D. J., Barrett, B. & Donelson, J. E. Trypanosoma brucei FLA1 is
+    brucei. Mol. Microbiol. 81, 623–639 (2011).                                              required for ﬂagellum attachment and cytokinesis. J. Biol. Chem. 277,
+46. Gunasekera, K., Wuthrich, D., Braga-Lagache, S., Heller, M. & Ochsenreiter, T.           17580–17588 (2002).
+    Proteome remodelling during development from blood to insect-form                    66. Fang, J., Rohloff, P., Miranda, K. & Docampo, R. Ablation of a small
+    Trypanosoma brucei quantiﬁed by SILAC and mass spectrometry.                             transmembrane protein of Trypanosoma brucei (TbVTC1) involved in the
+    BMC Genomics 13, 556 (2012).                                                             synthesis of polyphosphate alters acidocalcisome biogenesis and function,
+47. Yeaman, S. J. et al. Sites of phosphorylation on pyruvate dehydrogenase from             and leads to a cytokinesis defect. Biochem. J. 407, 161–170 (2007).
+    bovine kidney and heart. Biochemistry 17, 2364–2370 (1978).                          67. Jansson, V. & Jansson, K. An enzymatic cycling assay for adenosine
+48. Sugden, P. H., Kerbey, A. L., Randle, P. J., Waller, C. A. & Reid, K. B.                 5’-monophosphate using adenylate kinase, nucleoside-diphosphate kinase,
+    Amino acid sequences around the sites of phosphorylation in the pig heart                and ﬁreﬂy luciferase. Anal. Biochem. 321, 263–265 (2003).
+    pyruvate dehydrogenase complex. Biochem. J. 181, 419–426 (1979).                     68. Spielmann, H., Jacob-Muller, U. & Schulz, P. Simple assay of 0.1-1.0 pmol of
+49. Van Hellemond, J. J., Opperdoes, F. R. & Tielens, A. G. Trypanosomatidae                 ATP, ADP, and AMP in single somatic cells using puriﬁed luciferin luciferase.
+    produce acetate via a mitochondrial acetate:succinate CoA transferase.                   Anal. Biochem. 113, 172–178 (1981).
+    Proc. Natl Acad. Sci. USA 95, 3036–3041 (1998).                                      69. Brown, J. P. & Perham, R. N. Selective inactivation of the transacylase
+50. Pena-Diaz, P. et al. Functional characterization of TbMCP5, a conserved and              components of the 2-oxo acid dehydrogenase multienzyme complexes of
+    essential ADP/ATP carrier present in the mitochondrion of the human                      Escherichia coli. Biochem. J. 155, 419–427 (1976).
+    pathogen Trypanosoma brucei. J. Biol. Chem. 287, 41861–41874 (2012).                 70. Herbert, W. J. & Lumsden, W. H. Trypanosoma brucei: a rapid ‘matching’
+51. Lamour, N. et al. Proline metabolism in procyclic Trypanosoma brucei is                  method for estimating the host’s parasitemia. Exp. Parasitol. 40, 427–431
+    down-regulated in the presence of glucose. J. Biol. Chem. 280, 11902–11910               (1976).
+    (2005).
+52. Rabinowitz, J. D. & White, E. Autophagy and metabolism. Science 330,
+    1344–1348 (2010).                                                                    Acknowledgements
+53. Kroemer, G., Galluzzi, L. & Brenner, C. Mitochondrial membrane                       We thank Minu Chaudhuri and Vanina Alvarez for antibodies; George A.M. Cross and
+    permeabilization in cell death. Physiol. Rev. 87, 99–163 (2007).                     John Donelson for reagents; Melissa Storey and Melina Galizzi for technical help for the
+54. Figueira, T. R. et al. Mitochondria as a source of reactive oxygen and nitrogen      mice immunizations and Christina Moore for the drawings of Fig. 7. This work was
+    species: from molecular mechanisms to human health. Antioxid. Redox. Signal.         supported by US National Institutes of Health Grant AI077538 (to R.D.) and FAPESP
+    18, 2029–2074 (2013).                                                                11/50400-0 (to A.E.V.).
+55. Smirlis, D. & Soteriadou, K. Trypanosomatid apoptosis: ‘apoptosis’ without the
+    canonical regulators. Virulence 2, 253–256 (2011).                                   Author contributions
+56. Ridgley, E. L., Xiong, Z. H. & Ruben, L. Reactive oxygen species activate a          G.H., A.E.V. and R.D. designed and performed experiments. G.H. and R.D. wrote the
+    Ca2 þ -dependent cell death pathway in the unicellular organism Trypanosoma          manuscript. A.E.V. reviewed the manuscript.
+    brucei brucei. Biochem. J. 340(Pt 1): 33–40 (1999).
+57. Irigoin, F. et al. Mitochondrial calcium overload triggers complement-
+    dependent superoxide-mediated programmed cell death in Trypanosoma cruzi.            Additional information
+    Biochem. J. 418, 595–604 (2009).                                                     Supplementary Information accompanies this paper at http://www.nature.com/
+58. Hajnoczky, G., Hager, R. & Thomas, A. P. Mitochondria suppress local                 naturecommunications
+    feedback activation of inositol 1,4,5-trisphosphate receptors by Ca2 þ . J. Biol.
+    Chem. 274, 14157–14162 (1999).                                                       Competing ﬁnancial interests: The authors declare no competing ﬁnancial interests.
+59. Boitier, E., Rea, R. & Duchen, M. R. Mitochondria exert a negative feedback          Reprints and permission information is available online at http://npg.nature.com/
+    on the propagation of intracellular Ca2 þ waves in rat cortical astrocytes.          reprintsandpermissions/
+    J. Cell Biol. 145, 795–808 (1999).
+60. Tinel, H. et al. Active mitochondria surrounding the pancreatic acinar granule       How to cite this article: Huang, G. et al. Essential regulation of cell bioenergetics in
+    region prevent spreading of inositol trisphosphate-evoked local cytosolic Ca2 þ      Trypanosoma brucei by the mitochondrial calcium uniporter. Nat. Commun. 4:2865
+    signals. EMBO J. 18, 4999–5008 (1999).                                               doi: 10.1038/ncomms3865 (2013).
+
+
+
+
+14                                                                 NATURE COMMUNICATIONS | 4:2865 | DOI: 10.1038/ncomms3865 | www.nature.com/naturecommunications
+                                                      & 2013 Macmillan Publishers Limited. All rights reserved.
+

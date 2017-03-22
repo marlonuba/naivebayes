@@ -1,0 +1,790 @@
+                                                                                               REVIEWS
+
+                              GARDENING THE GENOME:
+                              DNA METHYLATION IN
+                              ARABIDOPSIS THALIANA
+                              Simon W.-L. Chan*, Ian R. Henderson* and Steven E. Jacobsen
+                              Abstract | DNA methylation has two essential roles in plants and animals — defending the
+                              genome against transposons and regulating gene expression. Recent experiments in
+                              Arabidopsis thaliana have begun to address crucial questions about how DNA methylation is
+                              established and maintained. One cardinal insight has been the discovery that DNA methylation
+                              can be guided by small RNAs produced through RNA-interference pathways. Plants and
+                              mammals use a similar suite of DNA methyltransferases to propagate DNA methylation, but
+                              plants have also developed a glycosylase-based mechanism for removing DNA methylation, and
+                              there are hints that similar processes function in other organisms.
+
+                             Cytosine methylation is a eukaryotic gene-silencing         contrast, plant DNA methylation occurs at CG, CNG
+                             mechanism that protects the genome by inactivating          (where N is any nucleotide) and CHH (an asymmetric
+                             selfish DNA elements, including transposons1,2. The         site, where H is A, C or T) sequences, each of which has
+                             clearest demonstration of this has come from the            different genetic requirements for the maintenance of
+                             model plant Arabidopsis thaliana, in which it was           its methylation. Arabidopsis thaliana contains the full
+                             shown that transposons are mobilized when DNA               complement of the DNA-methyltransferase types that
+                             methylation is reduced3,4. DNA methylation and/or           are found in mammals (FIG. 1), and recent experiments
+                             conserved DNA methyltransferase enzymes are found           have elucidated key mechanisms of DNA methylation.
+                             in most eukaryotes, despite their loss from the model           In this review, we first discuss which sequences are
+                             organisms such as Saccharomyces cerevisiae and              targeted for DNA methylation in A. thaliana. We then
+                             Caenorhabditis elegans5–12. Eukaryotic DNA methyl-          describe how DNA methylation is initiated and propa-
+                             transferases have structural homologues in the prokary-     gated. Finally, we review the surprising finding that
+                             otic restriction–modification systems, which selectively    DNA glycosylases can remove DNA methylation in
+                             degrade non-host DNA13. Therefore, it seems likely that     plants.
+                             the last universal common ancestor of all organisms
+                             used DNA methylation for genome defence.                    Functions of DNA methylation in A. thaliana
+                                 Both plants and animals have co-opted DNA               DNA methylation in A. thaliana has two roles: it protects
+Department of Molecular,     methylation to regulate selected endogenous genes14.        the genome from selfish DNA elements and regulates
+Cell and Developmental
+                             Plants use DNA methylation for genomic imprinting           gene expression. These functions are reflected in the
+Biology, University of
+California,                  and to modulate the expression of repeated gene fam-        endogenous genome sequences of A. thaliana that are
+Los Angeles,                 ilies 15–18. In mammals, DNA methylation controls           methylated (see TABLE 1 for a partial list of these
+California 90095, USA.       genomic imprinting, X-chromosome inactivation               sequences). Consistent with the primary role of DNA
+Correspondence to S.E.J.     and the silencing of tumour-suppressor genes 14.            methylation in genome defence, transposons and other
+e-mail: jacobsen@ucla.edu
+*These authors contributed   Mammalian DNA methylation is mostly restricted to           dispersed repeat sequences comprise most of the methy-
+equally to this work         symmetrical CG sequences, although other sequences          lated DNA. These sequences cluster around centromeres
+doi:10.1038/nrg1601          are methylated in mouse embryonic stem cells14,19. By       but are also found in euchromatin3,4,20–22. Sequences
+
+
+NATURE REVIEWS | GENETICS                                                                                            VOLUME 6 | MAY 2005 | 3 5 1
+                                                        © 2005 Nature Publishing Group
+REVIEWS
+
+
+                                                                                                                 UBA2                                III V
+                                     Plant DRM2
+                                                                                                            UBA1        UBA3    VI           IX X I II IV
+                                                                                                                                     III V              X
+                                     Mouse DNMT3B
+                                                                                                      PWWP           C-RICH     I II IV VI         IX
+
+
+
+                                     Plant MET1
+                                                                                                         BAH         BAH
+
+                                     Mouse DNMT1
+                                                      DMAP                                    ZF        BAH           BAH
+                                                      Binding
+
+
+                                     Plant DNMT2
+
+
+
+                                     Mouse DNMT2
+
+
+
+                                                                                                                                 I      CHR IV VI VIII                IX
+                                     CMT3 (plant-specific)
+                                                                                                                      BAH
+
+
+                                                                             N-terminal domains                                          Methyltransferase domain
+
+
+                                                                                                                                                            1   100   200
+                                                                                                                                                        Amino-acid residues
+
+
+                                     Figure 1 | Four classes of DNA methyltransferase in Arabidopsis thaliana. The Arabidopsis thaliana genome encodes four
+                                     classes of DNA cytosine methyltransferases. The first class, represented by DOMAINS REARRANGED METHYLTRANSFERASE 2
+                                     (DRM2), is orthologous to the mammalian DNA (cytosine-5-)-methyltransferase 3 (DNMT3) (such as the mouse DNMT3B shown in
+                                     the diagram) and both function to control de novo methylation. DRM2 differs from DNMT3 proteins in that it has a unique N terminus
+                                     and that its catalytic domains are rearranged in the linear sequence. METHYLTRANSFERASE 1 (MET1) is orthologous to the
+                                     mammalian DNMT1 enzyme and both function to maintain CG methylation. Both MET1 and DNMT1 possess large N termini that
+                                     contain bromo adjacent homology (BAH) domains. The DNMT2 class of methyltransferase is conserved in many eukaryote
+                                     genomes but its function is unknown. Plant genomes are distinguished from mammalian genomes by the CHROMOMETHYLASE
+                                     (CMT) class of methyltransferases, which function to control the maintenance of non-CG methylation. CHR, chromodomain; C-rich,
+                                     cysteine rich; DMAP binding, DNMT1-associated protein binding; PWWP, Pro-Trp-Trp-Pro domain; UBA, ubiquitin associated
+                                     domain; ZF, zinc finger.
+
+
+
+                                     containing local tandem or inverted repeats are also fre-          subset of rRNA genes is methylated, and treatment with
+                                     quently methylated, and methylated repeats that are dis-           5-azacytidine, a drug that inhibits DNA methyltrans-
+                                     persed in the genome often contain local repeats. For              ferases, can reverse this silencing18. The FWA transcrip-
+                                     example, DNA transposons have inverted repeats at                  tion factor is an example of a developmental gene that is
+                                     their termini, retrotransposons are flanked by tandemly            regulated by DNA methylation. FWA is expressed only
+                                     repeated sequences, and some tandem repeats, such as               in the extra-embryonic ENDOSPERM and is silenced in all
+                                     MEA-ISR (an intergenic subtelomeric repeat sequence                other plant tissues by the methylation of tandem repeats
+                                     downstream of the MEDEA (MEA) gene), are found at                  at the start of its transcribed region. Expression in the
+                                     several loci in the genome23,24. Locally repeated                  endosperm occurs when DNA methylation in this tissue
+ENDOSPERM
+                                     sequences can be targeted for DNA methylation when                 is removed (see section on demethylation by DNA gly-
+The triploid seed tissue, which      they are transformed into A. thaliana, and can also result         cosylases)17,28. In other cases, DNA methylation controls
+often provides nutrition to the      in the methylation of homologous sequences in                      the overall level of expression from a family of repeated
+developing embryo. It is formed      trans 25–28. These observations raise the as yet unan-             genes. For example, the pathogen-resistance gene BALL
+by the fertilization of the embryo
+                                     swered question of how plants distinguish repeated                 (BAL) resides in a complex gene cluster and is silenced
+sac central cell (diploid) by a
+sperm nucleus (haploid) from         sequences from unique DNA sequences, which are                     by DNA methylation under laboratory growth condi-
+the pollen.                          seldom subject to de novo methylation.                             tions15. The expression of tryptophan biosynthesis
+                                         In some relatively rare cases, DNA methylation can             genes in the PHOSPHORIBOSYLANTHRANILATE
+ACCESSION                            control endogenous gene expression as well as the                  ISOMERASE (PAI ) family can be modulated by DNA
+A homozygous line of
+Arabidopsis thaliana collected
+                                     silencing of transposons. The ribosomal RNA (rRNA)                 methylation. In some A. thaliana ACCESSIONS, a PAI1-PAI4
+from a natural population at a       genes are found in tandem arrays containing hundreds               inverted repeat triggers the silencing of the homologous
+specific location.                   of copies that are stochastically silenced. The silenced           PAI2 gene16.
+
+
+352   | MAY 2005 | VOLUME 6                                                                                                          www.nature.com/reviews/genetics
+                                                                   © 2005 Nature Publishing Group
+                                                                                                                                              REVIEWS
+
+
+                                   Table 1 | Examples of endogenous DNA methylation in Arabidopsis thaliana
+                                   Site                              Type of repeat               Biology and function                             Reference
+                                   Retrotransposons                  Dispersed and tandem         Silencing and genome defence                              22
+                                   DNA transposons                   Dispersed and inverted       Silencing and genome defence                              22
+                                   CEN                               Tandem                       Centromere function?                                     119
+                                   rDNA                              Tandem                       rRNA transcriptional regulation                           18
+                                   Specific methylated genes
+                                   BAL cluster                       Many                         Gene regulation                                           15
+                                   PAI                               Dispersed and inverted       Gene regulation                                           16
+                                   FWA                               Tandem                       Developmental gene expression and imprinting            17,28
+                                   MEA-ISR                           Dispersed and tandem         Unknown                                                   24
+                                   CG clusters                       None                         Unknown                                                   34
+                                   PHAVOLUTA/PHABULOSA               None                         Development                                              120
+                                   DRM2                              None                         Unknown                                                  121
+                                   BAL, BALL; CEN, centromere; DRM2, DOMAINS REARRANGED METHYLTRANSFERASE 2; FWA, encodes a homeodomain-
+                                   containing transcription factor; MEA-ISR, intergenic subtelomeric repeat sequence downstream of the MEDEA gene; PAI,
+                                   PHOSPHORIBOSYLANTHRANILATE ISOMERASE gene family.
+
+
+                                      In plants, the DNA methylation of promoter regions           trans-DNA methylation exemplify the biological role of
+                                  usually inhibits transcription, but methylation in coding        RNAi and DNA methylation as genome-defence
+                                  regions does not generally affect gene expression29–31. In       mechanisms. Mutations in the RNA-DEPENDENT
+                                  genes that are exceptions to this rule, such as SUPERMAN         RNA POLYMERASE 6 (RDR6), SUPPRESSOR OF
+                                  (SUP) and AGAMOUS (AG), DNA methylation in the                   GENE SILENCING 3/SILENCING DEFECTIVE 2
+                                  transcribed portion of the gene probably causes tran-            (SGS3/SDE2) and SILENCING DEFECTIVE 3 (SDE3)
+                                  scriptional shut-down because there are important con-           genes impair virus-induced gene silencing and also
+                                  trolling elements in these regions32,33. FWA is an unusual       cause defects in the RNAi-like silencing that is induced
+                                  case, because the methylated direct repeats are in the           by highly transcribed sense transgenes (called sense
+                                  5′ end of the transcribed region, yet DNA methylation            post-transcriptional gene silencing or S-PTGS)40–42.
+                                  inhibits gene expression28. In this case, the proximity of       S-PTGS causes the DNA methylation of homologous
+                                  DNA methylation to the promoter might allow it to                loci, providing another link between siRNA-mediated
+                                  inhibit transcription. A recent microarray study has             gene silencing and DNA methylation30. Transcriptional
+                                  uncovered new sites of CG methylation that reside pre-           silencing by DNA methylation is one of several down-
+                                  dominantly in the 3′ end of genes, although the biolog-          stream mechanisms that siRNAs can use to downregu-
+                                  ical function and genesis of methylation in these                late gene expression39. Chromatin targeting by siRNAs
+                                  regions is unknown34. The situation in A. thaliana con-          is conserved in diverse eukaryotes, as shown by siRNA-
+                                  trasts with that in Neurospora crassa, where the DNA             directed transcriptional silencing in the fission yeast
+                                  methylation of coding sequences can attenuate tran-              Schizosaccharomyces pombe and human cells, and by
+                                  scriptional elongation35. However, in mammalian cells,           programmed genome elimination in the ciliated
+                                  exons and introns are routinely methylated, but only             protozoan Tetrahymena thermophila43–49.
+                                  the methylation status of the promoter seems to affect               The phenomenon of RNA-directed DNA methylation
+                                  gene expression14.                                               raised interest in those plant DNA methyltransferases that
+                                                                                                   might be involved in establishing DNA methylation.
+                                  Establishing DNA methylation                                     Proteins of the DOMAINS REARRANGED METHYL-
+                                  One of the key questions regarding the function of               TRANSFERASE (DRM) family are orthologous to
+                                  DNA methylation is how specific sequences are targeted           mammalian de novo methyltransferases of the DNA
+                                  during the establishment of gene silencing. In many              (cytosine-5-)-methyltransferase 3 (DNMT3) family,
+                                  experimental plant systems, DNA methylation can be               although the catalytic domains of these two families are
+                                  guided by RNA — in the first described example, a                arranged differently in the linear amino-acid sequence50
+                                  transgenic RNA VIROID caused the DNA methylation of              (FIG. 1). Arabidopsis thaliana drm1 drm2 double mutants
+                                  a sequence homologous to that viroid27,31,36–38. Small           lack every type of de novo DNA methylation tested,
+                                  RNAs involved in these processes are generated by the            including methylation of transformed tandem repeats,
+                                  well-studied RNAi pathway, in which dsRNA is cleaved             transcribed inverted repeats and DNA methylation
+                                  into 21–25 nucleotide small interfering RNAs (siRNAs)            induced by the transgenic SUPERMAN inverted repeat
+                                  by the ribonuclease Dicer39. The fact that single-               called clk–st 25,51,52. DRM1 is expressed at a much lower
+                                  stranded viroids and RNA viruses replicate by means of           level than DRM2, and the drm2 mutant recapitulates all
+VIROID                            a dsRNA intermediate might allow them to be targeted             the tested phenotypes of drm1 drm2 mutants 52. In the
+An infectious agent of plants
+that consists of ssRNA but that
+                                  by RNAi37,38. Virus-derived siRNAs are then thought to           case of the FWA tandem repeats, de novo DNA methyla-
+lacks the protein component       guide DNA methylation to homologous sequences.                   tion of a transformed copy requires a complete siRNA-
+that is typical of viruses.       Examples of virus-induced gene silencing that feature            generating pathway, including RNA-DEPENDENT
+
+
+NATURE REVIEWS | GENETICS                                                                                                         VOLUME 6 | MAY 2005 | 3 5 3
+                                                               © 2005 Nature Publishing Group
+REVIEWS
+
+
+                                     RNA POLYMERASE 2 (RDR2), DICER-LIKE 3 (DCL3),                  in a genetic pathway with the RNAi genes RDR2, DCL3
+                                     RNA POLYMERASE D1 (RPD1) and ARGONAUTE 4                       and AGO4 to generate siRNAs that direct the DRM
+                                     (AGO4)25,53,54. This observation was unexpected because        methyltransferases25,53.
+                                     there is no obvious mechanism for generating an initial
+                                     dsRNA (that is, a Dicer substrate) from a direct repeat —      Maintenance of CG DNA methylation
+                                     it is not clear how the RNAi proteins are recruited specif-    Cytosine methylation in mammalian genomes occurs
+                                     ically to direct repeats as opposed to unique sequences.       predominantly in the context of CG sequences and is
+                                     This is in contrast to inverted repeat sequences, where        maintained by the DNMT1 methyltransferase14. CG
+                                     unidirectional transcription and foldback creates dsRNA        methylation is also the most common modification
+                                     that can be cleaved by Dicer. The fact that mutations in       within plant genomes and occurs most frequently in
+                                     RNA-silencing genes completely phenocopy the de novo           heterochromatic sequences, particularly near the cen-
+                                     methyltransferase drm1 drm2 double mutant indicates            tromeres63,64. Antisense suppression of the A. thaliana
+                                     that the guidance of DNA methylation by siRNA might            DNMT1-like gene METHYLTRANSFERASE 1 (MET1)
+                                     extend beyond inverted repeats or viruses.                     causes a global reduction in cytosine methylation, par-
+                                          An absolute test of whether all de novo DNA methyla-      ticularly at CG sites65,66. Mutations in MET1 have also
+                                     tion in A. thaliana is guided by siRNA has been hampered       been isolated in screens for the global loss of DNA
+                                     by the fact that plants encode multiple paralogues of each     methylation and for the release of transcriptional gene
+                                     RNAi protein (there are 6 RNA-dependent RNA poly-              silencing67,68. Weak met1 mutations initially have no
+                                     merases, 4 Dicers and 10 Argonautes)54–56. A further com-      morphological phenotype, but following inbreeding,
+                                     plication is that dicer-like 1 (dcl1) and argonaute 1 (ago1)   met1 lines accumulate numerous EPIMUTATIONS28,68,69. Some
+                                     mutants have severe developmental defects because the          epimutations are due to the loss or gain of endogenous
+                                     encoded proteins are important for microRNA-mediated           gene silencing28,69. Developmental mutations also arise
+                                     regulation of embryonic development55,57. De novo DNA          in backgrounds that have reduced CG methylation
+                                     methylation induced by the transcription of inverted           through the mobilization and insertion of transposable
+                                     repeats does not require AGO4, but is completely depen-        elements3,4,70. The weak met1 alleles behave as recessive
+                                     dent on the DRM methyltransferases26,51. One explana-          mutations and therefore must be made homozygous
+                                     tion for this result is that redundant siRNA-generating        before the effects on DNA methylation can be seen68. By
+                                     pathways can guide DRM methyltransferases to inverted          contrast, null met1 heterozygotes have dominant phe-
+                                     repeats and homologous loci. The existence of different        notypes associated with the loss of DNA methylation
+                                     size classes of siRNAs that have distinct biological func-     and gene silencing67. This phenotype is due to a require-
+                                     tions supports this interpretation. The DCL3 pathway is        ment for MET1 during the GAMETOPHYTIC STAGE of the
+                                     mostly associated with 24-nucleotide siRNAs that direct        A. thaliana life cycle67. Plant gametogenesis involves
+                                     DNA methylation, whereas 21-nucleotide siRNAs made             post-meiotic DNA replication of haploid nuclei before
+                                     by an unknown Dicer are involved in mRNA degradation           fertilization. In the absence of MET1, loci that are nor-
+                                     but can also target DNA methylation caused by viruses          mally silenced lose their methylation at the gametophyte
+                                     and S-PTGS53,54. Although the role of DRM proteins is          stage and become transcriptionally activated, leading to
+                                     clear cut, other DNA methyltransferases might function         the occurrence of epimutations in the progeny of met1
+                                     in de novo DNA methylation, as indicated by the fact that      heterozygotes67. Therefore, the maintenance of CG
+                                     chromomethylase 3 (cmt3) mutants cannot initiate DNA           methylation, and potentially other aspects of epigenetic
+                                     methylation that is induced by the inverted repeat PAI1-       gene regulation, are key processes in the gametophytic
+                                     PAI4 (see below for further discussion)58. The effects of      stage of the plant life cycle.
+                                     drm mutants on this system have not been tested, and it            Additional loci that are required for CG methylation
+                                     might be that initial DNA methylation by DRM1 and              and gene silencing were characterized in the same
+                                     DRM2 requires subsequent action by CMT3 for its full           genetic screens in which met1 mutations were isolated.
+                                     establishment.                                                 The DECREASE IN DNA METHYLATION 1 (DDM1)
+                                          A key mechanistic question in RNA-directed DNA            gene encodes a protein related to SWI2/SNF2-like chro-
+                                     methylation is how siRNAs target the DRM enzymes to            matin remodelling enzymes71. Indeed, in vitro studies
+EPIMUTATION                          specific sequences. In one model, genomic DNA                  have shown that recombinant DDM1 has ATPase activ-
+A heritable change in gene           unwinds, allowing base pairing with the siRNA. In a sec-       ity and is able to remodel nucleosomes72. Mutations in
+expression but not gene
+sequence. This usually takes
+                                     ond model, transcription of a gene produces a nascent          DDM1 cause a loss of both CG DNA methylation and
+place by an abnormal increase        RNA that base pairs with an siRNA, tethering a complex         methylation at lysine residue K9 in histone H3 (H3-
+or decrease in the methylation       — which includes chromatin-modifying enzymes                   K9) at heterochromatic loci22,73–75. The mechanism of
+status of a gene. This can then be   and possibly the DRM methyltransferases — to a                 DDM1 action is unknown, but the related mouse pro-
+heritable for many generations.
+                                     given locus. Indeed, there is some evidence for this           tein lymphoid specific helicase (LSH) also controls
+GAMETOPHYTIC STAGE
+                                     ‘surveillance transcription’ model from experiments            DNA methylation patterning, indicating a conserved
+The haploid phase of the plant       in S. pombe 59,60. An RNA transcription-based model            function76. Although H3-K9 methylation is lost from
+life-cycle, in which a               is supported by the intriguing finding that the plant-         silenced loci in ddm1 mutants, their global levels of this
+post-meiotic cell undergoes          specific DNA-dependent RNA polymerase IV (pol IV)              modification are normal73. MET1 and DDM1 are both
+2–3 mitoses. In flowering plants,
+the embryo sac comprises the
+                                     is important for siRNA-directed DNA methylation61,62.          required for full levels of CG methylation, but their
+female structure and the male        The large subunit of pol IV is encoded by SDE4, now            mutant phenotypes are different. Null ddm1 mutants
+form is the pollen grain.            renamed RPD1, which was previously shown to function           do not show the gametophytic effects on gene silencing
+
+
+354   | MAY 2005 | VOLUME 6                                                                                                  www.nature.com/reviews/genetics
+                                                                  © 2005 Nature Publishing Group
+                                                                                                                                         REVIEWS
+
+
+                                  that are observed in null met1 mutants67. Furthermore,        an alternative model, this observation can be explained
+                                  the ddm1-2 met1-1 double mutation has additive                by the sequence specificity of DRM2, which prefers non-
+                                  consequences on development68.                                CG sites in vitro, although it does methylate the CG dinu-
+                                      The HISTONE DEACETYLASE 6 (HDA6) gene is                  cleotide less efficiently95. Therefore, in a met1 mutant in
+                                  also required for the maintenance of CG methylation at        which the maintenance of CG methylation is defective,
+                                  some loci77–79. HDA6 is related to the Rpd3 class of his-     the RNA-guided activity of DRM2 might propagate CG
+                                  tone deacetylases of S. cerevisiae, which function in tran-   methylation at a lower level. This model is supported by
+                                  scriptional silencing80. Mutations in HDA6 were found         the fact that MET1 function cannot establish methylation
+                                  as strong suppressors of the maintenance of CG methy-         in any context, as a drm1 drm2 mutant completely blocks
+                                  lation directed by RNA from a NOPALINE SYNTHASE               de novo methylation driven by diverse triggers25,51,52.
+                                  promoter inverted repeat77. In another screen that also
+                                  isolated an hda6 mutation, the transgenic locus that was      Maintenance of CNG methylation
+                                  silenced contained an inverted repeat78. Compared with        Plant genomes contain extensive methylation at CNG
+                                  the MET1 and DDM1 genes, HDA6 has more specific               sites and genetic screens have demonstrated that methy-
+                                  effects on endogenous silenced loci, as loss of HDA6 has      lation in this context is controlled by a pathway that is
+                                  no effect on the methylation of the centromeric repeats,      distinct from the one that regulates CG methylation96.
+                                  although it does cause reactivation of the Athila-TSI         The SUP floral developmental gene becomes densely
+                                  retroelement77,79. The rDNA in hda6 mutants is cyto-          hypermethylated and silenced in several backgrounds
+                                  logically decondensed and this is associated with hyper-      that have genome-wide hypomethylation, although
+                                  actylated histones, reduced DNA methylation and               DNA methylation probably does not control its expres-
+                                  increased H3-K4 methylation79. In addition to HDA6,           sion in normal development69,97. Silenced SUP alleles
+                                  a second histone deacetylase, HDT1 is required for            (termed clark kent or clk) are recessive and cause the for-
+                                  maintenance of rRNA gene promoter methylation18.              mation of additional stamens and defective female floral
+                                      CG methylation and H3-K9 methylation frequently           organs. Mutant met1 plants frequently acquire clk
+                                  occur together at transcriptionally silenced, heterochro-     epimutations, indicating that MET1 activity is not
+                                  matic loci22. CG methylation controls H3-K9 methyla-          required for SUP hypermethylation69,97. Mutations in
+                                  tion in A. thaliana64,74, as most H3-K9 methylation is        the gene encoding the plant-specific methyltransferase
+                                  lost at centromeric and repeated heterochromatic loci in      CMT3 were isolated in a suppressor screen that used a
+                                  null met1-3 mutants81. Conversely, histone methylation        stable, non-reverting line containing a transgenic SUP
+                                  can influence cytosine methylation in A. thaliana, indi-      inverted repeat (called clk-st)82. CMT3 also has an
+                                  cating that a feedback loop between these modifications       N-terminal CHROMODOMAIN98. In addition to controlling
+                                  reinforces the silenced state58,82. In addition to control-   CNG methylation at SUP, CMT3 methylates several
+                                  ling CG methylation, MET1 is also required to maintain        additional endogenous sequences such as the Athila and
+                                  non-CG methylation65,66,82–84. However, all non-CG            Ta3 transposons82. Mutations in CMT3 were also iso-
+                                  methylation is eliminated in drm1 drm2 cmt3 triple            lated as suppressors of the PAI-silencing system99. The
+                                  mutants in the presence of functional MET124. This            PAI2 gene encodes an intermediate enzyme in the tryp-
+                                  indicates that the effects of MET1 on non-CG methyla-         tophan biosynthetic pathway. Loss of PAI expression
+                                  tion are indirect and that pre-existing CG methylation,       results in pleiotropic phenotypes, including the accu-
+                                  or a chromatin mark associated with it, might be able to      mulation of fluorescent tryptophan intermediates,
+                                  attract non-CG methylation. Methyl binding domain             reduced size and fertility. In the WS accession of
+                                  (MBD) proteins are good candidates for the recognition        A. thaliana, an unlinked PAI1-PAI4 inverted repeat
+                                  of the CG methylation mark and the promotion of               causes methylation of itself and of PAI2 (REFS 16,100). A
+                                  other types of histone or DNA modifications85–88. These       screen for suppressors of this silencing identified muta-
+                                  proteins bind methylated DNA and might recruit other          tions in CMT3 and showed that the main effect was the
+                                  factors that mediate epigenetic modifications. For            loss of non-CG methylation and of gene silencing99. The
+                                  example, mouse MBD-protein complexes can lead to              CMT class of methyltransferases has also been charac-
+                                  further repressive chromatin modifications such as            terized through reverse genetic approaches in maize101.
+                                  histone methylation and deacetylation89–91.                   Together, these studies indicate that CMT genes encode
+                                      Small RNA signalling pathways are able to establish       the major CNG methyltransferases in plants.
+                                  CG methylation equally as well as non-CG methyla-                 A second class of suppressor mutations isolated from
+                                  tion25,26. However, RNA does not appear to be required        both the SUP and PAI screens was in the KRYPTONITE
+                                  for the maintenance of CG methylation. Removal of an          (KYP) gene (also known as SU(VAR)3-9 HOMOLOG 4
+                                  RNA-trigger sequence that directs CG methylation does         (SUVH4)), which encodes a protein related to the H3-
+                                  not prevent the maintenance of methylation, unless            K9 methyltransferases SU(VAR)3-9 (mammal) and
+                                  MET1 function is compromised92,93. Furthermore,               CLR4 (yeast)58,102. KYP possesses a catalytic SET methyl-
+CHROMODOMAIN                      mutations in the RNAi machinery that affect DNA               transferase domain and has H3-K9 methyltransferase
+A protein domain shared by        methylation do not prevent the maintenance of                 activity in vitro, and is required in vivo for this
+several regulators of chromatin   CG methylation25,26. A met1 mutation does cause the           mark58,102–104. KYP differs from SU(VAR)3-9 in that it
+structure. Different classes of
+chromodomains have been
+                                  specific loss of CG methylation in the presence of an         lacks an N-terminal chromodomain and instead has a
+implicated in binding histones,   siRNA signal, and one interpretation of this result is that   YDG domain that has been implicated in histone bind-
+RNA and DNA.                      MET1 is an RNA-guided de novo methyltransferase94. In         ing105. The kyp mutation also leads to a loss of CNG and
+
+
+NATURE REVIEWS | GENETICS                                                                                                    VOLUME 6 | MAY 2005 | 3 5 5
+                                                              © 2005 Nature Publishing Group
+REVIEWS
+
+
+                                a         DNA                             DNA                            Together, these data indicate that a maintenance loop
+                                          replication      Cm       G     methylation   Cm       G       might exist whereby histone methylation mediated by
+                                                           G        C                   G        Cm      KYP and an unknown K27 methylase recruits CMT3
+                                                                                                         and targets CNG methylation to heterochromatic loci.
+                                 Cm      G              Hemimethylated
+                                                        template
+                                                                                                         As discussed above, non-CG methylation might also
+                                 G       Cm
+                                                                                                         be downstream of MET1 and CG methylation at
+                                                           C        G                   Cm      G        many loci and this might be achieved through histone
+                                                           G        Cm                  G       Cm       methylation81.
+                                                                                                             Although CMT3 maintains the bulk of CNG
+                                b
+                                                                                                         methylation at hypermethylated SUP and PAI, the
+                                          DNA                             DNA                            DRM methyltransferases can also propagate CNG and
+                                          replication           Cm        methylation       Cm           there are locus-specific differences in the requirement
+                                                                G                           G            for each class of methyltransferase24–26,82,99. In the cen-
+                                     Cm                                                                  tromere and at the pericentromeric transposon Ta3 ,
+                                     G                                   Active siRNA                    CMT3 controls CNG methylation 24. At sites of
+                                                                         or chromatin                    euchromatic DNA methylation that are characterized
+                                                                C        signal             Cm           by inverted repeats (for example, clk-st and nopaline-
+                                                                G                           G
+                                                                                                         synthase inverted repeat) or dispersed repeats (for
+                                                                                                         example AtSN1), CNG and CHH (see below for fur-
+                                Figure 2 | Mechanisms for maintenance of CG and                          ther discussion) are controlled redundantly by CMT3,
+                                asymmetric methylation. a | Following DNA replication of                 DRM1 and DRM2 (REFS 26,82,99). Non-CG methyla-
+                                methylated cytosine residues in a symmetric context (CG),
+                                                                                                         tion at the tandem repeats FWA and MEA-ISR is
+                                both daughter strands are hemimethylated. This provides a
+                                template for MET1/DNMT1 class of methyltransferases to                   almost exclusively dependent on DRM1 and DRM2
+                                maintain CG methylation. b | This is not the case for methylated         (REF. 25). As a further sign of redundant function, cmt3
+                                cytosines in non-symmetric-sequence contexts (CNG and                    and drm1 drm2 mutant plants seem to be morpho-
+                                CHH), so either a chromatin or RNA signal is necessary to                logically similar to the wild type, but cmt3 drm1
+                                maintain methylation at these sites.                                     drm2 triple mutants have a pleiotropic developmen-
+                                                                                                         tal phenotype 24. This observation indicates that
+                                                                                                         non-CG methylation controls developmentally
+                                asymmetric methylation at the SUP locus (although                        important genes, but unlike the variable epigenetic
+                                less than cmt3) and has similar effects on endogenous                    phenotypes seen in met1 and ddm1 mutant plants,
+                                loci such as the Ta3 transposon58,102; therefore, in                     the extent of the morphological defects is relatively
+                                A. thaliana, a histone methyltransferase controls CNG                    homogeneous in a population of cmt3 drm1 drm2
+                                methylation. DNA methylation is also genetically                         triple mutants24,70. It is not known whether the devel-
+                                downstream of H3-K9 methylation in N. crassa106.                         opmental defects caused by loss of non-CG methyla-
+                                Interestingly, the kyp mutation reduces methylation at                   tion can be inherited independently of the cmt3 and
+                                both the clk-st SUP inverted repeat and the endogenous                   drm mutations.
+                                gene, whereas it only reduces methylation at the PAI2
+                                singlet gene and not the PAI1-PAI4 inverted repeat58,102.                RNAi and maintenance of non-CG methylation
+                                This indicates that the control of methylation at the PAI                Plant genomes are distinguished by their significant
+                                trigger might differ from that at other sequences.                       levels of non-CG methylation. Within the A. thaliana
+                                    The kyp and cmt3 mutations show epistasis, indicat-                  genome, methylated loci vary in the extent to which
+                                ing that these genes function in a linear pathway to con-                they contain methylation in different sequence con-
+                                trol CNG methylation58. This raises the question as to                   texts. Indeed, silenced loci with higher levels of non-
+                                how KYP targets CMT3-cytosine-methyltransferase                          CG methylation can be silenced by this modification
+                                activity. The in vitro binding of CMT3 to LIKE HETERO-                   rather than by CG methylation16,97,109. Methyl cytosine
+                                CHROMATIN PROTEIN 1 (LPH1), which itself binds                           in an asymmetric context differs fundamentally from
+                                methyl-H3-K9, provides an attractive model for this tar-                 methyl cytosine in a CG context. Asymmetric methyla-
+                                geting82. However, the failure of lph1 mutants to sup-                   tion lacks a methylated cytosine on the opposite strand,
+                                press the clk-st and PAI silencing systems weakens this                  so the cell cannot use a hemimethylated template as a
+                                possibility58,103. Further studies have demonstrated that                guide for replication, and probably requires an active
+                                the chromodomain of CMT3 binds histone H3 tails, but                     signal for propagation during each cell division (FIG. 2).
+                                only if they are simultaneously methylated at positions                  An excellent candidate for such an active signal is the
+POLYCOMB GROUP
+                                K9 and K27 (REF. 103). In vivo H3-K27 methylation cyto-                  persistent generation of siRNA corresponding to
+(PcG). Genes in this group
+were identified as mutations    logically co-localizes with CMT3 target regions such as                  the methylated sequence.
+in Drosophila melanogaster,     centromeric heterochromatin103. In animals, H3-K27                           RNA-guided DNA methylation initiated by RNA
+which caused homeotic           methylation is associated with several heterochromatic                   viruses and inverted-repeat transgenes has been
+transformations. PcG proteins   loci, and the addition of this mark is catalysed by the                  observed in both CG and non-CG sequence contexts.
+modify chromatin and maintain                                     107,108
+                                POLYCOMB GROUP (PcG) proteins            . However, in plants,           A firm genetic link between siRNAs and the mainte-
+transcriptional decisions
+required for correct            both kyp and PcG gene mutants fail to abolish the hete-                  nance of non-CG methylation at a transcriptionally
+development.                    rochromatic staining of methyl-H3-K27 (REF. 103).                        silenced gene emerged when ago4 was identified as a
+
+
+356   | MAY 2005 | VOLUME 6                                                                                                       www.nature.com/reviews/genetics
+                                                                        © 2005 Nature Publishing Group
+                                                                                                                                            REVIEWS
+
+
+ siRNA-generating pathway
+                                                                                                        Although AGO4 is required to maintain non-CG
+                                                                                                    DNA methylation at tandem repeats, it has much
+                                  RDR2                 RDR6                                         weaker effects when an inverted-repeat trigger is
+                                  DCL3                 SDE2                                         used25,26. In one such system, the removal of an inverted-
+                                  RPD1                 SDE3
+                                  AGO4                 AGO1                Other?                   repeat trigger caused more extensive elimination of
+                                                                                                    non-CG methylation than the presence of the ago4-1
+                                                                                                    mutation26. This implies the existence of an AGO4-inde-
+ Establishment                                                                                      pendent pathway that directs methylation in response to
+                                         DRM1/DRM2                          siRNA                   these inverted-repeat triggers. An attractive candidate
+                                                                                                    for this alternative pathway is a redundant RNAi path-
+ Maintenance
+                                                                                                    way that also directs DNA methylation. It will be inter-
+                                                                                                    esting to explore how the mechanism of methylation
+                                   CG                  CNG           CHH (asymmetric)
+                                                                                                    distinguishes inverted and direct repeats.
+                  DDM1
+                  Chromatin                 MET1                                                        The recent discovery of the DEFECTIVE IN RNA
+                  remodelling                                                                       DIRECTED DNA METHYLATION 1 (DRD1) gene —
+                                                       CMT3              DRM1/DRM2                  which encodes a plant-specific SWI2/SNF2 ATPase
+                                HDA6
+                                Histone                                                             related to the widely conserved DNA-damage protein
+                                deacetylation                                                       Rad54 — implies that chromatin remodelling has a role
+                                                                                                    in the maintenance of siRNA-directed non-CG methy-
+                                                 KYP                        siRNA                   lation109. A transcribed inverted repeat of the soybean
+                                                 Histone H3-K9                                      α′-promoter provides an experimental system in
+                                                 methylation
+                                                                                                    which silencing is controlled by non-CG methyla-
+                                                 Unkown protein                                     tion109. A genetic screen that used this system revealed
+                                                 Histone H3-K9                                      that RNA-directed non-CG methylation requires
+                                                 methylation
+                                                                                                    DRD1. Interestingly, DRD1 is not required for non-
+Figure 3 | Establishment and maintenance of DNA methylation in Arabidopsis thaliana.
+                                                                                                    CG methylation at the centromeric repeat or in the
+Different pathways control the maintenance and establishment of cytosine methylation in different   rDNA, indicating that its function might be restricted
+sequence contexts. The maintenance of CG methylation requires a pathway that involves the           to propagating non-CG methylation at particular loci.
+DNA methyltransferase MET1, DECREASE IN DNA METHYLATION 1 (DDM1), chromatin                         The fact that DRD1 was not isolated from either the
+remodelling and HDA6 histone-deacetylase activity. Maintenance of non-CG methylation (CNG           SUP or PAI screens further underlines the fact that
+and CHH) requires the methyltransferases CHROMOMETHYLASE 3 (CMT3) and DOMAINS                       individual loci have specific silencing requirements.
+REARRANGED METHYLTRANSFERASE 1 and 2 (DRM1/DRM2), which function with varying
+                                                                                                        Propagation of pre-existing non-CG DNA methy-
+degrees of redundancy. CMT3 can be directed by histone H3-K9 methylation catalysed by
+KRYPTONITE (KYP) and an unknown H3-K27 methyltransferase. siRNA targeting can also direct           lation by an active signal has caused problems in
+CMT3 and DRM1/DRM2 to maintain non-CG methylation. Establishing methylation in all                  nomenclature that are essentially semantic, with
+contexts is entirely dependent on DRM1/DRM2 methyltransferase activity. DRM1/DRM2 can be            some investigators referring to maintenance of non-CG
+targeted to establish de novo methylation from siRNA generated from multiple branches of the        methylation as ‘persistent de novo methylation’. However,
+RNAi pathway. AGO1, ARGONAUTE 1; AGO4, ARGONAUTE 4; DCL3, DICER-LIKE 3; RDR2,                       there is clearly an important distinction between de novo
+RNA-DEPENDENT RNA POLYMERASE 2; RDR6, RNA-DEPENDENT RNA POLYMERASE 6;
+                                                                                                    DNA methylation at a completely unmethylated locus
+RPD1, RNA POLYMERASE D1; SDE3, SILENCING DEFECTIVE 3; SGS3, SUPPRESSOR OF
+GENE SILENCING 3.
+                                                                                                    (which is absolutely dependent on DRM methyltrans-
+                                                                                                    ferases) and mitotic replication of non-CG DNA methy-
+                                                                                                    lation at a locus that was previously methylated (which is
+                                  weak suppressor of hypermethylated SUP110. The                    often partially independent of DRM methyltrans-
+                                  AGO4 gene was required for full levels of DNA and                 ferases)24,25,51,52. For this reason, we prefer the terms
+                                  histone methylation at SUP, but ago4 did not suppress             ‘de novo methylation’ for the initial establishment of
+                                  silencing as completely as cmt3 or kyp. Subsequently, it          DNA methylation and ‘maintenance of non-CG methy-
+                                  was shown that non-CG methylation at the tandemly                 lation’ for the replication of pre-established patterns,
+                                  repeated FWA and MEA-ISR loci requires the                        even though these processes might share some mecha-
+                                  RPD1/RDR2/DCL3/AGO4 pathway25. So, at direct                      nistic similarities. The establishment and maintenance
+                                  repeats, rpd1, rdr2, dcl3 and ago4 mutants phenocopy              of DNA methylation by DRM, MET1, and CMT3
+                                  drm1 drm2 double mutants, both to establish DNA                   enzymes and other factors are shown in FIG. 3.
+                                  methylation in all sequence contexts and to maintain
+                                  CNG and asymmetric methylation. This indicates that               Demethylation by DNA glycosylases
+                                  siRNAs guide DRM2 to maintain non-CG DNA                          The establishment and maintenance phases of cytosine
+                                  methylation. Studies in S. pombe have indicated that a            methylation are well studied in both mammals and
+                                  feedback loop exists between chromatin modifica-                  plants. By contrast, the existence of a demethylation
+                                  tions and siRNA production by RNA-dependent                       pathway has been an enduring controversy. Recent
+                                  RNA polymerase59,60,111. A similar system might exist             work in plants has identified a family of DNA glycosy-
+                                  in A. thaliana, because the drm1 drm2 double mutant               lases as proteins that can remove DNA methylation and
+                                  has lower levels of AtSN1 siRNA and because ddm1                  alleviate silencing.
+                                  and met1 mutants have reduced levels of siRNAs                        REPRESSOR OF SILENCING 1 (ROS1) was charac-
+                                  derived from some heterochromatic loci22,26.                      terized in a screen that used a COLD REGULATED 78
+
+
+NATURE REVIEWS | GENETICS                                                                                                       VOLUME 6 | MAY 2005 | 3 5 7
+                                                                  © 2005 Nature Publishing Group
+REVIEWS
+
+
+                              (COR78) promoter — LUCIFERASE transgene — as a                  Conclusions
+                              reporter112. The transgene promoter is homologous               The distribution of DNA methylation in A. thaliana is
+                              to the endogenous COR78 gene and generates siRNA to             consistent with its dual roles in genome defence and in
+                              these sequences112. In wild-type plants, these siRNAs are       gene regulation. DNA methylation is initiated by the
+                              not sufficient to direct DNA methylation and transcrip-         DRM enzymes, which seem to be guided to particular
+                              tional gene silencing to either the transgene or to the         loci by siRNAs. The maintenance of DNA methylation
+                              endogene. However, DNA methylation and silencing of             depends partly on the nature of repeated sequences at
+                              both sequences occurs in a ros1 mutant background112.           the target locus. Distinct molecular pathways involving
+                              This indicates that ROS1 normally antagonizes the abil-         chromatin-modifying enzymes and DNA methyl-
+                              ity of the siRNA derived from the transgene to direct           transferases cooperate to maintain DNA methylation
+                              DNA methylation and gene silencing. ROS1 encodes a              in different sequence contexts.
+                              nuclear protein that has similarity to DNA glycosylases             Future experiments that focus on A. thaliana DNA
+                              of the HhH family112. DNA glycosylases can initiate base        methyltransferases are likely to yield insights that apply
+                              excision repair by cleaving the DNA backbone at the             to DNA methylation in many organisms. A compelling
+                              base removal site113. One role of ROS1-like glycosylases        mechanistic question is how siRNAs that are homolo-
+                              is in DNA repair, and indeed ros1 mutant plants are             gous to a given locus lead to chromatin modifications
+                              hypersensitive to DNA-damage agents112. In vitro                such as H3-K9 methylation and DNA methylation by
+                              analysis with recombinant ROS1 also demonstrated                the KYP and DRM proteins. The feedback loop that
+                              that ROS1 was able to introduce strand breaks to an             seems to maintain gene silencing in S. pombe might be
+                              MspI-methylated DNA template112. So, ROS1 might                 too simplistic to apply to gene silencing in A. thaliana
+                              function as a demethylase by removing methylated                owing to the lack of DNA methylation in fission
+                              cytosine residues from DNA (FIG. 4). In this model,             yeast59,60,111. For this reason, it will be crucially impor-
+                              siRNA-targeted DNA methylation is continuously                  tant to understand how the methyltransferases CMT3
+                              removed by the activity of ROS1 in DNA repair. This             and MET1 cooperate with histone modifying enzymes
+                              leaves an important question of how ROS1 is targeted to         (such as H3-K9 and H3-K27 methyltransferases) and
+                              specific loci. Interestingly, the ros1 mutant acquires          chromatin-remodelling proteins to maintain gene
+                              developmental phenotypes following inbreeding, indi-            silencing.
+                              cating that it regulates endogenous loci112. Nevertheless,          Genome-wide studies of A. thaliana DNA methy-
+                              ROS1 does not appear to control methylation at                  lation that are currently in progress are likely to gener-
+                              silenced loci such as the centromere, rDNA or the Athila        ate new biological questions and reveal the true extent
+                              and Ta3 transposons112.                                         to which a genome-defence mechanism is used for
+                                  ROS1 is part of a small gene family in A. thaliana.         developmental gene control22,34,117,118.
+                              Although ROS1 is expressed broadly throughout devel-
+                              opment, a second glycosylase gene, DEMETER (DME),
+                              has a very specific expression pattern and function dur-
+                                                                                                 A     C    C
+                              ing female gametogenesis17,112,114. The DME gene was iso-                m        Methylated C is recognized by ROS1
+                              lated as a mutation that showed parent-of-origin effects           T     G    G
+                              on seed viability114. Only maternal DME is required for
+                              viable seeds and this reflects its expression specifically in
+                              the central cell of the female gametophyte114. DME is
+                              required in the central cell and endosperm for the                 A          C
+                                                                                                              Glycosylase activity removes methylcytosine
+                              imprinted expression of the maternal genes FWA and                 T     G    G
+                              MEA17,114. MEA encodes a polycomb protein that is
+                              required for seed viability and is expressed from the
+                              maternal allele115. Methylation of the FWA gene at its
+                              tandem repeats silences its expression in vegetative               A          C
+                                                                                                              AP lyase activity cleaves DNA backbone
+                              tissue28. However, FWA has maternally imprinted expres-            T     G    G
+                              sion in the endosperm during seed development17. This
+                              activation is achieved by maternal-specific expression of
+                              DME in the female gametophyte, accompanied by the
+                              demethylation of FWA17. Because the endosperm is a ter-            A     C    C
+                                                                                                                DNA is repaired with unmethylated cytosine
+                              minally differentiating tissue, methylation does not need          T     G    G
+                              to be re-established at FWA in the next generation. This
+                              ‘one-way’ control of imprinting differs fundamentally             Figure 4 | Mechanism of DNA demethylation by a DNA
+                              from the methylation–demethylation cycles involved in             glycosylase/lyase. Biochemical and genetic data indicate a
+                              mammalian imprinting17. At the genetic level, DME                 model for the role of DNA glycosylase/lyase molecules, such
+                              functions antagonistically to MET1 in the control of seed         as REPRESSOR OF SILENCING 1 (ROS1), in cytosine
+                                                                                                demethylation. ROS1 recognition of a methylated cytosine
+                              development116. However, DME has not yet been shown
+                                                                                                leads to glycosylase removal of the base from the
+                              to function as a demethylase at the biochemical level and         DNA backbone. AP (apurinic) lyase activity then cleaves the
+                              might also function in processes that are independent of          DNA backbone at the site of cytosine removal, which is
+                              DNA methylation.                                                  subsequently repaired.
+
+
+
+358   | MAY 2005 | VOLUME 6                                                                                             www.nature.com/reviews/genetics
+                                                            © 2005 Nature Publishing Group
+                                                                                                                                                                                      REVIEWS
+
+
+1.    Yoder, J. A., Walsh, C. P. & Bestor, T. H. Cytosine               25. Chan, S. W. et al. RNA silencing genes control de novo DNA      50. Cao, X. et al. Conserved plant genes with similarity to
+      methylation and the ecology of intragenomic parasites.                methylation. Science 303, 1336 (2004).                              mammalian de novo DNA methyltransferases. Proc. Natl
+      Trends Genet. 13, 335–340 (1997).                                     Shows that, surprisingly, RNAi proteins are needed to               Acad. Sci. USA 97, 4979–4984 (2000).
+2.    Martienssen, R. A. & Colot, V. DNA methylation and                    establish DNA methylation at a directly repeated                51. Cao, X. et al. Role of the DRM and CMT3
+      epigenetic inheritance in plants and filamentous fungi.               sequence.                                                           methyltransferases in RNA-directed DNA methylation. Curr.
+      Science 293, 1070–1074 (2001).                                    26. Zilberman, D. et al. Role of Arabidopsis ARGONAUTE 4 in             Biol 13, 2212–2217 (2003).
+3.    Singer, T., Yordan, C. & Martienssen, R. A. Robertson’s               RNA-directed DNA methylation triggered by inverted              52. Cao, X. & Jacobsen, S. E. Role of the Arabidopsis DRM
+      Mutator transposons in A. thaliana are regulated by the               repeats. Curr. Biol. 14, 1214–1220 (2004).                          methyltransferases in de novo DNA methylation and gene
+      chromatin-remodeling gene DECREASE IN DNA                         27. Mette, M. F., Aufsatz, W., van der Winden, J., Matzke, M. A.        silencing. Curr. Biol. 12, 1138–1144 (2002).
+      METHYLATION (DDM1). Genes Dev. 15, 591–602                            & Matzke, A. J. Transcriptional silencing and promoter              Characterization of the role of the plant de novo DRM
+      (2001).                                                               methylation triggered by double-stranded RNA. EMBO J.               methyltransferases in establishing gene silencing.
+4.    Miura, A. et al. Mobilization of transposons by a mutation            19, 5194–5201 (2000).                                           53. Hamilton, A., Voinnet, O., Chappell, L. & Baulcombe, D. Two
+      abolishing full DNA methylation in Arabidopsis. Nature 411,       28. Soppe, W. J. et al. The late flowering phenotype of fwa             classes of short interfering RNA in RNA silencing. EMBO J.
+      212–214 (2001).                                                       mutants is caused by gain-of-function epigenetic alleles of a       21, 4671–4679 (2002).
+5.    ten Lohuis, M. R. & Miller, D. J. Light-regulated transcription       homeodomain gene. Mol. Cell 6, 791–802. (2000).                     Provides a new insight into the diversity of small RNA
+      of genes encoding peridinin chlorophyll a proteins and the        29. Jones, L. et al. RNA–DNA interactions and DNA methylation           pathways in plants, revealing that there are two main
+      major intrinsic light-harvesting complex proteins in the              in post-transcriptional gene silencing. Plant Cell 11,              size classes of siRNA associated with different modes
+      dinoflagellate Amphidinium carterae hulburt (Dinophycae).             2291–2301 (1999).                                                   of silencing.
+      Plant Physiol. 117, 189–196 (1998).                               30. Park, Y. D. et al. Gene silencing mediated by promoter          54. Xie, Z. et al. Genetic and functional diversification of small
+6.    Colot, V. & Rossignol, J. L. Eukaryotic DNA methylation as            homology occurs at the level of transcription and results in        RNA pathways in plants. PLoS Biol. 2, e104 (2004).
+      an evolutionary device. Bioessays 21, 402–411 (1999).                 meiotically heritable alterations in methylation and gene           Genetic demonstration that distinct RNAi proteins are
+7.    Fronk, J. & Magiera, R. DNA methylation during                        activity. Plant J. 9, 183–194 (1996).                               specialized for different functions in development,
+      differentiation of a lower eukaryote, Physarum                    31. Stam, M., Viterbo, A., Mol, J. N. & Kooter, J. M.                   gene silencing and viral resistance.
+      polycephalum. Biochem. J. 304 (Part 1), 101–104 (1994).               Position-dependent methylation and transcriptional silencing    55. Schauer, S. E., Jacobsen, S. E., Meinke, D. W. & Ray, A.
+8.    Gutierrez, J. C., Callejas, S., Borniquel, S. &                       of transgenes in inverted T-DNA repeats: implications for           DICER-LIKE 1: blind men and elephants in Arabidopsis
+      Martin-Gonzalez, A. DNA methylation in ciliates: implications         posttranscriptional silencing of homologous host genes in           development. Trends Plant Sci. 7, 487–491 (2002).
+      in differentiation processes. Int. Microbiol. 3, 139–146              plants. Mol. Cell Biol. 18, 6165–6177 (1998).                   56. Carmell, M. A., Xuan, Z., Zhang, M. Q. & Hannon, G. J. The
+      (2000).                                                           32. Sieburth, L. E. & Meyerowitz, E. M. Molecular dissection of         Argonaute family: tentacles that reach into RNAi,
+9.    Fisher, O., Siman-Tov, R. & Ankri, S. Characterization of             the AGAMOUS control region shows that cis elements for              developmental control, stem cell maintenance, and
+      cytosine methylated regions and 5-cytosine DNA                        spatial regulation are located intragenically. Plant Cell 9,        tumorigenesis. Genes Dev. 16, 2733–2742 (2002).
+      methyltransferase (Ehmeth) in the protozoan parasite                  355–365 (1997).                                                 57. Vaucheret, H., Vazquez, F., Crete, P. & Bartel, D. P. The
+      Entamoeba histolytica. Nucleic Acids Res. 32, 287–297             33. Ito, T., Sakai, H. & Meyerowitz, E. M. Whorl-specific               action of ARGONAUTE 1 in the miRNA pathway and its
+      (2004).                                                               expression of the SUPERMAN gene of Arabidopsis is                   regulation by the miRNA pathway are crucial for plant
+10.   Lyko, F., Whittaker, A. J., Orr-Weaver, T. L. & Jaenisch, R.          mediated by cis elements in the transcribed region. Curr.           development. Genes Dev. 18, 1187–1197 (2004).
+      The putative Drosophila methyltransferase gene dDnmt2                 Biol. 13, 1524–1530 (2003).                                     58. Malagnac, F., Bartee, L. & Bender, J. An Arabidopsis SET
+      is contained in a transposon-like element and is                  34. Tran, R. K. et al. DNA methylation profiling identifies CG          domain protein required for maintenance but not
+      expressed specifically in ovaries. Mech. Dev. 95, 215–217             methylation clusters in Arabidopsis genes. Curr. Biol. 15,          establishment of DNA methylation. EMBO J. 21,
+      (2000).                                                               154–159 (2005).                                                     6842–6852 (2002).
+                                                                        35. Rountree, M. R. & Selker, E. U. DNA methylation inhibits            Together with reference 102, this paper reveals that
+11.   Kreppel, L. et al. dictyBase: a new Dictyostelium discoideum
+                                                                            elongation but not initiation of transcription in Neurospora        histone methylation functions to control CNG DNA
+      genome database. Nucleic Acids Res. 32 (Database issue),
+                                                                            crassa. Genes Dev. 11, 2383–2395 (1997).                            methylation in A. thaliana. This paper also
+      D332–D333 (2004).
+                                                                        36. Wassenegger, M., Heimes, S., Riedel, L. & Sanger, H. L.             demonstrates genetically that the A. thaliana
+12.   Gutierrez, A. & Sommer, R. J. Evolution of dnmt-2 and
+                                                                            RNA-directed de novo methylation of genomic sequences in            homologue of HETEROCHROMATIN PROTEIN 1 is
+      mbd-2-like genes in the free-living nematodes Pristionchus
+                                                                            plants. Cell 76, 567–576 (1994).                                    not involved in this pathway.
+      pacificus, Caenorhabditis elegans and Caenorhabditis
+                                                                            The first demonstration that RNA can guide DNA                  59. Sugiyama, T., Cam, H., Verdel, A., Moazed, D. &
+      briggsae. Nucleic Acids Res. 32, 6388–6396 (2004).
+                                                                            methylation in any organism.                                        Grewal, S. I. RNA-dependent RNA polymerase is an
+13.   Cheng, X. Structure and function of DNA
+                                                                        37. Angell, S. M. & Baulcombe, D. C. Consistent gene silencing          essential component of a self-enforcing loop coupling
+      methyltransferases. Annu. Rev. Biophys. Biomol. Struct. 24,
+                                                                            in transgenic plants expressing a replicating potato virus X        heterochromatin assembly to siRNA production. Proc. Natl
+      293–318 (1995).
+                                                                            RNA. EMBO J. 16, 3675–3684 (1997).                                  Acad. Sci. USA 102, 152–157 (2005).
+14.   Bird, A. DNA methylation patterns and epigenetic memory.
+                                                                        38. Dalmay, T., Hamilton, A., Mueller, E. & Baulcombe, D. C.        60. Motamedi, M. R. et al. Two RNAi complexes, RITS and
+      Genes Dev. 16, 6–21 (2002).
+                                                                            Potato virus X amplicons in Arabidopsis mediate genetic             RDRC, physically interact and localize to noncoding
+15.   Stokes, T. L., Kunkel, B. N. & Richards, E. J. Epigenetic
+                                                                            and epigenetic gene silencing. Plant Cell 12, 369–379               centromeric RNAs. Cell 119, 789–802 (2004).
+      variation in Arabidopsis disease resistance. Genes Dev. 16,
+                                                                            (2000).                                                         61. Herr, A. J., Jensen, M. B., Dalmay, T. & Baulcombe, D. C.
+      171–182 (2002).
+                                                                        39. Meister, G. & Tuschl, T. Mechanisms of gene silencing by            RNA polymerase IV directs silencing of endogenous DNA.
+16.   Bender, J. & Fink, G. R. Epigenetic control of an
+                                                                            double-stranded RNA. Nature 431, 343–349 (2004).                    Science 24 February 2005 (doi:10.1126/science.1106910).
+      endogenous gene family is revealed by a novel blue
+                                                                        40. Mourrain, P. et al. Arabidopsis SGS2 and SGS3 genes are         62. Onodera, Y. et al. Plant nuclear RNA polymerase IV mediates
+      fluorescent mutant of Arabidopsis. Cell 83, 725–734 (1995).           required for posttranscriptional gene silencing and natural         siRNA and DNA methylation-dependent heterochromatin
+17.   Kinoshita, T. et al. One-way control of FWA imprinting in             virus resistance. Cell 101, 533–542 (2000).                         formation. Cell 120, 613–622 (2005).
+      Arabidopsis endosperm by DNA methylation. Science 303,            41. Dalmay, T., Horsefield, R., Braunstein, T. H. &                     References 61 and 62 provide an exciting role for RNA
+      521–523 (2004).                                                       Baulcombe, D. C. SDE3 encodes an RNA helicase                       pol IV in transcriptional silencing and support a model
+      Demonstrates that FWA is a maternally imprinted gene                  required for post-transcriptional gene silencing in                 in which surveillance transcription is used to direct
+      in the endosperm. Monoallelic expression is controlled                Arabidopsis. EMBO J. 20, 2069–2078 (2001).                          DNA methylation.
+      by DME and involves demethylation, establishing a                 42. Dalmay, T., Hamilton, A., Rudd, S., Angell, S. &                63. Fransz, P., De Jong, J. H., Lysak, M., Castiglione, M. R. &
+      new model of ‘one-way’ imprinting in plants.                          Baulcombe, D. C. An RNA-dependent RNA polymerase                    Schubert, I. Interphase chromosomes in Arabidopsis are
+18.   Lawrence, R. J. et al. A concerted DNA methylation/histone            gene in Arabidopsis is required for posttranscriptional gene        organized as well defined chromocenters from which
+      methylation switch regulates rRNA gene dosage control and             silencing mediated by a transgene but not by a virus. Cell          euchromatin loops emanate. Proc. Natl Acad. Sci. USA 99,
+      nucleolar dominance. Mol. Cell 13, 599–609 (2004).                    101, 543–553 (2000).                                                14584–14589 (2002).
+19.   Ramsahoye, B. H. et al. Non-CpG methylation is prevalent          43. Mochizuki, K., Fine, N., Fujisawa, T. & Gorovsky, M. Analysis   64. Soppe, W. J. et al. DNA methylation controls histone H3
+      in embryonic stem cells and may be mediated by DNA                    of a piwi-related gene implicates small RNAs in genome              lysine 9 methylation and heterochromatin assembly in
+      methyltransferase 3a. Proc. Natl Acad. Sci. USA 97,                   rearrangement in Tetrahymena. Cell 110, 689 (2002).                 Arabidopsis. EMBO J. 21, 6549–6559 (2002).
+      5237–5242 (2000).                                                 44. Yao, M. C., Fuller, P. & Xi, X. Programmed DNA deletion as      65. Ronemus, M. J., Galbiati, M., Ticknor, C., Chen, J. &
+20.   Hirochika, H., Okamoto, H. & Kakutani, T. Silencing of                an RNA-guided system of genome defense. Science 300,                Dellaporta, S. L. Demethylation-induced developmental
+      retrotransposons in Arabidopsis and reactivation by the               1581–1584 (2003).                                                   pleiotropy in Arabidopsis. Science 273, 654–657
+      ddm1 mutation. Plant Cell 12, 357–369 (2000).                     45. Taverna, S., Coyne, R. & Allis, C. Methylation of histone H3        (1996).
+21.   The Arabidopsis Genome Initiative. Analysis of the genome             at lysine 9 targets programmed DNA elimination in               66. Finnegan, E. J., Peacock, W. J. & Dennis, E. S. Reduced
+      sequence of the flowering plant Arabidopsis thaliana. Nature          Tetrahymena. Cell 110, 701 (2002).                                  DNA methylation in Arabidopsis thaliana results in abnormal
+      408, 796–815 (2000).                                              46. Volpe, T. A. et al. Regulation of heterochromatic silencing         plant development. Proc. Natl Acad. Sci. USA 93,
+22.   Lippman, Z. et al. Role of transposable elements in                   and histone H3 lysine-9 methylation by RNAi. Science 297,           8449–8454 (1996).
+      heterochromatin and epigenetic control. Nature 430,                   1833–1837 (2002).                                               67. Saze, H., Scheid, O. M. & Paszkowski, J. Maintenance of
+      471–476 (2004).                                                       Pioneering study revealing that small RNAs in the                   CpG methylation is essential for epigenetic inheritance during
+      Large-scale analysis of the heterochromatic knob on                   RNAi pathway can transcriptionally silence genes                    plant gametogenesis. Nature Genet. 34, 65–69 (2003).
+      chromosome 4 that provides new insight into the                       and are required for centromeric heterochromatin                    Null met1 mutants display immediate effects on gene
+      relationships between DNA methylation, histone                        in S. pombe.                                                        silencing owing to a loss of DNA methylation in the
+      modifications and small RNAs.                                     47. Kawasaki, H. & Taira, K. Induction of DNA methylation and           gametophytic generation. Reference 81 extends this
+23.   Craig, N. L., Craigie, R. C., Gellert, M. & Lambowitz, A. M.          gene silencing by short interfering RNAs in human cells.            study to reveal that CG methylation also controls
+      Mobile DNA II 3–12 (American Society for Microbiology,                Nature 431, 211–217 (2004).                                         non-CG methylation and histone methylation.
+      Washington DC, 2002).                                             48. Morris, K. V., Chan, S. W., Jacobsen, S. E. & Looney, D. J.     68. Kankel, M. W. et al. Arabidopsis MET1 Cytosine
+24.   Cao, X. & Jacobsen, S. E. Locus-specific control of                   Small interfering RNA-induced transcriptional gene silencing        methyltransferase mutants. Genetics 163, 1109–1122 (2003).
+      asymmetric and CpNpG methylation by the DRM and                       in human cells. Science 305, 1289–1292 (2004).                  69. Jacobsen, S. E., Sakai, H., Finnegan, E. J., Cao, X. &
+      CMT3 methyltransferase genes. Proc. Natl Acad. Sci. USA           49. Matzke, M. A. & Birchler, J. A. RNAi-mediated pathways in           Meyerowitz, E. M. Ectopic hypermethylation of flower-specific
+      99, 16491–16498 (2002).                                               the nucleus. Nature Rev. Genet. 6, 24–35 (2005).                    genes in Arabidopsis. Curr. Biol. 10, 179–186 (2000).
+
+
+
+
+NATURE REVIEWS | GENETICS                                                                                                                                             VOLUME 6 | MAY 2005 | 3 5 9
+                                                                                  © 2005 Nature Publishing Group
+REVIEWS
+
+
+70. Kakutani, T., Jeddeloh, J. A., Flowers, S. K., Munakata, K. &      91. Fuks, F. et al. The methyl-CpG-binding protein MeCP2 links       111. Schramke, V. & Allshire, R. Hairpin RNAs and
+    Richards, E. J. Developmental abnormalities and epimutations            DNA methylation to histone methylation. J. Biol. Chem. 278,          retrotransposon LTRs effect RNAi and chromatin-based
+    associated with DNA hypomethylation mutations. Proc. Natl               4035–4040 (2003).                                                    gene silencing. Science 301, 1069–1074 (2003).
+    Acad. Sci. USA 93, 12406–12411 (1996).                             92. Aufsatz, W., Mette, M. F., Van Der Winden, J., Matzke, A. J. &   112. Gong, Z. et al. ROS1, a repressor of transcriptional gene
+71. Jeddeloh, J. A., Stokes, T. L. & Richards, E. J. Maintenance            Matzke, M. RNA-directed DNA methylation in Arabidopsis.              silencing in Arabidopsis, encodes a DNA glycosylase/lyase.
+    of genomic methylation requires a SWI2/SNF2-like protein.               Proc. Natl Acad. Sci. USA 99, 16499–16506 (2002).                    Cell 111, 803–814 (2002).
+    Nature Genet. 22, 94–97 (1999).                                    93. Jones, L., Ratcliff, F. & Baulcombe, D. C. RNA-directed               An exciting report that characterizes a role for DNA
+72. Brzeski, J. & Jerzmanowski, A. Deficient in DNA methylation 1           transcriptional gene silencing in plants can be                      glyscosylase/lyase protein ROS1 in antagonizing DNA
+    (DDM1) defines a novel family of chromatin-remodeling                    inherited independently of the RNA trigger and requires             methylation and gene silencing. The first genetic
+    factors. J. Biol. Chem. 278, 823–828 (2003).                            Met1 for maintenance. Curr. Biol. 11, 747–757 (2001).                characterization of the much sought after DNA
+73. Gendrel, A. V., Lippman, Z., Yordan, C., Colot, V. &               94. Aufsatz, W., Mette, M. F., Matzke, A. J. & Matzke, M. The             demethylation pathway.
+    Martienssen, R. A. Dependence of heterochromatic histone                role of MET1 in RNA-directed de novo and maintenance            113. Krokan, H. E., Standal, R. & Slupphaug, G. DNA
+    H3 methylation patterns on the Arabidopsis gene DDM1.                   methylation of CG dinucleotides. Plant Mol. Biol. 54,                glycosylases in the base excision repair of DNA. Biochem. J.
+    Science 297, 1871–1873 (2002).                                          793–804 (2004).                                                      325 (Part 1), 1–16 (1997).
+74. Johnson, L., Cao, X. & Jacobsen, S. Interplay between two          95. Wada, Y., Ohya, H., Yamaguchi, Y., Koizumi, N. & Sano, H.        114. Choi, Y. et al. DEMETER, a DNA glycosylase domain
+    epigenetic marks. DNA methylation and histone H3 lysine 9               Preferential de novo methylation of cytosine residues in             protein, is required for endosperm gene imprinting and seed
+    methylation. Curr. Biol. 12, 1360–1367 (2002).                          non-CpG sequences by a domains rearranged DNA                        viability in Arabidopsis. Cell 110, 33–42 (2002).
+75. Lippman, Z., May, B., Yordan, C., Singer, T. & Martienssen, R.          methyltransferase from tobacco plants. J. Biol. Chem. 278,           DEMETER is a DNA glycosylase/lyase protein,
+    Distinct mechanisms determine transposon inheritance and                42386–42393 (2003).                                                  related to ROS1, that has a specialized function in
+    methylation via small interfering RNA and histone                  96. Gruenbaum, Y., Naveh-Many, T., Cedar, H. & Razin, A.                  control of monoallelic expression states. Together
+    modification. PLoS Biol. 1, e67 (2003).                                 Sequence specificity of methylation in higher plant DNA.             with reference 17, this paper provides new
+76. Dennis, K., Fan, T., Geiman, T., Yan, Q. & Muegge, K. Lsh, a            Nature 292, 860–862 (1981).                                          mechanistic insight into imprinting and a putative
+    member of the SNF2 family, is required for genome-wide             97. Jacobsen, S. E. & Meyerowitz, E. M. Hypermethylated                   demethylation pathway.
+    methylation. Genes Dev. 15, 2940–2944 (2001).                           SUPERMAN epigenetic alleles in Arabidopsis. Science 277,        115. Grossniklaus, U., Vielle-Calzada, J. P., Hoeppner, M. A. &
+77. Aufsatz, W., Mette, M. F., Van Der Winden, J., Matzke, M. &             1100–1103 (1997).                                                    Gagliano, W. B. Maternal control of embryogenesis by
+    Matzke, A. J. HDA6, a putative histone deacetylase needed          98. Henikoff, S. & Comai, L. A DNA methyltransferase homolog              MEDEA, a polycomb group gene in Arabidopsis. Science
+    to enhance DNA methylation induced by double-stranded                   with a chromodomain exists in multiple polymorphic forms in          280, 446–450 (1998).
+    RNA. EMBO J. 21, 6832–41 (2002).                                        Arabidopsis. Genetics 149, 307–318 (1998).                      116. Xiao, W. et al. Imprinting of the MEA Polycomb gene is
+78. Murfett, J., Wang, X. J., Hagen, G. & Guilfoyle, T. J.             99. Bartee, L., Malagnac, F. & Bender, J. Arabidopsis cmt3                controlled by antagonism between MET1 methyltransferase
+    Identification of Arabidopsis histone deacetylase HDA6                  chromomethylase mutations block non-CG methylation and               and DME glycosylase. Dev. Cell 5, 891–901 (2003).
+    mutants that affect transgene expression. Plant Cell 13,                silencing of an endogenous gene. Genes Dev. 15,                 117. Tompa, R. et al. Genome-wide profiling of DNA methylation
+    1047–10461 (2001).                                                      1753–1758 (2001).                                                    reveals transposon targets of CHROMOMETHYLASE 3.
+79. Probst, A. V. et al. Arabidopsis histone deacetylase HDA6 is            See reference 82.                                                    Curr. Biol. 12, 65–68 (2002).
+    required for maintenance of transcriptional gene silencing         100. Melquist, S. & Bender, J. Transcription from an upstream        118. Mockler, T. C. et al. Applications of DNA tiling arrays for
+    and determines nuclear organization of rDNA repeats. Plant              promoter controls methylation signaling from an inverted             whole-genome analysis. Genomics 85, 1–15 (2005).
+    Cell 16, 1021–1034 (2004).                                              repeat of endogenous genes in Arabidopsis. Genes Dev. 17,       119. Vongs, A., Kakutani, T., Martienssen, R. A. & Richards, E. J.
+80. Kurdistani, S. K. & Grunstein, M. Histone acetylation and               2036–2047 (2003).                                                    Arabidopsis thaliana DNA methylation mutants. Science
+    deacetylation in yeast. Nature Rev. Mol. Cell Biol. 4,             101. Papa, C. M., Springer, N. M., Muszynski, M. G., Meeley, R.           260, 1926–1928 (1993).
+    276–284 (2003).                                                         & Kaeppler, S. M. Maize chromomethylase Zea                          Groundbreaking forward genetic screen for DNA
+81. Tariq, M. et al. Erasure of CpG methylation in Arabidopsis              methyltransferase 2 is required for CpNpG methylation.               methylation mutants in A. thaliana, which isolated key
+    alters patterns of histone H3 methylation in                            Plant Cell 13, 1919–1928 (2001).                                     factors controlling CG DNA methylation.
+    heterochromatin. Proc. Natl Acad. Sci. USA 100,                    102. Jackson, J. P., Lindroth, A. M., Cao, X. & Jacobsen, S. E.      120. Bao, N., Lye, K. W. & Barton, M. K. MicroRNA binding sites
+    8823–8827 (2003).                                                       Control of CpNpG DNA methylation by the KRYPTONITE                   in Arabidopsis class III HD-ZIP mRNAs are required for
+    See reference 67.                                                       histone H3 methyltransferase. Nature 416, 556–560 (2002).            methylation of the template chromosome. Dev. Cell 7,
+82. Lindroth, A. M. et al. Requirement of                                   See reference 58.                                                    653–662 (2004).
+    CHROMOMETHYLASE 3 for maintenance of CpXpG                         103. Lindroth, A. M. et al. Dual histone H3 methylation marks        121. Ashapkin, V. V., Kutueva, L. I. & Vanyushin, B. F. The gene
+    methylation. Science 292, 2077–2080 (2001).                             at lysines 9 and 27 required for interaction with                    for domains rearranged methyltransferase (DRM2) in
+    Together with reference 99, this paper genetically                      CHROMOMETHYLASE 3. EMBO J. 23, 4286–4296                             Arabidopsis thaliana plants is methylated at both cytosine
+    characterizes CMT3 as the plant methyltransferase                       (2004).                                                              and adenine residues. FEBS Lett. 532, 367–372 (2002).
+    that functions to maintain CNG DNA methylation.                    104. Jackson, J. P. et al. Dimethylation of histone H3 lysine 9 is
+83. Finnegan, E. J. & Dennis, E. S. Isolation and identification by         a critical mark for DNA methylation and gene silencing          Acknowledgements
+    sequence homology of a putative cytosine                                in Arabidopsis thaliana. Chromosoma 112, 308–315                We apologize to the many authors whose work was not cited
+    methyltransferase from Arabidopsis thaliana. Nucleic Acids              (2004).                                                         because of space limitations. DNA-methylation studies in our
+    Res. 21, 2383–2388 (1993).                                         105. Citterio, E. et al. Np95 is a histone-binding protein endowed   laboratory have been supported by Searle Scholar, Beckman
+84. Kishimoto, N. et al. Site specificity of the Arabidopsis METI           with ubiquitin ligase activity. Mol. Cell Biol. 24, 2526–2535   Young Investigator and National Institutes of Health grants to
+    DNA methyltransferase demonstrated through                              (2004).                                                         S.E.J. S.W.-L.C. is a DoE Energy Biosciences fellow of the Life
+    hypermethylation of the superman locus. Plant Mol. Biol. 46,       106. Tamaru, H. & Selker, E. U. A histone H3 methyltransferase       Sciences Research Foundation. I.R.H. is supported by an EMBO
+    171–183 (2001).                                                         controls DNA methylation in Neurospora crassa. Nature           postdoctoral fellowship.
+85. Scebba, F. et al. Arabidopsis MBD proteins show different               414, 277–283 (2001).
+    binding specificities and nuclear localization. Plant Mol. Biol.        The first clear genetic demonstration that DNA                  Competing interests statement
+    53, 715–731 (2003).                                                     methylation can be controlled by histone methylation.           The authors declare no competing financial interests.
+86. Ito, M., Koike, A., Koizumi, N. & Sano, H. Methylated              107. Cao, R. et al. Role of histone H3 lysine 27 methylation in
+    DNA-binding proteins from Arabidopsis. Plant Physiol. 133,              Polycomb-group silencing. Science 298, 1039–1043
+    1747–1754 (2003).                                                       (2002).
+87. Berg, A. et al. Ten members of the Arabidopsis gene family         108. Plath, K. et al. Role of histone H3 lysine 27 methylation in
+                                                                                                                                                   Online links
+    encoding methyl-CpG-binding domain proteins are                         X inactivation. Science 300, 131–135 (2003).
+                                                                                                                                            DATABASES
+    transcriptionally active and at least one, AtMBD11, is crucial     109. Kanno, T. et al. Involvement of putative SNF2 chromatin
+                                                                                                                                            The following terms in this article are linked online to:
+    for normal development. Nucleic Acids Res. 31, 5291–5304                remodeling protein DRD1 in RNA-directed DNA methylation.
+    (2003).                                                                 Curr. Biol. 14, 801–805 (2004).                                 The Arabidopsis Information Resource:
+88. Zemach, A. & Grafi, G. Characterization of Arabidopsis                  Intriguing report describing a role for chromatin               http://www.arabidopsis.org/servlets/Search?action=new_search
+    thaliana methyl-CpG-binding domain (MBD) proteins. Plant J.             remodelling in RNA-directed methylation. DRD1                   &type=gene
+    34, 565–572 (2003).                                                     appears to be specialized for the control of                    AG | AGO4 | BAL | CMT3 | DCL3 | DDM1 | DRM1 | DRM2 | FWA |
+89. Ng, H. H. et al. MBD2 is a transcriptional repressor                    methylation at non-CG sequences.                                HDA6 | HDT1 | KYP | LHP1 | MEDEA | MET1 | PAI1 | PAI2 | PAI4 |
+    belonging to the MeCP1 histone deacetylase complex.                110. Zilberman, D., Cao, X. & Jacobsen, S. E. ARGONAUTE 4            RDR2 | ROS1 | RPD1 | SUP
+    Nature Genet. 23, 58–61 (1999).                                         control of locus-specific siRNA accumulation and DNA and
+90. Fuks, F., Hurd, P. J., Deplus, R. & Kouzarides, T. The DNA              histone methylation. Science 299, 716–719 (2003).               FURTHER INFORMATION
+    methyltransferases associate with HP1 and the SUV39H1                   An ARGONAUTE protein controls DNA methylation at                Jacobsen laboratory home page:
+    histone methyltransferase. Nucleic Acids Res. 31,                       a transcriptionally silenced gene, linking RNAi and             http://www.mcdb.ucla.edu/Research/Jacobsen/index.html
+    2305–2312 (2003).                                                       heterochromatin in A. thaliana.                                 Access to this interactive links box is free online.
+
+
+
+
+360   | MAY 2005 | VOLUME 6                                                                                                                                      www.nature.com/reviews/genetics
+                                                                                 © 2005 Nature Publishing Group
+

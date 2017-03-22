@@ -1,0 +1,636 @@
+THE   JOURNAL
+            OFBro~oorcar. CHEMISTRY
+         Vol.     236, No. 5, May     1961
+                P&&d      in U.S.A.
+
+
+
+
+                 A Method for Determining     the Sedimentation   Behavior
+                      of Enzymes: Application    to Protein Mixtures
+                                                     ROBERT       G. MARTIN*            AND BRUCE N. AMES
+
+                      From the National Institute of Arthritis and Metabolic Diseases,National Institutes of Health,
+                                         United States Public Health Service, Bethesda, Maryland
+
+                                                     (Received for publication, December 5, 1960)
+
+
+    During an investigation           of the gene-enzyme relationships            in                         EXPERIMENTAL      PROCEDURE
+
+histidine biosynthesis         in Xalmonella         typhimurium, it became                  Materials and AssaysLyophilized        yeast alcohol dehydro-
+ desirable to determine, in crude extracts, the approximate mo-                         genase obtained from Worthington          Biochemical     Corporation
+
+
+
+
+                                                                                                                                                                    Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+lecular weights of several enzymes. We have found sucrose                               was dissolved in 0.05 M Tris-HCl buffer, pH 7.5, to a concentra-
+ gradient centrifugation        to be a suitable method for determining                 tion of 10 mg per ml and stored at 3”. Before use on the sucrose
+ sedimentation      coefficients of enzymes in protein mixtures.                   A    gradient it was diluted to 0.20 mg per ml with the Tris buffer.
+ variety of enzymes of known properties have been studied in the                        The dehydrogenase was assayed in a Cary spectrophotometer
+ development of the method.                                                             by following the increase in absorption at 340 rnp for 20 seconds
+    Although the separation cell of Yphantis and Waugh (1) has                          of a l-ml reaction mixture containing 170 pmoles of ethanol, 50
+ been demonstrated         to be applicable to the determination                   of   pmoles of Tris, pH 8.5, 15 pmoles of DPN, and 5 to 20 ~1 of
+ molecular weights when multiprotein                   solutions are used, the          enzyme fraction.       Units of activity were expressed in terms of
+ present method has several advantages over that system and                             change in absorbancy per 20 seconds per 10 ~1 of enzyme frac-
+ these advantages will be discussed.                                                    tion.
+    Sucrose gradient centrifugation,              using the swinging bucket                  Lyophilized egg white lysozyme (Worthington,       twice crystal-
+ head of the preparative           ultracentrifuge,       has been used exten-          lized) was dissolved in 0.05 M Tris buffer, pH 7.5, to a concen-
+ sively in the determination             of sedimentation        constants of vi-       tration of 100 mg per ml and stored at 3”. Before use it was
+ ruses, mitochondria,        microsomes, and ribosomes (2, 3). The                      diluted to 5 mg per ml in this buffer. Lysozyme was assayed
+ adaptation     of this method to relatively low molecular weight                       by following the decrease in turbidity at 650 rnp of a l-ml reac-
+ substances is reported here.                                                           tion mixture containing 10 pmoles of Tris, pH 8.0, and enough
+     In the sucrose gradient technique the sample to be studied is                       Micrococcus Zysodeikticus cell walls (Difco Laboratories,      Bacto-
+ layered on a gradient and materials of different sedimentation                         lysozyme substrate) to give an absorbancy of approximately            2.0
+ properties separate from each other during the centrifugation.                          absorbancy units in the Cary spectrophotometer.          The reaction
+ A hole is then punched in the bottom of the centrifuge tube and                         was started with 5 to 20 ~1 of enzyme fraction and activity was
+ fractions are collected and analyzed.                                                   expressed in terms of the change in absorbancy per 20 seconds
+     With slight modifications in the design of the apparatus for                        per 10 ~1 of enzyme fraction.
+ gradient     production      and fractionation,           we have found the                 Beef liver catalase was obtained as an aqueous ammonium
+ method to be simple and accurate.                  Sedimentation      coefficients      sulfate suspension of approximately      40 mg per ml of protein
+ have been determined for a number of well characterized                         en-      (Worthington).     Before use, it was diluted to 0.40 mg per ml
+ zymes as well as a sample of ribonucleic acid, and the results                          in 0.05 M Tris buffer, pH 7.5. Catalase was assayed by follow-
+ are in good agreement with the values reported by others. The                           ing the decrease in absorbancy at 240 rnp of a 3-ml reaction
+ same values have been obtained whether the enzymes were                                 mixture containing      30 amoles of potassium phosphate buffer
+ analyzed as pure proteins or mixed with crude extracts.                                 at pH 7.5, 18 pmoles of HzOl, and 5 to 20 ~1 of enzyme fraction.
+     Although    sedimentation         coefficients were directly calculated              Activities were calculated in terms of change in absorbancy per
+ for a variety of substances in order to determine the accuracy of                        20 seconds per 5 ~1 of enzyme fraction.
+ the method, in general use the procedure may be simplified.                                 All enzyme assays were approximately       linear in the concen-
+  The sedimentation       coefficient (or approximate molecular weight)                   tration ranges used.
+ of an unknown enzyme may be determined by a simple ratio of                                 Soluble RNA from rabbit liver in a concentration       of approxi-
+ mobilities when a standard well characterized                  enzyme has been           mately 6.5 mg per ml (130 absorbancy units per ml at 260 rnp)
+  added to the protein mixture.                                                           was kindly supplied by Dr. Samuel Luborsky.          The RNA was
+     With the use of this technique the sedimentation                  behavior of        stored at -15” and diluted with 2 volumes of water before use.
+  several of the enzymes in the pathway of histidine biosynthesis                         It was assayed by its absorption at 260 rnp.
+  in S. typhimurium has been determined.                                                     Extracts and Assays of His&line BiosyntheticEnzymes-The
+                                                                                          histidine mutants were obtained from Dr. P. E. Hartman.           The
+    * This work was begun during service as an officer in the United
+ States Public Health Service under the Commissioned Officers:                            medium, growth of strains, preparation      of Nossal extracts, and
+ Student Training and Extern Program (CO-STEP).                                           assays have been previously described (4) with the exception
+
+                                                                                    1372
+May    1961                                                    R. G. Martin and B. N. Ames                                                           1373
+
+that histidinol was substituted for histidine in the growth media        one chamber and the block rocked back and forth to free air
+of the histidine-requiring        mutants.1                              bubbles that might have been caught in the passage between
+                                                Crude, undialyzed extracts
+were usually placed directly on the sucrose gradient.                    the two chambers.
+                                                                       In some                       The stopcock was then turned to the closed
+cases the extract was subjected to Sephadex gel filtration               position and the two chambers were emptied and wiped dry.
+                                                                              (5)
+by passing 1 ml of extract through a l- X 5-cm column contain-           The block was placed in a clamp, the stirrer adjusted, the out-
+ing 1 g of Sephadex G-25 (Pharmacia                     Company,         flow tubing bent upward so that its tip was above the top of
+                                                                       Uppsala,
+Sweden), equilibrated          with 0.01 M Tris, pH 7.5. The protein     the chambers, and each of the two chambers was filled with 2.3
+ solution was eluted with the Tris buffer, and the 1.2 ml which          ml of sucrose-buffer solution of the desired concentration.                    In
+ contained the protein free from salt were collected.                    all the experiments reported here, 20% (weight per volume) of
+    In order to obtain a partial purification                            cold sucrose (0.584 M) in 0.05 M Tris-HCl buffer at pH 7.5 was
+                                                         of the histidine en-
+ zymes, a DEAE-cellulose           (6) column similar to that previously placed in the mixing chamber and 5% (weight per volume) of
+ described was used (7). SaZmonelZa             hisG-46 mutant cells werecold sucrose (0.146 M) in 0.05 M Tris-HCl buffer at pH 7.5 was
+ grown and harvested.            The cells were suspended in 10 ml of    placed in the adjacent chamber.                 The rotor was started, the
+ TSM buffer2 and subjected to sonic oscillation for 10 minutes           stopcock opened, and the tip of the outflow tube placed at the
+ at 0” in a lo-kc Raytheon sonic oscillator.                             top of a Lusteroid centrifuge tube. Occasionally gentle suction
+                                                             The extract was
+ spun at 25,000 x 9 for 45 minutes and the supernatant                    was required to start the flow. To assure linearity of the gra-
+                                                                            was
+ passed through a 3- x 21-cm, 20-g Sephadex G-25 column which             dient, care was taken to observe that the fluid levels in the two
+
+
+
+
+                                                                                                                                                               Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+ had been equilibrated        with TSM buffer. The fractions showing      chambers were equal during emptying.
+ appreciable activity were combined.               (The specific activity of  In initial experiments the production             of gradients was tested
+ this sonicated extract was approximately                                 by mixing dichlorophenolindophenol
+                                                       the same as the spe-                                                    with the 20 y0 sucrose
+ cific activities obtained on the Nossal extracts,)                       solution.
+                                                                  The enzyme             Perfectly linear plots of absorbancy at 600 mp against
+ was then purified on a 2- x 25-cm, 8.3-g gravity-packed                  fraction number were obtained when 44 fractions were collected.
+                                                                         DEAE-
+ cellulose column, washed according to Peterson and Sober (6),            Gradients were stable for at least 48 hours. A 0.05-ml hold-up
+ and equilibrated       with TSM buffer. The enzyme extract (20           volume in the apparatus resulted in the delivery of only 4.55
+ ml) was washed into the column with 5 ml of TSM buffer and               ml to the centrifuge tube.
+ then eluted with a linear 0.00 to 0.80 M NaCl gradient in TSM                Layering of Sample-The            gradients were stored in a 3” cold
+ buffer. Fractions of approximately            2.3 ml were collected everyroom for 4 to 18 hours before use. TO start a run, the substance
+ 90 seconds. Protein concentrations             were determined according to be studied was diluted to the desired concentration                  and 0.10
+ to the method of Lowry et al. (8). As previously reported (7),           ml was layered on the gradient; care was taken to avoid bubble
+ complete separation of histidinol           dehydrogenase and imidazole  formation.        It is essential that the material to be layered on
+ acetol phosphate transaminase            from each other and from the    the gradient float on 5% sucrose. To insure convection-free
+ histidinol    phosphate phosphatase-imidazole                            sedimentation,
+                                                          glycerol phosphate                   protein solutions of considerably            less than 5%
+ dehydrase peak was obtained.             The ratio of phosphatase activ-  (approximately       2% or less) must be used (3). A sharp inter-
+ ity to dehydrase activity was constant throughout                        face between the sucrose and protein solution was always ob-
+                                                                     the eluted
+ fractions (7). A IO-fold increase in specific activity was ob-           served and this interface remained distinct for the several min-
+ tained for each of the enzymes. The fractions with maximal               utes required to load the centrifuge tubes into the rotor buckets.
+ activity had a 450-fold higher specific activity than wild-type               Centrifugation-The         characteristics      and dimensions of the
+ and contained less than 2.5% nucleic acid based on their 280 to           swinging bucket rotor SW-39 designed to fit the model L Spinco
+  260 rnh ratio of 1.1 (9).                                                centrifuge (Beckman Instruments,               Inc., Spinco Division, Palo
+     Apparatus for Making Sucrose Gradients-A                             Alto, California) have been described (lo), as have the errors
+                                                               modification     of
+  the simple design of Britten and Roberts (3) was used to pro-            resulting from the use of nonsector-shaped               centrifuge tubes (2).
+  duce linear sucrose gradients.          Their design consists of a block The total volume used in these experiments was 4.65 ml (4.55-ml
+  of Lucite containing two chambers that are connected at the              gradient plus O.l-ml sample) and the distance from rotor center
+  bottom by a removable screw pin. An outflow tube extends                 to meniscus, allowing 0.01 cm for rotor stretch and 0.03 cm for
+  from one chamber.          This basic design was altered only in that    radial shift of the meniscus, was calculated to be 6.02 cm (10).
+  a stopcock was introduced between the two chambers to replace            Further correction is required because the protein layer is not
+  the screw pin. We employed a polyethylene outflow tube which             infinitesimally     thin.    It was assumed that the protein moves
+  was drawn out in a flame so that emptying time with 2.3 ml of            from the middle of the layer. The calculated distance from the
+  sucrose in each chamber was approximately                 10 minutes.    rotor center to the middle of the protein layer was 6.06 cm.
+                                                                             The
+  chamber next to the outflow tube was stirred with a platinum                 Because of the stability rendered to the solution by the sucrose
+  bacteriological    inoculating loop which was mounted on a motor.        gradient (2, 3) very much less care was needed in the operation
+   The stirring speed was adjusted to give good mixing with mini-          of the centrifuge than described by Hogeboom and Kuff (10).
+   mal disturbance of the meniscus.                                         The rotor was accelerated very slowly for approximately                       10
+      The apparatus was filled by turning the stopcock to the               seconds to eliminate the initial lash given to the rotor by the
+   open position       so that free flow existed between the two            drive shaft when the two were not fully engaged.                    After this,
+   chambers.      The less dense sucrose solution was then added to         the r.p.m. control knob was immediately turned to full speed, a
+                                                                            setting of 39,000 r.p.m.         The rotor was decelerated by turning
+     1 Specific activities for the histidine enzymes up to 40 times wild    the time knob to zero and allowing the rotor to coast to a halt
+ type have been observed when Salmonella         his mutants are grown
+                                                                            with the brake off.
+ on 0.05 rnM histidinol .
+     * TSM buffer: 0.01 M Tris (free base), 0.005 M magnesium ace-             It is worthy of note that accurate calculations of rotor speed
+ ta,te, and 0.004 M succinic acid, the pH adjusted with NaOH to 7.6, must be based on the odometer readings; the speed setting and
+1374                                                   Sedimentation      Behavior      of Enzymes                                                      Vol. 236, No. 5
+
+tachometer are unreliable.3          During relatively long runs (over                                             FRACTIONATOR
+4 hours), the rotor speed tends to vary somewhat.                     Conse-
+ quently, for each centrifugation           the odometer was read before
+starting and at the time when deceleration was begun so that an
+average speed was obtained.             The time was then corrected to
+the equivalent time of centrifugation              at 38,000 r.p.m. by the
+equation, (r.p.m.)tti       = (r.p.m.)$z.       The time of centrifugation
+was taken as the period from the start of acceleration of the                                                          THIS END OF END
+rotor to the start of deceleration.           Deceleration took 13 minutes
+from full speed, and integration of the plot of time against speed                                                     LUSTEROIDTUBE BEING
+during deceleration gave an estimated 41 minutes of centrifuga-                                                        LOWEREDINTO POSITION
+tion at 38,000 r.p.m.         Acceleration     took 4 minutes, which was
+equivalent      to 24 minutes of centrifugation             at 38,000 r.p.m.
+Therefore, 3 minutes were added to the time of centrifugation.                                                         CUT OFF END OF
+    Another troublesome aspect of the centrifuge was the main-                                                         CENTRIFUGETUBE
+tenance of a constant temperature               during the centrifugation,                                             BOTTOM END PIECE
+this perhaps because our instrument              was not equipped with an
+
+
+
+
+                                                                                                                                                                                    Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+auxiliary ultrahigh vacuum system. Successful runs at 3” in the
+swinging bucket rotor were accomplished only by precooling the
+rotor chamber (with the vacuum on) to its lowest setting (-18”                      FIG. 1. A Nalgene drying tube with two end pieces (No. 1251 B,
+on our instrument).          The precooled head (3”) was then rapidly           Phipps & Bird, Inc., Richmond, Virginia) was cut to 2.5 inches.
+loaded into the centrifuge.           With the above precautions, the           A Nalgene centrifuge tube, 100 X 16 mm (No. 1210-1, Phipps &
+                                                                                Bird, Inc.) with an internal diameter which just allowed easy
+temperature       increase of the samples during 17 hours of centri-            passage     of the Lusteroid          centrifuge      tube was cut to a 1.5.inch
+fugation could be kept to less than O.8o.4                                      hollow    cylinder.         This cylinder       was forced     into the drying             tube
+    Sampling-In        their work with CsCl gradient centrifugation,            far enough       to allow the bottom             end piece of the drying               tube to
+Weigle et al. (11) emptied centrifuge tubes progressively and                   rest against       the cylinder      when the end niece was inserted                     in the
+                                                                                drying   tube.        The bottom      end piece was-then          fitted with a No. 00
+uniformly by punching a hole in the bottom of each tube with a                  rubber     stopper       carefully    whittled      to fit snugly.            On this was
+needle and collecting the drops. We have devised a simple                       placed a circular         piece of soft rubber       with a diameter            equal to the
+fractronator,      based on this principle, which yields a constant             internal     diameter        of the end piece.          A 21.gauge         syringe       needle
+number of drops from the 4.65 ml in each tube5 (Fig. 1). In                      with the adapter         end broken      off and the sharp end filed down to a
+                                                                                 double   bevel was forced          up through       the rubber         stopper      and soft
+operation, the bottom end piece with its needle was carefully
+                                                                                rubber     gasket      so that it protruded           1 mm above            the latter.         A
+cleaned and forced into place. After the fractionator had been                  cork with a &mm diameter               bore through      it was placed in the upper
+placed in a clamp, the Lusteroid centrifuge tube was carefully                  end piece and cut off so that it was even with the plastic                            ridge of
+lowered into the apparatus with a pair of forceps. The upper                    the end piece.          The upper end piece was then fitted with a rubber
+end piece was positioned and pressed down, forcing the Lusteroid                hose to a 50-ml syringe.
+tube through the needle and starting the flow of drops. The
+rate of flow could be controlled by the syringe and was kept at                 0.4 ~1. As an added precaution to maintain                           drop size, the needle
+approximately        1 drop per second. A soft rubber gasket pre-               was frequently cleaned with a stylette.
+vented leakage around the needle. With the system described
+above, it was possible to collect 308 =t 5 drops which were usually                                                    THEORETICAL
+divided into 44 fractions (7 drops in each). As the needle rested                    The definition of the sedimentation constant ST,,,, in a medium,
+approximately        0.7 mm above the bottom of the tube, about 3               m,    at temperature,   T, is given by the equation (2, 13):
+drops remained in the tube. To check the efficiency of the
+fractionation      system, a gradient was made similar to the one de-
+scribed for testing the gradient-making              apparatus, with dye in
+the 20% sucrose. The samples were collected from the frac-
+tionator and the absorbancy at 600 rnp was determined.                      A   where w is the angular velocity of the rotor in radians per second,
+linear plot of tube number against absorption                  was obtained     z is the distance from the rotor center to the boundary, and &/dt
+through tube 43. The last fraction had slightly higher extinc-                  is the velocity of movement of the boundary.        The sedimenta-
+tion than expected.         Presumably this was due to mixing of the            tion   constant,     s, is generally      extrapolated        to the “standard          state”
+solutions below and above the level of the needle, resulting from               taken as that of water at 20’:
+the turbulence produced when the last frothy drops are forced                                                                 ?m,mbp - Pz0.w)
+through the needle. Although              it might be expected that the                                      s2om= STm                                                       (2)
+                                                                                                                              ~ZO,wbp    -   PT,m)
+sucrose concentration         would affect the drop size, the volume
+difference between the first and last fractions was less than 3%.               where    fT,rn  is the viscosity of the medium at the temperature of
+ Drops were, therefore, considered to be of constant size, 14.7 f               centrifugation,      r]20, z. is the viscosity of water at 20”, pp is the
+                                                                                density of the protein in solution (i.e. the reciprocal of the partial
+    8 Beckman Instruments, Inc., a personal communication.                      specific volume, i), pT,rn          is the density of the medium at the
+     4 The temperature immediately before and after centrifugation              temperature of centrifugation,            and ~20,~ is the density of water
+was determined in a bucket containing only a sucrose gradient.
+     6 Subsequent to this investigation, a more elaborate but essen-            at 20”. As the partial specific volume of most proteins varies
+tially similar fractionator was reported (12).                                  little with temperature          (14), p, is generally considered constant.
+May    1961                                                          R. G. Martin and B. N. Ames
+
+                                                                                                    0.800
+          3.59 -
+          3.00   -
+
+
+
+
+                                                                                                    0.600
+
+                     TIME OF CENTRIFUGATION                          IN HOURS
+                                    AT 38,000       RPM
+    FIG. 2. Theoretical sedimentation    behavior of macromolecules
+in a 5% (weight per volume) to 20% (weight per volume) sucrose                                      0.500
+                                                                                                            012345          6 7 8 9 IO II 12 13 1415 I6 I7
+gradient at 3”. The partial specific volumes (fi) in cm3 per g and
+sedimentation     constants at 20” in water (szo.~) in Svedberg units                                                       S20,w’N   s
+ (S) are indicated.                                                                        FIG.  3. Theoretical curves demonstrating the effect of assumed
+
+
+
+
+                                                                                                                                                                      Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+                                                                                         martial soecific volume unon the calculation       of SZO.+.. These
+  Equation 2 is applicable to centrifugation   in a sucrose gradient,                    curves ar’e applicable only for the particular    sucrose-gradient
+                                                                                         employed and for a rotor head of the dimensions of the SW-39.
+as it is for centrifugation in uniform media, but in the former case                     The curves are very steep in the range 0.70 to 0.75 cm3 per g fl.
+both the viscosity (~r,~) and the density (PT,~) are functions
+of the sucrose concentration       and hence of the distance of the                      by the enzyme and the time of centrifugation         when substances
+medium from the rotor center. Combining Equations 1 and 2:                               of partial specific volume less than 0.80 cm3 per g are examined.
+                                            9T.rn                                             Large differences in partial specific volume result in signifi-
+                      ho.wdt        = A (pp _ PT,m) * Jx dx                        (3)   cantly different values when the SZO,~ is calculated.       If the par-
+                                                                                         tial specific volume for a protein is assumed to be 0.800 cm3 per
+where the term A = ( pp - p20,,) /qZo, w is a constant for any given                     g, an s20,ur can be calculated, whereas a slightly different s20,w
+partial specific volume (1 /p,)                                                          will be arrived at if a partial specific volume of 0.500 cm3 per g
+   The left-hand side of Equation    3 ran be readily integrated:                        is assumed. For example, one cannot adequately distinguish
+                                                                                         between substances with ~20,~ values of 11.0, 12.0, and 12.8 S
+                               [” S20.,rww
+                               Jo
+                                       = sm.&&                                           with corresponding      partial specific volumes of 0.500, 0.725, and
+                                                                                         0.800 cm3 per g. However, since most proteins have partial
+                                                                                         specific volumes between 0.700 and 0.750 cm3 per g (14), the
+   The right-hand   side of Equation 3 can be numerically                       inte-    assumption in all calculations of a partial specific volume of
+grated using the trapezoidal approximation:                                              0.725 cm3 per g will result in less than 3 $& error in the estimation
+                                                                                         of s20,ul for most proteins.      Alternatively, one may define an
+     %+I F(x)& = y         F(Xi)(Xi+1 - Xi)                                                 0.725
+                                                                                         .s~~,~ as the ~20,w calculated on the assumption of a partial specific
+s0                     0
+                                                                                          volume of 0.725 cm3 per g. Correction of the s,“,lz so defined to
+                                       + ; $2        [F(Xi.l)   - F(Zi)l[Xi.l   - Zil     the true s20,u, cannot be accomplished by a simple mathematical
+                                                0                                         ratio if the partial specific volume is determined later. In Fig,
+                                                                                          3 the effect of partial specific volume on the calculated s~,,,~ has
+This is performed by tabulating       arbitrary  distances (xi) from                      been plotted for s~,~~ values of 1 to 15 S. Interpolating         from
+the rotor center starting at 6.10 cm (the start of the sucrose                            these curves it is possible to obtain the SQO,,,,of a substance from
+gradient) and ending at 9.62 cm (the point at which the sucrose                                 0’725 when the partial specific volume is available.
+                                                                                          its s20,zu
+gradient would end if the centrifuge tube were perfectly cylindri-
+cal) against sucrose concentration.         With standard tables of                                                      RESULTS
+
+sucrose molarity against density and viscosity at given tempera-                            “Xtandard”     Enzymes-Three     well characterized crystalline en-
+tures (2), F(z) = q~,~(zi)/[p,     - pr,m(si)]~i can be calculated                       zymes of different sedimentation        rates (yeast alcohol dehydro-
+for each distance, zi, and hence the right side of Equation          3                   genase, bovine liver catalase, and egg white lysozyme) were
+determined for any assumed pp. Plotting zi against & (or zi                              chosen as standards.        In Fig. 4A the sedimentation     pattern of
+against t for a given w), one obtains a family of theoretical curves                     catalase after 4 hours of centrifugation      at approximately     20” is
+for substances of different ~20,~ values and an assumed pp.6 Fig.                        shown.        The dotted line represents the sedimentation       pattern
+2 shows the theoretical curves for centrifugation       at 3” for sub-                   obtained from a second centrifuge tube run concomitantly                in
+stances of partial specific volume 0.725 cm3 per g, and ~20,~ values                     which catalase at the same concentration         had been mixed with
+of 11.0, 7.4, and 2.15 S. In the same figure are the curves for                          yeast alcohol dehydrogenase         before centrifugation.     Fig. 4B
+substances of SZO,~ 11.0 S and partial specific volumes 0.500,                           shows the patterns for yeast alcohol dehydrogenase during the
+0.725, and 0.800 cm3 per g. Fig. 2 indicates that a very nearly                          same experiment.’       In other experiments these two enzymes also
+linear relationship   should exist between the distance traveled
+                                                                                            7 To obtain the greatest reproducibility     it was found necessary
+    0 This method of analysis is similar                  to that of de Duve et al.      to count the number of drops in the last fraction and to plot the
+ (2) except that a different approximation                  has been used to find the    width of this fraction accordinalv.        This has been done in all
+ numerically determined integral.                                                        sedimentation patterns reported: -
+1376                                                    Sedimentation Behavior of Enzymes                                                                  Vol. 236, No. 5
+
+appeared to move at their characteristic rates in pure solution or
+combined with other proteins.
+   Fig. 5 shows an example of the centrifugation           patterns of
+catalase, yeast alcohol dehydrogenase,       and lysozyme obtained
+by this method.      The dotted lines represent the corresponding
+enzymes which have been diluted to the same concentration           in a
+crude extract of S. typhimurium.         The distance in centimeters
+from the meniscus to the enzyme peak was estimated to two deci-
+mal places by the symmetry of the curve. In Fig. 6 the distances
+of the enzyme peaks from the meniscus, as determined from Fig.
+5 and many similar centrifugation        experiments (all at 3”), are
+plotted as a function of the time of centrifugation.       The time of
+centrifugation   was corrected to the equivalent time at 38,000
+r.p.m.     (The correction to the time of centrifugation      at 38,000
+r.p.m. includes both the corrections for the actual rotor speed
+and for the time of rotor acceleration          and deceleration.)     A
+similar set of curves was obtained at 15”; steeper slopes were                                      FRACTION       NUMBER      44 40    36 32 26   24 20    16 I2 6   4
+
+
+
+
+                                                                                                                                                                             Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+observed.
+                                                                                         FIG.5. Lysozyme (0.5 mg), catalase (0.04 mg), and yeast alco-
+   As predicted, the rate of centrifugation    is very nearly constant             hol dehydrogenase (0.02 mg) mixed in 0.10 ml of 0.01 M Tris buffer,
+for any one of these three enzymes. The .&E” determined for                        pH 7.5, were layered on a sucrose gradient. After 12.8 hours of
+bovine liver catalase by this method was 11.3 S at 3”. (An                         centrifugation   at 37,700 r.p.m., 3”, the gradient was fractionated
+identical value was obtained at 15”.) With the data in Fig. 3                      and analyzed (solid lines). In a second gradient, centrifuged at
+                                                                                   the same time, these enzymes were diluted to the same final con-
+                                                                                   centrations in a crude extract of Salmonella mutant hisG46      (dotted
+                                                                                   linfv)       .
+
+                                                                                                               l =CATALASE
+                                                                                     P                         0 =ALCOHOL         DEHYDROGENASE
+                                                                A                                              n =RABBIT      LIVER     SOLUBLE     RNA
+                                                                                                               A=LYSOZYME
+
+
+
+
+                                                                                                                   TIME        OF CENTRIFUGATION
+                                                                                                                             IN HOURS     AT 38,OOORPM
+                                                                                            6. Each point represents the results of a centrifugation
+                                                                                         FIG.
+                                                                                   experiment similar to Figs. 5 or 7. All experiments were carried
+                                                                                   out at 3”. The time of each experiment has been corrected to the
+                                                                                   equivalent time of centrifugation  at 38,000 r.p.m. The solid lines
+                                                                                   represent the theoretical sedimentation    behavior for macromole-
+                                                                                   cules of partial specific value 0.725 cm3 per g and the indicated
+                                                                                   ~20,. values (in Svedberg units).
+
+                                                                                   and if a partial specific volume of 0.73 cm3 per g (15) is assumed,
+                                                                                   the calculated s20,w is 11.4 S. Previous investigators        (15) re-
+         DISTANCE FROM               I         I        I      I                   ported a value of 11.3 S (concentration     not stated) with optical
+         MENISCUS IN CM          0.6,52    l.3?5    I.9158 26110                   techniques.
+               FRACTION ’     40    36  32   26  24   20  16  12
+                                                                                       Yeast alcohol dehydrogenase has been reported to have an
+                 NUMBER
+                                                                                   s20,2uof 7.2 (1 y. solution) (lo), 7.61 (concentration    not stated)
+    FIG. 4. Sucrose gradients        were placed in each of the three               (16), and 6.72 S (extrapolated to infinite dilution, centrifugation
+ buckets of the SW-39 rotor. Catalase (0.04 mg in 0.10 ml) was
+                                                                                   at 0’) (17), in the optical centrifuge.    An ~20,~ of 7.6 S (concen-
+ layered on gradient 1, yeast alcohol dehydrogenase (0.02 mg in
+ 0.10 ml) on gradient 2, and a mixture of the two enzymes (0.04                    tration, 0.0005%, 25”) has been reported by Kuff et al. with
+ mg of catalase and 0.02 mg of dehydrogenase in 0.10 ml) on gra-                    their technique (18). In these experiments an a~,~~ of 7.4 S was
+ dient 3. The rotor was run at approximately                  20” for 4 hours at    found.    With the reported (17) partial specific volume for this
+ 38,000 r.p.m. A. Catalase activity was assayed in each fraction                    enzyme (0.769 cm3 per g) and the data of Fig. 3, an ~20,~ of 7.6
+ of gradient 1 (solid line) and gradient 3 (dotted line). B. Yeast
+ alcohol dehydrogenase was assayed in each fraction of gradients                    S was calculated.
+ 2 (solid line) and 3 (dotted line).                                                   The .s~~,~ values that have been reported for egg white lyso-
+May 1961                                                             R. G. Martin and B. N. Ames                                                             1377
+
+                                                                                  zyme in the optical centrifuge are 2.11 (1.3% protein), 2.09
+                                                                                  (0.9% protein), 2.12 (0.5% protein) (19), 1.9 (1.5 to 0.5% pro-
+          *F         Q zt+                                                        tein) (20), 1.8 (concentration            not stated) (21), and 1.94 S (1%
+               UOU
+          E    u .-*                                                              protein) (10). Hogeboom and Kuff (lo), using 1% solutions,
+                                                                                  obtained s20,w values of 2.01 and 1.88 S. The .&~~ determined
+                                                                                  here was 2.1 S; corrected to a partial specific volume of 0.722
+          (iw+n                                                                   cm3 per g (19), the SPO,,,,is also 2.1 S.
+          ~~0l.L
+               owe                                                                    Soluble RNA, a high molecular weight substance of partial
+               -I-
+                                                                                  specific volume markedly different from protein, was tested on
+               $3      ;
+               EOU                                                                a sucrose gradient.           A typical centrifugation        pattern is shown
+                                                                                  in Fig. 7. Fig. 6 indicates that soluble RNA also sediments in
+         DISTANCE           FROM o             I     I     I     I       I        this gradient with a constant velocity.                The s$lr was calculated
+         MENISCUS           IN CM y         0.65    1.31 1.96 2.61     3.59
+                                                                                  to be 4.6 S. The .s~~,~*and partial specific volume of the same
+                 FRACTION              44 40 316 32 :8 24 $0 16 I: 8 4
+                   NUMBER                                                         preparation        of rabbit liver soluble RNA were determined                 by
+                                                                                  Dr. Samuel Luborsky.9                 In a model E Spinco centrifuge
+    FIG. 7. A centrifugation    pattern for rabbit liver soluble RNA
+Approximately    0.21 mg of this material in 0.10 ml was layered on a             equipped with ultraviolet            optics he obtained a pattern with a
+sucrose gradient which was 0.2 N in NaCl (no buffer). The frac-                   single major peak at 4.5 f 0.1 S and small amounts of material
+
+
+
+
+                                                                                                                                                                       Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+tions were assayed by absorbancy (optical density) at 260 rnr                     of lower and higher sedimentation                 rate. The partial specific
+after 9.15 hours of centrifugation     at 38,000 r.p.m., 3”.                      volume determined            pycnometrically        was 0.48 cm3 per g (22).
+                                                                                  The so’726
+                                                                                          20,,,, of 4.6 S is equivalent to an SZ~,~ of 4.4 S with this par-
+
+                           w    .080
+                                        I                    I                    tial specific volume.
+                                                                                      Histidine Biosynthetic Enzyme-We                   have determined the ap-
+                           v)                                                     proximate molecular weights of several of the enzymes of histi-
+                           w
+                           =    .060                    ,”
+                                                        u                         dine biosynthesis by examining partially purified enzyme prep-
+                                                        z
+                           z                            5                         arations as well as crude extracts.              That crude extracts may be
+                           ::   .040                    2                         used for the determination             of sedimentation     coefficients is dem-
+                                                        z
+                           z                                                      onstrated in Fig. 5. The same sedimentation                  constants were ob-
+                                                        Ls
+                           z    .020                    t-                         tained with crude and partially                purified preparations      of the
+                                                                                  histidine enzymes.
+        DISTANCE FROM o t     1      I                       I
+                                                                     I    I            Partially     purified histidinol       dehydrogenase       and imidazole
+         MENISCUS IN CM ?  0.75   I.71                       ?    0.65   1.31      acetol phosphate transaminase were placed on sucrose gradients
+      FRACTION NUMBER 44 40 36 32 28 24                      44 40 ;6 32 ;8 24     and centrifuged (Fig. 8). Fig. 9 shows the combined results for
+   FIG. 8. Sedimentation    patterns for histidinol    dehydrogenase               the centrifugation        determinations       of crude Nossal extracts and
+and imidazoleacetol   phosphate transaminase.       A crude extract of             of the partially purified enzymes. The calculated s$lf values
+Salmonella mutant hisEF-135 was centrifuged for 16.50 hours at                     for these enzymes are 5.1 S for the dehydrogenase and 4.8 S for
+33,300 r.p.m., 3”. The dehydrogenase activity is expressed in
+change in absorbancy at 600 rnp per minute per 20 ~1 of enzyme                     the transaminase.
+fraction.   The transaminase activity is expressed in change in                        Preliminary      studies have been carried out on phosphoribosyl-
+absorbancy at 295 rns per 20 minutes per 20 ~1 of enzyme fraction.                 ATP pyrophosphorylase             (22), the first enzyme of the histidine
+                                                                                   biosynthetic       pathway.      This enzyme has a sedimentation             con-
+     I
+                                                                                   stant of about 8.6 S.
+                                                                                       The centrifugation        results with imidazole glycerol phosphate
+                                                                                   dehydrase and histidinol phosphate phosphatase indicate aggre-
+                                                                                   gation.       The sedimentation         patterns are complicated        in that
+                                                                                   multiple       peaks appear.        Magnesium        ions or mercaptoethanol
+                                                                                   alters these peaks. A slow moving component is the major one
+                                                                                   in the absence of these substances, and there is, primarily, a heavy
+                                                                                    component in the presence of mercaptoethanol                   or magnesium.
+                                                                                    The dehydrase and phosphatase activities appeared to migrate
+                                                                                    together in several experiments, although further work on this
+                                                                                    complicated system is necessary.
+                                                                      15
+                            TIME 0:          CENTRI~~GATION
+                                                                                                                    DISCUSSION
+                                       IN HOURS   AT 38,OOORPM
+   FIG. 9. Sedimentation     behavior of histidinol    dehydrogenase                 The ultracentrifugation     technique presented here (2, 3) differs
+(0) and imidazoleacetol        phosphate transaminase     (0).   Each             from the usual methods of analysis in several aspects. A major
+point represents a centrifugation      experiment similar to the one              attribute   of this system derives from the particular        sucrose
+shown in Fig. 8. The enzyme source for each set of experiments
+was a Salmonella    his mutant as indicated in the figure. Both                   gradient employed.         The viscosity and density of this sucrose
+enzymes were assayed from aliquots of the same set of fractions
+obtained after centrifugation.     The curves represent the theoreti-                 * The medium used in Dr. Luborsky’s experiments                and our own
+cal sedimentation  behavior for proteins of partial specific volume               was 0.2 M NaCl (no buffer).
+0.725 cm3 per g and ~20,~ values of 4.8 S (dotted line) and 5.1 S                     QS. Luborsky and G. L. Cantoni, to be submitted                for publica-
+(solid line).                                                                     tion, Biochim. et Biophys. Acta.
+1378                                                   Sedimentation Behavior of Enzymes                                                                      Vol. 236, No. 5
+
+gradient are such (at least in the temperature range 3” to 15”),                                                            TABLE          I
+that essentially linear migration       of most biological materials                  Molecular           weight   of       hi&dine            biosynthetic       enzymes
+results.    Thus, the ratio of the distances traveled from the
+                                                             There-                          “Standard”
+meniscus by any two substances will always be constant.
+fore, if an unknown substance is compared with a standard,
+careful control of temperature, time, and speed of centrifugation               Lysozyme      . . .                      . ..         63,000             57,000         140,000
+are unnecessary.        The use of such a standard of known sedi-               Alcohol dehydrogenase              .      ..          86,000             78,000         190,000
+mentation     coefficient highly simplifies the technique.   Experi-            Catalase   . .     ..                  . ... .        75,000             68,000         160,000
+mentally, the ratio, R, can be easily determined after any time                 Average.                                              75,000             68,000         170,000
+of centrifugation:
+
+       R = distance travelled       from meniscus by unknown
+           distance travelled       from meniscus by standard                   procedure may be used for enzyme purification.                 Indeed, small
+                                                                                volumes of enzyme have been partially purified with the SW-39
+And because of the nearly          constant   rate of movement      of any      rotor,lO and good results with much larger volumes have been
+macromolecule :                                                                 achieved in preliminary studies with the SW-25 swinging bucket
+                                                                                rotor.”
+                                ~2”;::~of unknown                                   No protein-protein     interactions    or protein-nucleic      acid inter-
+
+
+
+
+                                                                                                                                                                                  Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+                         R=
+                                s!$,~~ of standard                              actions were observed in this investigation.              Even lysozyme, a
+                                                                                basic protein, showed the same behavior when mixed in a crude
+Or, for macromolecules        of the same partial    specific volume:           extract and when pure. This lack of interaction may be due to
+                                                                                some effect of the sucrose in minimizing            interactions    or to the
+                                 ~20.~of unknown
+                         R=                                              (4)    fact that very dilute solutions were used compared to what is
+                                 ~~0.~of standard                               required in an analytical centrifuge.          Nonetheless, protein-pro-
+                                                                                tein interactions     are a potential source of error in protein mix-
+For substances of similar partial specific volumes, this last equa-
+                                                                                tures.
+tion will be very nearly correct.       For more accurate determina-                The greatest disadvantage of sucrose gradient centrifugation
+tions of sedimentation      constant, the approach outlined in “The-            is the necessity of knowing the partial specific volume in order
+oretical” may be followed.
+                                                                                to determine the true s~~,~. However, as discussed previously,
+    A second aspect which distinguishes this technique from con-                the error from the assumption of a partial specific volume of
+ventional optical methods is the form of analysis used. Multiple                0.725 cm3 per g for any protein will be small.
+fractions of the solution are obtained and these fractions may be                   A crude estimation of the molecular weight (MIV), can be ob-
+analyzed for any of a variety of properties: radioactivity,               en-   tained from the sedimentation          constant alone (13) :
+zymatic activity, chemical properties, etc. Thus, a particular
+biological material in a multicomponent         mixture may be localized                                               81
+                                                                                                                       -=            -MW1          *
+by its chemical activity.      And hence, the sedimentation coefficient                                                82        (   MWz       J
+of a biologically active substance may be determined in a crude
+extract.    Furthermore,      in some cases amounts of material so              and for most proteins the ratio sl/sZ is equal to R. (See Equation
+small as to be undetectable        by the most sensitive optical tech-          4.) This equation derives from the fact that many proteins are
+niques may be detectable by another parameter.             The disadvan-        essentially spherical molecules.     Although    most globular pro-
+tage of any technique in which a parameter other than optical                   teins, i.e. nearly all enzymes, are only roughly spherical, the
+measurement       is used is that the centrifugation       pattern deter-       relationship between s and MW is approximately        correct (13).
+ mined obtains for a particular           time of centrifugation,        and       With the above approximation      and the data presented above,
+multiple patterns cannot be gotten on the same sample.                          the molecular weights of the histidine biosynthetic enzymes have
+    Other systems for the determination          of sedimentation    coeffi-    been calculated (Table I). Lysozyme (MW = 17,200 (19)),
+ cients in crude extracts, particularly           the separation    cell of     alcohol dehydrogenase      (MW     = 150,000 (17)), and catalase
+ Yphantis and Waugh (l), have been demonstrated to be highly                     (MW = 250,000 (15)) were used as standards.
+ efficient.  In the present system, multiple fractions are obtained                 The variation in the estimated molecular weight for any partic-
+ and analyzed, whereas only two are obtained in the separation                  ular enzyme (Table I) may be due to two factors. The standard
+ cell. Several advantages arise from the analysis of multiple                   enzymes vary somewhat in shape, i.e. they are not perfect
+ fractions: protein aggregation which can easily go undetected in               spheres. Also, there is some inaccuracy in the reported molecu-
+ the separation cell is readily detected; multiple enzymes of                   lar weights of the standards.
+ widely divergent sedimentation        coefficients can be analyzed in
+ the same experiment; and high resolution of the sedimentation                     10 E. Racker and M. Maver, personal communication.
+ pattern is possible.     In addition, the present technique employs               11One milliliter of a crude extract of Salmonella hisEF 135 was
+                                                                                placed directly on a 29-m& 5 to 40% sucrose gradient and centri-
+ the less expensive “preparative”        ultracentrifuge.     A disadvan-       fuged for 24 hours in the SW-25 swinging bucket rotor. Thirty
+ tage of this technique relative to the separation cell is that dif-            l-ml fractions were collected.     Eighty-seven per cent of the input
+ fusion coefficients cannot be directly determined.                             activity of phosphoribosyl-ATP      pyrophosphorylase    (23) was found
+     With the use of this technique, a moving zone of material is               in four fractions.   The two peak tubes containing over 60% of the
+                                                                                input activity had specific activities close to lo-fold greater than
+ analyzed rather than the boundary of an initially uniform solu-                the starting material.     A large portion of the nucleic acid present
+ tion. Because materials of different sedimentation              properties     in the crude extract was also removed from these fractions, judg-
+ are separated from each other during the centrifugation,                 the   ing from the absorbancy at 280 and 260 m/L.
+May    1961                                           R. G. Martin and B. N. Ames                                                                        1379
+
+    We were interested in seeing whether any correlation could be              of Hogeboom and Kuff is also applicable to the determination    of
+made between the molecular weights of the histidine biosynthetic               enzymes in protein mixtures and has been used by Levintoe,
+enzymes and the genetic complementation          data of Hartman et al.        Meister, Hogeboom, and Kuff (J. Am. Chem.Sot., 77,5304,1955).
+ (23, 24). These authors showed that the transaminase gene (C                  The advantages of zone over boundary       determinations    have
+mutants) has one subunit, the dehydrogenase gene (D mutants)                   been discussed.
+has two subunits, and the pyrophosphorylase           gene (G mutants)
+has one subunit.     These three enzymes have been found to have                                              REFERENCES
+molecular weights of roughly68,000,75,000,         and 170,000. Thus,           1. YPHANTIS,        D. A., AND WAUGH, D. F., J. Phys.         Chem.,   60, 630
+there does not appear to be a correlation between the number of                      (1956).
+                                                                                2. DE DUVE, C., BERTHET,            J., AND BEAUFAY,     H., in J. A. V.
+subunits in a gene and the molecular weight of the corresponding                     BUTLER AND B. KATZ            (Editors), Progress in biphoysics and
+enzyme.      However, any conclusions based on the molecular                          biophysical     chemistry,   Vol. 9, Pergamon Press, New York,
+weight of an enzyme could be in error if the enzyme is made up                       1959, p. 325.
+of a complex of several monomer units, as is the case for glutamic              3. BFXTTEN, R. J., AND ROBERTS, R. B., Science, 131, 32 (1960).
+dehydrogenase     (25). Further     investigations      of genetic map          4. AMES, B. N., GARRY, B., AND HERZENBERG,                       L. A., J. Gen.
+                                                                                     Microbial.,      22, 369 (1960).
+length and of molecular weight are being undertaken and will be                 5. PORATH, J., Biochim. et Biophys.               Acta, 39, 193 (1960).
+necessary before any conclusions concerning a correlation            be-        6. PETERSON, E. A., AND SOBER, H. A., J. Am. Chem. Sot., 73.
+tween map length and enzyme size can be made.                                        751 (1956).
+
+
+
+
+                                                                                                                                                                   Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+    We were also interested in trying to determine whether or not               7. AMES, B. N., AND GARRY. B.. Proc. Natl. Acad. Sci. U. S..
+the histidine biosynthetic enzymes are associated intracellularly                    46, i453 (1959).                        ’
+                                                                                8. LOWRY, 0. H., ROSEBROUGH,               N. J., FARR, A. L., AND RANDALL,
+in some sort of functional aggregate.       In experiments using su-                 R. J.. J. Biol. Chem.. 193. 265 (1951).
+crose gradient centrifugation,  no evidence was found for such an               9. WARBURG,O.,ANDC~R;STIAN,W.;B~~~~~~.Z.,~~O,~~~(~~~~).
+aggregate, even though S. typhimurium          extracts were prepared          10. HOGEBOOM,        G. H., AND KUFF, E. L., J. Biol. Chem., 210, 733
+in a variety of ways.                                                                 (1954).
+                                                                               11. WEIGLE, J., MESELSON,           M., AND PAIGEN, K., J. Molec. Biol.,
+                                SUMMARY                                              1,379 (1959).
+                                                                               12. SZYBALSKI,      W., Experientia, 16, 164 (1960).
+    1. Sucrose gradient centrifugation        with the swinging bucket         13. SCHACHMAN,        H. K., lJltracentri.fugation        in biochemistry, _ Aca-
+rotor of the preparative ultracentrifuge        has been used to investi-            demic Press, Inc.’ New York,.19i9.
+gate the sedimentation       behavior of macromolecules of relatively          14. EDSALL. J. T.. in H. NEURATH AND K. BAILEY (Editors). The
+                                                                                     Proteins,      Vdl. I, Part B, Academic Press, Inc., New ‘York,
+low molecular weight.                                                                1953.
+    2. The theoretical characterization       of this system is outlined.      15. SUMNER, J. B., AND GRALI~N, N., J. Biol. Chem., 126,33 (1938).
+    3. The applicability    of this technique to the determination        of   16. THEORELL,        H., AND BONNICHSEN,             R., Acta Chem. Stand.. 6,
+sedimentation     constants of enzymes in multicomponent        solutions            1105 (1951).
+is demonstrated.                                                               17. HAYES. J. E.. JR.. AND VELICK. S. F.. J. Biol. Chem.. , 207. , 225
+                                                                                                                         I       ,
+
+
+
+
+                                                                                      (1954).        ’     ’
+    4. Sedimentation     coefficients of well characterized macromole-         18. HUFF, E. L., HOGEBOOM,           G. H., AND STRIEBICH, M. J., J. Biol.
+cules were obtained and compared with values determined by                            Chem., 212,439 (1955).
+optical techniques.       Good agreement was observed.                         19. WETTER, L. R.. AND DEUTSCH, H. F., J. Biol. Chem., 192, 237
+    5. The general applicability      of this system to the determina-                (1951):
+                                                                               20. ALDERTON,        G., WARD, W. H., AND FEVOLD,                H. L., J. Biol.
+tion of sedimentation      constants and enzyme purification        is dis-           Chem., 167, 43 (1945).
+ cussed.                                                                       21. ABRAHAM,       E. P., Biochem. J., 33, 622 (1939).
+    6. Sedimentation     coefficients were determined for three histi-         22. AMES, B. N., MARTIN,          R. G. AND GARRY, B., J. BioZ. Chem.,
+ dine biosynthetic enzymes.                                                          in press.
+    7. Some observations on the correlation of genetic information             23. HARTMAN,       P. E., LOPER, J. C. AND HERMAN, D., J. Gen. Micro-
+                                                                                      biol., 22, 323 (1960).
+ with enzyme molecular weight are discussed.                                   24. HARTMAN,        P. E., HARTMAN,             Z., AND HERMAN,       D., J Gan.
+                                                                                     Microbial.,      22, 354 (1960).
+   Addendum-We         wish to emphasize that the boundary         method      25. FRIEDEN,      C., J. BioZ. Chem., 234, 899 (1959).
+ARTICLE:
+A Method for Determining the
+Sedimentation Behavior of Enzymes:
+Application to Protein Mixtures
+
+Robert G. Martin and Bruce N. Ames
+J. Biol. Chem. 1961, 236:1372-1379.
+
+
+
+
+                                                                                             Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+Access the most updated version of this article at
+http://www.jbc.org/content/236/5/1372.citation
+
+Find articles, minireviews, Reflections and Classics on similar topics on the JBC Affinity
+Sites .
+
+Alerts:
+     • When this article is cited
+     • When a correction for this article is posted
+
+Click here to choose from all of JBC's e-mail alerts
+
+This article cites 0 references, 0 of which can be accessed free at
+http://www.jbc.org/content/236/5/1372.citation.full.html#ref-list-1
+

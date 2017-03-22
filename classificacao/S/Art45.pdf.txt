@@ -1,0 +1,502 @@
+                                                                                   Cell Death and Differentiation (1998) 5, 669 ± 677
+                                                                                    1998 Stockton Press All rights reserved 13509047/98 $12.00
+                                                                                   http://www.stockton-press.co.uk/cdd
+
+
+The role of the tumor suppressor p53 in spermatogenesis
+
+Tim L. Beumer1,5, Hermien L. Roepers-Gajadien1,                                    Keywords: p53; spermatogenesis; mouse; apoptosis; giant cell;
+Iris S. Gademan2, Paul P.W. van Buul3, Gabriel Gil-Gomez4,                         spermatogonial stem cell; irradiation
+Derek H. Rutgers2 and Dirk G. de Rooij1
+                                                                                   Abbreviations: CDKi, cyclin dependent kinase inhibitor; HLH,
+1
+    Department of Cell Biology, Medical School, P.O. Box 80.157, 3508 TD           helix ± loop ± helix; PBS, phosphate buffed saline; DAB, diamino-
+    Utrecht, The Netherlands                                                       benzidine; PAS, periodic acid Schiff; TdT, terminal deoxynucleotidyl
+2
+    Department of Radiotherapy, Academic Hospital Utrecht, Heidelberglaan 100      transferase
+    Utrecht, The Netherlands
+3
+    MGC-Department of Radiation Genetics and Chemical Mutagenesis, Sylvius
+    Laboratory, Leiden University, Wassenaarseweg 72, 2333 AL Leiden, The
+    Netherlands                                                                    Introduction
+4
+    The Netherlands Cancer Institute, Plesmanlaan 121, 1066 CX, Amsterdam, The     The tumor suppressor p53, also referred to as the guardian of
+    Netherlands
+5
+    corresponding author: Department of Cell Biology, Medical School, Utrecht
+                                                                                   the cell cycle (Lane, 1992), has important functions in cell
+    University, P.O. Box 80.157, 3508 TD, Utrecht, The Netherlands, tel: #31-30-   growth and differentiation. During the cell cycle checkpoints at
+    2534337; fax: #31-30-2537419; E-mail: T.L.Beumer@MED.RUU.NL                    the G1/S and G2/M borders are under the control of p53
+                                                                                   (Agarwal et al, 1995; Pellegata et al, 1996; Ko and Prives,
+Received: 22.12.97; revised: 3.3.98; accepted: 20.3.98                             1996). After DNA damage, for example inflicted by ionizing
+Edited by E. Yonish-Rouach                                                         irradiation, p53 is often upregulated in mammalian cell lines,
+                                                                                   resulting in the initiation of apoptosis, repair pathways
+                                                                                   (Chernova et al, 1995), a G1/S (Kuerbitz et al, 1992; ZoÈlzer
+Abstract                                                                           et al, 1995) or G2/M cell cycle arrest (Guillouf et al, 1995). P53,
+The p53 protein appeared to be involved in both spermato-                          as a transcription factor, is able to upregulate a series of
+gonial cell proliferation and radiation response. During normal                    proteins, among which Bax (Miyashita and Reed, 1995),
+spermatogenesis in the mouse, spermatogonia do not                                 Gadd45 (Kastan et al, 1992) and the Cyclin Dependent
+                                                                                   Kinase inhibitor (CDKi) p21Cip1/WAF1 (El-Deiry et al, 1993). In
+express p53, as analyzed by immunohistochemistry. How-
+                                                                                   turn, p53 has a helix ± loop ± helix (HLH) binding site in its
+ever, after a dose of 4 Gy of X-rays, a distinct p53 staining was                  promoter (Ronen et al, 1991). So, p53 may be regulated by
+present in spermatogonia, suggesting that, in contrast to                          basic HLH containing transactivators (Reisman and Rotter,
+other reports, p53 does have a role in spermatogonia. To                           1993) a family of proteins involved in cell differentiation
+determine the possible role of p53 in spermatogonia,                               programs of keratinocytes (Rehberger et al, 1997) and
+histological analysis was performed in testes of both p53                          myelocytic cell lines (Rotter and Ronen, 1997).
+knock out C57BL/6 and FvB mice. The results indicate that p53                          Spermatogenesis is a well characterized process in
+is an important factor in normal spermatogonial cell                               which spermatogonia proliferate and differentiate into
+production as well as in the regulation of apoptosis after                         terminally differentiated spermatozoa. Undifferentiated
+DNA damage. First, p53 knock out mouse testes contained                            spermatogonia laying at the basal membrane of the
+about 50% higher numbers of A1 spermatogonia, indicating                           seminiferous tubule, can be subdivided according to their
+                                                                                   topographical arrangement into A single (As), paired (Apr) or
+that the production of differentiating type spermatogonia by
+                                                                                   A aligned (A al ) and are at the beginning of the
+the undifferentiated spermatogonia is enhanced in these                            spermatogenic lineage (Oakberg, 1971; de Rooij, 1973).
+mice. Second, 10 days after a dose of 5 Gy of X-rays, in the p53                   These cells are proliferating during part of the cycle of the
+knock out testes, increased numbers of giant sized                                 seminiferous epithelium (stages X ± II) and then become
+spermatogonial stem cells were found, indicating disturbance                       quiescent (stages III ± VII) until most of them differentiate
+of the apoptotic process in these cells. Third, in the p53 knock                   into differentiating type A1 spermatogonia in stage VIII.
+out testis, the differentiating A2-B spermatogonia are more                        After a series of five subsequent divisions (A 2 -B),
+radioresistant compared to their wild-type controls, indicating                    differentiating spermatogonia divide into spermatocytes
+that p53 is partly indispensable in the removal of lethally                        that move toward a more adluminal position of the
+irradiated differentiating type spermatogonia. In accordance                       seminiferous tubules. After the two meiotic divisions the
+with our immunohistochemical data, Western analysis                                spermatocytes become round spermatids, which develop
+                                                                                   into elongating spermatids without further divisions.
+showed that levels of p53 are increased in total adult testis
+                                                                                       During spermatogenesis, the p53 mRNA and protein are
+lysates after irradiation. These data show that p53 is important                   present in primary spermatocytes (SjoÈblom and LaÈhdetie,
+in the regulation of cell production during normal spermato-                       1996; Almon et al, 1993; Schwartz et al, 1993). From these
+genesis either by regulation of cell proliferation or, more likely,                results it was suggested that p53 has a role during the
+by regulating the apoptotic process in spermatogonia.                              prophase of meiosis. Possibly, this is accomplished via the
+Furthermore, after irradiation, p53 is important in the removal                    induction of p21Cip1/WAF1 which is also expressed during the
+of lethally damaged spermatogonia.                                                 prophase of meiosis (Beumer et al, 1997; West and LaÈhdetie,
+                p53 expression in the mouse testis before and after X-irradiation
+                                                                 TL Beumer et al
+670
+
+      1997). After irradiation, p53 expression was found to be                              till at least 24 h post irradiation (Figure 1B). Sertoli cells also
+      enhanced in spermatocytes (SjoÈblom and LaÈhdetie, 1996).                             stained after irradiation (Figure 1B). After irradiation, no
+          We now have studied the presence and the role of the                              increase in p53 staining was observed in pachytene
+      p53 protein in the mouse testis before and after X-                                   spermatocytes (Figure 1B, Sc). Spermatids were never
+      irradiation by way of immunohistochemistry, Western blot                              stained for p53 (Figure 1A, St; 1B). In irradiated p53 knock
+      analysis and by studying spermatogenesis in p53 knock out                             out mice (6 h post irradiation), in the testis no immunohisto-
+      mice. Besides expression of p53 in spermatocytes, a                                   chemical staining for p53 was detected (Figure 1C).
+      distinct induction of p53 was found in spermatogonia after
+      irradiation. Furthermore, in p53 knock out mice, increased
+      numbers of spermatogonia were found as well as profound                               Spermatogonial apoptosis in the p53 knock out
+      effects on radiation induced spermatogonial apoptosis.                                testis
+                                                                                            To investigate whether germ cells were able to undergo
+                                                                                            apoptosis in the p53 testis, TUNEL analysis was performed on
+      Results                                                                               p53 knock out testis. As in the wild-type testis, in the p53
+                                                                                            knock out testis too, morphologically apoptotic cells that were
+      Immunohistochemical localization of p53 in the                                        also TUNEL stained were found (Figure 1D, open arrow).
+      normal and X-irradiated testis                                                        Some of these apoptotic cells were laying at the basal
+      In the normal adult mouse testis, pachytene spermatocytes in                          membrane of the seminiferous tubule.
+      stages XI till VIII were lightly stained for p53 (Figure 1A, Sc).
+      Spermatogonia, Leydig cells and Sertoli cells did not stain for
+                                                                                            Levels or p53 change after X-irradiation
+      p53 (Figure 1A). However, after irradiation, virtually all
+      spermatogonia in all epithelial stages, and preleptotene                              Western blot analysis was performed on whole testis lysates
+      spermatocytes in stage VII stained heavily for p53 from 1.5                           of normal and X-irradiated mouse testes (1.5, 3, 6, 9, 12, 18,
+
+
+
+
+      Figure 1 Immunohistochemical p53 staining in mouse testis before and after X-irradiation. (A) In the non-irradiated adult mouse testis a light p53 staining is seen
+      spermatocytes (Sc). No p53 staining can be observed in Sertoli cells (arrow) or spermatogonia (arrowhead). (B) Levels of p53 staining were high in spermatogonia
+      and Sertoli cells at 6 hours post irradiation. No staining was present in spermatids (St). (C) In 5 Gy irradiated C57Bl/6 p53 knock out testis, 6 h post irradiation, no
+      p53 staining is present. (D) Morphologically apoptotic, TUNEL stained, cells are present in non-irradiated p53 knock out testis (open arrow). Stages of the
+      seminiferous epithelium are indicated with Roman numerals. Magnification: bar represents 20 mm
+                                                                                    p53 expression in the mouse testis before and after X-irradiation
+                                                                                    TL Beumer et al
+                                                                                                                                                                          671
+
+24 h post irradiation). In three independent irradiation                            contained one or more pachytene spermatocytes. It was
+experiments, p53 was detected in the non-irradiated testis                          found that the testes of the irradiated p53 knock out mice
+(Figure 2, time point T=0). Within 3 h post irradiation an                          contained significantly more (P50.01) pachytene sperma-
+increase of p53 was found in total testis lysates. In the three                     tocytes (Table 1), indicating higher numbers of surviving
+experiments 4.4 ± 6.1-fold increases in p53 levels were found                       A2-B spermatogonia in these mice compared to wild-type
+3 h post irradiation. At 6 h post irradiation levels of p53 slightly                mice. Also the number of pachytene spermatocytes in
+decreased, where after levels increased at 12 h post                                heterozygotes tended to be higher but the differences were
+irradiation. Twenty-four hours post-irradiation p53 levels had                      not statistically significant (Table 1).
+declined to almost control levels (Figure 2).
+                                                                                    p53 knock out and wild type testes have different
+Irradiation affects spermatogenesis differently in                                  spermatogonial cell numbers
+p53 knock out and wild-type mice                                                    In epithelial stage VIII undifferentiated spermatogonia (As, Apr,
+In sections of testes of irradiated mice, a severe effect of 5 Gy                   and Aal) are present, as well as the first generation of the
+of X-rays was revealed. Spermatogonia were sparse 10 days                           differentiating type spermatogonia, the A1 spermatogonia.
+post irradiation and there was a severe depletion of                                The A1 spermatogonia were formed by the undifferentiated
+spermatocytes up to pachytene phase in epithelial stage                             spermatogonia during the preceding epithelial cycle. Further-
+VIII, indicating that many spermatogonia were killed by the                         more, there are preleptotene spermatocytes that in turn were
+irradiation.                                                                        formed by the A1 spermatogonia via six subsequent divisions
+    In C57BL/6 p53 knock out mice, as well as in the                                during the preceding cycle. Hence, in epithelial stage VIII 3
+heterozygote and in wild-type mice, the effect of a dose of                         subsequent generations of cells can be counted and the
+5 Gy of X-rays on spermatogonial stem cells was evaluated                           efficiency of the cell production in these generations during
+by determination of the percentage of tubular cross                                 the epithelial cycle evaluated.
+sections showing one or more spermatogonia (repopula-                                   Cell counts were performed in sections of testes of wild-
+tion index), 10 days post irradiation. In previous studies it                       type and p53 knock out C57BL/6 mice (Figure 4). In
+was found that the extent of the repopulation was a good                            sections it was not possible to distinguish between the
+measure of the number of the number of surviving                                    different types of A spermatogonia present in stage VIII but
+spermatogonial stem cells (van der Meer et al, 1992).                               a significant 40% increase in the total numbers of A
+Although the repopulation index tended to be higher in the
+p53 knock out mice, no significant differences were found
+(Table 1).
+    However, many abnormally large spermatogonia were
+seen in the irradiated knock out mice (Figure 3B, arrows).
+These spermatogonia were mostly single cells, but
+occasionally pairs were seen. A sevenfold increase was
+found in the percentage of tubular cross-sections showing
+one or more giant spermatogonia, laying at the basal
+membrane, in irradiated knock out compared to wild-type
+mice (Table 1, Figure 3A and B). No significant increase in
+the number of giant spermatogonia was seen in the
+heterozygotes.
+    Also the effects of irradiation on A2-B spermatogonia
+were evaluated. Ten days after irradiation, surviving A2-B
+spermatogonia will have developed into pachytene sper-
+matocytes in epithelial stages I ± VI. This because virtually
+all types of spermatogenic cells are subject to the principle                       Figure 2 Western blot analysis of p53 in lysates of whole testis before and
+of `go or die', i.e. they develop further or go into apoptosis                      after irradiation. Total protein extracts from non- or 4 Gy irradiated adult testes
+immediately, being unable to temporarily arrest develop-                            were separated onto a 13% SDS ± PAGE gel, transferred to PVDF membrane,
+                                                                                    and probed for p53. Densitometrical analysis is given as a bar diagram.
+ment. Hence, we have determined the percentages of                                  Indicated time points are post-irradiation. Time point T=0 represents a non-
+seminiferous tubular cross sections in stages I ± VI which                          irradiated testis lysate which was used as a control reference.
+
+
+
+Table 1 The effect of a dose fo 5 Gy of X-irradiation on germ cells in p53 wild-type heterozygote and knock out C57Bl/6 mice, 10 days post irradiation. Mean+S.E.M.
+
+                                                                        p53 +/+ (n = 4)                  p53 +/± (n = 6)                    p53 ±/± (n = 4)
+% tubular cross-sections showing
+ A spermatogonia                                                           26.7+2.0                          24.7+3.0                          32.2+5.0
+ Giant spermatogonia                                                        3.1+1.0                           6.0+1.0                          23.5+0.0**
+ Pachytene spermatocytes                                                    7.2+5.3                          26.4+11.1                         46.3+2.9*
+
+*Signi®cantly different from wild-type P < 0.01, **P < 0.005
+                p53 expression in the mouse testis before and after X-irradiation
+                                                                 TL Beumer et al
+672
+
+
+
+
+      Figure 3 Histology of p53 knock out and wild type testes 10 days after a of 5 Gy of X-rays. (A) In wild-type testes very few pachytene spermatocytes were found in
+      epithelial stages I-VI, indicating a virtually complete killing of their predecessors, the A 2-B spermatogonia. Also giant spermatogonia, stem cells that still duplicate
+      their DNA but are unable to divide were rare in wild-type testes. (B) In contrast, in p53 knock out testes, pachytene spermatocytes and giant spermatogonia
+      (arrows) were much more numerous. (C) Occasionally, in unirradiated p53 knock out testes a giant spermatogonium was seen. Spermatogonia are indicated by
+      arrow heads. Magnification: bar represents 25 mm
+
+
+
+
+      Figure 4 The number of the total population of A spermatogonia in stage VIII of the cycle of the seminiferous epithelium is higher in the absence of p53 (A). In both
+      C57Bl/6 and FvB knock out mouse testes a significant increase (P50.01) of A spermatogonia was found. In contrast no difference could be found in the numbers of
+      preleptotene spermatocytes in the p53 knock out compared to the wild-type (B). Numbers of spermatogonia and preleptotene spermatocytes are expressed per
+      1000 Sertoli cells
+                                                                              p53 expression in the mouse testis before and after X-irradiation
+                                                                              TL Beumer et al
+                                                                                                                                                  673
+
+spermatogonia was found. No significant difference was                        damage. Because most spermatogonia go into apoptosis at
+found between the numbers of preleptotene spermatocytes                       9 ± 18 h after irradiation (Beumer et al, 1997), in these cells
+in p53 knock out and wild type mice (Figure 4B).                              p53 might induce a cell cycle arrest, repair and/or
+   The origin of the increase in the total numbers of A                       apoptosis. However, since p21(Cip1/WAF1) is not expressed
+spermatogonia was studied in more detail in FvB p53 knock                     in spermatogonia before or after irradiation (Beumer et al,
+out mice, using whole mounts of seminiferous tubules. Also                    1997) p53 does not exert its role via p21(Cip1/WAF1). A
+in this strain of mice, a significant increase (51%,                          comparable situation was seen in fibroblasts in which
+P50.0005) in the total number of A spermatogonia in                           transcriptional activation by p53 was essential for apoptosis
+stage VIII was found in p53 knock out mice compared to                        induction but not of the p21 gene (Donatella Attardi et al,
+wild-type mice. As in C57BL/6 mice, the higher numbers of                     1996). Another possibility is that p53 induces apoptosis by
+A spermatogonia did not lead to significantly higher                          upregulation of Bax, which is another regulator of apoptosis
+numbers of preleptotene spermatocytes (Figure 4). In                          (Miyashita and Reed, 1995). An indication for this can be
+addition, in contrast to sections in whole mounts of                          seen on the fact that Bax deficiency results in an
+seminiferous tubules the topographical arrangement of the                     accumulation of spermatogonia caused by decreased
+A spermatogonia on the basal membrane remains intact,                         spermatogonial apoptosis which also takes place in the
+enabling the distinction between As, Apr, Aal and A1                          normal mouse (Knudson et al, 1995). Clearly, the role of
+spermatogonia in epithelial stage VIII. The detailed counts                   Bax in male germ cell apoptosis needs further study.
+revealed no significant differences between p53 knock out                         P53 expression in spermatogonia was not observed in
+and wild-type mice with respect to the numbers of                             the X-irradiated rat testis (SjoÈblom and LaÈhdetie, 1996).
+spermatogonial stem cells (As), Apr and Aal spermatogo-                       However, SjoÈblom and LaÈhdetie used Bouin's solution to fix
+nia, or total numbers of these undifferentiated A sperma-                     the testes. In our hands, testes fixed in Bouin's solution
+togonia (Table 2). However, there was a statistical                           were not suitable to immunohistochemically detect p53,
+significant difference (P50.0005) in the numbers of A1,                       while our protocol in which we fix in formalin and post fix in
+spermatogonia between wild-type and p53 knock out mice                        a diluted (0.9% picric acid) Bouin's solution does give rise
+(Table 2).                                                                    to detectable p53 staining, as described.
+   During the cell counts, in p53 knock out mice                                  Possible functions of p53 were also studied in p53 knock
+occasionally giant spermatogonia were found (Figure 3B).                      out mice. First, it was investigated whether the absence of
+No such cells could be observed in the wild-type mice.                        p53 would render spermatogonial stem cells more radio-
+Giant cells, derived from primary spermatocytes, laying at                    resistant. In previous studies (van der Meer et al, 1992) it
+more adluminal positions of the seminiferous epithelium                       was shown that the percentage of seminiferous tubular
+were not found in both p53 knock out C57BL/6 and FvB                          cross sections showing A spermatogonia at 10 days after
+mouse testes.                                                                 irradiation is representative for stem cell survival. After a
+                                                                              dose of 5 Gy of X-rays, no statistically significant difference
+                                                                              between p53 knock out and wild-type mice was found using
+Discussion                                                                    this parameter, indicating that p53 is not an important factor
+The present results, for the first time, show important and                   in the radiosensitivity of spermatogonial stem cells. These
+partly indispensable functions of the p53 protein in                          results are consistent with previous results of Hendry et al.
+spermatogonial cell production and in the response of the                     (1996) who did not find a difference in the D0 value for stem
+various types of spermatogonia, including stem cells, to                      cell killing by X-rays between p53 knock out and wild-type
+irradiation.                                                                  mice.
+    In the normal mouse testis, immunohistochemical                               Second, the occurrence of giant spermatogonia was
+staining for p53 was not observed in spermatogonia.                           studied in testis sections of irradiated mice. We have
+However, after a dose of 4 Gy of X-rays, p53 staining                         previously shown that after irradiation some spermatogonial
+was clearly present in many spermatogonia from 1.5 ± 24 h                     stem cells become unusually large. These giant spermato-
+post irradiation. These results indicate that p53 has a                       gonia are most frequent at 8 days after irradiation and have
+function in spermatogonia in their response to DNA                            disappeared by about day 15 (van Beek et al, 1984, 1986).
+                                                                              Apparently, these cells are still capable of DNA synthesis,
+                                                                              can no longer divide and take a long time before they
+Table 2 Numbers of the various types of A spermatogonia in epithelial stage   undergo apoptosis (van Beek et al, 1986). At 10 days after
+VIII, in p53 +/+ and p53 ±/± FvB mice, as counted in whole mounts of          irradiation, in p53 knock out mice, a sevenfold increase was
+seminiferous tubules. Numbers are expressed per 1000 Sertoli cells,           seen in the number of tubular cross sections showing one
+mean+S.E.M.
+                                                                              or more giant spermatogonia compared to the wild-type
+                                       p53 +/+ (n = 3)   p53 ±/± (n = 5)      mice. This suggests that after irradiation many spermato-
+Spermatogonia          A1                153.4+3.1        242+7.5*            gonial stem cells in p53 knock out mice have problems
+                       As                 15.2+1.2        15.2+2.2            entering the apoptotic pathway. In addition, also in whole
+                       Apr                18.2+2.9        21.6+1.7            mounts of seminiferous tubules of unirradiated p53 knock
+                       Aal                 2.2+0.9         6.6+1.8
+                       Aundiff            35.0+3.6        43.2+3.5            out mice, occasionally a single giant spermatogonium was
+                       A total           188.2+5.5       285.2+8.2*           observed, while these cells were completely absent in
+                                                                              unirradiated wild-type mice. This suggest that spermatogo-
+*Signi®cantly different from wild-type P < 0.005                              nial apoptosis in the normal mouse is not restricted to
+              p53 expression in the mouse testis before and after X-irradiation
+                                                               TL Beumer et al
+674
+
+      differentiating spermatogonia as described before (Huckins,                 far, no degeneration/apoptosis of undifferentiated sperma-
+      1978) but that there is occasional apoptosis of stem cells                  togonia in the normal testis has been observed. Never-
+      too. Giant cells, originating from primary spermatocytes as                 theless, the present results suggest that this type of
+      previously found in some p53 knock out mice by Rotter et                    spermatogonia are also vulnerable to apoptosis during the
+      al. (1993) were not observed in testes of p53 knock out                     normal epithelial cycle.
+      C57BL/6 and FvB strains. This may be due to strain                             Despite the increased numbers of A1 spermatogonia in
+      differences, since Rotter et al. (1993) observed these giant                p53 knock out mice, no statistically significant increased
+      cells in a 129 background, while their p53 knock out mice                   numbers of preleptotene spermatocytes were found.
+      with a mixed genetic background C57BL/66129 exhibited                       Hence, despite the absence of p53, more differentiating
+      a normal structure of the seminiferous tubules. Taken                       spermatogonia degenerate during their series of divisions
+      together, the present results strongly suggest that p53 has                 into spermatocytes than in wild-type mice. Apparently, the
+      an important role in spermatogonial stem cell apoptosis                     density constraints of differentiating spermatogonia are
+      both after irradiation and in the normal situation.                         rather strict and apoptosis occurs anyway via a secondary
+          Third, the cell killing effect of irradiation on differentiating        pathway with a similar efficiency. In addition to the
+      type A2-B spermatogonia was investigated by studying the                    presence of TUNEL positive cells at the basement
+      presence of their descendants at 10 days post irradiation,                  membrane in the p53 knock out testis, these results also
+      i.e. pachytene spermatocytes in epithelial stages I ± VI. In                indicate that differentiating type of spermatogonia are able
+      general, in all mice numbers of pachytene spermatocytes in                  to undergo apoptosis in the absence of p53. These results
+      these stages were low compared to the unirradiated                          are compatible with the results of Perez et al. (1997),
+      controls. This indicates that in p53 knock out mice most                    showing that female germ cell death is independent of
+      lethally damaged A2-B spermatogonia do degenerate, but                      p53.
+      apparently not via the p53 apoptotic pathway. Never-                           Immunohistochemical staining showed that p53 is
+      theless, many more pachytene spermatocytes were found                       expressed at low levels in spermatocytes in the normal
+      in p53 knock out than in wild-type mice. Apparently, in p53                 mouse testis in stages XI ± VIII of the seminiferous
+      knock out mice relatively many A2-B spermatogonia that                      epithelium. This is in support of the levels of p53 mRNA
+      would otherwise be lethally damaged and killed by the                       expression in the normal mouse testis (Almon et al, 1993)
+      irradiation are capable to carry out one or more divisions,                 and p53 protein expression in the normal rat testis (SjoÈblom
+      even start meiotic prophase and reach at least pachytene                    and LaÈhdetie, 1996; Schwartz et al, 1993). The expression
+      stage. Obviously in p53 knock out mice these cells are                      of p53 in spermatocytes indicates that p53 could be
+      more radioresistant. This indicates that p53 is also                        important during the meiotic prophase. The reported p53
+      important in the apoptotic pathway of differentiating type                  upregulation in spermatocytes after X-irradiation in the rat
+      spermatogonia. Indeed, after a dose of 5 Gy of X-rays, 16 h                 by SjoÈblom and LaÈhdetie (1996) was not observed in
+      post irradiation no apoptotic spermatogonia were observed                   mouse spermatocytes using immunohistochemical analysis.
+      (Odorisio et al, 1998), while in wild-type mice spermatogo-                 However, immunohistochemistry is not well suitable for
+      nial apoptosis is at its peak at this interval post irradiation             making quantitative comparisons.
+      (Beumer et al, 1997).                                                          Sertoli cells do not stain for p53 in the normal mouse
+          Fourth, cell counts in both FvB and C57BL/6 p53 knock                   testis, however after a dose of 4 Gy of X-rays p53 staining
+      out mice revealed that the lack of p53 causes a 40 ± 50%                    can be seen in Sertoli cells. Because Sertoli cells are
+      increase in the total number of A spermatogonia in                          terminally differentiated and do not go into apoptosis after a
+      epithelial stage VIII. The total number of A spermatogonia                  dose of 4 Gy of X-rays, a possible function of p53 might be
+      in epithelial stage VIII represents the sum of the                          the induction of DNA repair pathways.
+      undifferentiated A spermatogonia and the number of A1                          Levels of p53 in normal and irradiated testes were
+      spermatogonia that was formed during the preceding cycle                    determined using Western blotting analysis of whole testis
+      of the seminiferous epithelium. To study this in further                    lysates. Although in these experiments both cytoplasmic
+      detail, cell counts in whole mounts of seminiferous                         and nuclear p53 was determined, these experiments
+      epithelium were carried out, which revealed no significant                  clearly show that p53 is present in the normal mouse
+      difference in the numbers of undifferentiated spermatogonia                 testis and is upregulated after X-irradiation, in a way
+      between knock out and wild-type mice. However, a highly                     compatible to our immunohistochemical data. The pre-
+      significant increase of 58% (P50.0005) was seen in the                      sence of high levels of p53 at 3 h post irradiation shows
+      numbers of A1 spermatogonia. This either means increased                    that p53 expression rapidly responds to DNA damage.
+      proliferative activity of the undifferentiated spermatogonia in             This was also found by Kuerbitz and coworkers (1992) in
+      p53 knock out mice, suggesting a role of p53 in the                         various human cell lines. Six hours post irradiation p53
+      regulation of the normal cell cycle of these cells, or a                    levels decline, after which a second increase in p53 levels
+      decreased apoptosis of undifferentiated spermatogonia in                    may be present at 18 h post irradiation. This pattern may
+      p53 knock out mice. Apoptosis of differentiating type A                     be due to differences in the timed p53 expression in
+      spermatogonia in the normal testis has been described                       spermatogonia and Sertoli cells. The observed p53
+      extensively by a number of groups (Rodriguez et al, 1997;                   expression pattern may be testis or dose specific, since
+      Furuchi et al, 1996; Allan et al, 1992) and could be useful in              single or double p53 waves post X-irradiation are reported
+      removal of aberrant cells and/or regulation of cell density                 dependent on tissue (Midgley et al, 1995) and dose of X-
+      (De Rooij and Lok, 1987; De Rooij and Janssen, 1987). So                    rays (Wang et al, 1996).
+                                                                              p53 expression in the mouse testis before and after X-irradiation
+                                                                              TL Beumer et al
+                                                                                                                                                           675
+
+    In conclusion, the present data show, for the first time,                 in PBS for 10 min. The slides were washed in phosphate buffered
+that p53 has an important role in all subsequent types of                     saline (PBS) and then incubated in 10% normal horse serum to
+spermatogonia. First, while p53 is not important in                           block nonspecific binding sites of the antibodies. Subsequently, the
+determining the radiosensitivity of spermatogonial stem                       slides were incubated with a rabbit polyclonal p53 antibody
+cells, without p53 lethally damaged stem cells take much                      (Novocastra Laboratories Ltd., NCL-p53-CM5p), diluted 1 : 200 in
+longer to undergo apoptosis. Second, cell production by                       PBS including 5% normal horse serum in a humidified chamber
+the undifferentiated spermatogonia is much more efficient                     overnight at 48C. After extensive washing steps in PBS, slides were
+in p53 knock out mice than in wild-type mice, indicating                      incubated for 60 min with a secondary biotinylated goat anti-rabbit
+                                                                              IgG (Santa Cruz Biotechnology Inc., USA) diluted 1 : 200 in PBS
+either enhanced proliferative activity or less apoptosis of
+                                                                              including 5% normal horse serum, in a humidified chamber. The
+these cells. Third, differentiating type spermatogonia
+                                                                              horseradish peroxidase avidin-biotin complex reaction was per-
+strongly express p53 after irradiation and are more
+                                                                              formed according to the manufacturer's protocol (Vectastain Elite,
+radioresistant in the sense that after a dose of 4 Gy
+                                                                              Vector Laboratories). To visualize bound antibodies, sections were
+considerably more of these cells survived and were able to                    washed in PBS and covered with 0.3 mg/ml 3, 3'-diaminobenzidine
+reach at least pachytene stage. When these severely                           (DAB, Sigma) in PBS, to which 0.03% H2O2 was added. Sections
+damaged cells would be able to become spermatozoa, this                       were counterstained with Mayer's haematoxylin.
+would mean that during a restricted period of time after                          Negative control sections were treated as described above, except
+irradiation, upon fertilization the risk of inducing genetically              that the primary antibody was omitted during the procedure and
+compromised offspring is high. In this, it is reassuring that                 replaced by normal rabbit serum. Adjacent sections were used for a
+severely damaged stem cells do die in spite of a lack of                      periodic acid Schiff (PAS) staining to identify the stages of the cycle of
+p53.                                                                          the seminiferous epithelium of the tubules.
+
+
+                                                                              TUNEL analysis
+                                                                              Apoptotic cells were detected at single cell level, using the TUNEL
+Materials and Methods                                                         method (In Situ Cell Death Detection Kit, Boehringer Mannheim).
+                                                                              Procedures were carried out according to the manufacturer's protocol.
+Animals, irradiation and ®xation                                              In short, sections were deparaffinated and rehydrated, after which
+The testes of adult male FvB/NAU mice (Central Laboratory Animal              sections were treated with 10 mg/ml proteinase K in 10 mM Tris/HCl
+Institute, Utrecht, The Netherlands) of at least 7 weeks of age were          (pH 7.5). Endogenous peroxidase was blocked in 0.35% H2O2 for
+locally irradiated (Philips, 200 kV, 20 mA, 0.5 mm Cu2+ filter). A single     30 min. Single and double strand breaks were 3' labeled with
+dose of 4 Gy was given. Groups of four mice were sacrificed by                fluorescein labeled nucleotides, using terminal deoxynucleotidyl
+cervical dislocation at 1.5, 3, 6, 9, 12, 18 and 24 h after a dose of 4 Gy.   transferase (TdT). Incorporated fluorescein was detected by anti-
+Control mice were sham-irradiated.                                            fluorescein antibody Fab fragments, conjugated with horseradish
+    The p53 knock out C57BL/6 mice originally were generated by               peroxidase. Bound antibodies were covered with 0.3 mg/ml 3,3'-dia-
+Jacks and coworkers (1994) and were raised at the Leiden University           minobenzidine tetrachloride (DAB, Sigma) in PBS, to which 0.03%
+via breeding of heterozygotes. Part of the different genotypes (p53+/+,       H2O2 was added.
+p53+/7, p537/7) received a dose of 5 Gy of total body X-irradiation
+using a Andrex SMART 225 machine operating at 200 kV and 4 mA,
+resulting in an HVL of 1.0 mm Cu2+ and a dose rate of 0.6 Gy/min. FvB         Protein gel electrophoresis and Western blotting
+P53 knock out mice were generated by Donehower and coworkers                  Total protein lysates were prepared by mincing the testes in a
+(1992) and were reared at the Netherlands Cancer Institute at                 membrane disrupter (micro-dismembrator II, B. Braun Biotech) after
+Amsterdam.                                                                    which the cells were lysed in RIPA buffer (PBS, 1% NP40, 0.5%
+    For histology and immunohistochemistry, testes were fixed in 10%          sodium deoxycholate, 0.1 % SDS) for 30 min on ice. Lysates were
+neutral buffered formalin for 4 h and post fixed in a diluted Bouin           sonicated on ice and cleared by centrifugation. Protein levels were
+solution (71% picric acid (0.9%), 24% formaldehyde (37%), 5% acetic           measured using BCA analysis (Pierce). SDS ± PAGE was performed
+acid) for 16 h, at 48C. Tissues were washed in 70% EtOH prior to              as described by Laemmli (1970). Fifty mg of protein was denaturated
+embedding in paraffin for immunohistochemistry (Stemcowax,                    by boiling for 5 min in Laemmli SDS sample buffer and separated on a
+Adamas Instruments, The Netherlands) or Technovit 7100, for                   13% PAGE gel. Proteins were blotted onto a PVDF membrane
+histological examination (KuIzer & Co. GmbH, Wehrheim, Germany).              (MilliPore). After blotting the gel was Coomassie stained for transfer
+    For protein isolation, testes were frozen in liquid nitrogen and          efficiency.
+stored at 7808C.                                                                  Western blots were blocked using Blotto-A, containing 5% Protifar
+                                                                              (Nutricia, Zoetermeer, The Netherlands) in Tris-buffered saline
+                                                                              (10 mM Tris-HCl, pH 8.0; 150 mM NaCI), including 0.05% Tween-20
+Immunohistochemistry                                                          (TBT). The antibody against p53 (Pab 240 1 : 100, Mouse monoclonal
+To avoid slide-to-slide differences, 5 mm paraffin sections, of testes        SC-99, Santa Cruz Biotechnology Inc., USA) was diluted in Blotto-A.
+at different intervals after irradiation were mounted together on a           Incubation with Rabbit anti Mouse (RAMPO, DAKO), conjugated to
+silane coated glass slide. Series of testes of animals from at least          horse radish peroxidase, 1 : 10 000 in Blotto-A, was performed after at
+three different irradiation experiments were used. Also testes of             least three rinses in TBT for 5 min each.
+irradiated p53 knock out mice were used. Unmasking of the epitope                 Chemiluminescence (ECL, Amersham) was used for analyzing
+was established by boiling the sections three times for 10 min in             levels of protein according to the manufacturer's protocol. Blots were
+0.01 M sodium citrate, using a microwave oven (H2500, Bio-Rad).               exposed to X-ray film (RX, Fuji, Japan). Intensity of p53 protein signals
+Endogenous peroxidase was blocked by incubation in 0.35% H2O2                 were measured using a densitometer (GS-700, Bio-Rad).
+                 p53 expression in the mouse testis before and after X-irradiation
+                                                                  TL Beumer et al
+676
+
+      Histological examination                                                                Clermont Y and Buston-Obregon E (1968) Re-examination of spermatogonial
+                                                                                                  renewal in the rat by means of seminiferous tubules mounted `in toto'. Am. J. Anat.
+      For histological examination, testes were embedded in Technovit                             122: 237 ± 248
+      7100. Five mm sections were stained by the Periodic-acid Schiff                         de Rooij DG (1973) Spermatogonial stem cell renewal in the mouse. I. Normal
+      reaction (PAS) and counterstained with Mayer's haematoxylin. The                            situation. Cell Tissue Kinet. 6: 281 ± 287
+      stages of the cycle of the seminiferous epithelium were classified                      de Rooij DG and Janssen M (1987) Regulation of the density of spermatogonia in the
+      according to Oakberg (1956). In testis sections of p53 knock out and                        seminiferous epithelium of the Chinese liamster: I. Undifferentiated spermato-
+      wild type C57BL/6 mice the numbers of both A-spermatogonia and                              gonia. Anat. Rec. 217: 124 ± 130
+      preleptotene spermatocytes were counted in stage VIII of the                            de Rooij DG and Lok D (1987) Regulation of the density of spermatogonia in the
+      seminiferous epithelium. In each animal, cell counts were carried out                       seminiferous epithelium of the Chinese lianister: II Differentiating spermatogo-
+                                                                                                  nia. Anat. Rec. 217: 131 ± 136
+      until at least 250 Sertoli cells were counted.
+                                                                                              Donatella Attardi L, Lowe SW, Brugarolas J and Jacks T (1996) Transcriptional
+           For the determination of the percentages of tubular cross-sections
+                                                                                                  activation by p53, but not induction of the p21 gene, is essential for oncogene-
+      containing A spermatogonia (repopulation index) and/or giant                                mediated apoptosis. EMBO J. 15: 3693 ± 3701
+      spermatogonia, in each mouse 200 tubular cross-sections were                            Donehower LA, Harvey M, Slagle BL, McArthur MJ, Montgomery Jr CA, Butel JS and
+      studied. The percentage of tubular cross sections in epithelial stages                      Bradley A (1992) Mice deficient for p53 are developmentally normal but
+      I ± VI containing pachytene spermatocytes at 10 days after a dose of                        susceptible to spontaneous tumours. Nature 356: 215 ± 221
+      5 Gy was determined by studying 100 tubular cross-sections in these                     El-Deiry WS, Tokino T, Velculescu VE, Levy DB, Parsons R, Trent JM, Lin D, Mercer
+      stages in each animal.                                                                      WE. Kinzler KW and Vogelstein B (1993) WAF1, a potential mediator of p53
+           Whole mount seminiferous tubules were prepared from five wild-                         tumor suppression. Cell 75: 817 ± 25
+      type and five p53 knock out FvB mice, as described by Clermond and                      Furuchi T, Masuko K, Nishimune Y, Obinata M and Matsui Y (1996) Inhibition of
+                                                                                                  testicular germ cell apoptosis and differentiation in mice misexpressing Bcl-2 in
+      Bustos-Obregon (1968). Whole tubules were fixed in Bouin's solution
+                                                                                                  spermatogonia. Development 122: 1703 ± 1709
+      and stained with Harris' haematoxylin. With the help of an ocular grid                  Guillouf C, Rosselli F, Krishnaraju K, Moustacchi E, Hoffinan B and Liebermann DA
+      covering an area of 1116111 mm, using a 1006 objective,                                     (1995) p53 involvement in control of G2 exit of the cell cycle: role in DNA damage-
+      spermatogonia with their geometrical center and Sertoli cells with                          induced apoptosis. Oncogene 10: 2263 ± 2270
+      their typical nucleoli, within the frame of the grid were counted. In                   Hendry JH, Adeeko A, Potten CS and Morris ID (1996) p53 deficiency produces fewer
+      stage VIII As, Apr, Aal spermatogonia and (pre)leptotene spermato-                          regenerating spermatogenic tubules after irradiation. Int. J. Radiat. Biol. 70:
+      cytes were counted as described before (de Rooij, 1973). In the                             677 ± 682
+      second half of stage VIII/early IX the A1 spermatogonia synchronously                   Huckins C (1978) Spermato-onial intercellular bridges in whole mounted
+      prepare for a division in stage IX. These cells are then large as they                      serniniferous tubules from normal and irradiated rodent testes. Am. J. Anat.
+                                                                                                  153: 97 ± 121
+      are in G2 phase or early prophase. In contrast, the undifferentiated
+                                                                                              Jacks T, Remington L, Williams BO, Schmitt EM, Halachmi S, Bronson RT and
+      spermatogonia which will start proliferation later on in the epithelial
+                                                                                                  Weinberg RA (1994) Tumor spectrum analysis in p53-mutant mice. Curr. Biol.
+      cycle are small and can easily be distinguished from the A 1                                356: 1 ± 7
+      spermatogonia. According to their typographical arrangement the                         Kastan MB, Onyekwere O, Sidransky D, Vogelstein B and Craig RW (1992)
+      undifferentiated spermatogonia were subdivided into clones consisting                       Participation of p53 protein in the cellular response to DNA damage. Cancer Res.
+      of 1 (As), 2 (Apr) or more (Aal) cells. Undifferentiated A spermatogonia                    51: 6304 ± 6311
+      lying less than 25 mm from each other were considered to belong to the                  Knudson CM, Tung KSK, Tourtelette WG, Brown GAJ, Korsmeyer SJ (1995) Bax-
+      same clone. Paired t test analysis was used to verify significance of                       deficient mice with lymphoid hyperplasia and male germ cell death. Science 270:
+      the obtained data.                                                                          96 ± 99
+                                                                                              Ko U and Prives C (1996) p53: puzzle and paradigm. Genes Dev. 10: 1054 ± 1072
+                                                                                              Kuerbitz SJ, Plunkett BS, Walsh WV and Kastan MB (1992) Wild-type p53 is a cell
+      Acknowledgements                                                                            cycle checkpoint determinant following irradiation. Proc. Nad. Acad. Sci. USA 89:
+                                                                                                  7491 ± 7495
+      The authors thank Mr. R. Scriwanek and Mr. A. van Rijn for assistance                   Laemmli UK (1970) Cleavage of structural proteins during the assembly of the head of
+      with photography and Mrs. van Duijn-Goedhart for assistance regarding                       bacteriophage T4 Nature 227: 680 ± 684
+      the C57BL/6 p53 knock out mice. This work was supported by the J.A.                     Lane DP (1992) Cancer. P53, guardian of the genome. Nature 358: 15 ± 16
+      Cohen Institute for Radiopathology and Radiation Protection Leiden, The                 Midgley CA, Owens B, Briscoe CV, Thomas DB, Lane DP and Hall PA (1995)
+      Netherlands.                                                                                Coupling between y irradiation, p53 induction, and the apoptotic response
+                                                                                                  depends on cell type in vivo. J. Cell. Sci. 108: 1843 ± 1848
+                                                                                              Miyashita T and Reed JC (1995) Tumor suppressor p53 is a direct transcriptional
+                                                                                                  activator of the human bax gene. Cell 80: 293 ± 299
+      References                                                                              Oakberg EF (1956) A description of spermiogenesis in the mouse and its use in
+                                                                                                  analysis of the cycle of the seminiferous epithelium and germ cell renewal. Int. J.
+      Agarwal ML, Agarwal A, Taylor WR and Stark GR (1995) p53 controls both the G2/M             Anat. 99: 391 ± 409
+          and the G1 cell cycle checkpoints and mediates reversible growth arrest in          Oakberg EF (1971) Spermatogonial stem cell renewal in the mouse. Anat. Rec. 169:
+          human fibroblasts. Proc. Nad. Acad. Sci. USA 92: 8493 ± 8497                            515 ± 532
+      Allan DJ, Harmon BV and Roberts SA (1992) Spermatogonial apoptosis has three            Odorisio T, Rodriquez TA, Evans AR, Clarke AR and Burgoyne PS (1998) The meiotic
+          morphologically recognizable phases and shows no circadian rhythm during                checkpoint monitoring synapsis eliminates spermatocytes via p53-independent
+          normal spermatogenesis in the rat. Cell Prolif. 25: 241 ± 250                           apoptosis. Nat. Gen. 18: 257 ± 261
+      Almon E, Goldfinger N, Kapon A, Schwartz D, Levine AJ and Rotter V (1993)               Pellegata NS, Antoniono RJ, Redpath JL and Stanbridge EJ (1996) DNA damage and
+          Testicular tissue-specific expression of the p53 suppressor gene. Dev. Biol. 156:       p53-mediated cell cycle arrest: A reevaluation. Proc. Natl. Acad. Sci. USA 93:
+          107 ± 116                                                                               15209 ± 15214
+      Beumer TL, Roepers-Gajadien HL, Gademan IS, Rutgers DH and de Rooij DG (1997)           Perez GI, Knudson CM, Leykin L, Korsmeyer Si and Tilly JL (1997) Apoptosis-
+          P2(Cip1/WAF1) expression in the mouse testis before and after X-irradiation.            associated signaling pathways are required for chemotherapy mediated female
+          Mol. Rep. Dev. 47: 240 ± 247                                                            germ cell destruction. Nat. Med. 11: 1228 ± 1232
+      Chernova OB, Chernov MV, Agarwal ML, Taylor WR and Stark GR (1995) The role of
+          p53 in regulating genomic stability when DNA and RNA synthesis are inhibited.
+          TIBS 20: 431 ± 434
+                                                                                         p53 expression in the mouse testis before and after X-irradiation
+                                                                                         TL Beumer et al
+                                                                                                                                                                                    677
+
+Rehberger PA, Richter KH, Schwartz D, Goldfinger N, Oskato R, Almog N, Marks F           SjoÈblom T and LaÈhdetie J (1996) Expression of p53 in normal and X-irradiated rat
+    and Rotter V (1997) Differential expression of the regularly spliced wild-type p53        testis suggests a role for p53 in mciotic recombination and repair. Oncogene 12:
+    and its COOH-terminal alternatively spliced form during epidermal differentia-            2499 ± 2505
+    tion. Cell Growth Differ. 8: 851 ± 860                                               van Beek MEAB, Davids JAG, van de Kant HJG and de Rooij DG (1984) Response to
+Reisman D and Rotter V (1993) The helix ± loop ± helix containing transcription factor        fission neutron irradiation of spermatogonial stem cells in different stages of the
+    USF binds to and transactivates the promoter of the p53 tumor suppressor gene.            cycle of the seminiferous epithelium. Radiation Res. 97: 556 ± 569
+    Nucl. Acids Res. 21: 345 ± 350                                                       van Beek MEAB, Davids JAG and de Rooij DG (1986) Nonrandom distribution of
+Rodriguez I, Ody C, Araki K, Garcia I and Vassalli P (1997) An early and massive wave         mouse spermatogonial stem cells surviving fission neutron irradiation. Radiation
+    of germinal cell apoptosis is required for the development of functional                  Res. 107: 11 ± 23
+    spermatogenesis. EMBO J. 16: 2262 ± 2270                                             van der Meer Y, Huiskamp R, Davids JAG, van Tweel I and de Rooij DG (1992) The
+Ronen D, Rotter V and Reisman D (1991) Expression from the murine p53 promoter is             sensitivity of quiescent and proliferating mouse spermatogonial stem cells to X-
+    mediated by factor binding to a downstream helix ± loop ± helix recognition motif.        irradiation. Radiation Res. 130: 289 ± 295
+    Proc. Natl. Acad. Sci. USA 88: 4128 ± 4132                                           Wang X, Matsumoto H, Okaichi K and Ohnishi T (1996) p53 accumulation in various
+Rotter V and Ronen D (1997) Expression of p53 in differentiation and apoptosis and            organs of rats after whole-body exposure to low-dose X-ray-irradiation.
+    its deregulation in tumor cell. Leukemia 11: 327 ± 330                                    Anticancer Res. 16: 1671 ± 1674
+Rotter V, Schwartz D, Almon E, Goldfinger N, Kapon A, Meshorer A, Donehower LA           West A and LaÈhdetie J (1997) p21WAF1 expression during spermatogenesis of the
+    and Levine A (1993) Mice with reduced levels of p53 protein exhibit the testicular        normal and X-irradiated rat. Int. J. Radiat. Biol. 73: 283 ± 291
+    giant-cell degenerative syndrome. Proc. Nati. Acad. Sci. USA 90: 9075 ± 9079         ZoÈlzer F, Hillebrandt S and Streffer C (1995) Radiation induced G1-block and p53
+Schwartz D, Goldfinger N and Rotter V (1993) Expression of p53 protein in                     status in six human cell lines. Radioth. Oncol. 37: 20 ± 28
+    spermatogenesis is confined to the tetraploid pachytene primary spermatocytes.
+    Oncogene 8: 1487 ± 1494
+

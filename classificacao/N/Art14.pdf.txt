@@ -1,0 +1,418 @@
+Fluorescent two-dimensional difference gel electrophoresis
+unveils the potential of gel-based proteomics
+Gert Van den Bergh and Lutgarde Arckens
+
+Comparing different proteomes by classical two-dimensional            predominant protein staining methods, for instance, are
+electrophoresis is challenging and often complicated by               either not sensitive enough (coomassie brilliant blue) or
+substantial gel-to-gel variation. Separating two or more protein      have a limited linearity (silver staining) and thus impede a
+samples labelled with different fluorescent dyes in one single gel,   really quantitative protein expression analysis. The appli-
+as in two-dimensional difference gel electrophoresis, reduces         cation of radioactive labelling or fluorescent stains such as
+this variability considerably. Recent technological innovations,      SYPRO Ruby [2] can alleviate these problems, but only
+specifically the introduction of a pooled internal standard, even     partially. Indeed, the intrinsic gel-to-gel variability of 2-
+further improve the quantification accuracy and statistical           DGE, that masks the biological difference between the
+confidence of this method. In addition, decreasing the sample         samples and compromises any quantitative comparison of
+complexity by one of several protein or organelle fractionation       protein expression levels, is much more difficult to avoid.
+procedures increases the number of spots investigated by this         These variations seem to arise from problematic protein
+protein differential display methodology.                             uptake by the isoelectric focusing strips, incomplete
+                                                                      protein transfer from the first to the second dimension
+Addresses                                                             gel and local inhomogeneities in gel composition, field
+Laboratory for Neuroplasticity and Neuroproteomics, Katholieke        strength or pH gradients. The only way to circumvent
+Universiteit Leuven, Naamsestraat 59, B-3000 Leuven, Belgium          these variations is, therefore, to get rid of the ‘one gel, one
+
+ e-mail: gert.vandenbergh@bio.kuleuven.ac.be
+                                                                      sample’ cliche´ and implement a multiplexing approach,
+                                                                      using a single gel for the separation of multiple protein
+  Current Opinion in Biotechnology 2004, 15:38–43                     samples, followed by the independent visualization of
+                                                                      these samples.
+  This review comes from a themed issue on
+  Analytical biotechnology
+  Edited by Keith Rose                                                Here, we will describe one of the most promising and
+                                                                      exciting multiplexing technologies for 2-DGE, fluores-
+  0958-1669/$ – see front matter
+                                                                      cent two-dimensional difference gel electrophoresis (2-D
+  ß 2003 Elsevier Ltd. All rights reserved.
+                                                                      DIGE) and discuss some of its critical parameters. The
+  DOI 10.1016/j.copbio.2003.12.001                                    two different lines of thought concerning the experimen-
+                                                                      tal set-up that are currently emerging will be reviewed
+Abbreviations
+                                                                      and some improvements and modifications will be intro-
+2-D DIGE two-dimensional difference gel electrophoresis               duced that could further extend the potential of this
+2-DGE       two-dimensional gel electrophoresis                       outstanding technique.
+ICAT        isotope-coded affinity tags
+RP-HPLC reversed-phase high-performance liquid chromatography         A protein differential display technology
+                                                                      2-D DIGE is not the first method to enable the visualiza-
+                                                                      tion of multiple protein samples on a single 2-DGE gel.
+Introduction                                                          Other multiplexing methods, for example, have em-
+Over the past few years, we have seen a dramatic increase             ployed the radiolabelling of two samples with distinguish-
+in the number of research papers exploring differences in             able isotopes [3] or the radioactive tagging of one sample
+protein expression levels between two or more samples of              combined with silver staining of the unlabelled second
+distinct origin. In general, these functional proteomics              sample, of which 100-fold higher concentration was
+studies are very straightforward. Proteins in the cell or             applied to ensure that only the unlabelled proteins are
+tissue samples are separated with high-resolution two-                stained [4]. Because in vivo radioactive protein labelling is
+dimensional gel electrophoresis (2-DGE) followed by a                 not always feasible, the introduction of fluorescence-
+quantitative visualization by one of several protein stain-           based 2-D DIGE by U    ¨ nlu¨ and co-workers [5] has proved
+ing methods. The quantitative comparison of the distinct              to be of enormous importance for the full development of
+protein spot patterns reveals proteins with differential              electrophoresis-based functional proteomics.
+expression levels, which can be further identified by mass
+spectrometry [1].                                                     The standard 2-D DIGE workflow is illustrated in
+                                                                      Figure 1. Two protein extracts are first covalently tagged
+This functional proteomics approach is hampered by                    with two distinct and spectrally resolvable fluorescent
+important limitations, however, in particular concerning              N-hydroxy succinimide derivatives, propyl-Cy3 and
+the inadequacy of the technology for quantification. The              methyl-Cy5. These dyes specifically and covalently label
+
+Current Opinion in Biotechnology 2004, 15:38–43                                                                www.sciencedirect.com
+                                                              Fluorescent two-dimensional difference gel electrophoresis Van den Bergh and Arckens 39
+
+
+
+
+Figure 1                                                                                               the e-amine groups of the protein’s lysine residues to form
+                                                                                                       an amide. Both labelled samples are mixed and applied
+                                                                                                       onto a single 2-DGE gel and the corresponding protein
+                                                                                                       spot patterns are visualized by alternately illuminating
+                    Sample A                                            Sample B
+                                                                                                       the gel with the excitation wavelengths of each of the
+                                                                                                       dyes. The resulting images can then be analyzed, either by
+            N
+                +
+                              N                                           N
+                                                                              +
+                                                                                           N           constructing false-coloured overlay images combined with
+                                                                                                       standard proteomics software [6,7] or by using software
+  Label with                                                        Label with                         specifically designed for 2-D DIGE, such as DeCyder
+                          O
+  propyl Cy3          O           O                                 methyl Cy5     O
+                                                                                       O
+                                                                                               O       Differential In-gel Analysis from Amersham Biosciences
+                              N                                                            N
+                                      O                                                            O
+                                                                                                       (http:www//amershambiosciences.com/). Differentially
+                    Sample A                                            Sample B
+                                                                                                       expressed protein spots are then excised from the gel
+                                                                                                       and subjected to mass spectrometry for identification.
+
+                                                                                                       The advantages of this technology are immediately
+                                                                                                       apparent. The use of fluorescent labels renders 2-D
+                                               Mix
+                                                                                                       DIGE much more quantitative than the standard colori-
+                                                                                                       metric staining methods, both with regard to sensitivity as
+                                                                                                       well as linearity. Moreover, no post-electrophoretic pro-
+                                                                                                       cessing (fixation or destaining) is necessary, reducing
+                                             2-D electrophoresis
+                                                                                                       protein losses particularly in the low molecular weight
+                                                                                                       range. Most critical is the increase in confidence that
+                                                                                                       differences in spot fluorescence intensity are purely attri-
+                                                                                                       butable to biological and not experimental variation, as
+       Excitation λ Cy3                                               Excitation λ Cy5                 realized by the complete elimination of gel-to-gel vari-
+                                                                                                       ability by using a single gel for the comparison of two
+                                                                                                       different protein samples. Multiple gels evidently remain
+                                              Image acquisition                                        necessary to obtain statistically significant results [8].
+                                                  from gel                                             Therefore, 2-D DIGE can truly be considered the first
+                                                                                                       real quantitative proteomics differential display method.
+
+                                                                                                       Characteristics of fluorochromes and critical
+           Cy3 image                                                     Cy5 image                     issues for 2-D DIGE
+                                                                                                       The dyes used in 2-D DIGE are designed to compensate
+                                                                                                       for the lost positive charge of the lysine residues and
+        Image overlaying                                                                               introduce only a small and matched increase in molecular
+                                                                                                       weight. This prevents isoelectric point shifts and the
+                                                                                                       occurrence of artefactual spot positions, at least below
+                                                                                                       pH 10 [5], and generates a small but equal shift for each of
+                                               Image analysis                                          the dyes in the molecular weight dimension, especially in
+                                                                                                       the low molecular weight range [9]. To prevent precipita-
+                                                                                                       tion of the proteins during electrophoresis owing to the
+                              Spot quantification and normalization
+                                                                                                       relatively high hydrophobicity of the fluorochromes, not
+                                                                                                       all lysine residues of the proteins can be tagged [5]. As a
+                                          Protein identification (MS)                                  result, a minimal labelling must be executed, with maxi-
+                                                           Current Opinion in Biotechnology
+                                                                                                       mally one lysine residue being labelled per protein, to
+                                                                                                       prevent spot trains in the molecular weight dimension
+Schematic overview of 2-D DIGE technology with two fluorescent
+                                                                                                       owing to the presence of one or more labels (i.e. mass
+dyes. Samples A and B are fluorescently labelled with either Cy3                                       additions) per protein [5,10,11]. This, of course, limits
+or Cy5. These labelled samples are mixed and applied to one                                            the fluorescence intensity and thereby the sensitivity of
+2-DGE gel. After electrophoresis, this gel is successively illuminated                                 the stain, which is about 1 ng of protein per spot [10],
+with the excitation wavelengths of Cy3 and Cy5. The resulting                                          slightly lower than silver or SYPRO Ruby staining [12].
+protein spot patterns can then be compared and analyzed for
+differential protein expression. Proteins can be identified by mass
+                                                                                                       Visualization of the protein spot patterns, therefore,
+spectrometry (MS).                                                                                     requires either very sensitive charge-coupled device cam-
+                                                                                                       eras [5,6,7] or gel scanners fitted with either conven-
+                                                                                                       tional light sources or lasers with the correct excitation
+                                                                                                       wavelength filters.
+
+www.sciencedirect.com                                                                                                  Current Opinion in Biotechnology 2004, 15:38–43
+40 Analytical biotechnology
+
+
+
+
+Although this minimal labelling renders 2-D DIGE com-           all spots, across all gels [18]. With this approach the
+patible with mass spectrometry, as the majority of the          experimental variation is further reduced, increasing the
+lysine residues required for tryptic digestion are actually     accuracy of quantification and the statistical confidence of
+unlabelled, problems arise when trying to excise spots          protein expression differences [12,18,19]. In this way
+from the gels. As these spots are not visible to the naked      not only minute differences in expression level in stan-
+eye, they have to be cut blind with a spot-picking robot.       dard two sample comparisons can be detected and quan-
+At the low molecular weight ranges, however, some               tified with statistical confidence, but also a larger number
+positional discrepancy between the low levels of the            of samples (e.g. a time series [9]) can be compared across
+heavier, labelled protein and the bulk of lighter, unla-        different gels without increasing the required number of
+belled protein has been observed [9], necessitating spot        gels. This approach, therefore, can be considered bene-
+excision at a slightly lower molecular weight position than     ficial over the standard 2-D DIGE methodology. The
+determined for the fluorescent spots. Alternatively, gels       pooled internal standard can also be used with only two
+can also be post-stained with silver staining [6] or, pre-     fluorochromes, whereby only one of the samples is
+ferably, SYPRO Ruby [9], both of which mainly visualize         directly compared with the pooled internal standard on
+the bulk of unlabelled proteins.                                a single gel [20], but this of course again necessitates the
+                                                                analysis of more gels.
+To overcome some of these problems, modified Cy3 and
+Cy5 dyes were introduced with similar characteristics to        Compatibility with technological advances
+those described above, but which enable saturation              in 2-DGE
+labelling of the proteins at cysteine residues [11]. These     As standard 2-DGE separations enable the visualization
+dyes seem to lower the detection thresholds to approxi-         of only the most abundant proteins [21], an important
+mately 0.1 ng protein on one-dimensional electrophor-           shortcoming when investigating complex proteomes, sev-
+esis, compared to 1 ng with minimal labelling [11];            eral attempts have been made to avoid 2-DGE altogether
+however, on average, 25% of the protein material pre-           during protein differential display so as to increase the
+cipitated during the labelling reaction, the spot pattern       number of analyzed proteins; for example, using isotope-
+was significantly altered and some proteins showed pre-         coded affinity tags (ICAT) [22]. But, as both techniques
+ferential labelling with one or the other of these dyes.        provide complementary information, 2-DGE is still an
+This preferential labelling was, to a lesser extent, also       essential method. As a result, several technical improve-
+observed with the minimal labelling approach [6,10],           ments have allowed proteins below the ‘tip of the iceberg’
+but any such spots can easily be detected by reversing the      to be displayed, primarily based on improved sample
+labelling experiment [6,11].                                  preparation procedures [23], depletion of highly abundant
+                                                                proteins and the subdivision of the protein samples into
+Experimental design: two versus three dyes                      smaller, less complex fractions. Evidently, to achieve its
+The standard 2-D DIGE approach (Figure 1) has already           full potential, compatibility of 2-D DIGE with these
+produced some nice lists of differentially expressed pro-       innovations is of utmost importance, but care should be
+teins in, for instance, bacteria [5], yeast [13], mouse liver   taken not to skew the relative abundances of the proteins,
+[10], mouse brain [14], mouse heart mitochondria [15], rat      a potential risk of these techniques.
+heart [16], human oesophageal cancer cells [17] and cat
+visual cortex [6,7]. One key disadvantage, however, is       One approach for reducing protein sample complexity is
+that only a direct comparison of two different protein          to separate the extracts by reversed-phase high-perfor-
+samples can be performed. A study of multiple (more than        mance liquid chromatography (RP-HPLC). A comparison
+two) samples either requires using a large number of pair       of protein expression levels between the protein samples
+wise comparisons or an analysis of samples run on differ-       is then performed for each of the corresponding HPLC
+ent gels. This last option, however, would again introduce      fractions [7,24]. RP-HPLC prefractionation followed by
+gel-to-gel variation.                                           protein quantification and comparison by 2-D DIGE
+                                                                enabled the detection and identification of several differ-
+Yet, the introduction of a third fluorescent dye, Cy2, with     entially expressed proteins that were previously unde-
+similar characteristics as discussed above [10], opened up      tectable by 2-D DIGE without sample prefractionation
+an important alternative for designing 2-D DIGE experi-         [7]. A decrease in the eukaryotic protein sample com-
+ments (Figure 2). Again, protein samples are labelled with      plexity can also be achieved by enrichment for specific
+either Cy3 or Cy5, but now a pooled sample is also              intracellular organelles followed by subcellular proteo-
+constructed containing equal amounts of all samples in          mics [25]. One example of this method is the comparison
+the experiment; this sample is labelled with Cy2. When          of mitochondrial proteins with 2-D DIGE [15]. A third
+applied on the same gel as the Cy3- and Cy5-labelled            approach, especially suitable to obtain more homoge-
+samples, the pooled sample acts as an internal standard         neous cell populations from a complex tissue, is laser
+present for every protein spot on each of the gels. This        capture microdissection. Owing to its high sensitivity, it
+pooled internal standard is then used for normalization of      was possible to perform 2-D DIGE on the tiny amount of
+
+Current Opinion in Biotechnology 2004, 15:38–43                                                        www.sciencedirect.com
+                                           Fluorescent two-dimensional difference gel electrophoresis Van den Bergh and Arckens 41
+
+
+
+
+Figure 2
+
+
+
+                                                      Pooled sample A
+                             Sample A                                                                                Sample B
+                                                           + sample B
+                                                          O                        O
+                                                                  +
+                                                              N                     N
+
+
+
+
+                             Label with              Label                                                       Label with
+                            propyl-Cy3               with Cy2                      O                            methyl-Cy5
+                                                                           O            O
+                                                                               N
+
+                                                                       O
+
+
+                                                      Pooled sample A
+                             Sample A                                                                                Sample B
+                                                           + sample B
+
+
+
+
+                                                                                            Mix
+
+
+
+
+                                                                                   2-D electrophoresis
+
+
+
+
+                                      Excitation λ Cy3                                                                Excitation λ Cy5
+
+                                                                                                  Excitation λ Cy2
+
+
+
+
+                                     Cy3 image                                               Cy2 image                       Cy5 image
+
+
+
+                                                Normalize Cy3/Cy2                                        Normalize Cy5/Cy2
+
+
+
+                                                                      Detect spots with differential
+                                                                      normalized fluorescent levels
+
+
+
+                                                                       Protein identification (MS)
+                                                                                                               Current Opinion in Biotechnology
+
+
+
+Schematic outline of a 2-D DIGE experiment with an internal pooled standard and three fluorescent dyes. Samples A and B are labelled with
+either Cy3 or Cy5, but a pooled internal standard is also constructed from equal amounts of all the samples in the experiment and labelled with
+Cy2. After mixing these protein samples and performing 2-DGE, the respective protein spot patterns can again be visualized by illuminating the gel
+with the specific excitation wavelengths. The sample A and B protein spot intensities can now be normalized by dividing each spot intensity by the
+corresponding spot intensity of the pooled internal standard. Analyzing these normalized spot intensities enables the detection of more subtle
+differences in protein expression levels with a higher statistical confidence.
+
+
+
+
+www.sciencedirect.com                                                                                                Current Opinion in Biotechnology 2004, 15:38–43
+42 Analytical biotechnology
+
+
+
+
+protein obtained from microdissected cells [17,26],                        4.   Spandidos A, Rabbitts TH: Sub-proteome differential display:
+                                                                                single gel comparison by 2D electrophoresis and mass
+although saturation labelling could prove advantageous                          spectrometry. J Mol Biol 2002, 318:21-31.
+for even further increasing the number of detected spots.
+                                                                           5.   U¨ nlu¨ M, Morgan ME, Minden JS: Difference gel electrophoresis:
+Alternatively, by increasing the separation distance of 2-                      a single gel method for detecting changes in protein extracts.
+DGE (e.g. with narrow-range pH gradients) the number                            Electrophoresis 1997, 18:2071-2077.
+of separated protein spots can also be enlarged. Compat-                   6.    Van den Bergh G, Clerens S, Cnops L, Vandesande F, Arckens L:
+ibility of these so-called zoom gels with 2-D DIGE has                          Fluorescent two-dimensional difference gel electrophoresis
+                                                                                 and mass spectrometry identify age-related protein expression
+been demonstrated [6].                                                          differences for the primary visual cortex of kitten and adult cat.
+                                                                                 J Neurochem 2003, 85:193-205.
+                                                                           A description is given of a 2-D DIGE application using two fluorescent
+Conclusions                                                                dyes combined with a homemade imager for the detection and identi-
+Future directions of 2-D DIGE are hard to predict. One                     fication of developmentally regulated proteins in cat visual cortex.
+thing is clear, however. Physiological responses of organ-                 7.   Van den Bergh G, Clerens S, Vandesande F, Arckens L:
+isms, tissues or cells not only rely on changes in protein                    Reversed-phase high-performance liquid chromatography
+                                                                                prefractionation prior to two-dimensional difference gel
+expression levels, but also on changes in the post-transla-                     electrophoresis and mass spectrometry identifies new
+tional modification of proteins. Currently, Pro-Q Emerald                       differentially expressed proteins between striate cortex of
+                                                                                kitten and adult cat. Electrophoresis 2003, 24:1471-1481.
+and Diamond stains enable the visualization and quanti-                    This paper demonstrates the possibilities of RP-HPLC sample fractiona-
+fication of protein glycosylation and phosphorylation, and                 tion before 2-D DIGE to visualize proteins that are not detectable when
+                                                                           performing 2-DGE on the total protein samples. Mass spectrometry
+these can be multiplexed with SYPRO ruby staining to                       identified several of these proteins from cat visual cortex after silver
+determine total protein levels [27–29]. Adaptations of 2-D                 staining.
+DIGE, so that the dyes could covalently label phosphory-                   8.   Patton WF, Beechem JM: Rainbow’s end: the quest for
+lated or glycosylated sites, would provide a means for                          multiplexed fluorescence quantitative analysis in proteomics.
+                                                                                Curr Opin Chem Biol 2002, 6:63-69.
+performing differential display at the level of post-trans-
+lational modifications.                                                    9.   Gharbi S, Gaffney P, Yang A, Zvelebil MJ, Cramer R, Waterfield MD,
+                                                                                Timms JF: Evaluation of two-dimensional differential gel
+                                                                                electrophoresis for proteomic expression analysis of a model
+The introduction of 2-D DIGE and recent innovations,                            breast cancer cell system. Mol Cell Proteomics 2002, 1:91-98.
+regarding the use of pooled internal standards and more                    10. Tonge R, Shaw J, Middleton B, Rowlinson R, Rayner S, Young J,
+                                                                               Pognan F, Hawkins E, Currie I, Davison M: Validation and
+sophisticated sample preparation or prefractionation                           development of fluorescence two-dimensional differential gel
+approaches, have truly revolutionized the use of 2-                            electrophoresis proteomics technology. Proteomics 2001,
+DGE as a genuine protein differential display technol-                         1:377-396.
+ogy. Small differences in protein expression levels can                    11. Shaw J, Rowlinson R, Nickson J, Stone T, Sweet A, Williams K,
+                                                                               Tonge R: Evaluation of saturation labelling two-dimensional
+now be detected with statistical confidence, even across                        difference gel electrophoresis fluorescent dyes. Proteomics
+multiple gels. Moreover, the use of saturation labelling                        2003, 3:1181-1195.
+                                                                           This paper describes the use of modified fluorescent dyes for saturation
+could further increase the detection sensitivity and                       labelling of protein cysteine residues. Sensitivity, dynamic range and
+reduce the minimal essential amount of protein starting                    protein loss by precipitation were evaluated and their potential for multi-
+material.                                                                  plexing experiments explored.
+                                                                           12. Gade D, Thiermann J, Markowsky D, Rabus R: Evaluation of two-
+                                                                               dimensional difference gel electrophoresis for protein
+Clearly, gel-based proteomics remains a powerful analy-                        profiling. J Mol Microbiol Biotechnol 2003, 5:240-251.
+tical technique and a bright future may await 2-D DIGE.
+                                                                           13. Hu Y, Wang G, Chen GYJ, Fu X, Yao SQ: Proteome analysis of
+                                                                               Saccharomyces cerevisiae under metal stress by two-
+Acknowledgements                                                               dimensional differential gel electrophoresis. Electrophoresis
+GVDB and LA are postdoctoral fellows of the Fund for Scientific Research       2003, 24:1458-1470.
+Flanders (FWO Flanders).                                                   14. Skynner HA, Rosahl TW, Knowles MR, Salim K, Reid L, Cothliff R,
+                                                                               McAllister G, Guest PC: Alterations of stress related proteins in
+                                                                               genetically altered mice revealed by two-dimensional
+References and recommended reading                                             differential in-gel electrophoresis analysis. Proteomics 2002,
+Papers of particular interest, published within the annual period of           2:1018-1025.
+review, have been highlighted as:
+                                                                           15. Kernec F, U¨ nlu¨ M, Labeikovsky W, Minden JS, Koretsky AP:
+      of special interest                                                     Changes in the mitochondrial proteome from mouse hearts
+      of outstanding interest                                                deficient in creatine kinase. Physiol Genomics 2001, 6:117-128.
+1.     Graves PR, Haystead TA: Molecular biologist’s guide to              16. Sakai J, Ishikawa H, Kojima S, Satoh H, Yamamoto S, Kanaoka M:
+       proteomics. Microbiol Mol Biol Rev 2002, 66:39-63.                      Proteomic analysis of rat heart in ischemia and ischemia
+                                                                               reperfusion using fluorescence two-dimensional difference gel
+2.     Berggren K, Chernokalskaya E, Steinberg TH, Kemper C,                   electrophoresis. Proteomics 2003, 3:1318-1324.
+       Lopez MF, Diwu Z, Haugland RP, Patton WF: Background-free,
+       high sensitivity staining of proteins in one- and two-              17. Zhou G, Li H, DeCamp D, Chen S, Shu H, Gong Y, Flaig M,
+       dimensional sodium dodecyl sulfate-polyacrylamide gels using            Gillespie JW, Hu N, Taylor PR et al.: 2D differential in-gel
+       a luminescent ruthenium complex. Electrophoresis 2000,                  electrophoresis for the identification of esophageal scans cell
+       21:2509-2521.                                                           cancer-specific protein markers. Mol Cell Proteomics 2002,
+                                                                               1:117-124.
+3.     Goldman RC, Trus BL, Leive L: Quantitative double-label
+       radiography of two-dimensional protein gels using color             18. Alban A, David SO, Bjorkesten L, Andersson C, Sloge E, Lewis S,
+       negative films and computer analysis. Eur J Biochem 1983,            Currie I: A novel experimental design for comparative two-
+       131:473-480.                                                            dimensional gel analysis: two-dimensional difference gel
+
+Current Opinion in Biotechnology 2004, 15:38–43                                                                             www.sciencedirect.com
+                                               Fluorescent two-dimensional difference gel electrophoresis Van den Bergh and Arckens 43
+
+
+
+
+     electrophoresis incorporating a pooled internal standard.                  23. Shaw MM, Riederer BM: Sample preparation for two-
+     Proteomics 2003, 3:36-44.                                                      dimensional gel electrophoresis. Proteomics 2003, 3:1408-1417.
+The authors describe and validate the three-dye 2-D DIGE approach
+using an internal pooled standard. They demonstrate the power of this           24. Badock V, Steinhusen U, Bommert K, Otto A: Prefractionation of
+technology by spiking a protein sample with known amounts of protein,               protein samples for proteome analysis using reversed-phase
+determining the accuracy and statistical variation of this approach, as well        high-performance liquid chromatography. Electrophoresis
+as comparing it to a 2-D DIGE approach without internal standard.                   2001, 22:2856-2864.
+
+19. Knowles MR, Cervino S, Skynner HA, Hunt SP, de Felipe C, Salim K,           25. Huber LA, Pfaller K, Vietor I: Organelle proteomics: implications
+    Meneses-Lorente G, McAllister G, Guest PC: Multiplex proteomic                 for subcellular fractionation in proteomics. Circ Res 2003,
+     analysis by two-dimensional differential in-gel electrophoresis.               92:962-968.
+     Proteomics 2003, 3:1162-1171.                                              26. Lee JR, Baxter TM, Yamaguchi H, Wang TC, Goldenring JR,
+The authors describe the use of a pooled internal standard for the                  Anderson MG: Differential protein analysis of spasmolytic
+detection of protein expression differences between neurokinin 1 recep-             polypeptide expressing metaplasia using laser capture
+tor knockout and wild-type mice. When no internal standard was used                 microdissection and two-dimensional difference gel
+during data analysis, the statistical significance values of the differential       electrophoresis. Appl Immunohistochem Mol Morphol 2003,
+spots were reduced and the number of truly differentially expressed                 11:188-193.
+proteins was decreased.
+                                                                                27. Schulenberg B, Beechem JM, Patton WF: Mapping glycosylation
+20. Seike M, Kondo T, Mori Y, Gemma A, Kudoh S, Sakamoto M,                         changes related to cancer using the multiplexed proteomics
+    Yamada T: Hirohashi S: Proteomic analysis of intestinal                         technology: a protein differential display approach. J
+    epithelial cells expressing stabilized b-catenin. Cancer Res                    Chromatogr B Analyt Technol Biomed Life Sci 2003, 793:127-139.
+    2003, 63:4641-4647.
+                                                                                28. Schulenberg B, Aggeler R, Beechem JM, Capaldi RA, Patton WF:
+21. Gygi SP, Corthals GL, Zhang Y, Rochon Y, Aebersold R:                           Analysis of steady-state protein phosphorylation in
+    Evaluation of two-dimensional gel electrophoresis-based                         mitochondria using a novel fluorescent phosphosensor dye.
+    proteome analysis technology. Proc Natl Acad Sci USA 2000,                      J Biol Chem 2003, 278:27251-27255.
+    97:9390-9395.
+                                                                                29. Steinberg TH, Agnew BJ, Gee KR, Leung WY, Goodman T,
+22. Gygi SP, Rist B, Gerber SA, Turecek F, Gelb MH, Aebersold R:                    Schulenberg B, Hendrickson J, Beechem JM, Haugland RP,
+    Quantitative analysis of complex proteome mixtures                              Patton WF: Global quantitative phosphoprotein analysis
+    using isotope-coded affinity tags. Nat Biotechnol 1999,                         using multiplexed proteomics technology. Proteomics 2003,
+    17:994-999.                                                                     3:1128-1144.
+
+
+
+
+www.sciencedirect.com                                                                              Current Opinion in Biotechnology 2004, 15:38–43
+

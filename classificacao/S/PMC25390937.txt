@@ -1,0 +1,419 @@
+Eupatorin-Induced Cell Death in Human Leukemia Cells
+Is Dependent on Caspases and Activates the Mitogen-
+Activated Protein Kinase Pathway
+Sara Este´vez, Marı´a Teresa Marrero, Jose´ Quintana, Francisco Este´vez*
+Department of Biochemistry and Molecular Biology, University of Las Palmas de Gran Canaria, Las Palmas de Gran Canaria, Spain
+
+
+
+     Abstract
+     Eupatorin is a naturally occurring flavone that inhibits cell proliferation in human tumor cells. Here we demonstrate that
+     eupatorin arrests cells at the G2-M phase of the cell cycle and induces apoptotic cell death involving activation of multiple
+     caspases, mitochondrial release of cytochrome c and poly(ADP-ribose) polymerase cleavage in human leukemia cells. This
+     flavonoid induced the phosphorylation of members of the mitogen-activated protein kinases and cell death was attenuated
+     by inhibition of c-jun N-terminal kinases/stress activated protein kinases. Eupatorin-induced cell death is mediated by both
+     the extrinsic and the intrinsic apoptotic pathways and through a mechanism dependent on reactive oxygen species
+     generation.
+
+  Citation: Este´vez S, Marrero MT, Quintana J, Este´vez F (2014) Eupatorin-Induced Cell Death in Human Leukemia Cells Is Dependent on Caspases and Activates the
+  Mitogen-Activated Protein Kinase Pathway. PLoS ONE 9(11): e112536. doi:10.1371/journal.pone.0112536
+  Editor: Rajesh Mohanraj, Faculty of Medicine & Health Sciences, United Arab Emirates
+  Received July 22, 2014; Accepted October 9, 2014; Published November 12, 2014
+  Copyright: ß 2014 Este´vez et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+  unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+  Data Availability: The authors confirm that all data underlying the findings are fully available without restriction. All relevant data are within the paper.
+  Funding: This work was supported by a grant (number: SAF2010-21380) from the Spanish Ministry of Science and Innovation and European Regional
+  Development Fund (URL: www.micinn.es). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the
+  manuscript.
+  Competing Interests: The authors have declared that no competing interests exist.
+  * Email: francisco.estevez@ulpgc.es
+
+
+
+Introduction                                                                           growth and survival signals, whereas JNK/SAPK and p38MAPK
+                                                                                       are activated in response to stress and growth factors and mediate
+   Flavonoids are polyphenolic compounds that display a vast                           signals that regulate apoptosis [7].
+array of biological activities and they are of great current interest                     Eupatorin (39,5-dihydroxy-49,6,7-trimethoxyflavone) is a fla-
+due to their anticancer activities [1]. Some of them induce cell-                      vone which has been previously isolated from several medicinal
+cycle arrest and apoptosis, which are key features of the action of                    plants, including Tanacetum vulgare [8], Lantana montevidensis
+chemotherapeutic drugs on leukemia cells [2]. Apoptosis can occur                      [9] and Orthosiphon stamineus [10], and has been shown to inhibit
+with or without the activation of caspases, a family of aspartate-                     the proliferation of human and murine cancer cell lines [9]. The
+specific cysteine proteases which are generally synthesized as                         anti-proliferative effect of eupatorin against MDA-MB-468 human
+zymogens and activated by proteolytic cleavage [3]. There are two                      breast cancer cells has been attributed to cytochromes P450 CYP1
+major caspase activation pathways [4]. The extrinsic pathway                           enzymes-mediated metabolism [11]. However, the potential
+involves cell surface death receptors, such as tumor necrosis factor,                  significance of eupatorin in antitumor therapy in leukemia cells
+Fas and TRAIL receptors, and is dependent on the initiator                             is largely unexplored, to date. In the present study we have
+caspase-8 which cleaves and activates the downstream effector                          evaluated its effects on cell cycle and the role of caspases and the
+caspases (caspase-3, -6 and -7), inducing a cascade of caspases. The                   MAPK pathway. Furthermore, the formation of reactive oxygen
+intrinsic pathway involves the activation of procaspase-9 by                           species (ROS) was investigated to address whether they play a
+cytochrome c released from mitochondria, which cleaves and                             pivotal role in the apoptotic effect of eupatorin in leukemia cells.
+activates downstream effector caspases-3, -6 and -7, which in turn
+target key structural and regulatory proteins for proteolysis to
+                                                                                       Material and Methods
+effect cell death [5]. Both caspase-8 and caspase-9 activate
+caspase-3 which is responsible for breaking specific cellular                          Reagents
+proteins during apoptosis [6].                                                           Eupatorin was purchased from Extrasynthese (Genay Cedex,
+   Mitogen-activated protein kinases (MAPKs) are a family of                           France). The following antibodies were used according to the
+proline-directed serine/threonine protein kinases that control cell                    manufacturer’s instructions: poly(ADP-ribose) polymerase (PARP),
+proliferation, differentiation and apoptosis. There are three major                    mouse monoclonal; cytochrome c, mouse monoclonal; caspase-7,
+pathways of MAPKs: the extracellular signal-regulated kinases                          mouse monoclonal; caspase-8, rabbit polyclonal; Bax, rabbit
+(ERKs) 1/2, the c-jun N-terminal kinases/stress activated protein                      polyclonal; Bid, rabbit polyclonal; and AIF, rabbit polyclonal
+kinases (JNK/SAPK) and the p38 mitogen-activated protein                               (BD PharMingen, San Diego, CA, USA); Smac/DIABLO, mouse
+kinases (p38MAPK). ERK 1/2 is predominantly involved in cell                           monoclonal (BD Transduction Laboratories); caspase-3, rabbit
+
+
+PLOS ONE | www.plosone.org                                                         1                         November 2014 | Volume 9 | Issue 11 | e112536
+                                                                                                                Apoptosis Induction by Eupatorin
+
+
+polyclonal (Assay Designs, Ann Arbor, MI, USA); caspase-4,                cence of DCF and ethidium is proportional to the amount of
+caspase-6 and caspase-9, mouse monoclonal (Medical & Biological           peroxide and superoxide, respectively, produced by cells. Cells
+Laboratories, Nagoya, Japan); Bcl-2, mouse monoclonal (Santa              were treated with or without eupatorin and H2-DCF-DA (2 mM)
+Cruz Biotechnology, Santa Cruz, CA, USA); b-actin, mouse                  or DHE (2 mM) was added to the medium 30 min before the end
+monoclonal (Sigma, Saint Louis, MO, USA); cytochrome c                    of incubation with eupatorin. Cells were irradiated with an argon
+oxidase (Cox IV), mouse monoclonal (Abcam, Cambridge, UK);                laser at 488 nm, and fluorescence was detected at 525 nm (DCF)
+JNK/SAPK, Phospho-JNK/SAPK (phosphor T183 + Y185),                        and 568 nm (DHE) in the flow cytometer.
+p44/42 MAP Kinase, Phospho-p44/42 MAP Kinase (T202/
+Y204), p38MAPK and Phospho- p38MAPK (T180/Y182), rabbit                   Statistical Analysis
+polyclonal (New England BioLabs, Cell Signaling Technology,                 Statistical significance of differences between means of control
+Beverly, MA, USA). Polyvinylidene-difluoride membranes were               and treated samples was assessed using Student’s t-test. P values of
+purchased from Millipore (Billerica, MA, USA). Secondary                  ,0.05 were considered significant.
+antibodies were from GE Healthcare Bio-Sciences AB (Little
+Chalfont, UK). All other chemicals were obtained from Sigma               Results
+(Saint Louis, MO, USA).
+                                                                          Eupatorin Inhibits the Growth and Cell Viability and
+Cell culture and Cytotoxicity Assays                                      Induces Apoptotic Cell Death in Human Leukemia Cell
+    HL-60, U937 and Molt-3 cells were obtained from the German            Lines
+Collection of Microorganisms and Cell Cultures (Braunschweig,                In the present study, we examined the effect of eupatorin
+Germany) and grown in RPMI 1640 medium supplemented with                  (Figure 1A) on the growth of three human leukemia cells and
+10% (v/v) heat-inactivated fetal bovine serum, 100 units/ml               found that human myeloid (HL-60 and U937) and lymphoid
+penicillin and 100 mg/ml streptomycin. The cytotoxicity of                (Molt-3) cell lines were highly sensitive to the anti-proliferative
+eupatorin was analyzed by colorimetric 3-(4,5-dimethylthiazol-2-          effect of this flavonoid. Treatment with eupatorin resulted in a
+yl)-2,5-diphenyltetrazolium bromide (MTT) assay as previously             concentration-dependent inhibition of cell viability, with no
+described [12] and the concentration required to reduce cell              significant differences among the three cell lines with IC50 values
+viability by 50% (IC50) was determined graphically using the curve        of ,5 mM (Figure 1B). Eupatorin also induced significant
+fitting algorithm of the computer software Prism 4.0 (GraphPad).          morphological changes and an important reduction in the number
+Values are means 6 SEs from three independent experiments,                of cells (Figure 1C).
+each performed in triplicate.
+                                                                          Eupatorin Induces Apoptosis in Human Leukemia Cells
+Evaluation of Apoptosis                                                     To study the mechanism involved in eupatorin-induced
+   Fluorescent microscopy, flow cytometric analysis of propidium          cytotoxicity, we analyzed the nuclei of treated cells using
+iodide-stained nuclei and DNA fragmentation assay were
+performed as described [13]. Apoptosis was also determined by
+translocation of phosphatidylserine to the cell surface using the
+annexin V-fluoresceine isothiocyanate (FITC) apoptosis detection
+kit (BD Pharmingen) according to the manufacturer’s protocol.
+
+Western Blot Analysis
+  Immunoblot analysis of Bcl-2 family members, caspases,
+cytochrome c, MAPKs and PARP was performed as previously
+described [13]. Purity of mitochondrial and cytosolic fractions was
+determined by probing with antibodies to cytochrome c oxidase
+and b-actin, respectively.
+
+Assay of Caspase Activity
+   Caspase activity was evaluated by measuring proteolytic
+cleavage of the chromogenic substrates LEHD-pNA (for caspase-
+9 activity), IETD-pNA (for caspase-8 activity), VEID-pNA (for
+caspase-6 activity) and DEVD-pNA (for caspase-3 like protease
+activity) as described previously [12].
+
+Intracellular Reactive Oxygen Species (ROS)
+Determination
+   The generation of peroxides and superoxide was monitored by
+                                                                          Figure 1. Chemical structure of eupatorin and its effect on
+flow cytometry with the probes 29,79-dichlorodihydrofluorescein
+                                                                          human HL-60 cell viability. (A) Structure of eupatorin. (B) Changes in
+diacetate (H2-DCF-DA) and dihydroethidium (DHE), respectively             cell viability as determined by the MTT assay. HL-60 cells were cultured
+[14-15]. H2-DCF-DA is incorporated into cells and deacetylated            in the presence of the indicated concentrations for 72 h, and the results
+by intracellular esterases to yield the nonfluorescent 29,79-             are representative of those obtained in at least three independent
+dichlorodihydrofluorescein (H2-DCF). H2-DCF and DHE are                   experiments. (C) Cells were incubated with vehicle (control) or the
+oxidized by H2O2 (and other peroxides) and superoxide anions,             indicated concentrations of eupatorin for 24 h and images were
+                                                                          obtained with an inverted phase-contrast microscope.
+respectively, to yield the highly fluorescent compounds 29,79-            doi:10.1371/journal.pone.0112536.g001
+dichlorofluorescein (DCF) and ethidium. The intensity of fluores-
+
+
+PLOS ONE | www.plosone.org                                            2                      November 2014 | Volume 9 | Issue 11 | e112536
+                                                                                                                 Apoptosis Induction by Eupatorin
+
+
+
+
+Figure 2. Eupatorin induces apoptosis in human leukemia cells. (A) Fluorescence microscope images of HL-60 cells treated with 3 mM
+eupatorin or vehicle (control) for 24 h after nuclear staining with bisbenzimide trihydrochloride to evaluate nuclear chromatin condensation. (B)
+Effect of eupatorin on DNA fragmentation in human tumoral cells. HL-60 and Molt-3 cells were incubated with the indicated concentrations of
+eupatorin for 24 h and genomic DNA was extracted, separated on an agarose gel and stained with ethidium bromide. (C) Cells were incubated in the
+presence of the indicated concentrations of eupatorin and the cell cycle phase distribution was determined by flow cytometry. Data originate from
+three separate experiments. (D) Detection of apoptotic cells by annexin V-FITC and propidium iodide-doubled staining after treatment with 3 mM
+eupatorin for 24 h. Cells appearing in the lower right quadrant show positive annexin V-FITC staining, which indicates phosphatidylserine switch to
+the outer leaflet of the plasma membrane, and negative propidium iodide staining, which demonstrates intact cell membranes, both features of early
+apoptosis. Cells in the top right quadrant are double positive for annexin V-FITC and propidium iodide and are undergoing necrosis. Data originate
+from three separate experiments. (E) Cells were incubated with 3 mM eupatorin for 24 h and percentage of cells in the sub-G1 region was determined
+by flow cytometry. Error bars represent means6SEs of three independent experiments each performed in triplicate. * indicates P,0.05 for
+comparison with untreated control.
+doi:10.1371/journal.pone.0112536.g002
+
+fluorescent microscopy and observed the typical morphologic                 G2-M phase at the expense of G1 phase cell population starting at
+characteristics of apoptotic cells such as nuclear condensation and         6 h of treatment in HL-60, U937 and Molt-3 cell lines. The G2-M
+fragmented chromatin (Figure 2A). Agarose gel electrophoresis               arrest was higher in U937 cells than in the other cell lines, and this
+showed that incubation with eupatorin induced DNA fragmenta-                effect was sustained until 12 h in HL-60 and U937 but not in
+tion that is characteristic of apoptotic cells (Figure 2B). To              Molt-3. The percentage of sub-G1 cells increased after 12 h in the
+determine whether the decrease of cell growth is mediated via               three cell lines. Treatment with this flavonoid also led to the
+alterations in cell cycle progression, cell cycle phase distribution        translocation of phosphatidylserine on the outside of the plasma
+was evaluated by flow cytometry. As shown in Figure 2C and                  membrane in HL-60 and U937 cells as detected by annexin V-
+Table 1, eupatorin (3 mM) caused an accumulation of cells at the            FITC staining (Figure 2D). The percentage of apoptotic cells
+
+
+PLOS ONE | www.plosone.org                                              3                      November 2014 | Volume 9 | Issue 11 | e112536
+                                                                                                                                Apoptosis Induction by Eupatorin
+
+
+
+ Table 1. Effect of different durations of treatment with eupatorin on cell cycle phase distribution of human leukemia cells.
+
+
+                                                  % Sub-G1                     %G1                          %S                           G2-M
+
+ U937
+ 6h                 Control                       0.960.1                      45.261.1*                    22.960.4                     30.161.3*
+                    Eupatorin                     1.560.1                      18.561.4*                    26.460.3                     52.761.3*
+ 12 h               Control                       0.560.1                      45.860.8*                    26.360.5*                    26.160.4*
+                    Eupatorin                     10.561.0*                    19.062.0*                    17.460.7*                    51.661.1*
+ 24 h               Control                       1.260.4                      46.960.5*                    22.260.4*                    28.260.3*
+                    Eupatorin                     19.461.3*                    35.761.7*                    20.660.5*                    21.261.0*
+ HL60
+ 6h                 Control                       6.760.3                      44.560.7*                    15.060.5                     29.160.4*
+                    Eupatorin                     8.660.5                      32.360.9*                    16.060.2                     36.761.2*
+ 12 h               Control                       5.160.6                      45.560.4*                    18.060.3                     27.760.2*
+                    Eupatorin                     12.860.4*                    32.261.1*                    11.660.3                     38.461.4*
+ 24 h               Control                       7.860.7                      49.760.3*                    17.960.2*                    21.860.8
+                    Eupatorin                     12.960.1*                    42.260.4*                    17.460.5*                    21.960.8
+ Molt-3
+ 6h                 Control                       6.260.8                      70.261.2                     7.660.4                      16.260.4
+                    Eupatorin                     5.160.3                      64.960.4*                    9.660.3                      21.160.4*
+ 12 h               Control                       9.161.4                      70.761.7                     7.260.3                      7.260.2
+                    Eupatorin                     13.361.7*                    64.863.5                     5.260.6                      6.060.6
+ 24 h               Control                       7.160.2                      70.260.5                     6.560.3                      13.460.2*
+                    Eupatorin                     18.661.8*                    67.961.7                     4.060.2                      7.260.4
+
+ Cells were cultured with 3 mM eupatorin for the indicated period of times and the cell cycle phase distribution was determined by flow cytometry. The values are means
+ 6 SE of three independent experiments with three determinations in each. Asterisks indicate a significant difference (P,0.05) compared with the corresponding
+ controls.
+ doi:10.1371/journal.pone.0112536.t001
+
+
+corresponding to the sub-diploid population increased ,20-fold,                       and Molt-3 cells with eupatorin at levels sufficient to induce
+,2-fold and ,3-fold in U937, HL-60 and Molt-3 cells,                                  apoptosis decreased the expression of the Bcl-2 protein, whereas in
+respectively, after 24 h exposure at a low concentration of                           U937 cells 3 mM eupatorin induced Bcl-2 cleavage. However, Bax
+eupatorin (Figure 2E).                                                                was found predominantly in the cytosolic fraction in untreated
+                                                                                      cells and incubation with eupatorin induced a redistribution of this
+Eupatorin-induced Cell Death is Dependent on Caspases                                 apoptotic factor from cytosolic to the mitochondrial compartment.
+   To explore the role of caspases, cells were treated with                           Interestingly, a 18 kDa cleavage fragment generated from the full
+increasing concentrations of eupatorin for 24 h and caspases were                     length 22 kDa Bax was only detected in HL-60 cells treated with
+determined by Western blot. The results indicate that this                            the flavonoid. To explore whether eupatorin leads to the
+compound activates the cleavage of inactive procaspases-9 and -                       activation of the BH3-only protein that mediates caspase-8-
+8 and the proteolytic processing of executioner procaspases-7, -6                     induced cytochrome c release from mitochondria in response to
+and -3 (Figure 3A). Poly(ADP-ribose)polymerase (PARP) protein,                        activation of cell surface death receptors, the levels and/or the
+one of the substrates of caspase-3, was cleaved into the 85 kDa                       cleavage of Bid was also analyzed. A decrease in Bid protein levels
+fragment in cells exposed to eupatorin. We also observed a                            was observed in HL-60 and Molt-3 cells, presumably reflecting a
+decrease of pro-caspase-4, suggesting that eupatorin induces                          cleavage or activation while no significant changes was detected in
+cleavage of this zymogen which is involved in endoplasmic                             U937 cells. Although there was not a clear Bid cleavage in U937
+reticulum stress [16]. To know whether eupatorin-induced                              cells pro-caspase-8 was significantly reduced as revealed by the
+apoptosis is mediated through mitochondrial cytochrome c release,                     decrease in the amount of the 55-57-kDa pro-enzyme. To confirm
+cytosolic preparations were analyzed and a significant rise in the                    that eupatorin-triggered cell death requires the activation of
+levels of cytochrome c in the cytosol was observed after treatment                    caspases, HL-60 and Molt-3 cells were exposed to eupatorin in the
+with 1 mM (Molt-3) or 3 mM (HL-60 and U937) eupatorin.                                presence or absence of the pan-caspase inhibitor z-VAD-fmk, after
+Moreover, eupatorin also induced the release of other mitochon-                       which the extent of apoptosis was examined. The results
+drial proteins such as apoptosis-inducing factor (AIF) and Smac/                      (Figure 3B) show a significant reduction in hypodiploid cells in
+DIABLO to the cytosol.                                                                the presence of the general caspase inhibitor, which suggests that
+   In light of mitochondria are important in programmed cell                          eupatorin induces cytotoxicity by a caspase-dependent mecha-
+death signaling pathways and since this cell death pathway is                         nism.
+regulated by the Bcl-2 family proteins, we next investigated                             As processing of caspases is not always correlated with activity,
+whether changes in the expression or in the localization of these                     enzymatic activities were also investigated. As shown (Figure 4A),
+proteins were associated with the cell death. Treatment of HL-60                      induction of caspase-3/7, caspase-8 and caspase-9 activities
+
+
+PLOS ONE | www.plosone.org                                                        4                         November 2014 | Volume 9 | Issue 11 | e112536
+                                                                                                                    Apoptosis Induction by Eupatorin
+
+
+                                                                                increased in presence of eupatorin after 24 h of treatment and this
+                                                                                effect was dose-dependent. To study the time-course of caspase
+                                                                                activation, cells were treated with this flavone and then harvested
+                                                                                at various intervals. Induction of both initiator caspase-9 and -8
+                                                                                activities was significantly detectable at 6 h (Molt-3) or at 12 h
+                                                                                (HL-60 and U937) of treatment (Figure 4B). These findings
+                                                                                indicated that eupatorin induces simultaneous caspase-9 and -8
+                                                                                activation and also promotes a marked activation of caspases -3/7,
+                                                                                whereas the executioner caspase-6 showed a lesser degree of
+                                                                                activation.
+
+                                                                                Eupatorin Activates MAPKs
+                                                                                   Since the MAPKs play an essential role in cell growth and
+                                                                                apoptosis, the effects of eupatorin on the activation of these protein
+                                                                                kinases were investigated in HL-60 cells. The results show a rapid
+                                                                                phosphorylation (1-2 h) of phospho-ERK 1/2 and phospho-JNK/
+                                                                                SAPK which remained increased for at least 8 h while the
+                                                                                activation of p38MAPK was not detected (Figure 5A). To determine
+                                                                                the possible involvement of MAPKs in eupatorin-induced
+                                                                                apoptosis, we investigated the effects of specific inhibitors against
+                                                                                mitogen-activated extracellular kinases 1/2 (MEK1/2) (PD98059
+                                                                                and U0126), p38MAPK (SB203580) and JNK/SAPK (SP600125).
+                                                                                Neither the inhibition of mitogen-activated extracellular kinases 1/
+                                                                                2 (MEK1/2) nor the inhibition of the p38MAPK affected eupatorin-
+                                                                                induced cell death. However, treatment of cells with the JNK/
+                                                                                SAPK inhibitor significantly reduced eupatorin-mediated apopto-
+                                                                                sis (Figure 5B).
+
+                                                                                Reactive Oxygen Species (ROS) Are Involved in
+                                                                                Eupatorin-induced Cell Death
+                                                                                   Reactive oxygen species are considered to be key mediators of
+                                                                                apoptotic signaling and increases in intracellular concentrations
+                                                                                may lead to the activation of mitogen-activated protein kinases
+                                                                                and cell death. To verify whether ROS are involved in eupatorin-
+                                                                                induced apoptosis, cells were stained with the probes 29,79-
+                                                                                dichlorodihydrofluorescein diacetate (H2-DCFDA) and dihy-
+                                                                                droethidium (DHE) and then analyzed by flow cytometry. As
+                                                                                shown in Figure 6A and B, treatment with eupatorin increased the
+                                                                                H2-DCFDA-derived fluorescence in HL-60 and Molt-3 cells, as
+                                                                                indicated by a rightward shift in fluorescence upon flow cytometry,
+                                                                                suggesting that the generation of H2O2 and other peroxides was
+                                                                                affected by eupatorin in both cell lines. There was a 2.4-fold and a
+                                                                                1.8-fold increase in the H2-DCFDA-derived fluorescence in HL-
+                                                                                60 and Molt-3 cells, respectively.
+                                                                                   To detect superoxide anion, cells were incubated with DHE,
+                                                                                which is relatively specific to superoxide anion and reacts only
+                                                                                minimally to hydrogen peroxide. Eupatorin increased the DHE-
+                                                                                derived fluorescence (approximately 2-fold) in HL-60 cells. In
+                                                                                contrast, we were unable to detect any increase in DHE-derived
+                                                                                fluorescence in Molt-3 cells treated with eupatorin.
+Figure 3. Involvement of caspases in the apoptosis induced by                      To investigate whether ROS production is required for
+eupatorin on human leukemia cells. (A) The cells were incubated in              eupatorin-induced cell death, Molt-3 cells were preincubated with
+the presence of the indicated concentrations of eupatorin and cell
+lysates (or cytosolic extracts in the case of cytochrome c, AIF and Smac)       10 mM N-acetyl-L-cysteine (NAC), 25 mM a-tocopherol (vitamin
+were assayed by immunoblotting. b-Actin and Cox IV (cytochrome c                E) and 2 mM trolox, the hydrosoluble derivative of vitamin E. The
+oxidase) were used as loading controls in cytosol and mitochondria,             results demonstrate that these antioxidants block significantly
+respectively. (B) Effect of cell-permeable pan-caspase inhibitor z-VAD-         apoptosis, indicating that ROS generation plays an important role
+fmk on eupatorin-stimulated apoptosis. HL-60 and Molt-3 cells were              in the mechanism of cell death triggered by eupatorin (Figure 6C).
+incubated with 10 mM eupatorin for 24 h, in absence or presence of z-
+VAD-fmk (100 mM) and apoptotic cells (i.e. hypodiploid DNA content)
+were quantified by flow cytometry after staining with propidium iodide.         Discussion
+* indicates P,0.05 for comparison with untreated control, # indicates
+P,0.05 for comparison with eupatorin treatment alone.                              Although there are efficient treatments for chronic myelogenous
+doi:10.1371/journal.pone.0112536.g003                                           leukemia and for acute lymphocytic leukemia, more effective
+                                                                                treatments are needed for other forms of acute leukemia. This
+                                                                                objective has led to an increasing interest in the research and
+
+
+PLOS ONE | www.plosone.org                                                  5                      November 2014 | Volume 9 | Issue 11 | e112536
+                                                                                                                   Apoptosis Induction by Eupatorin
+
+
+
+
+Figure 4. Dose-dependence and kinetics of caspase activation in response to eupatorin in human leukemia cells. (A) Caspase
+activation in response to eupatorin. Cells were treated with the indicated concentration of eupatorin and harvested at 24 h. Cell lysates were assayed
+for caspase-9, caspase-8, caspase-6 and caspase-3/7 activities using the LEHD-pNA, IETD-pNA, VEID-pNA and DEVD-pNA colorimetric substrates,
+respectively. The values represent fold induction of caspase activity relative to untreated control. (B) Kinetics of caspase activation in response to
+eupatorin. Cells were treated with 3 mM eupatorin, harvested at the indicated times, and cell lysates were assayed and the results are expressed as
+above. * indicates P,0.05 for comparison with untreated control.
+doi:10.1371/journal.pone.0112536.g004
+
+development of naturally occurring compounds for chemopreven-                    Many anticancer drugs have been shown to cause the death of
+tion or recurrence of cancers. In recent years, flavonoids have               sensitive cells by inducing apoptosis. This kind of cell death is
+aroused intense interest because they display a vast array of                 considered an important response to most chemotherapeutic drugs
+biological activities, including antitumor properties [17]. In the            in leukemia cells [19–21] and can occur with or without the
+present study, we demonstrate that eupatorin displays an anti-                activation of caspases. The results shown here demonstrate that
+proliferative effect in three human leukemia cell lines, with similar         the antiproliferative effect of eupatorin is dependent on caspase
+IC50 values. Although this compound promotes condensation and                 activation since apoptosis was completely (HL-60) or partially
+fragmentation of chromatin, there was no clear DNA laddering.                 (Molt-3) inhibited by the pan-caspase inhibitor z-VAD-fmk. These
+This result suggests that other factors may be involved, such as the          results suggest the involvement of additional pathways of cell
+mitochondrial flavoprotein apoptosis-inducing factor, AIF, which              death, such as the lysosomal pathway which involves a partial
+is a cell death-signaling molecule that translocates to the nucleus to        rupture of lysosome membrane and subsequent release of
+induce large-scale DNA fragmentation without DNA laddering,                   cathepsins into the cytosol [22]. Further studies are required to
+chromatin condensation and cell death [18]. Cell cycle phase                  determine whether lysosomal cathepsins might be also involved in
+distribution analysis indicated that eupatorin causes an accumu-              eupatorin-induced cell death.
+lation of cells at G2-M phase and increases the percentage of cells              In many apoptotic responses, mitochondria play a major role in
+in the sub-G1 region which is considered the fraction of apoptotic            coordinating caspase activation through the release of apoptogenic
+cells. Moreover cell death was accompanied by phosphatidylserine              factors, such as cytochrome c, Smac/DIABLO and AIF.
+externalization.                                                              Eupatorin induces the release of cytochrome c from the
+                                                                              intermembrane space, and thus the activation of caspase-9 and
+
+
+PLOS ONE | www.plosone.org                                                6                      November 2014 | Volume 9 | Issue 11 | e112536
+                                                                                                                   Apoptosis Induction by Eupatorin
+
+
+
+
+                                                                               Figure 6. Eupatorin induces ROS generation and scavengers of
+Figure 5. Eupatorin induces phosphorylation of MAPKs. (A)                      ROS inhibit cell death. (A) HL-60 and Molt-3 cells were incubated
+Time- and concentration-dependent phosphorylation of MAPKs by                  with 10 mM eupatorin for 24 h and 6 h, respectively, and the
+eupatorin in HL-60 cells. Representative blots are shown. (B) Cells were       fluorescence of oxidized H2-DCF or DHE was determined by flow
+pretreated with U0126 (U0, 10 mM), PD98059 (PD, 10 mM), SB203580               cytometry. (B) Molt-3 cells were incubated with eupatorin for 6 h and
+(SB, 2 mM) and SP600125 (SP, 10 mM) for 1 h and then incubated with            the H2-DCF-derived fluorescence was measured as above. (C) Molt-3
+eupatorin for 24 h and hypodiploid cells were quantified by flow               cells were preincubated with N-acetyl-L-cysteine (NAC, 10 mM), trolox
+cytometry. * indicates P,0.05 for comparison with untreated control, #         (2 mM) and vitamin E (25 mM) for 1 h and then incubated with
+indicates P,0.05 for comparison with eupatorin treatment alone.                eupatorin (10 mM) for 24 h and apoptotic cells were quantified by flow
+doi:10.1371/journal.pone.0112536.g005                                          cytometry. Values represent means 6 SE of two independent
+                                                                               experiments, each performed in triplicate. * indicates P,0.05 for
+                                                                               comparison with untreated control, # indicates P,0.05 for comparison
+caspase-3, indicating that the intrinsic apoptotic pathway plays an
+                                                                               with eupatorin treatment alone.
+important role in the cell death. The presence of cytochrome c in              doi:10.1371/journal.pone.0112536.g006
+the cytosol is essential for the formation and activation of the
+apoptosome. We also observed the release of other mitochondrial
+proteins such as Smac/DIABLO and AIF after eupatorin                           have shown that the anti-apoptotic protein Bcl-2 is converted into
+treatment. Smac/DIABLO is a mitochondrial proapoptotic factor                  a potent pro-apoptotic factor and may enhance cell death by
+which also participates together with cytochrome c in the                      amplifying the caspase cascade and that the cleavage of Bcl-2 by
+activation of this cascade, while AIF translocates to the nucleus              caspase-3 into a 22-kDa fragment induces mitochondrial cyto-
+where it contributes to chromatin condensation and large-scale                 chrome c release [25]. Moreover, eupatorin also induced Bax
+DNA fragmentation [23]. These results suggest that the intrinsic               cleavage in HL-60 cells to generate a 18 kDa fragment known to
+pathway triggered by eupatorin may also operate via caspase-                   show greater efficiency than the full-length protein in promoting
+independent mechanisms. However, our findings demonstrate                      mitochondrial outer membrane permeabilization [26].
+activation and proteolytic processing of the initiator pro-caspase-8,             Active caspase-8 causes Bid cleavage and translocation of
+which suggests that this cysteine protease may be important for                truncated Bid to mitochondria, resulting in mitochondrial
+eupatorin-induced cytotoxicity in leukemia cells. This result is               permeabilization, which leads to release of mitochondrial
+interesting because caspase-8 causes direct activation of execu-               proapoptotic factors [27]. Here we found that eupatorin induced
+tioner caspases and triggers apoptosis despite the mitochondrial               a decrease (Molt-3) or a cleavage (HL-60) of Bid protein. Although
+protection conferred by the anti-apoptotic members of the Bcl-2                in most cases truncated Bid seems to be required for inducing
+family. Increases in the expression of the anti-apoptotic protein              mitochondrial outer membrane permeabilization, a possible pro-
+Bcl-2 are associated with cellular resistance to conventional                  apoptotic role for full-length Bid has also been suggested [28–29].
+chemotherapeutic drugs, especially in the case of hematologic                  Eupatorin also stimulated the proteolytic processing and the
+malignancies [24]. We found that eupatorin treatment decreased                 activation of other executioner caspases, such as caspase-6 and
+the levels of Bcl-2 protein in HL-60 and Molt-3 cells and induced a            caspase-7, which could cooperate with caspase-3 to induce cell
+dose-dependent Bcl-2 cleavage in U937 cells. Previous studies                  death. Moreover, the endoplasmic reticulum stress signaling
+
+
+PLOS ONE | www.plosone.org                                                 7                     November 2014 | Volume 9 | Issue 11 | e112536
+                                                                                                                                      Apoptosis Induction by Eupatorin
+
+
+pathway might be involved since eupatorin also induced pro-                                of eupatorin is associated with an increase in the intracellular
+caspase-4 cleavage.                                                                        concentration of ROS, which appear to play a crucial role in the
+   Mitogen-activated protein kinases (MAPKs) regulate cellular                             apoptotic process since different antioxidants partially blocked the
+proliferation, differentiation and programmed cell death. Two                              cell death.
+members of this family, c-jun N-terminal kinases/stress-activated
+protein kinases (JNK/SAPK) and p38MAPK play an essential role                              Conclusions
+in triggering cell death in response to various stressors including
+oxidative stress. In the present study, we show that JNK/SAPK                                In summary, the findings of the present study indicate that
+phosphorylation occurred after 1–2 h of treatment with eupatorin                           eupatorin induces cell death in human leukemia cell lines at
+and remained elevated for up to at least 8 h and that the inhibition                       concentrations which might be achieved in vivo. Eupatorin
+of this kinase by SP600125 significantly decreases eupatorin-                              induces cytotoxicity via G2-M phase cell-cycle arrest and apoptosis
+induced cell death. These results suggest that JNK/SAPK is                                 through a caspase-dependent mechanism, is associated with
+required at least in part, for cell death. Eupatorin also stimulated                       cytochrome c release, and is dependent on ROS generation.
+the activation of the MEK/ERK 1/2 pathway but the combina-                                 Eupatorin induces the activation of the MAPK pathway and
+tion of this flavonoid and the specific mitogen-activated extracel-                        activation of JNK/SAPK is essential for cell death. These results
+lular kinases (MEK) 1/2 inhibitors PD98059 and U0126 did not                               provide a basis to further evaluate the potential applications of
+attenuate nor enhance either cell death. The p38MAPK signaling                             eupatorin and/or structurally similar compounds in the fight
+does not appear to be required for eupatorin-induced apoptosis                             against cancer.
+since there was no clear activation/phosphorylation of p38MAPK
+and also the p38MAPK inhibitor SB203580 did not attenuate                                  Author Contributions
+apoptosis.
+                                                                                           Conceived and designed the experiments: FE. Performed the experiments:
+   The reactive oxygen species (ROS) have been implicated as
+                                                                                           SE MTM JQ. Analyzed the data: JQ FE. Contributed reagents/materials/
+second messengers in several signaling pathways including                                  analysis tools: JQ FE. Wrote the paper: FE.
+apoptotic and necrotic cell death [30]. The antiproliferative effect
+

@@ -1,0 +1,280 @@
+                        Update                     TRENDS in Parasitology   Vol.23 No.6                                                                    239
+
+
+
+centres, a similar strategy of annual screening and se-                         References
+                                                                                 1 Mas-Coma, S. et al. (2005) Fascioliasis and other plant-borne
+lective treatment of infected individuals (and also concur-
+                                                                                   trematode zoonoses. Int. J. Parasitol. 35, 1255–1278
+rent mass animal treatment) should have a major impact                           2 Parkinson, M. et al. (2006) Endemic human fasciolosis in the Bolivian
+on disease prevalence in the Bolivian Altiplano. Because                           Altiplano. Epidemiol. Infect. 26, 1–6
+triclabendazole is the only safe drug for humans, animals                        3 Bjorland, J. et al. (1995) An outbreak of acute fascioliasis among Aymara
+could be treated with another (e.g. clorsulon) to avoid the                        Indians in the Bolivian Altiplano. Clin. Infect. Dis. 21, 1228–1233
+                                                                                 4 WHO (2007) Report of the WHO informal meeting on use of
+development of drug resistance that has appeared in
+                                                                                   triclabendazole in fascioliasis control, World Health Organization
+Europe and elsewhere.                                                              (http://www.who.int/neglected_diseases/preventive_chemotherapy/
+   Although new drugs and combinations of old drugs are                            WHO_CDS_NTD_PCT_2007.1.pdf)
+being developed [9], a commercially available vaccine for                        5 Buchon, P. et al. (1997) Fascioliasis in cattle in the human high
+fasciolosis in animals would offer a better way to control                         endemic region of the Bolivian northern Altiplano. Research and
+                                                                                   Reviews in Parasitology 57, 71–83
+infection, although realistically this is still five to ten years                6 Xianyi, C. et al. (2005) Schistosomiasis control in China: the impact of a
+away [10]. A recent European Union-funded DeLiver                                  10-year World Bank loan project (1992–2001). Bull. World Health
+project (http://www.deliver-project.eu) is performing vac-                         Organ. 83, 43–48
+cine trials in sheep, cattle and goats in Europe, South                          7 MacPherson, C.N. (2005) Human behaviour and the epidemiology of
+America and Australia with recombinant Fasciola hepa-                              parasitic zoonoses. Int. J. Parasitol. 35, 1–13
+                                                                                 8 Curtale, F. et al. (2005) Control of human fascioliasis by selective
+tica molecules such as cysteine proteases, fatty acid bind-                        chemotherapy: design, cost and effect of the first public health,
+ing protein and peroxiredoxin. Previous trials have shown                          school-based intervention implemented in endemic areas of the Nile
+significant protection rates in livestock with these                               delta, Egypt. Trans. R. Soc. Trop. Med. Hyg. 99, 599–609
+vaccines, with an additional transmission-blocking benefit                       9 Harder, A. (2002) Chemotherapeutic approaches to trematodes (except
+                                                                                   schistosomes) and cestodes: current level of knowledge and outlook.
+because viable eggs released from vaccinated animals are
+                                                                                   Parasitol. Res. 88, 587–590
+reduced by 50–97% [10].                                                         10 McManus, D.P. and Dalton, J.P. (2007) Vaccines against the zoonotic
+   For the future long-term control of fasciolosis in humans                       trematodes Schistosoma japonicum, Fasciola hepatica and Fasciola
+in the Bolivian Altiplano, separation of animals from                              gigantica. Parasitology 133, S543–S561
+vegetation and water sources that are used by humans
+plus the provision of water pumps to supply uncontami-                          1471-4922/$ – see front matter ß 2007 Elsevier Ltd. All rights reserved.
+nated drinking water would be sufficient.                                       doi:10.1016/j.pt.2007.04.002
+
+
+
+                        Research Focus
+
+
+Introducing histone modification in trypanosomes
+David Horn
+London School of Hygiene & Tropical Medicine, Keppel Street, London WC1E 7HT, UK
+
+
+
+Nuclear DNA is wrapped around histones. Vigorous                                post-translational modification (PTM) of core histones in
+research over the past decade has established a central                         modulating these interactions. In particular, acetylation
+role for histone post-translational modification in con-                        (Ac) on e-amino groups of lysine (K) and methylation (Me)
+trolling the DNA–protein interactions that are required                         of lysine or arginine (R) have a conserved role in regulating
+for successful growth and propagation. Recent work                              gene expression at the level of transcription initiation and/or
+now provides a description of acetylated and methylated                         elongation. Addition of such small chemical groups also
+residues in the divergent trypanosome core histones.                            regulates DNA replication, recombination and repair. In
+Future studies should provide insights into the genomic                         trypanosomatids, packaging in chromatin enables 20 cm of
+distribution of each modification and their roles in                            DNA to reside in a 2 mm diameter nucleus. Trypanosoma-
+growth and pathogenesis.                                                        tids branched from the eukaryotic lineage early; therefore,
+                                                                                progress in studying PTM in trypanosomatids has been
+                                                                                delayed because the epitopes that are recognized by the
+Histone modification                                                            panels of PTM-specific antibodies that are available for
+Eukaryotic nuclear DNA is wound around core nucleosomal                         other eukaryotes are not present [1]. This means that
+histone octamers, which contain two copies of each histone:                     trypanosome PTM must be characterized de novo. This
+H2A, H2B, H3 and H4. Histones are conserved, abundant,                          article focuses on two recent publications that report such
+small, basic proteins and the chromatin complex is the                          characterization in Trypanosoma brucei [2] and Trypano-
+natural substrate for all the regulatory factors that interact                  soma cruzi [3], although the discussion is also relevant to
+with nuclear DNA. Over the past decade, a huge volume                           other trypanosomatids.
+of research has established a central role for covalent                             Most histone PTMs generate binding platforms for
+                                                                                regulatory factors [4] and at least one (H4-K16-Ac, i.e.
+   Corresponding author: Horn, D. (david.horn@lshtm.ac.uk).                     histone H4 with an acetylation of the lysine at posi-
+   Available online 11 April 2007.                                              tion 16) alters higher-order chromatin compaction [5].
+www.sciencedirect.com
+240                     Update                        TRENDS in Parasitology Vol.23 No.6
+
+
+
+In chromatin, H3 and H4 N termini and the H2A C                                           Box 1. Methods used to characterize histone PTMs
+terminus are exposed and it is here that PTMs are con-
+centrated: Ac and Me of the N-terminal tails of H3 and H4                                 Histone purification and digestion
+                                                                                           Acid-soluble histones were extracted from nuclei and purified by
+have been particularly well characterized. Other more
+                                                                                            HPLC.
+centrally located PTMs have also been described. Together,                                 Endoproteinases: Glu-C, Arg-C and trypsin were used to generate
+these PTMs seem to form a combinatorial epigenetic                                          peptides.
+histone code that is interpreted by regulatory factors [4]
+and this enables propagation of information through                                       Mass spectrometry (MS)
+                                                                                           PTM changes the molecular weight of the protein or peptide and
+generations. Methyl groups add substantial additional                                       the resulting mass increment (Dm) can be detected relative to the
+complexity because they exist in three states: mono-, di-                                   nascent unmodified molecule.
+and tri-methyl (Me1, Me2 and Me3, respectively). Ac and                                    Tandem MS (MS/MS) involves mass analysis, ion manipulation
+Me are reversible, which enables changes in a short time                                    and peptide sequencing. Briefly, an MS survey scan enables
+                                                                                            selection of peptide ions for isolation by virtue of their mass to
+frame and widely conserved enzymes have been charac-
+                                                                                            charge ratio (m/z). The selected ion is then fragmented (the most
+terized that are responsible for their addition and removal.                                labile peptide backbone bonds break preferentially) for the
+Many researchers are currently engaged in investigating                                     second round of m/z analysis. The mass intervals in the resulting
+the function of orthologous factors in trypanosomatids and                                  b-ion (from the N terminus) and y-ion (from the C terminus)
+other parasites [6].                                                                        series indicate the amino acid sequence. Where the sequence
+                                                                                            is already known, deviation from the expected mass indicates
+                                                                                            PTMs.
+Histone modification in trypanosomes                                                       Dm values: removal of the leader Met, 131 Da; Ac, +42 Da; Me1,
+The recent articles by Janzen and colleagues [2] and da                                     +14 Da; Me2, +28 Da; Me3, +42 Da (more labile relative to Ac).
+Cunha and colleagues [3] represent crucial steps towards
+defining the consequences of histone PTM in trypano-                                      Other methods:
+                                                                                          These also distinguish between Ac and Me3.
+somes. Mass spectrometry [7] and other methods are out-
+                                                                                           Acid–urea electrophoresis: indicates the charge difference asso-
+lined in Box 1 and a summary of the findings is illustrated                                 ciated with Ac.
+in Figure 1. Mature histones lack the initial methionine                                   PTM-specific antibodies.
+residue and T. brucei studies [2] indicate the presence of
+Me1 alanine at the N terminus of H2A, H2B and H4, a
+novel histone PTM. The C terminus of H2A is also unusual                                Me1 alanine similar to the T. brucei protein [3]. H4-K4-Ac,
+in that it is hyperacetylated. There is a relative paucity of                           H4-K10-Ac and H4-K18-Me1 are also common but H4-K17-
+PTM in the N termini of T. brucei core histones but two                                 Me1/2 and H4-K18-Me3 were not seen in T. cruzi. PTMs
+acetyl and two methyl groups are found towards the N                                    seen only in T. cruzi were H4-K14-Ac, H4-K57-Ac and
+terminal of H4. Few data are reported for H3 because the N                              H4-R53-Me2, possibly reflecting a low proportion of
+terminus is blocked by Ac or Me3 but another recent article                             histones with each of these modifications. Data on the
+provides a characterization of H3-K76-Me2/3 [8].                                        proportion of histones with certain PTMs are provided
+   The T. brucei and T. cruzi histones are closely related:                             using Edman sequencing data and new Ac-specific anti-
+only H2A differs in length by one amino acid and H2A,                                   sera. The data confirm acetylation at three positions and
+H2B, H3 and H4 share 86, 81, 92 and 96% identity,                                       show that H4-K4-Ac is abundant relative to H4-K10-Ac
+respectively. Therefore, common PTMs might be expected.                                 and H4-K14-Ac. Further application of PTM-specific anti-
+The T. cruzi studies focus on H4, which has an N-terminal                               bodies might indicate differential abundance at different
+
+
+
+
+Figure 1. Overview of histone PTMs in trypanosomes. PTMs in Trypanosoma brucei and Trypanosoma cruzi are indicated by triangles above and below the black bars,
+respectively. The grey boxes indicate the approximate extent of the globular domains. Green triangles indicate Me and red triangles indicate Ac. Open triangles represent
+conserved residues on which PTM is expected but has yet to be reported or defined. Where abundance estimates are available, bold text indicates >80% and grey text
+indicates 10%. Numbers below the bars represent mono (1), di (2) or tri (3) Me. Only Me1 was detected at T. cruzi H4-K18. Scale bar indicates the length of ten amino acids
+(aa). The figure was compiled from published data (Refs [2,3,8]).
+
+www.sciencedirect.com
+                        Update            TRENDS in Parasitology    Vol.23 No.6                                                   241
+
+
+
+stages of the cell cycle or life cycle and could provide further        H3-K76-Me with H3-K79-Me, which is involved in
+clues to function.                                                      transcription repression [8]; H4-K4 and 10 with the histone
+   With knowledge regarding the location of acetyl and                  deposition-related PTMs, H4-K5 and 12; H4-K14-Ac with
+methyl groups and PTM-specific antibodies, it will now be               H4-K16-Ac, which alters chromatin structure [5] and
+possible to link PTMs to the modifiers. Genome sequencing               H4-K18-Me with H4-K20-Me, which is specifically involved
+has indicated a similar complement of candidates in all                 in DNA repair in yeast [19]. Other features of histone PTM
+three trypanosomatids (see Table S4 in Ref. [9]), including             could work as a guide for studies in trypanosomes.
+six acetylases, at least three Suvar-E(z)-Trithorax                     Ac typically determines transcriptional activity (open
+(SET)-type and two disruptor-of-telomeric silencing                     chromatin), whereas Me is usually more stable, with the
+(DOT)-type methylases, some potential arginine methy-                   effect being more dependent upon the modified site. One
+lases, five deacetylases and, more recently, two JmjC-type              particular histone acetylase, Elp3p, is the catalytic
+demethylases. In other organisms, regulators often contain              component of the transcription elongator complex and
+domains that selectively bind PTMs. Bromodomains bind                   directly links Ac to transcription. Interestingly, trypano-
+acetyl groups and are often found in transcription factors,             somatids seem to be the only organisms with two Elp3p
+whereas chromodomains, tudor domains and plant home-                    orthologues.
+odomain fingers bind methyl groups. Genes that encode all                  It will also be important to consider how histone PTM
+four interaction modules are represented within the try-                distribution intersects with DNA modification [20], linker
+panosomatid genome sequences. Indeed, some proteins                     histones [21], histone variants (which can also be modified)
+contain modifier domains and interaction modules.                       and chromatin remodelling factors. T. brucei histone var-
+   Characterization of several putative modifiers has                   iants, for example, are enriched within repetitive DNA and
+already been published and the process of linking modifiers             are largely absent from sites of transcription [22]. Histone
+to the corresponding PTM has also entered the literature.               PTM and the RNA interference (RNAi) machinery inter-
+T. brucei deacetylases function in cell-cycle control [10] and          sect to repress gene expression in some organisms but
+DNA repair [11] and the T. brucei methylases DOT1A and                  RNAi does not operate in all trypanosomatids and initial
+DOT1B are responsible for H3-K76-Me2 and Me3, respect-                  experiments did not indicate such an association in
+ively [8]. Perturbation of the methylases interferes with               T. brucei [23].
+DNA replication, cell-cycle progression and differentiation                Studies on histone PTM that are under way in various
+[8]. In addition, telomeric gene silencing, which was                   parasites might indicate opportunities for chemotherapy.
+demonstrated recently in T. brucei [12], is dependent upon              For example, histone deacetylase inhibitors are progres-
+a sirtuin-type deacetylase [13].                                        sing well in Phase II clinical trials for cancer chemother-
+                                                                        apy. It is known that related compounds are active against
+The importance of histone modification in                               trypanosomatids [24] and potential targets have been
+trypanosomes                                                            genetically validated in T. brucei [10].
+The potential impact of histone PTM in trypanosomes
+merits further consideration. PTMs are expected to have                 Future prospects
+a central role in transcription, DNA replication, recombi-              To determine the role of each PTM it will be crucial to link
+nation and repair. Certain chromosomal regions, such as                 the various (putative) histone modifiers and PTM-binding
+centromeres and telomeres, require functional specializ-                factors to specific PTM(s). This process will require the
+ation, which is usually mediated through chromatin. In                  generation and application of new, PTM-specific anti-
+addition, precedents exist in the yeast Candida glabrata                bodies to examine the regions of the genome targeted by
+and Plasmodium falciparum for chromatin-mediated con-                   each modifier and the abundance and distribution of each
+trol of virulence gene expression [14] and this is also                 PTM under various conditions. Also, the current work does
+predicted in trypanosomes.                                              not represent an exhaustive survey of PTMs, with
+   Transcription in trypanosomes displays unusual                       other modifications remaining to be identified. For
+features [15]: in particular, it is almost exclusively consti-          example, H3-K4-Me might be expected because Me3 at
+tutive and polycistronic. Although RNA polymerase II                    this residue determines gene activity in yeast [25]. In
+promoters have not been identified for protein-coding                   addition, phosphorylation, ADP-ribosylation and other
+genes, transcription is predominantly in the ‘sense’ direc-             PTMs could also be important.
+tion and certain noncoding regions are not transcribed. In                 Most of the work to date has been carried out in T. brucei
+addition, T. brucei virulence genes (i.e. those that encode             and similar approaches will continue to be important.
+variant surface glycoproteins) are regulated at transcrip-              However, functional-consequence assays are a weakness.
+tion and elongation [16] and transcription can be down-                 New assays should be developed to assess the effect of
+regulated at certain stages of the cell cycle or life cycle [17].       specifically altering PTM by perturbing modifiers using
+DNA homologous recombination and repair are important                   gene knockout or knockdown with RNAi or chemical
+for immune evasion [18] and homologous recombination                    probes, for example. Chromatin immunoprecipitation
+has also been exploited to facilitate genetic manipulation.             (ChIP) enables the detection of protein–DNA interactions
+Histone PTM is likely to be involved in all of these processes          and has been used in T. brucei to show that histone
+and is also likely to be important in coordinating transcrip-           variants exhibit nonrandom distribution [22]. Regions of
+tion with DNA replication, recombination and repair.                    modified chromatin should be identified using ChIP and
+   Some PTMs might be synonymous with those found                       another option might be genome-wide ChIP in combination
+in other organisms. Examples include trypanosome                        with microarrays [26]. Vast amounts of data are available
+www.sciencedirect.com
+242                      Update                      TRENDS in Parasitology Vol.23 No.6
+
+
+
+on the roles of histone PTM in other eukaryotes, particu-                       11 Garcia-Salcedo, J.A. et al. (2003) A chromosomal SIR2 homologue with
+                                                                                   both histone NAD-dependent ADP-ribosyltransferase and deacetylase
+larly in yeast and humans. This will facilitate the identi-
+                                                                                   activities is involved in DNA repair in Trypanosoma brucei. EMBO J.
+fication of conserved chromatin-control mechanisms in                              22, 5851–5862
+trypanosomatids, although it is the novelties in these                          12 Glover, L. and Horn, D. (2006) Repression of polymerase I-mediated gene
+divergent organisms that could be particularly interesting.                        expression at Trypanosoma brucei telomeres. EMBO Rep. 7, 93–99
+Using the approaches outlined in this article, the mech-                        13 Alsford, S. et al. (2007) A sirtuin in the African trypanosome is involved
+                                                                                   in both DNA repair and telomeric gene silencing but is not required for
+anisms of genome regulation that effect important aspects
+                                                                                   antigenic variation. Mol. Microbiol. 63, 724–736
+of trypanosomatid growth and pathogenesis should be                             14 Merrick, C.J. and Duraisingh, M.T. (2006) Heterochromatin-mediated
+discovered in the near future.                                                     control of virulence gene expression. Mol. Microbiol. 62, 612–620
+                                                                                15 Palenchar, J.B. and Bellofatto, V. (2006) Gene transcription in
+Acknowledgements                                                                   trypanosomes. Mol. Biochem. Parasitol. 146, 135–141
+I am grateful to Sam Alsford and John Kelly for comments on the                 16 Pays, E. (2005) Regulation of antigen gene expression in Trypanosoma
+manuscript. Research in my laboratory is funded by The Wellcome Trust              brucei. Trends Parasitol. 21, 517–520
+(079457).                                                                       17 Elias, M.C. et al. (2001) Transcription rate modulation through the
+                                                                                   Trypanosoma cruzi life cycle occurs in parallel with changes in nuclear
+                                                                                   organisation. Mol. Biochem. Parasitol. 112, 79–90
+References                                                                      18 Machado, C.R. et al. (2006) DNA metabolism and genetic diversity in
+ 1 Alsford, S. and Horn, D. (2004) Trypanosomatid histones. Mol.                   trypanosomes. Mutat. Res. 612, 40–57
+   Microbiol. 53, 365–372                                                       19 Sanders, S.L. et al. (2004) Methylation of histone H4 lysine 20 controls
+ 2 Janzen, C.J. et al. (2006) Unusual histone modifications in                     recruitment of Crb2 to sites of DNA damage. Cell 119, 603–614
+   Trypanosoma brucei. FEBS Lett. 580, 2306–2310                                20 van Leeuwen, F. et al. (1997) Localization of the modified base J in
+ 3 da Cunha, J.P. et al. (2006) Post-translational modifications of                telomeric VSG gene expression sites of Trypanosoma brucei. Genes
+   Trypanosoma cruzi histone H4. Mol. Biochem. Parasitol. 150, 268–                Dev. 11, 3232–3241
+   277                                                                          21 da Cunha, J.P. et al. (2005) Trypanosoma cruzi histone H1 is
+ 4 Millar, C.B. and Grunstein, M. (2006) Genome-wide patterns of histone           phosphorylated in a typical cyclin dependent kinase site accordingly
+   modifications in yeast. Nat. Rev. Mol. Cell Biol. 7, 657–666                    to the cell cycle. Mol. Biochem. Parasitol. 140, 75–86
+ 5 Shogren-Knaak, M. et al. (2006) Histone H4-K16 acetylation controls          22 Lowell, J.E. et al. (2005) Histone H2AZ dimerizes with a novel variant
+   chromatin structure and protein interactions. Science 311, 844–                 H2B and is enriched at repetitive DNA in Trypanosoma brucei. J. Cell
+   847                                                                             Sci. 118, 5721–5730
+ 6 Sullivan, W.J. et al. (2006) Histones and histone modifications in           23 Janzen, C.J. et al. (2006) Expression site silencing and life-cycle
+   protozoan parasites. Cell. Microbiol. 12, 1850–1861                             progression appear normal in Argonaute1-deficient Trypanosoma
+ 7 Larsen, M.R. et al. (2006) Analysis of posttranslational modifications          brucei. Mol. Biochem. Parasitol. 149, 102–107
+   of proteins by tandem mass spectrometry. Biotechniques 40, 790–              24 Mai, A. et al. (2004) Antimalarial and antileishmanial activities of
+   798                                                                             aroyl-pyrrolyl-hydroxyamides, a new class of histone deacetylase
+ 8 Janzen, C.J. et al. (2006) Selective di- or trimethylation of histone H3        inhibitors. Antimicrob. Agents Chemother. 48, 1435–1436
+   lysine 76 by two DOT1 homologs is important for cell cycle regulation in     25 Santos-Rosa, H. et al. (2002) Active genes are tri-methylated at K4 of
+   Trypanosoma brucei. Mol. Cell 23, 497–507                                       histone H3. Nature 419, 407–411
+ 9 Ivens, A.C. et al. (2005) The genome of the kinetoplastid parasite,          26 Ekwall, K. (2005) Genome-wide analysis of HDAC function. Trends
+   Leishmania major. Science 309, 436–442                                          Genet. 21, 608–615
+10 Ingram, A.K. and Horn, D. (2002) Histone deacetylases in
+   Trypanosoma brucei: two are essential and another is required for            1471-4922/$ – see front matter ß 2007 Elsevier Ltd. All rights reserved.
+   normal cell cycle progression. Mol. Microbiol. 45, 89–97                     doi:10.1016/j.pt.2007.03.009
+
+
+
+                         Research Focus Response
+
+
+Response to Horn: Introducing histone modifications
+in trypanosomes
+Sergio Schenkman and Julia P. Chagas da Cunha
+Universidade Federal de Sa˜o Paulo, Rua Botucatu, 04023-062, Sa˜o Paulo, Brazil
+
+
+
+In the article in this issue [1], Horn highlights two recent                    in trypanosomes, such as transcription, replication and
+publications [2,3] (the latter from our laboratory), which                      DNA repair. We agree that understanding the role of
+illustrate the importance of studying histone post-trans-                       PTMs in these processes might help to find new drug
+lational modifications (PTMs) in trypanosomes. Because                          targets to combat the diseases caused by pathogenic
+of the relatively high level of divergence in trypanosomal                      trypanosomes.
+histones, as compared with most eukaryotes, uncovering                             We would like to add some other features to this area.
+these PTMs, the required enzymes and the ligands for the                        Although generalizations about histone PTMs will be use-
+modified chromatin is an important starting point in                            ful in understanding their roles, particular differences
+understanding the unusual nuclear events that are found                         among the various species might also be taken into con-
+                                                                                sideration. Different mechanisms to control transcription,
+      Corresponding author: Schenkman, S. (sschenkman@unifesp.br).              replication, DNA repair, nuclear organization and the cell
+      Available online 24 April 2007.                                           cycle seem to exist in trypanosomes. Histone PTMs can,
+www.sciencedirect.com
+

@@ -1,0 +1,468 @@
+                                                       Immunology Letters 96 (2005) 283–290
+
+
+
+
+          Protective immunity against Trypanosoma cruzi provided by oral
+            immunization with Phytomonas serpens: role of nitric oxide
+               P. Pinge-Filhoa,∗ , J.P.S. Perona,c , T.R. de Mouraa , R.A. Menollib , V.K Grac¸ab ,
+                      D. Estev˜aoa , C.E. Tadokoroc , J.V. Jankeviciusb , L.V. Rizzoc,d,e
+                             aDepartment of Pathological Sciences, State University of Londrina, CEP: 86051-970, Paran´a, Brazil
+                                           b Department of Microbiology, State University of Londrina, Paran´   a, Brazil
+                                              c Department of Immunology, University of S˜  ao Paulo, S˜ao Paulo, Brazil
+                                                        d Funda¸ca˜ o Zerbini, S˜ao Paulo, S˜ao Paulo, Brazil
+                         e   University of S˜ao Paulo, Medical School, Division of Allergy and Clinical Immunology, S˜ao Paulo, Brazil
+
+                                 Received 29 June 2004; received in revised form 16 September 2004; accepted 20 September 2004
+                                                                Available online 14 October 2004
+
+
+
+
+Abstract
+
+   We have previously demonstrated that Phytomonas serpens, a tomato parasite, shares antigens with Trypanosoma cruzi, the protozoa
+that causes Chagas’ disease. These antigens are recognized by human sera and induce protective immunity in Balb/c mice. In the present
+study, inducible nitric oxide synthase (iNOS) knockout (KO) mice and C57BL/6 mice treated with the nitric oxide inhibitor, aminoguanidine
+(AG, 50 mg kg−1 ) infected with T. cruzi, were used to demonstrate the role of nitric oxide (NO) to host protection against T. cruzi infection
+achieved by oral immunization with live P. serpens. A reduction in parasitaemia and an increase in survival were observed in C57BL/6
+infected mice and previously immunized with P. serpens, when compared to non-immunized mice. iNOS (KO) mice immunized and C57BL/6
+immunized and treated with AG presented parasitaemia and mortality rates comparable to those of infected and non-immunized mice. By itself,
+immunization with P. serpens did not induce inflammation in the myocardium, but C57BL/6 mice so immunized showed fewer amastigotes
+nests in the heart following an acute T. cruzi infection than those in non-immunized mice. These results suggest that protective immunity
+against T. cruzi infection induced by immunization with P. serpens is dependent upon enhanced NO production during the acute phase
+of T. cruzi infection.
+© 2004 Elsevier B.V. All rights reserved.
+
+Keywords: Trypanosoma cruzi; Phytomonas serpens; Oral immunization; Nitric oxide; Protection; iNOS; Aminoguanidine
+
+
+
+
+1. Introduction                                                                     of human infection, including parasitaemia and myocarditis
+                                                                                    [2,3]. The symptoms presented by patients with either acute
+    Trypanosoma cruzi is an obligate intracellular parasite                         or chronic Chagas’ disease are highly variable, and thought to
+that causes American trypanosomiasis (Chagas’ disease), a                           be dependent on both parasite and host-related factors [4–11].
+chronic and debilitating syndrome that affects millions of                          Similarly, the pathology observed in mice infected T. cruzi is
+people in Latin America [1]. In addition, blood donations by                        highly dependent on parasite strain [12–14], size of parasite
+persons who are unknowingly infected are a potential source                         inoculum [15], host genetic background [3,16,17] and action
+of infection in non-endemic countries, including the United                         of various components of the host immune system [18–24].
+States. Infection of mice with this parasite reproduces many                           T. cruzi invades and multiplies within the cytoplasm of
+of the characteristics observed in the acute and chronic phases                     a variety of mammalian cells, including macrophages and
+                                                                                    cardiac myocytes [12,22]. Different studies indicate the cru-
+  ∗   Corresponding author. Tel.: +55 43 3371 4267; fax: +55 43 3327 2979.          cial role of cytokines, such as interferon gamma (IFN-␥)
+      E-mail address: pinge@dilk.com.br (P. Pinge-Filho).                           [25], tumour necrosis factor-␣ (TNF-␣) [26], interleukin-12
+
+0165-2478/$ – see front matter © 2004 Elsevier B.V. All rights reserved.
+doi:10.1016/j.imlet.2004.09.010
+284                                    P. Pinge-Filho et al. / Immunology Letters 96 (2005) 283–290
+
+[27], as well as prostaglandin (PGE2 ) [28] and nitric oxide            ences, Centre for Biological Sciences, Londrina State Univer-
+(NO) [28–33] in host resistance to infection with T. cruzi.             sity. Commercial rodent diet (Nuvilab-CR1, Nuvital, Campo
+Treatment of mice with IFN-␥ in the acute phase of infec-               Mour˜ao, Brazil) and water sterilized were available ad libi-
+tion results in lower parasitaemia and prevents death from              tum. All procedures with the animals were in accordance with
+acute disease [34]. The administration of NO inhibitors in-             the guidelines of the Brazilian Code for the Use of Laboratory
+creases parasitaemia and mortality rate in infected mice, fur-          Animals. T. cruzi Y strain [24,43] was kindly supplied by Dr.
+ther demonstrating the relevant role of NO in the pathology             Paulo Maria Ferreira de Araujo, Institute of Biosciences (IB),
+and resistance to T. cruzi infection [24,30,31,33].                     Campinas State University (UNICAMP). Blood containing
+   Many investigations have been undertaken to define ef-               trypomastigote forms was obtained from Swiss mice 1 week
+fective ways of inducing resistance against T. cruzi. Immu-             after i.p. inoculation with 2 × 105 blood forms.
+nization with living and killed parasites [35–37], attenuated               P. serpens 15T strain, isolated from tomato (Lycopersicum
+forms [38], sub-cellular fractions of parasites [39] or immune          esculentum) fruit [47], was cultured in GYPMI (glucose,
+sera transfer has had some success [40]. While use of live or           yeast extract, peptone, meat infusion) medium [43] at 28 ◦ C.
+attenuated parasites is likely to be more effective, such an
+approach, however, can present serious risk of infection. In            2.2. Immunization of mice and challenge with T. cruzi
+addition, genetic immunization protocols have shown great
+promise for protecting experimental groups from active in-                  For immunization of C57BL/6 and C57BL/6 (iNOS−/− ),
+fection with T. cruzi [41,42].                                          living forms of P. serpens (15T strain) collected at the log
+   Recently our research team demonstrated that P. serpens,             phase of growth were washed three times by centrifugation at
+a tomato parasite, shares antigens with T. cruzi. These                 3000 × g for 5 min in 15 mM PBS, pH 7.2, and administered
+antigens are recognized by human sera and induce protective             by gavage per os. Each inoculum consisted of 2 × 108 living
+immunity in highly susceptible Balb/c mice [43]. The genus              parasites per 0.1 mL in 15 mM PBS, pH 7.2 and was given
+Phytomonas arbitrarily includes all protozoa of the family              four times at 1-week intervals [43].
+Trypanosomatidae isolated from plants [44,45] and is found                  Seven days after the last oral immunization with P. ser-
+over a wide range of geographical areas including South                 pens, mice were infected i.p. with Y strain tripomastigotes
+Brazil, Northern and Central Africa and, in the Western                 (5 × 103 for C57BL/6 iNOS−/− and 105 for C57BL/6, lethal
+hemisphere, in several European countries [45,46]. The                  doses, respectively). The evaluation of parasitaemia was per-
+successful culturing of Phytomonas species is relatively                formed through the optical microscope counting of parasites
+recent [47] and consequently there are relatively few data on           in 5 ␮L of tail blood of mice and expressed as number of par-
+their immunobiochemistry.                                               asites per mililiter of blood [24]. Parasitaemia and surviving
+   Considering the great number of edible fruit species                 rates were determined daily, beginning at the 5th day after
+naturally infected by Phytomonas sp. and other lower                    challenge.
+trypanosomatids [41], making possible human contact with
+these protozoa, we set out to better understand the relation-
+ships between these trypanosomatids and the development                 2.3. Treatment with aminoguanidine (AG)
+of anti-T. cruzi immunological responses.
+   In order to determine if NO plays a role in the protec-                  C57BL/6 mice received daily i.p. injections of saline with
+tion against T. cruzi conferred by oral immunization with               or without aminoguanidine (Sigma, St. Louis), inhibitor of
+a non-pathogenic, antigenically-related trypanosomatid, we              inducible nitric oxide synthase (iNOs), diluted in phosphate-
+investigated the effect of oral immunization with living forms          buffered saline (50 mg/kg of body weight), beginning on the
+of P. serpens in either genetically manipulated mice lacking            third day after the last immunization dose. The dose of AG
+the iNOS gene or treated with inhibitors of nitric oxide pro-           was based on previously published studies demonstrating its
+duction.                                                                efficacy [33,49].
+
+                                                                        2.4. Histopatological analysis
+2. Material and methods
+                                                                           On day 10 (coinciding with the day after parasitaemia
+2.1. Mice and parasites                                                 peaked) and day 14 of infection, mice were sacrificed. The
+                                                                        heart was removed, fixed in 10% buffered formalin, than
+   C57BL/6 and C57BL/6 (iNOS−/− , mice deficient in                     sectioned. Sections were paraffin embedded, stained with
+iNOS) mice [48] were obtained from the mouse breeding                   hematoxylin/eosin (H&E), and then analysed by light mi-
+facilities of the Department of Immunology, Institute of                croscopy. Inflammatory cells infiltrating heart tissue and the
+Biomedical Sciences, University of S˜ao Paulo, S˜ao Paulo,              number of parasite nests were counted in 50 microscope fields
+Brazil. Males with 8–12 weeks of age were used in the                   (1 × 320 magnification) per tissue section. Three sections
+experiments. Mice were maintained under standard condi-                 were counted for data and determined as the mean result of
+tions in animal house of the Department of Pathological Sci-            the three sections.
+                                       P. Pinge-Filho et al. / Immunology Letters 96 (2005) 283–290                                             285
+
+2.5. Stat´ıstical analysis
+
+    Arithmetic means (parasitaemia, amastigotes nests, and
+inflammatory foci) and standard deviations of means were
+calculated. The impact of infection and other treatments
+were determined by two-way analysis of variance (ANOVA).
+When significant main effects were noted, differences be-
+tween individual groups were tested using Bonferroni mul-
+tiple comparisons method. Survival curves were compared
+using the Mantel–Haenszel log rank test. All statistical anal-
+ysis was made using GraphPad Prism version 3.0 (GraphPad
+Software, San Diego, CA).
+
+
+3. Results
+
+3.1. Parasitaemia and survival rates
+
+    To address the question of the role of nitric oxide in the
+protection induced by immunization with P. serpens in mice
+challenged with T. cruzi and its association with disease de-
+velopment, two murine models of Chagas’ disease were used.
+These vary with respect to the resistance (C57BL/6, wild type
+mice, WT) and susceptibility (iNOs−/− ; knockout mice, KO)
+to the infection with T. cruzi (Y strain).
+    Fig. 1 shows the course of infection of C57BL/6 and
+iNOS−/− mice infected with T. cruzi and immunized or
+not with P. serpens. In the 7 days following inoculation
+with T. cruzi, parasitaemia was similar between WT immu-
+nized and non-immunized (C57BL/6 versus C57BL/6 IM;
+P > 0.05) mice. However, on day 9 after infection, para-
+sitic load in the blood peaked 9 was significantly higher in
+                                                                        Fig. 1. Course of infection with the Y strain of T. cruzi in C57BL/6 and
+non-immunized WT mice (C57BL/6) (Fig. 1A, P < 0.05).                    iNOS−/− mice immunized or not by oral gavage with P. serpens. C57BL/6
+Similarly, immunized C57BL/6 iNOS−/− mice (INOS−/−                      and iNOS−/− mice received by gavage 2 × 108 living P. serpens parasites
+IM) developed lower levels of parasitaemia when com-                    four times at weekly intervals and an i.p. challenge 1 week later with 105
+pared with no-immunized INOS−/− , despite both groups be-               (A) and 5 × 103 (B) blood trypomastigotes, respectively. Parasitaemia was
+ing much more susceptible to T. cruzi infection (Fig. 1B,               quantified as trypomastigotes per milliliter of blood. Results are expressed
+                                                                        as mean ± standard deviation from 10 mice per group, in an experiment
+P < 0.05).                                                              representative of three similar experiments. Results were analysed by analy-
+    The survival rates of WT mice immunized (C57BL/6 IM)                sis of variance (ANOVA) followed by Bonferroni multiple comparisons test.
+with P. serpens and challenged with 105 T. cruzi blood try-             * P < 0.05, significant difference in parasitaemia, C57BL/6 and iNOS−/− im-
+
+pomastigotes (7 days after the last immunization dose) were             munized versus non-immunized. †: All animals died.
+significantly higher compared to controls (Fig. 2). After 15
+days, the mortality of non-immunized WT mice infected was               iNOS−/− that received 5 × 103 T. cruzi blood trypomastig-
+100%, whereas no mortality was observed in the group of                 otes was 100% by the 15th day after infection (Fig. 2). How-
+mice previously immunized with P. serpens (Fig. 2). On day              ever, oral immunization did not increase the survival rates of
+30 p.i., 50% of C57BL/6 IM mice (WT, immunized) were                    iNOS−/− (Fig. 2).
+still alive (Fig. 2) and remained so until the end of the ex-              Complying with these results, administration of AG start-
+periment (120 days p.i., data not shown). These results show            ing 3 days after the last immunization dose led to a high
+that oral immunization (oral feeding) with P. serpens sig-              parasitaemia on days 7 and 15 post-infection and to 100%
+nificantly reduced parasitaemia in mice challenged i.p. with            mortality of WT mice by day 15 p.i. (C57BL/6 IM + AG
+a lethal dose of blood T. cruzi trypomastigotes when com-               versus C57BL/6 IM, Fig. 3A and B). The AG treatment of
+pared to non-immunized control mice during acute phase                  WT mice (C57BL/6 + AG) lead to an increased parasitaemia
+of infection.                                                           (Fig. 3A) and mortality (Fig. 3B) as well as in infected
+    The infection of iNOS−/− mice with T. cruzi was charac-             INOS−/− (C57BL/6 + AG, Fig. 1B versus iNOS−/− , Fig. 2).
+terized by high parasitaemia (Fig. 1B) and mortality (Fig. 2)           As previously described [49], the dose of NO synthase in-
+compared with WT mice. The mortality of non-immunized                   hibitors used was not toxic to the animals, since the treat-
+286                                             P. Pinge-Filho et al. / Immunology Letters 96 (2005) 283–290
+
+
+
+
+Fig. 2. Survival rates of mice C57BL/6 and C57BL/6 iNOS−/− immunized
+by oral gavage with P. serpens and challenged with blood trypomastigotes Y
+strain T. cruzi. C57BL/6 and iNOS−/− mice (10 animals per group) received
+by gavage 2 × 108 living P. serpens parasites four times at weekly intervals
+and an i.p. challenge 1 week later with 105 and 5 × 103 blood trypomastig-
+otes, respectively. Results are expressed as mean ± standard deviation from
+10 mice per group, in an experiment representative of three similar experi-
+ments. ** Survival curve significantly different from the of C57BL/6 mice,
+P < 0.01.
+
+
+ment of C57BL/6 normal mice did not change their weights
+or their survival rate (data not shown). These results show
+that the partial protection against Chagas’ disease induced
+by oral immunization with P. serpens is dependent on the                         Fig. 3. Course of infection with the Y strain of T. cruzi in C57BL/6 mice
+production of nitric oxide in the initial phase of T. cruzi                      immunized or not by oral gavage with P. serpens i.p. treated or not with
+infection.                                                                       aminoguanidine (AG, 50 mg × kg−1 ). C57BL/6 mice received by gavage
+                                                                                 2 × 108 living P. serpens parasites four times at weekly intervals and an i.p.
+                                                                                 challenge 1 week later with 105 blood trypomastigotes. AG treatment started
+3.2. Histopathological study                                                     on the 3rd day after the last immunization. (A) parasitaemia levels. (B) sur-
+                                                                                 vival curves. Parasitaemia was quantified as trypomastigotes per milliliter
+    We analysed the effect of immunization with P. serpens on                    of blood. Results are expressed as mean ± standard deviation from 10 mice
+parasitism and inflammation in heart tissue taken from WT                        per group, in an experiment representative of three similar experiments.
+treated or not with AG and hearts from iNOS−/− mice at 10                        Results were analysed by analysis of variance (ANOVA) followed by Bon-
+                                                                                 ferroni multiple compararisons test. * P < 0.05, significant difference in para-
+and 14 days after infection with T. cruzi.                                       sitaemia, C57BL/6 immunized and treated with AG versus non-immunized
+    On day 10 (coinciding with the day after parasitaemia                        and treated with AG. ** Survival curve significantly different from the of
+peak) and day 14 of infection, all infected WT presented                         immunized C57BL/6 mice, P < 0.01. †: All animals died.
+intense inflammatory infiltrates in cardiac tissue (P < 0.05,
+Bonferroni multiple comparisons test; Fig. 4). Heart tis-
+sues from immunized and infected WT mice (C57BL/6                                infiltration with large necrotic lesions at sites of infection in
+infected + IM) presented almost twice more inflammatory                          the liver and heart (data not shown). These results corrobo-
+infiltrates, composed mainly of mononuclear cells, than                          rate the data obtained by other researchers that demonstrate
+those non-immunized WT animals (C57BL/6 Infected,                                that iNOS−/− mouse strain succumb to pathophysiology of
+Fig. 4). Inflammation was multifocal and mononuclear cells                       the infection, which is typical for a severe acute phase of
+were frequently found attached to myocardial fibres (data not                    experimental Chagas’ disease [32]. However, inflammatory
+shown). Interestingly, the heart tissue from immunized WT                        foci were commonly seen around parasitized cells in cardiac
+mice (C57BL/infected + IM) had three-fold less parasites                         tissues from infected WT (C57BL/6), infected WT treated
+nests than those of non-immunized WT mice (C57BL/6                               with AG (C57BL/6 + AG) mice, WT mice infected and im-
+infected) on day 10-post-infection (P < 0.05, Bonferroni                         munized treated with AG and infected iNOS−/− mice pre-
+multiple comparisons test; Fig. 5). However, later (day 14                       viously immunized with P. serpens ((iNOS−/− IM; data not
+p.i.) these number of parasites nests were reduced in both                       shown).
+groups of mice (data not shown).                                                     Taking all results together, it appears that NO plays a criti-
+    Mice with disrupted iNOS genes (iNOS−/− ) that were                          cal role in the protective immunity against Trypanosoma cruzi
+infected with T. cruzi presented higher numbers of parasite-                     provided by oral immunization with Phytomonas serpens in
+infected cells, with diffuse inflammatory mononuclear cell                       an experimental Chagas’ disease model.
+                                                 P. Pinge-Filho et al. / Immunology Letters 96 (2005) 283–290                                 287
+
+                                                                                  4. Discussion
+
+                                                                                      Efforts to generate a safe and effective means of immu-
+                                                                                  nizing vertebrates, including humans, against T. cruzi infec-
+                                                                                  tion have been ongoing for many years with only limited
+                                                                                  success. The use of live parasites generally presents a risk
+                                                                                  of active infection if virulent microorganisms are used, be-
+                                                                                  cause some may escape the attenuation process [50]. The
+                                                                                  cross-reactivity of lower trypanosomatids and protective ef-
+                                                                                  fect against T. cruzi infection in mice has been described
+                                                                                  [51]. Recently, we showed that Phytomonas serpens, a try-
+                                                                                  panosomatid isolated from tomato, shares antigens with Try-
+                                                                                  panosoma cruzi. These antigens are recognized by human
+                                                                                  sera and induce protective immunity in Balb/c mice [43].
+                                                                                  There are a great number of edible fruit species naturally in-
+                                                                                  fected with trypanosomatids [44–47]. Therefore, in this study
+                                                                                  we verified the effectiveness of oral immunization with P.
+                                                                                  serpens for diminishing parasitaemia and mortality in normal
+                                                                                  healthy mice challenged with a lethal dose of T. cruzi. How-
+                                                                                  ever, the protective mechanisms induced by immunization
+                                                                                  with parasites non-pathogenic to vertebrates, such as lower
+                                                                                  trypanosomatids, remain to be investigated. It is plausible that
+Fig. 4. Heart inflammation in C57BL/6 mice immunized or not by oral gav-
+age with P. serpens and challenged with the Y strain T. cruzi. C57BL/6 mice
+                                                                                  both antibodies and cell-mediated immunity are involved in
+received by gavage 2 × 108 living P. serpens parasites four times at weekly       this protective immunity.
+intervals and an i.p. challenge 1 week later with 105 blood trypomastigotes           This study represents the first work that analyses the role
+by route i.p. Inflammatory cells infiltrating heart tissue were counted in 50     of NO in the protection induced by immunization with P.
+microscope fields (1 × 320 magnification) per tissue section. Three sections      serpens, a tomato parasite. The contribution of NO to host
+were counted for each animal and individual data determined as the mean
+result of the three sections. Results were analysed by analysis of variance
+                                                                                  defence depends on the type of infectious agent [52]. Exper-
+(ANOVA) followed by Bonferroni multiple compararisons test. * P < 0.05.           imental evidence has shown that NO production by iNOS
+                                                                                  is essential for host defence against acute T. cruzi infec-
+                                                                                  tion. The essentiality of iNOS induction for T. cruzi control
+                                                                                  has been demonstrated using enzyme blockers [24,30,31]
+                                                                                  and iNOS−/− mice [21,24,32]. It is believed that IFN-␥-
+                                                                                  dependent activation of the iNOS gene in macrophages el-
+                                                                                  evates NO synthesis resulting in trypanocidal activity and
+                                                                                  control of the acute phase of T. cruzi infection [30,33,53,54].
+                                                                                  In the present study, the higher parasitaemia levels and mor-
+                                                                                  tality rates of T. cruzi-infected iNOS−/− mice as compared
+                                                                                  with WT mice clearly support this model. However, the im-
+                                                                                  portance of NO to host protection depends not only on the
+                                                                                  nature of the intracellular pathogen but also on the disease
+                                                                                  stage. NO is dispensable during the late-acute and chronic
+                                                                                  phase of T. cruzi infection [33,55]. A potential explanation
+                                                                                  for these discrepancies is that besides macrophages, T. cruzi
+                                                                                  invades other types of cells, which do not express iNOS. Fur-
+                                                                                  thermore, serum levels of NO in T. cruzi-infected individuals
+                                                                                  seem not to have a predictive value for chronic disease [56].
+                                                                                  These observations suggest that NO may not be important for
+Fig. 5. Quantification of amastigote nests from hearts of C57BL/6 mice im-
+munized or not by oral gavage with P. serpens and challenged with the Y           the development, nor manifestation, of effectors functions as-
+strain T. cruzi. C57BL/6 mice received by gavage 2 × 108 living P. serpens        sociated with an adaptive immune response induced by oral
+parasites four times at weekly intervals and an i.p. challenge 1 week later       immunization.
+with 105 blood trypomastigotes by route i.p. Inflammatory cells infiltrating          In this study, we show that NO plays an essential role in
+heart tissue were counted in 50 microscope fields (1 × 320 magnification)
+                                                                                  parasite control associated with previous oral immunization
+per tissue section. Three sections were counted for each animal and individ-
+ual data determined as the mean result of the three sections. Results were        with the non-pathogenic Phytomonas serpens, a trypanoso-
+analysed by analysis of variance (ANOVA) followed by Bonferroni multiple          matid isolated from tomatoes. As expected, oral immuniza-
+compararisons test. * P < 0.05.                                                   tion with P. serpens reduced parasitaemia and mortality in
+288                                    P. Pinge-Filho et al. / Immunology Letters 96 (2005) 283–290
+
+wild-type mice infected with T. cruzi. However, when en-                immunization with living forms of P. serpens over cytokines
+dogenous NO production was reduced, either genetically                  and molecules that participate in the control of the infection
+(i.e., iNOS−/− ) or pharmacologically (i.e., by treatment with          by T. cruzi and an investigation about this is currently under
+a NO-synthase inhibitor), oral immunization did not prove to            way in our laboratory.
+be beneficial. (Figs. 1–3).                                                In conclusion, our observations argue for efforts to a bet-
+    We show here that this also applies to NO-mediated para-            ter understanding about resistance and pathogenesis during
+site control: while there was a strong exacerbation of par-             T. cruzi infection and claim that the use of the lower try-
+asitaemia, with 100% mortality in iNOS KO animals or                    panomatids as a safer source of immunogenic agents for
+in those treated from the beginning of infection with NO-               Chagas’ disease can contribute to enhance parasite clearance
+synthase inhibitor aminoguanidine (Figs. 1 and 2), and there            and reduce parasite load and thus inhibit the progression of
+was no life extension with the immunization, conversely to              chronic disease.
+what was observed in WT mice immunized and challenged
+with a lethal dose of Y strain of T. cruzi.
+    Our studies corroborate the observations of other re-
+                                                                        Acknowledgements
+searches [21,22,24,57] demonstrating that NO plays a role
+in various aspects of pathogenesis associated with T. cruzi
+                                                                            We thank Paulo M. F. Araujo (State University of Camp-
+infection (Figs. 4 and 5).
+                                                                        inas, Brazil) for providing T. cruzi (Y Strain), Aparecida D.
+    An important discovery of our study was that by itself, oral
+                                                                        Malvezi, Fausto de Souza for the breeding pairs of C57BL/6
+immunization with P. serpens did not induce inflammation
+                                                                        and iNOS−/− mice with competence and enthusiasm and Dr.
+in the heart tissue (Fig. 4), but was capable to reduce the
+                                                                        Kevin L. Fritsche (University of Missouri, USA) for his as-
+number of amastigotes nests in the infected heart from WT
+                                                                        sistance in editing the manuscript.Financial support was pro-
+mice (Fig. 5).
+                                                                        vided by CPG/UEL (3531–2001), CNPq (478239/01–7). T.R.
+    Oral immunization with P. serpens did not induce any
+                                                                        de Moura, J.P.S. Peron and R.A. Menolli were supported by
+indications of disease, including inflammation in the heart
+                                                                        CNPq/PIBIC/UEL fellowships. L.V. Rizzo is a recipient of
+(Fig. 4). However, prior immunization resulted in greater in-
+                                                                        a personal grant for scientific achievement from CNPq and
+filtration of inflammatory cells during the acute phase of a
+                                                                        FAPESP.
+T. cruzi infection. This enhanced inflammatory response in
+immunized wild-type mice might explain the reduction of
+parasitaemia in this tissue (i.e., amastigotes nests) observed
+during the peak of the infection (Fig. 5). These observations           References
+suggest that oral immunization is primarily enhancing cell-
+mediated immune responses, possibly via the generation of T              [1] World Health Organization (WHO). Chagas’ disease. In: Thirteenth
+effector/memory cells. In fact, CD4 Th1 but not Th2 clones                   programme report of the UNDP/World Bank/WHO Special Program
+                                                                             for Research and Training in Tropical Diseases. Geneva: WHO,
+efficiently activate macrophages to eliminate T. cruzi through               1995, p. 112–23.
+a nitric oxide-dependent mechanism [58].                                 [2] Frederici EE, Albemann WH, Neva FA. Chronic and progressive
+    Another point that merits consideration is that, theoreti-               myocarditis and myositis in C3H mice infected with Trypanosoma
+cally, the ingestion of fruits infected with P. serpens by hu-               cruzi. Am J Trop Med Hyg 1964;13:272–80.
+mans or animals could prime the immune response to T. cruzi              [3] Marinho CRF, Bucci DZ, Dagli ML, Bastos KRB, Grisoto MG,
+                                                                             Sardinha LR, Baptista CRGM, Gonc¸alves CP, D’ Imp´erio Lima MR,
+and induce serum antibody titres to this pathogen in the popu-                ´
+                                                                             Avarez  JM. Pathology affects different organs in two mouse strains
+lation. Further, studies are necessary to investigate a possible             chronically infected by a Trypanosoma cruzi clone: a model for
+interference of these antibodies in the diagnosis of Chagas’                 genetic studies of Chagas’ disease. Infect Immun 2004;72:2350–7.
+disease or even their role in the autoimmunity found in this             [4] Dias JCP. The indeterminate form of human chronic Chagas’ dis-
+disease [59].                                                                ease a clinical epidemiological review. Rev Soc Bras Med Trop
+                                                                             1989;22:147–56.
+    The ingestion of fruits infected with P. serpens by humans           [5] Minoprio P, Joskowicz MH. 36th forum in immunology, Cha-
+or animals could prime the immune response to T. cruzi–like                  gas’disease: Trypanosoma cruzi vs. the host immune system. Res
+antigens. The initial host contact with oral antigens gener-                 Immunol 1991;142:137–67.
+ally involves the mucous surface. The immunologic conse-                 [6] Higuchi ML, Brito T, Reis MM, Barbosa A, Bellotti G, Pereira-
+quences of these contacts are quite complex and generally in-                Barreto AC, Pileggi F. Correlation between Trypanosoma cruzi par-
+                                                                             asitism and myocardial inflammatory infiltrate in human chronic cha-
+volve the induction of tolerance [60], while an immunization                 gasic myocarditis: light microscopy and immunohistochemical find-
+phenomenon is much less likely without inflammation, even                    ings. Cardiovasc Pathol 1993;2:101–6.
+if it is only local inflammation. Nevertheless, studies about            [7] Jardim E, Takayanagui OM. Chagasic meningoencephalitis with de-
+the capture of alimentary antigens and the consequences for                  tection of Trypanosoma cruzi in the cerebrospinal fluid of an im-
+the immunologic system are still scarce.                                     munodepressed patient. J Trop Med Hyg 1994;97:367–70.
+                                                                         [8] Rocha A, de Meneses AC, da Silva AM, Ferreira MS, Nishioka
+    The host/parasite relationship balance manifests, in some                SA, Burgarelli MK, Almeida E, Turcato Jr G, Metze K, Lopes ER.
+instances, as the inflammatory infiltrate intensity versus par-              Pathology of patients with Chagas’ disease and acquired immunod-
+asite load. At present, we do not know the effect of the oral                eficiency syndrome. Am J Trop Med Hyg 1994;50:261–8.
+                                             P. Pinge-Filho et al. / Immunology Letters 96 (2005) 283–290                                              289
+
+ [9] Parada H, Carrasco HA, A˜nez N, Fuenmayor C, Inglessis I. Car-                  and is produced by murine macrophages in response to live trypo-
+     diac involvement is a constant finding in acute Chagas’ disease:                mastigotes. Infect Immun 1996;64:1961–7.
+     a clinical parasitological and histopathological study. Int J Cardiol    [28]   Pinge-Filho P, Tadokoro CE, Abrahamsohn IA. Prostalgandins me-
+     1997;60:49–54.                                                                  diate suppression of lymphocyte proliferation and cytokine synthesis
+[10] Brener Z, Gazzinelli RT. Immunological control of Trypanosoma                   in acute Trypanosoma cruzi infection. Cell Immunol 1999;193:90–8.
+     cruzi infection and pathogenesis of Chagas’ disease. Int Arch Allergy    [29]   Gazzinelli RT, Oswald IP, Hieny S, James S, Sher A. The mi-
+     Immunol 1997;114:103–10.                                                        crobicidal activity of interferon-␥ treated macrophages against Try-
+[11] de Barros-Mazon S, Guariento ME, da Silva CA, Coffman RL, Abra-                 panosoma cruzi involves an l-arginine-dependent, nitrogen oxide-
+     hamsohn IA. Differential regulation of lymphoproliferative responses            mediated mechanism inhibitable by interleukin-10 and transforming
+     to Trypanosoma cruzi antigen in patients with the cardiac or inde-              growth factor-␤. Eur J Immunol 1992;22:2501–6.
+     terminate form of Chagas disease. Clin Immunol 2004;111:137–45.          [30]   Vespa GNR, Cunha FQ, Silva JS. Nitric oxide is involved in the
+[12] Andrade SG. Influence of Trypanosoma cruzi strain on the patho-                 control of Trypanosoma cruzi induced parasitaemia and directly kills
+     genesis of chronic myocardiopathy in mice. Mem Inst Oswaldo Cruz                parasite in vitro. Infect Immun 1994;62:5177–82.
+     1990;85:17–27.                                                           [31]                                            ¨ A, Rottenberg ME. Role
+                                                                                     Petray P, Cata˜nos-Velez E, Gristein S, Orn
+[13] Andrade LO, Machado CRS, Chiari E, Pena SDJ, Macedo AM. Dif-                    of nitric oxide in resistance and histopathology during experimental
+     ferential tissue distribution of diverse clones of Trypanosoma cruzi            infection with Trypanosoma cruzi. Immunol Lett 1995;47:121–6.
+     in infected mice. Mol Biochem Parasitol 1999;100:163–72.                 [32]   Holscher C, Kohler G, Muller U, Mossmann H, Schaub GA, Brom-
+[14] Zhang L, Tarleton RL. Parasite persistence correlates with sever-               bacher F. Defective nitric oxide effector functions lead to ex-
+     ity and localization in Chronic Chaga’s disease. J Infect Dis                   treme susceptibility of Trypanosoma cruzi-infected mice deficient in
+     1999;180:480–6.                                                                 gamma interferon receptor or inducible nitric oxide synthase. Infect
+[15] Marinho CRF, D’´Imp´erio, Lima MR, Grisotto MG, Alvarez JM.                     Immun 1998;66:1208–15.
+     Influence of acute-phase on pathology, parasitism, and activation of     [33]   Saeftel M, Fleischer B, Hoerauf A. Stage-dependent role of ni-
+     the immune system at late chronic phase of Chagas’ disease. Infect              tric oxide in control of Trypanosoma cruzi infection. Infect Immun
+     Immun 1999;67:308–18.                                                           2001;69:2252–9.
+[16] Trischmann TM, Bloom BR. Genetics of murine resistance to Try-           [34]   Reed SG. In vivo administration of recombinant IFN-gamma in-
+     panosoma cruzi. Infect Immun 1982;35:546–51.                                    duces macrophage activation, and prevents acute disease, immune
+[17] Wrightsman R, Krassner S, Watson J. Genetic-control of responses to             suppression, and death in experimental Trypanosoma cruzi infection.
+     Trypanosoma cruzi in mice–multiple genes influencing parasitaemia               J Immunol 1998;140:4342–7.
+     and survival. Infect Immun 1982;36:637–44.                               [35]   Pereira MES, Krettli AU. The effect of reinoculation with trypo-
+[18] Cunha-Neto E, Rizzo LV, Albuquerque F, Abel L, Guilherme L,                     mastigotes on the level of protective antibodies in mice chronically
+     Bocchi E, Bacal F, Carrara D, Ianni B, Mady C, Kalil J. Cytokine                infected with T. cruzi. Braz J Med Biol Res 1990;23:283–92.
+     production profile of heart-infiltrating T cells in Chagas’ disease      [36]   Camargo IJB, Araujo PMF, Sakurada JK, Stach-Machado DR,
+     cardiomyopathy. Braz J Med Biol Res 1998;31:133–7.                              Rangel HA. Early resistance induced by culture derived trypomastig-
+[19] Abel LC, Rizzo LV, Ianni B, Albuquerque F, Bacal F, Carrara D,                  otes. Exp Parasitol 1991;73:260–8.
+     Bocchi EA, Teixeira HC, Mady C, Kalil J, Cunha-Neto E. Chronic           [37]   Kierszenbaum F, Budzko DB. Immunization against experimental
+     Chagas’ disease cardiomyopathy patients display an increased IFN-               Chaga’s disease by using culture forms of Trypanosoma cruzi killed
+     gamma response to Trypanosoma cruzi infection. J Autoimmun                      with a solution of sodium perchlorate. Infect Immun 1975;12:461–5.
+     2001;17:99–107.                                                          [38]   Paiva CN, Castelo-Branco MT, Lannes-Vieira J, Gattass CR. Try-
+[20] Soares MBP, Silva-Mota KN, Lima RS, Bellintani MC, Pontes-de-                   panosoma cruzi: protective response of vaccinated mice is mediated
+     Carvalho L, Ribeiro-dos-Santos R. Modulation of chagasic cardiomy-              by CD8+ cells, prevents signs of polyclonal T lymphocyte activation,
+     opathy by interleukin-4: dissociation between inflammation and tis-             and allows restoration of a resting immune state after challenge. Exp
+     sue parasitism. Am J Pathol 2001;159:703–9.                                     Parasitol 1999;91:7–19.
+[21] Arantes RME, Marche HHF, Bahia MT, Cunha FQ, Rossi MA,                   [39]   Ruiz AM, Esteva M, Riarte A, Subias E, Segura EL. Immunopro-
+     Silva JA. Interferon-␥-induced nitric oxide causes intrinsic intesti-           tection of mice against T. cruzi with a lyophilized flagellar fraction
+     nal desnervation in Trypanosoma cruzi-infected mice. Am J Pathol                of the parasite plus adjuvant. Immunol Lett 1986;12:1–4.
+     2004;164:1361–8.                                                         [40]   Krettli AU. Antibodies to T. cruzi in experimental and human infec-
+[22] Fichera LE, Albareda MC, Laucella SA, Postan M. Intracellular                   tions. Afr J Clin Exp Immunol 1982;3:327–45.
+     growth of Trypanosoma cruzi in cardiac myocytes is inhibited by          [41]   Costa F, Franchin G, Pereira-Chioccola VL, Ribeir˜ao M, Schenkman
+     cytokine-induced nitric oxide release. Infect Immun 2004;72:359–63.             S, Rodrigues MM. Immunization with a plasmid DNA containing
+[23] Michailowsky V, Silva NM, Rocha CD, Vieira LQ, Lannes-Vieira J,                 the gene of trans-sialidase reduces Trypanosoma cruzi infection in
+     Gazzinelli RT. Pivotal role of interleukin-12 and interferon-gamma              mice. Vaccine 1998;16:768–74.
+     axis in controlling tissue parasitism and inflammation in the heart      [42]   Garg N, Tarleton RL. Genetic immunization elicits antigen-specific
+     and central nervous system during Trypanosoma cruzi infection. Am               protective immune response and decreases disease severity in Try-
+     J Pathol 2001;159:1723–33.                                                      panosoma cruzi infection. Infect Immun 2001;70:5547–55.
+[24] Malvezi AD, Cecchini R, de Souza F, Tadokoro CE, Rizzo LV, Pinge-        [43]   Bregan´o JW, Pic˜ao RC, Grac¸a VK, Menolli RA, Jankevicius SI,
+     Filho P. Involvement of nitric oxide (NO) and TNF-alpha in the                  Pinge-Filho P, Jankevicius JV. Phytomonas serpens, a tomato para-
+     oxidative stress associated with anemia in experimental Trypanosoma             site, shares antigens with Trypanosoma cruzi that are recognized by
+     cruzi infection. FEMS Immunol Med Microbiol 2004;41:69–77.                      human sera and induce protective immunity in mice. FEMS Immunol
+[25] Torrico F, Heremans H, Rivera MT, Van ME, Billiau A, Carlier                    Med Microbiol 2003;39:257–64.
+     Y. Endogenous IFN-gamma is required for resistance to acute Try-         [44]   Camargo EP, Kastelein R, Roitman I. Trypanosomatid parasites of
+     panosoma cruzi infection in mice. J Immunol 1991;146:3626–32.                   plants (Phytomonas). Parasitol Today 1990;6:22–5.
+[26] Silva JS, Vespa GNR, Cardoso MAG, Aliberti JC, Cunha FQ. Tumor           [45]   Camargo EP. Phytomonas and other trypanomatid parasites of plants
+     necrosis factor alpha mediates resistance to Trypanosoma cruzi in               and fruit. Adv Parasitol 1999;42:29–112.
+     mice by inducing nitric oxide production in infected IFN-␥-activated     [46]   S´anchez-Moreno M, Fern´andez-Becerra C, Mascaro C, Rosales
+     macrophages. Infect Immun 1995;63:4862–7.                                       MJ, Dollet M, Osuna A. Isolation, in vitro culture, ultrastructure
+[27] Aliberti JCS, Cardoso MAG, Martins GA, Gazzinelli RT, Vieira LQ,                study, and characterization by lectin-agglutination tests of Phy-
+     Silva JS. IL-12 mediates resistance to Trypanosoma cruzi in mice                tomonas isolated from tomatoes (Lycopersicon esculentum) and che-
+290                                            P. Pinge-Filho et al. / Immunology Letters 96 (2005) 283–290
+
+       rimoyas (Ammona chermolia) in southeastern Spain. Parasitol Res          [54] Machado FS, Martins GA, Aliberti JC, Mestriner FL, Cunha
+       1995;81:575–81.                                                               FQ, Silva JS. Trypanosoma cruzi-infected cardiomyocytes produce
+[47]   Jankevicius JV, Jankevicius SI, Campaner M, Conchon I, Maeda                  chemokines and cytokines that trigger potent nitric oxide-dependent
+       IA, Camargo EP. Life cycle and culturing of Phytomonas ser-                   trypanocidal activity. Circulation 2000;102:3003–8.
+       pens (Gibbs), a trypanosomatid parasite of tomatoes. J Protozool         [55] Calzada JE, L´opez-Nevot MA, Bera´un Y, Mart´ın J. No evidence
+       1989;36:265–71.                                                               for association of the inducible nitric oxide synthase promoter
+[48]   Macmicking JD, Nathan C, Hom G, Chartrain N, Fletcher DS, Trum-               polymorphism with Trypanosoma cruzi infection. Tissue Antigens
+       bauer M, Stevens K, Xie Q, Sokol K, Hutchinson N, Chen H, Mud-                2002;59:316–9.
+       gett JS. Altered responses to bacterial infection and endotoxic shock    [56] P´erez-Fuentes R, S´anchez-Guill´en MC, Gonz´ales-Alvarez C,
+       in mice lacking inducible nitric oxide synthase. Cell 1995;81:641–50.         Monte´on VM, Reyes PA, Rosales-Encina JL. Humoral nitric ox-
+[49]   Martins GA, Vieira LQ, Cunha FQ, Silva JS. Gamma interferon                   ide levels and antibody immune response of symptomatic and inde-
+       modulates CD95 (Fas) and CD95 ligand (Fas-L) expression and ni-               terminate Chagas’disease patients to commercial and autochthonous
+       tric oxide-induced apoptosis during the acute phase of Trypanosoma            Trypanosoma cruzi antigen. Am J Trop Med Hyg 1998;58:715–20.
+       cruzi infection: a possible role in immune response control. Infect      [57] Chandrasekar PC, Troyer DA, Freeman GL. Differential regulation
+       Immun 1999;67:3864–71.                                                        of nitric oxide synthase isoforms in experimental acute Chagasic
+[50]   Brener Z. Immunity to T. cruzi. Adv Parasitol 1980;18:247–93.                 cardiomyopathy. Clin Exp Immunol 2000;121:112–9.
+[51]   Souza MCM, Roitman I. Protective effect of Leptomonas pessoai            [58] Rodrigues MM, Ribeirao M, Boscardin SB. CD4 Th1 but not Th2
+       against the infection of mice by Trypanosoma cruzi. Rev Microbiol             clones efficiently activate macrophages to eliminate Trypanosoma
+       1971;2:187–9.                                                                 cruzi through a nitric oxide-dependent mechanism. Immunol Lett
+[52]   Nathan C, Shiloh MU. Reactive oxygen and nitrogen intermediates in            2000;73:43–50.
+       the relationship between mammalian host and microbial pathogens.         [59] N´uria G, Fresno M. Etiology of chagas disease myocardi-
+       Proc Natl Acad Sci USA 2000;97:8841–8.                                        tis: autoimmunity, parasite persistence, or both. Trends Parasitol
+[53]   Gazzinelli RT, Oswald IP, Hieny S, James SL, Sher A. The mi-                  2003;19:19–22.
+       crobicidal activity of interferon-gamma-treated macrophages against      [60] Parameswaran N, Samuvel DJ, Kumar R, Thatai S, Bal V, Rath S,
+       Trypanosoma cruzi involves an l-arginine-dependent, nitrogen oxide-           George A. Oral tolerance in T cells is accompanied by induction of
+       mediated mechanism inhibitable by interleukin-10 and transforming             effector function in lymphoid organs after systemic immunization.
+       growth factor-beta. Eur J Immunol 1992;22:2501–6.                             Infect Immun 2004;72:3803–11.
+

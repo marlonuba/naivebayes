@@ -1,0 +1,426 @@
+                                                International Journal for Parasitology 31 (2001) 427±433
+                                                                                                                          www.parasitology-online.com
+                                                                Invited Review
+
+                              African trypanosomes in the 21st century:
+                             what is their future in science and in health?
+                                                           George A.M. Cross*
+            Laboratory of Molecular Parasitology, The Rockefeller University, Box 185, 1230 York Avenue, New York, NY 10021-6399, USA
+                              Received 2 October 2000; received in revised form 2 January 2001; accepted 2 January 2001
+
+
+
+Abstract
+   The African trypanosomes remain well recognised for their role as an interesting model eukaryote for basic science, but are loosing ground
+in their ability to contribute to understanding common cellular mechanisms. At the same time, the diseases they cause remain as prevalent as
+ever, but appear increasingly irrelevant in their wider medical, social, economic and political context. What can be done to keep trypanosome
+biology relevant and vigorous in the 21st century? q 2001 Australian Society for Parasitology Inc. Published by Elsevier Science Ltd. All
+rights reserved.
+Keywords: African trypanosomes; Trypanosoma brucei; Genomics; Co-operation; Future of research; Disease
+
+
+
+1. Introduction                                                                format and the often ignorant polarisation on which it feeds.
+                                                                               The iconoclast, however, can play a useful role in the evolu-
+   ªStrange to see how a good dinner and feasting reconciles                   tion of science.
+everybodyº Samuel Pepys, English diarist, 1665.                                   I confess to some ambivalence about the role of this
+   What is an `internet conference' and can it be effective?                   medium. This is the third trypanosome internet conference,
+I'm interpreting this invitation to `deliver' a `keynote                       but only the ®rst in which several of the `speakers' have
+address' in the spirit of the dictionary de®nition, `confer-                   participated. I did so after the exertion of an unusual degree
+ence: an interchange of views'. I hope that the views I offer,                 of ¯attery and arm-twisting by the organisers, in the absence
+which I do not claim exclusively, will stimulate interchange                   of the usual attractions of conferences held in exotic loca-
+and will not be regarded as my immutable opinions. During                      tions (see quotation above). The foundation of my support is
+the current election season in the USA, it seems that chan-                    that a virtual conference has the potential to be far more
+ging one's opinions is a political liability, whereas common                   democratic than even the most democratic international
+sense dictates that opinions should change in response to                      conference in our ®eld, the annual Woods Hole Molecular
+reasoned argument and new discoveries.                                         Parasitology meeting, which immediately preceded this
+   In summarising some of my thoughts, I am approaching                        internet event. Whether virtual conferences will have signif-
+this assignment as a conversation, perhaps even more so                        icant impact in the next few years is unclear, although the
+than a live conference talk would allow, and not with the                      internet is a scienti®c tool without which most of us could
+rigorous scholarship demanded of the printed word. I'll try                    not do effective research today. Communication is the life-
+to keep it brief. It remains for me to be seen how such                        line of research and more is better.
+conversations work, although the internet appears to provide
+an increasing mode of `conversation', at least in the realm of
+my 13-year-old daughter. Some of my remarks are intended                       2. A brief history of African trypanosomes
+to be provocative. They may even, occasionally, be consid-
+ered offensive by some. If so, I apologise in advance, for no                     Trypanosomatids are ubiquitous unicellular ¯agellated
+offence is intended. Maybe science sometimes needs its own                     protozoa that are ancient survivors on planet Earth. They
+internal `shock radio' show, although I largely abhor that                     probably embarked on their own evolutionary branch more
+                                                                               than 500 million years ago (Stevens and Gibson, 1999),
+ * Tel.: 11-212-327-7571; fax: 11-212-327-7845;
+                                                                               prior to the origins of their present invertebrate and verte-
+http://tryps.rockefeller.edu.                                                  brate hosts. At the turn of the 20th Century, epidemics of
+    E-mail address: george.cross@rockefeller.edu (G.A.M. Cross).               human sleeping sickness threatened to decimate equatorial
+0020-7519/01/$20.00 q 2001 Australian Society for Parasitology Inc. Published by Elsevier Science Ltd. All rights reserved.
+PII: S 0020-751 9(01)00141-2
+428                               G.A.M. Cross / International Journal for Parasitology 31 (2001) 427±433
+
+Africa. Today, human trypanosomiasis is as prevalent as                  diseases. The evidence on which I base this statement
+ever, but its relative importance has been greatly diminished            comes from the genetics of the haptoglobin-related protein,
+in comparison with HIV-induced decimation, amounting to                  which plays an as yet unexplained role in innate human
+millions of deaths/year in Africa, the epicentre of AIDS.                resistance to Trypanosoma brucei brucei (Smith et al.,
+Animal trypanosomiasis is still regarded as a major                      1995; Tomlinson and Raper, 1998; Molina Portela et al.,
+problem, causing economic, social and nutritional impact                 2000). Human primate ancestors may have evolved resis-
+in Africa, but the presence of the animal reservoir and the              tance to T. brucei brucei when the haptoglobin-related-
+Tsetse, the ever-present human to animal contact, and the                protein (Hpr) arose by a triplication of the haptoglobin
+breakdown of infrastructure in many parts of Africa, mean                locus in old-world primates, subsequently reduced to a
+that human trypanosomiasis remains a serious threat                      duplication in humans (McEvoy and Maeda, 1988). Intrigu-
+(Barrett, 1999; Hide, 1999). Where does this leave the                   ingly, the Hpr gene has been ampli®ed in a signi®cant
+community of researchers in African trypanosomiasis?                     proportion of African Americans (Maeda et al., 1986).
+Speaking personally, it is somewhat depressing to be side-                  The ®rst pathogenic trypanosome, Trypanosoma evansi,
+lined by relatively new diseases of vastly greater signi®-               was discovered in the blood of equines and camels, in India,
+cance. I and, I suspect, many colleagues who entered this                in 1880 and David Bruce discovered Trypanosoma brucei as
+®eld at around the same time were optimistic that our work               the agent of the `Tsetse ¯y disease' in African cattle in 1894
+would lead to improved cures or prevention of trypanoso-                 (Bruce, 1895). Trypanosomes were ®rst demonstrated in
+miasis. Perhaps we were just very naõÈve. Even if our                    human sleeping sickness in 1902, and experiments reported
+research led to new drugs, the social impact in Africa                   in 1909 described the ®rst attempt at immunisation and the
+would be rather insigni®cant in a continent that appears                 ®rst demonstration of the innate resistance conferred by
+increasingly disadvantaged by economic and political                     human serum (Laveran and Mesnil, 1902). In 1905, Franke
+circumstances. According to an editorial in the 15th July                and Ehrlich performed experiments from which they
+2000 issue of The Economist, the World Bank estimates                    concluded that ªthe trypanosomes must therefore have
+that Africa alone may need to spend more than $2 billion/                acquired other biological properties during their stay in
+year to control AIDS. Although few of us, and certainly not              (the monkey's) semi-immune body that rendered them
+I, can speak authoritatively to these wider issues, and with-            resistant to the defensive substancesº, this providing the
+out wishing to diminish local initiatives that are probably              ®rst intimation of the phenomenon of antigenic variation,
+the most meaningful, one can hardly consider any infectious              which some of us are still trying to understand today. Kleine
+disease without recognising its social and political context.            recognised the existence of a developmental cycle for T.
+However, one only has to witness the local reaction to the               brucei in Glossina (Tsetse) in 1909. Suramin (Bayer 205)
+appearance of West Nile Encephalitis virus in New York                   was discovered in 1917 (patented in 1924) and remains the
+City to realise how poor is the perspective of the average US            primary treatment for acute human trypanosomiasis, despite
+citizen, when it comes to being aware of the relative impact             its often serious side-effects.
+of infectious diseases and their geographical signi®cance.
+Other diseases cause far more deaths in New York, guns
+                                                                         3. The trypanosome as a model organism for cell and
+about 100-fold more, in one of the safest American cities,
+                                                                         molecular biology
+but mosquitoes have zero political clout! One suspects that
+the principal culprits of this emergent disease are the
+                                                                            What keeps many of us excited about the ®eld is that
+infected birds, whose ¯ight range rather exceeds that of
+                                                                         trypanosomes have established themselves scienti®cally as
+the lowly mosquito, but what mayor could dare suggest
+                                                                         the best studied example of a `differently evolved' eukar-
+killing birds, or put reputation at risk by promising to elim-
+                                                                         yote, although other organisms may emerge to challenge
+inate guns! What local politician would dare compare the
+                                                                         this role. Trypanosomes offer an alternative life-style
+insigni®cant risk of West Nile encephalitis with what our
+                                                                         compared with organisms that are sometimes extolled as
+fellow citizens of the world are exposed to in Africa, espe-
+                                                                         representing the conservation of key features `throughout
+cially during an election campaign.
+                                                                         evolution', from yeast through ¯y to human. However, I
+   Having got NY politics out of my system, for the
+                                                                         think we are falling behind where we were a few years
+moment, I'll start the real `address' by listing some of the
+                                                                         ago, relative to more `mainstream' organisms. I will say
+key events in the early history of the African trypanosomia-
+                                                                         more about this later.
+sis, for those who don't know it. Then I will try to highlight
+prospects of research in (mainly African) trypanosomes,                  3.1. How different are trypanosomes?
+some of which will be discussed in more detail and with
+more authority by other contributors.                                       We already know of several areas of basic cell function
+   The ®rst reports of human sleeping sickness were ®led in              where trypanosomes differ remarkably from their mamma-
+1803, although one assumes that the disease is far more                  lian hosts. Paramount among these are RNA editing of mito-
+ancient, perhaps ancient enough for it to have in¯uenced                 chondrial genome transcripts (Simpson et al., 2000), the
+human evolution, as have malaria and other infectious                    unique compartmentalisation of glycolysis in organelles
+                                  G.A.M. Cross / International Journal for Parasitology 31 (2001) 427±433                              429
+
+that encapsulate other pathways that are common to peroxi-               trypanosome biology. Far more are studying RNA editing,
+somes, which glycosomes resemble in this and other                       which should be largely worked out in the next few years.
+respects (Michels et al., 2000), and the polycistronic and                  Some of our studies suggest that information contained in
+apparently unregulated transcription by RNA polymerase                   the coding region can largely determine the expression level
+II. No factors that regulate transcription initiation have yet           of a protein, at the level of translation or later. This situation
+been discovered in trypanosomes. The translation machin-                 may be responsible for our so-far unsuccessful attempts to
+ery of the trypanosome mitochondrion must be one of the                  over-express many potentially interesting proteins or (hope-
+most primitive systems to which we have experimental                     fully dominant-negative) mutant forms thereof. Does
+access, but it has not yet been studied. Perhaps this is one             anyone else have some experience that would solve this
+area in which the genome project, coupled with the recent                problem? We're working on it, but don't have de®nitive
+publication of high-resolution structures of bacterial riboso-           answers.
+mal subunits (Agalarov et al., 2000; Ban et al., 2000), could
+spark renewed interest. I think it is still one of the unex-
+plored frontiers of trypanosome research, although I've                  4. What are the keys to progress in trypanosome
+never worked in the area.                                                research?
+
+3.2. In what areas can trypanosomes continue to                          4.1. Genome projects
+contribute?
+                                                                            Genome analysis is the most important thing happening,
+   What have trypanosomes contributed to the understand-                 at the present time, for T. brucei, Trypanosoma cruzi and
+ing of pathways that are shared, in at least some respects, by           Leishmania major. Although resisted by a few, these
+other cells? I hope I can say, without accusations of parti-             projects can be, as in all other organisms where they are
+sanship, that the major example has to be the pioneering                 in progress, one of the most enabling activities for the better
+work on protein glycosylphosphatidylinositol (GPI) anchor-               design of future experimental research. Among eukaryotes,
+ing. Although the core enzymes and genes responsible for                 trypanosomes are almost ideal for genome analysis. Genes
+the shared aspects of this pathway are now being rapidly                 are tightly packed on the chromosomes; there is, so far, only
+identi®ed in yeast and mammalian cells, there are still some             one example of an intron (Mair et al., 2000), but it seems
+interesting puzzles, such as the role of the GPI lipid in                reasonable to assume that there will be others; and genes
+protein sorting during secretion and recycling, in which                 appear to be orientated unidirectionally over long regions,
+trypanosomes can probably play an illuminating role. It                  although this organisation needs to be reviewed with care
+remains a mystery why trypanosomes are so particular                     lest important genes be overlooked. There are, however,
+about uniquely and exclusively incorporating myristate                   several negative issues and several important technical
+into their variable surface glycoprotein (VSG) anchor.                   obstacles that need to be overcome if we are to maximise
+There is something important here, lots of decent specula-               the impact of the genome projects. At the ®rst level of
+tion, no speci®c evidence, but it almost certainly has some-             analysis, it looks as if gene comparisons will not identify
+thing to do with endocytic sorting (Mukherjee et al., 1999).             the functions of more than 30% of trypanosome genes. We
+Since Leishmania can apparently survive the loss of all GPI-             will need to develop and apply new and possibly trypano-
+anchored surface proteins, it may offer unique genetic                   some-speci®c tools to provide a more useful ®rst-line analy-
+options for identifying genes involved in the GPI pathway                sis and annotation of the genome. Even then, it seems likely
+(Hilley et al., 2000). Procyclic forms of T. brucei can also             that the most interesting genes, which regulate mechanisms
+survive loss of all GPI-anchored proteins, but only under                that are uniquely trypanosome-speci®c, will be trypano-
+certain culture conditions (Nagamune et al., 2000).                      some-speci®c. Identifying the functions of novel genes,
+   Another area in which I believe trypanosomes could have               which may be critical for trypanosome-speci®c survival,
+much to contribute is in understanding mechanisms of gene                will be a major challenge. On the other hand, it will be
+expression that do not involve the regulation of transcription           easy to identify homologues of many genes whose function
+initiation, which appears to be `the main event' for most                is known in other organisms. Some of these genes may be
+genes in better studied but quite diverse systems. In contrast,          vital to trypanosome-speci®c phenomena. For example,
+there is no evidence for any regulation of transcription                 histone acetyl transferases and deacetylases, and genes
+initiation by RNA polymerases I or II in trypanosomes.                   involved in recombination and chromosome repair, may
+My enthusiasm for this area is based on the assumption                   play a role in the phenomenon of antigenic variation.
+that an understanding of the (apparently simpler) ways in                Indeed, it is quite unlikely that they will not. However,
+which trypanosomes regulate transcription will help illumi-              should we resist the temptation to experiment with these
+nate the basic and possibly ancestral role of chromatin struc-           conserved components and accept the challenge of identify-
+ture in regulating gene expression, and identify a minimum               ing the unique and process-speci®c regulators? For many of
+complement of components necessary for transcription in                  us, it is dif®cult to make such a choice. It is probably easier
+vivo. Few people are currently studying these aspects of                 to write successful grant applications on what is half known
+430                               G.A.M. Cross / International Journal for Parasitology 31 (2001) 427±433
+
+than what is unknown, and there is the increasingly insi-                stranded RNA that apparently has to be generated, which
+dious mechanism of determining promotion and appoint-                    is in marked contrast to the situation in Caenorhabditis
+ment policies by publication analysis.                                   elegans, for example. My personal hope is that once the
+                                                                         genes that are essential for the extreme activities of RNAi
+4.2. More tools needed!                                                  in other organisms have been identi®ed, it may become
+                                                                         possible to construct trypanosome lines that are vastly
+   I am going to raise the issue of new tool development to              more sensitive to the effects of double-stranded RNA,
+highlight two points. Firstly, that we still need new tools              thereby allowing large gene scans to be performed. In the
+and, secondly, how can we develop these more ef®ciently                  meantime, however, conditional gene disruption offers an
+when funding agencies do not normally hand out resources                 alternative to RNAi in T. brucei, although it involves more
+for tool development as such, because it is not `hypothesis-             manipulations (Wirtz et al., 1998, 1999).
+driven' research. Consequently, most of us who have devel-                  Even with the six proven drug-resistance markers that
+oped new tools have either had the bene®t of serendipity (a              work in T. brucei, there are limitations in reverse genetics
+classic example was recognising the potential signi®cance                that make the development of new approaches desirable.
+of a small error that instantly led to the elimination of the            One of the most obvious tools we lack is a proven negative
+`feeder-cell' requirement for bloodstream-form culture                   selectable marker that will permit the re-use of positive
+(Duszenko et al., 1985)) or we've pursued it part-time at                markers, but also the ability to make single nucleotide
+the risk of not achieving the stated objectives of our funding.          changes to genes in situ. Although thymidine kinases that
+Sometimes, however, enlightened reviewers have acceded                   render T. brucei susceptible to antiviral analogues have been
+to small sections inserted into otherwise hypothesis-driven              tested (Valdes et al., 1996; Cross et al., 1998), they have not
+research proposals.                                                      yet found wide application. The introduction of cytosine
+   What we most lack in trypanosomes are techniques for                  deaminase might provide an alternative means of negative
+`traditional' or `forward' genetics: ®nding or creating                  selection (Fox et al., 1999). The construction of strains that
+phenotype and then identifying the responsible genes.                    provide the opportunity to mimic the yeast URA3 system
+Although we can perform `reverse' genetics with suf®cient                should be quite easy, but the problem that is always pointed
+ef®ciency that it could, theoretically, be scaled up to                  out to me is that serum may be a suf®cient source of pyri-
+perform large-scale `knockout' studies, both forward and                 midines to render an auxotroph viable. However, no-one has
+reverse genetics suffer from some common problems. Para-                 explored this experimentally.
+mount among these are that trypanosomes are diploid and                     Culture systems for trypanosomes still leave much room
+remain quite tedious to grow under conditions where pheno-               for improvement and, except for procyclic T. brucei, where
+typic screens can easily be performed. Indeed, what will                 growth in the absence of serum is possible (Cross and
+people want to screen for and how? The value of `real'                   Manning, 1973), culture media are complex and unde®ned.
+genetics is very evident, from other systems, but designing              Only two life-cycle stages of T. brucei can be grown in
+the screens in trypanosomes is another signi®cant challenge.             culture and the life-cycle is generally regarded as a one-
+   What possibilities are there for doing `forward' genetics?            way street, although it can be reversed under rather tedious
+For several years, we have made a part-time attempt to                   culture conditions (Hirumi et al., 1992). Even if the neces-
+develop the Mariner transposition system (Gueiros-Filho                  sary conditions were not physiological, how much of a tech-
+and Beverley, 1997) for T. brucei. This now seems close                  nical advantage would it be to be able to readily convert T.
+to the level of ef®ciency where it could be applied to real-             brucei from procyclic to infective mammalian forms? Few
+world gene identi®cation, but how do we deal with                        labs have access to the Tsetse and, even then, it is not a
+diploidy? One possibility is to induce allelic conversion of             facile system.
+the initially single-marker insertions by increasing drug
+pressure, but early attempts to do this, in carefully contrived
+situations, have not been encouraging (Clayton, 1999).                   5. The drug problem
+Another suggestion that has been made is to use chemical
+mutagenesis on the single-allele Mariner insertion library.                 Drug problems come in many forms (a stew of science,
+This looks like a good idea, but has not yet been put to the             economics, sociology and politics, once again). It is obvious
+test.                                                                    that, despite some heroic efforts surrounding the introduc-
+   Double-stranded or `interfering' RNA, RNAi, has great                 tion of DFMO (di¯uoromethylornithine) (Schechter and
+potential for identifying the functions of genes where inter-            Sjoerdsma, 1986; Pepin et al., 2000), we desperately need
+ference, at the mRNA level, will have rapid effects. Two                 universally effective and safe drugs for all trypanosomatid
+recent reports show how effective this approach can be                   infections: for multiple species of Leishmania and trypano-
+when a striking phenotype can be predicted on the basis                  somes (Werbovetz, 2000). How do we achieve this noble
+of sequence motifs or other evidence (Shi et al., 2000;                  aim with limited resources in the absence of commercial
+Wang et al., 2000). One major drawback in the action of                  incentives?
+RNAi in trypanosomes is the high amount of double-                          Probably more than half of trypanosomatid research is
+                                  G.A.M. Cross / International Journal for Parasitology 31 (2001) 427±433                           431
+
+justi®ed on the basis of identifying `new drug targets'. Much            where one of the rallying cries these days is `open source'
+of this is lip service. There are, however, several important            software, another is `cross-platform' applications. In biol-
+initiatives and several great prospects for drug development.            ogy, a genome sequence is the source and it is, or should be,
+What we desperately need are resources and commitment on                 open. However, the sequence is just a new beginning and
+a scale that can transform targets from the abstract to the              most of it will not make sense at this stage. How can we
+actual. There are perhaps two ways in which these objec-                 encourage more open sourcing of work that adds value to
+tives can be best pursued. Neither is novel. Firstly, new                the basic sequence? The other issue that concerns me is the
+sources of serious funding have to be identi®ed that are                 plethora of `strains' that are used in trypanosome research.
+suf®cient to encourage and subsidise the participation of                This can have advantages as well as disadvantages, but
+the pharmaceutical industry, preferably in partnership with              shouldn't we at least try to focus our research on one or
+those who know the organisms, in screening for new trypa-                two strains in the immediate future, at least where studies
+nocides. Secondly, because of their different evolution,                 of gene function are concerned? While things that may be
+trypanosomes present a plethora of potential drug targets,               important may be missed if processes are studied in only one
+but we should currently encourage those that could ride on               strain, there are also many examples where differing results
+the back of pathways that are currently the target of huge               from different labs can be hard to reconcile (even after
+efforts in the pharmaceutical industry. Among these, one                 applying Pepys' formula), when performed in different
+would obviously include topoisomerases (Nenortas et al.,                 genetic backgrounds.
+1998) and protein prenylation (Yokoyama et al., 1998a,b),                   One of the key issues with African trypanosomes has
+but maybe others can make a case for prioritising their pet              been the issue of so-called `monomorphic' versus `pleo-
+pathways.                                                                morphic' cell lines. Whereas monomorphic lines can be
+                                                                         easily derived from pleomorphic ones, there seems to be
+                                                                         an assumption, by many people, that the monomorphic
+6. Ever a vaccine?                                                       phenotype represents an irreversible change in genotype.
+                                                                         This has been a debate in which people have sometimes
+   Few researchers of African trypanosomes remain opti-
+                                                                         taken rather unscienti®c positions, as well as misrepresent-
+mistic about vaccination. Antigenic variation represents a
+                                                                         ing the other side. The real problem is sometimes, one
+formidable obstacle that has apparently evolved to evade the
+                                                                         suspects, emotional. The more rational problem is that
+immune response. Once we understand more about how
+                                                                         many among us have made a great investment in analysing
+antigenic variation works, or about intrinsic mechanisms
+                                                                         one particular strain. However, two or three strains have
+that regulate trypanosome multiplication, it may be possible
+                                                                         some overwhelming reasons why they should be the lines
+to envision strategies to intervene therapeutically in these
+                                                                         of choice, at least for research in the immediate future.
+processes. Immunisation with surface proteins other than
+                                                                         Parenthetically, this comment obviously does not apply to
+the VSG have been discouraging, although few have been
+                                                                         lines that are studied for speci®c and biologically important
+tested. The ¯agellar pocket remains an intriguing and possi-
+                                                                         phenotypes, such as human infectivity.
+bly relevant target. It is possible that new vaccine candidates
+                                                                            What lines should we focus on? Pleomorphic lines are far
+will emerge from the genome project and from re®ned
+                                                                         more dif®cult to grow as bloodstream-form cultures, or in
+methods for membrane separation and micro-scale protein
+                                                                         animals. In neither situation can high yields be obtained,
+identi®cation. I'm seriously doubtful about this, but would
+                                                                         which are necessary for many biochemical and cell structure
+be pleased to hear any strong counter-arguments. Everyone
+                                                                         studies. Monomorphic lines, of which the infamous Lister
+would be delighted if a vaccination strategy could be devel-
+                                                                         427 has probably been most widely used, may have lost
+oped.
+                                                                         their ability to revert to a pleomorphic phenotype, owing
+                                                                         to their long history of sub-passaging in animals, but this has
+7. Co-operation versus competition in the genomic era                    not been speci®cally tested. Lister 427 does have many
+                                                                         advantages, however, for studying most aspects of trypano-
+   I would like to conclude with a few remarks about the                 some biology, except the bloodstream pleomorphic transi-
+way we operate, as researchers. We are a small community.                tion. Despite many published misrepresentations, it does
+Indeed, in Africa and the USA, the community of trypano-                 retain the ability to complete the life-cycle in the Tsetse,
+some researchers seems to have shrunk. In Europe, the                    as demonstrated by three independent laboratories (GAMC,
+community appears stable or, in the UK, signi®cantly larger              manuscript in preparation), and the ef®ciency of this transi-
+than it was a decade ago.                                                tion could probably be easily improved by performing more
+   As has happened in other ®elds of biology, large-scale                than one cycle of transmission to re-select for ef®ciently
+technology, starting with genome projects, has focussed                  cycling lines. The strain chosen for the genome project,
+attention on the value of co-operation rather than competi-              TREU927, is pleomorphic. Recent reports have shown
+tion, although a signi®cant element of the latter persists at            that the parasitaemia to which it grows can be improved
+the core of some genomic studies.                                        in a few sub-passages, probably without an irreversible
+   I would like to invoke two parallels from computing,                  genotypic change, and that it can then be cultured and trans-
+432                                G.A.M. Cross / International Journal for Parasitology 31 (2001) 427±433
+
+fected (Christine Clayton, personal communication). For                   offshoots, easily accessible and accurately represented. For
+many studies, therefore, this may be the line of choice.                  this, it will be important to have curated databases that talk
+One of the most important reasons is that if one is interested            to each other transparently; probably not just one database
+in a particular gene, the clone encoding that gene can be                 in one place, because that puts too much responsibility and
+identi®ed from the genome project and rapidly retrieved                   in¯uence in one place, but interactive ones. Most of us are
+from a BAC library. This is one step shorter than with the                aware that one of the main problems in the current, ®rst-
+427 line, where two good BAC libraries exist and can be                   level approaches to genome annotation is that it is largely
+immediately obtained from the same source, but ®lters still               hostage to the inconsistent way in which database entries
+need to be screened to identify the corresponding clone.                  have been annotated previously. Thus, one of the next most
+How important is it to use genes cloned from the syngeneic                important functions of the genome project will be to provide
+cell line? So far, we do not know the extent of polymorph-                mechanisms for reliable and consistent annotation of genes
+isms between cell lines and whether this would be an obsta-               across all trypanosomatid species.
+cle to performing genetic experiments in a non-syngeneic                     I seem to have exceeded the intended length of this essay
+line: probably not, in most instances.                                    without much discussion of issues surrounding the future of
+   In the past, those closer to the real ®eld were frequently to          trypanosomes in public health, although there are hints
+be heard making the point that T. brucei is far from the most             about my inner thoughts in what I have written. I will end
+important trypanosome in Africa, at least in the veterinary               on the issue of collaboration versus competition. What can
+arena. So, the vast majority of us who work with T. brucei                be done to encourage collaboration without loosing the
+stand accused of already working with a largely irrelevant                bene®ts of competition? The main issues are egos and
+organism, whether it is pleomorphic or not! Am I the only                 credit, and the effects that the assignment of priority has
+person to have of®cially proposed that the genomes of                     on peer recognition and funding decisions. These aspects
+Trypanosoma congolense and Trypanosoma vivax should                       are driven by competition and currently lack formal
+be a high priority for sequencing, once T. brucei has been                mechanisms for recognising the role of collaboration.
+completed?                                                                What can we do to improve the mechanisms for assigning
+   Even more co-operation and collaboration will be highly                credit and making decisions on funding, so that we can
+desirable in the postgenomics era. There will simply be so                effectively pursue the role of trypanosomes in science and
+much more interesting science to be done that, put into                   in health, on what seems likely to be an inadequate budget to
+perspective, we won't be able to exploit the genome without               satisfy even modest aspirations?
+more co-operation. This is a political and economic fact. So
+far, in trypanosomes, we have (excluding VSG genes) only
+explored about 100 of the approximately 5000 unique                       Acknowledgements
+genes, and their corresponding products, that are encoded
+in trypanosome genomes. How are we to extend our                            The author would like to acknowledge the generous
+analyses in a way that the promise of the genome projects,                contribution of DP and JM to my ability to compose this
+to lead to better designed research, will be ful®lled? I'm still          essay in a relaxing environment. The author's research is
+lukewarm about the likely value of massive co-operative                   supported by the National Institutes of Health (principally
+knockout studies, although such experiments are likely to                 by grant number AI 21729) and, in the form of individual
+be more ef®ciently performed on a large scale than hitherto.              postdoctoral fellowships, by diverse agencies.
+There are also the vast arenas of protein and mRNA analy-
+sis. The latter has the seductive advantage of being easy and
+relatively cheap to automate, in the form of `array analysis',            References
+although it is, as yet, unclear how informative this will be in
+trypanosomes, where most regulation of gene expression                    Agalarov, S.C., Sridhar Prasad, G., Funke, P.M., Stout, C.D., Williamson,
+                                                                             J.R., 2000. Structure of the S15,S6,S18±rRNA complex: assembly of
+appears to occur downstream of transcription, perhaps                        the 30S ribosome central domain. Science 288, 107±13.
+way downstream in many cases. My own belief is that all                   Ban, N., Nissen, P., Hansen, J., Moore, P.B., Steitz, T.A., 2000. The
+of these methods will contribute to our overall understand-                  complete atomic structure of the large ribosomal subunit at 2.4 A reso-
+ing. Since many RNAs are probably regulated by turnover,                     lution. Science 289, 905±20.
+it seems to me that, once available in a form in which all                Barrett, M.P., 1999. The fall and rise of sleeping sickness. Lancet 353,
+                                                                             1113±4.
+genes are simultaneously represented, array analysis will                 Bruce, D., 1895. Tsetse Fly Disease or Nagana, Harrison & Sons, London.
+become as indispensable as Northern blots are today, and                  Clayton, C.E., 1999. Genetic manipulation of Kinetoplastida. Parasitol.
+vastly more informative. One can easily see that every gene                  Today 15, 372±8.
+knockout or change in environmental conditions to which                   Cross, G.A.M., Manning, J.C., 1973. Cultivation of Trypanosoma brucei
+the cells are subjected would be informatively analysed at                   spp. in semi-de®ned and de®ned media. Parasitology 67, 315±31.
+                                                                          Cross, M., Taylor, M.C., Borst, P., 1998. Frequent loss of the active site
+the level of the entire mRNA repertoire.                                     during variant surface glycoprotein expression site switching in vitro in
+   However, even before we get to postgenomics, there is an                  Trypanosoma brucei. Mol. Cell. Biol. 18, 198±205.
+important issue of how to make the genomic data, and their                Duszenko, M., Ferguson, M.A.J., Lamont, G.S., Cross, G.A.M., 1985.
+                                          G.A.M. Cross / International Journal for Parasitology 31 (2001) 427±433                                         433
+
+    Cysteine eliminates the feeder cell requirement for cultivation of Trypa-    Nenortas, E.C., Bodley, A.L., Shapiro, T.A., 1998. DNA topoisomerases ±
+    nosoma brucei bloodstream forms in vitro. J. Exp. Med. 162, 1256±63.             a new twist for antiparasitic chemotherapy. Biochim. Biophys. Acta ±
+Fox, B.A., Belperron, A.A., Bzik, D.J., 1999. Stable transformation of               Gene Structure and Expression 1400, 349±54.
+    Toxoplasma gondii based on a pyrimethamine resistant trifunctional           Pepin, J., Khonde, N., Maiso, F., Doua, F., Jaffar, S., Ngampo, S., Mpia, B.,
+    dihydrofolate reductase-cytosine deaminase-thymidylate synthase                  Mbulamberi, D., Kuzoe, F., 2000. Short-course e¯ornithine in Gambian
+    gene that confers sensitivity to 5-¯uorocytosine. Mol. Biochem. Para-            trypanosomiasis: a multicentre randomized controlled trial. Bull. WHO
+    sitol. 98, 93±103.                                                               78, 1284±95.
+Gueiros-Filho, F.J., Beverley, S.M., 1997. Trans-kingdom transposition of        Schechter, P.J., Sjoerdsma, A., 1986. Di¯uoromethylornithine in the treat-
+    the Drosophila element mariner within the protozoan Leishmania.                  ment of African trypanosomiasis. Parasitol. Today 2, 223±4.
+    Science 276, 1716±9.                                                         Shi, H.F., Djikeng, A., Mark, T., Wirtz, E., Tschudi, C., Ullu, E., 2000.
+Hide, G., 1999. History of sleeping sickness in East Africa. Clin. Microbiol.        Genetic interference in Trypanosoma brucei by heritable and inducible
+    Rev. 12, 112±25.                                                                 double-stranded RNA. RNA 6, 1069±76.
+Hilley, J.D., Zawadzki, J.L., McConville, M.J., Coombs, G.H., Mottram,           Simpson, L., Thiemann, O.H., Savill, N.J., Alfonzo, J.D., Maslov, D.A.,
+    J.C., 2000. Leishmania mexicana mutants lacking glycosylphosphati-               2000. Evolution of RNA editing in trypanosome mitochondria. Proc.
+    dylinositol (GPI) protein transamidase provide insights into the                 Natl. Acad. Sci. USA 97, 6986±93.
+    biosynthesis and functions of GPI-anchored proteins. Mol. Biol. Cell         Smith, A.B., Esko, J.D., Hajduk, S.L., 1995. Killing of trypanosomes by the
+    11, 1183±95.                                                                     human haptoglobin-related protein. Science 268, 284±6.
+Hirumi, H., Hirumi, K., Moloo, S.K., Shaw, M.K., 1992. Trypanosoma               Stevens, J.R., Gibson, W., 1999. The molecular evolution of trypanosomes.
+    brucei brucei: in vitro production of metacyclic forms. J. Protozool.            Parasitol. Today 15, 432±7.
+    39, 619±27.                                                                  Tomlinson, S., Raper, J., 1998. Natural human immunity to trypanosomes.
+Laveran, A., Mesnil, F., 1902. Recherches sur le traitement et la prevention         Parasitol. Today 14, 354±9.
+    du nagana. Ann. Inst. Pasteur 16, 785±817.                                   Valdes, J., Taylor, M.C., Cross, M.A., Ligtenberg, M.J.L., Rudenko, G.,
+Maeda, N., McEvoy, S.M., Harris, H.F., Huisman, T.H., Smithies, O., 1986.            Borst, P., 1996. The viral thymidine kinase gene as a tool for the study
+    Polymorphisms in the human haptoglobin gene cluster: chromosomes                 of mutagenesis in Trypanosoma brucei. Nucleic Acids Res. 24, 1809±
+    with multiple haptoglobin-related (Hpr) genes. Proc. Natl. Acad. Sci.            15.
+    USA 83, 7395±9.                                                              Wang, Z., Morris, J.C., Drew, M.E., Englund, P.T., 2000. Inhibition of
+Mair, G., Shi, H.F., Li, H.J., Djikeng, A., Aviles, H.O., Bishop, J.R.,              Trypanosoma brucei gene expression by RNA interference using an
+    Falcone, F.H., Gavrilescu, C., Montgomery, J.L., Santori, M.I., Stern,           integratable vector with opposing T7 promoters. J. Biol. Chem. 275,
+    L.S., Wang, Z.F., Ullu, E., Tschudi, C., 2000. A new twist in trypano-           40174±9.
+    some RNA metabolism: cis-splicing of pre-mRNA. RNA 6, 163±9.                 Werbovetz, K.A., 2000. Target-based drug discovery for malaria, leishma-
+McEvoy, S.M., Maeda, N., 1988. Complex events in the evolution of the                niasis, and trypanosomiasis. Curr. Med. Chem. 7, 835±60.
+    haptoglobin gene cluster in primates. J. Biol. Chem. 263, 15740±7.           Wirtz, E., Hoek, M., Cross, G.A.M., 1998. Regulated processive transcrip-
+Michels, P.A.M., Hannaert, V., Bringaud, F., 2000. Metabolic aspects of              tion of chromatin by T7 RNA polymerase in Trypanosoma brucei.
+    glycosomes in trypanosomatidae ± new data and views. Parasitol.                  Nucleic Acids Res. 26, 4626±34.
+    Today 16, 482±9.                                                             Wirtz, E., Leal, S., Ochatt, C., Cross, G.A.M., 1999. A tightly regulated
+Molina Portela, M.P., Raper, J., Tomlinson, S., 2000. An investigation into          inducible expression system for dominant negative approaches in
+    the mechanism of trypanosome lysis by human serum factors. Mol.                  Trypanosoma brucei. Mol. Biochem. Parasitol. 99, 89±101.
+    Biochem. Parasitol. 110, 273±82.                                             Yokoyama, K., Trobridge, P., Buckner, F.S., Scholten, J., Stuart, K.D., Van
+Mukherjee, S., Soe, T.T., Max®eld, F.R., 1999. Endocytic sorting of lipid            Voorhis, W.C., Gelb, M.H., 1998a. The effects of protein farnesyltrans-
+    analogues differing solely in the chemistry of their hydrophobic tails. J.       ferase inhibitors on trypanosomatids: inhibition of protein farnesylation
+    Cell Biol. 144, 1271±84.                                                         and cell growth. Mol. Biochem. Parasitol. 94, 87±97.
+Nagamune, K., Nozaki, T., Maeda, Y., Ohishi, K., Fukuma, T., Hara, T.,           Yokoyama, K., Trobridge, P., Buckner, F.S., Vanvoorhis, W.C., Stuart,
+    Schwarz, R.T., Sutterlin, C., Brun, R., Riezman, H., Kinoshita, T., 2000.        K.D., Gelb, M.H., 1998b. Protein farnesyltransferase from Trypano-
+    Critical roles of glycosylphosphatidylinositol for Trypanosoma brucei.           soma brucei: a heterodimer of 61- and 65-kDa subunits as a new target
+    Proc. Natl. Acad. Sci. USA 97, 10336±41.                                         for antiparasite therapeutics. J. Biol. Chem. 273, 26497±505.
+

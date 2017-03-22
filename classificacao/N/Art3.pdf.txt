@@ -1,0 +1,459 @@
+ANTISENSE & NUCLEIC ACID DRUG DEVELOPMENT 11:359–367 (2001)
+Mary Ann Liebert, Inc.
+
+
+
+
+          Suppression of Gene Expression by RNA Interference
+                         in Cultured Plant Cells
+
+                        HIDEO AKASHI, 1 MAKOTO MIYAGISHI, 1 and KAZUNARI TAIRA1,2
+
+
+
+
+                                                             ABSTRACT
+
+Suppression by double-stranded RNA (dsRNA) of the expression of a target gene is known as RNA interfer-
+ence (RNAi). No quantitative analysis of the effects of RNAi on the expression of specific genes in cultured
+plant cells has been reported. However, as it is possible to produce populations of cultured plant cells that are
+uniform and divide synchronously for functional analysis of genes of interest, we performed a quantitative
+study of the effects of RNAi in such cells. We constructed dsRNA expression plasmids for a luciferase gene un-
+der the control of the cauliflower mosaic virus (CaMV) 35S promoter by simply connecting sense and antisense
+sequences in a head-to-head manner. An RNAi effect was observed 24 hours after the introduction of dsRNA
+expression plasmids into tobacco BY-2 cells by electroporation. The simple system for suppression of specific
+genes in plant cells should be useful in attempts to elucidate the roles of individual genes in plant cells.
+
+
+
+                     INTRODUCTION                                        mRNA, and it would clearly be advantageous to target those
+                                                                         mRNA also. Thus, establishment of a simple and reliable
+
+N     O CONVENIENT METHOD FOR DEVELOPMENT             of knockout
+      plants has been established, to our knowledge. In efforts to
+generate loss-of-function plants, various constructs that in-
+                                                                         knockout system at the mRNA level is required.
+                                                                            The phenomenon known as RNA interference (RNAi) by
+                                                                         double-stranded RNA (dsRNA) was reported recently in the ne-
+cluded, for example, antisense sequences (Bruening, 1998;                matode Caenorhabditis elegans (Fire et al., 1998). RNAi has
+Murfett et al., 1995), ribozymes (De Feyter et al., 1996; Han et         been shown to operate by a mechanism that is widely conserved
+al., 2000; Mazzolini et al., 1992; McIntyre et al., 1996; Merlo et       among species that include C. elegans (Domeier et al., 2000;
+al., 1998; Perriman et al., 1995; Steinecke et al., 1992; Yang et        Fire et al., 1998; Grishok et al., 2000: Ketting et al., 1999; Smar-
+al., 1997), and chimeric oligonucleotides (Beetham et al., 1999;         don et al., 2000; Tabara et al., 1999; Tavernarakis et al., 2000),
+Zhu et al., 1999) have been tested, but the design of such con-          the zebrafish Danio rerio (Wargelius et al., 1999); Trypanosoma
+structs was based on trial and error, depending on the properties        brucei (Ngo et al., 1998; Wang et al., 2000), the cnidarian Hydra
+of the target gene. Moreover, the desired effects were difficult         magnipapillata (Lohmann et al., 1999), the planarian Schmidtea
+to predict, and often only weak suppression was achieved.                mediterranea (Alvarado and Newmark, 1999), the bacterium
+Many genes have been identified successfully by gene-disrup-             Escherichia coli (Tchurikov et al., 2000), the fungus Neu-
+tion methods with Agrobacterium T-DNA inserts (Bouche and                rospora crassa (Cogoni and Macino, 1997, 1999a,b), the fruit
+Bouchez, 2001; Parinov and Sundaresan, 2000), but only one               fly Drosophila melanogaster (Bernstein et al., 2001; Clemens et
+copy of a T-DNA insert can be inserted into a genome, and such           al., 2000; Hammond et al., 2000; Kennerdell and Carthew,
+an insert can, thus, only disrupt the function of a single gene.         1998; Ui-Tei et al., 2000; Yang et al., 2000), and various mam-
+Furthermore, the existence of multiple copies of a gene, homol-          malian (Bahramian and Zarbl, 1999; Elbashir et al., 2001a; Svo-
+ogous genes, or genes with related functions that can compen-            boda et al, 2000; Wianny and Zernicka-Goetz, 1999) and plant
+sate for loss of the function of a specific gene makes it almost         cells (Dalmay et al., 2000, 2001; Fegard et al., 2000; Hamilton
+impossible to suppress particular function with a T-DNA insert.          and Baulcombe, 1999; Hutvagner et al., 2000; Jones et al., 2001;
+Multiple copies of the target gene or related genes would pro-           Levin et al., 2000; Mette et al., 2000; Mourrain et al., 2000;
+duce mRNA with homologous sequences to that of the target                Napoli et al., 1990; Papaefthimiou et al., 2001; Ratcliff et al.,
+
+
+
+  1
+   Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Hongo, Tokyo 113-8656, Japan.
+  2
+   Gene Discovery Research Center, National Institute of Advanced Industrial Science and Technology (AIST), 1-1-1 Higashi, Tsukuba Science
+City 305-8562, Japan.
+
+
+                                                                   359
+360                                                                                                                     AKASHI ET AL.
+
+2001; Schweizer et al., 2000; Serio et al., 2001; Van Der Krol et       2000; Smardon et al., 2000; Xie et al., 2001), dsRNA-binding
+al., 1990; Wu-Scharf et al., 2000; Xie et al., 2001).                   protein (Lu and Fedoroff, 2000), DNA helicase (Cogoni and
+   More than a decade ago, RNAi was first reported as the co-           Macino, 1999b), 39-59-exonuclease (Ketting et al., 1999), a pro-
+suppression of an overexpressed gene for chalcone synthetase            tein that contains a PAZ (Piwi, Argonaute, and Zwille) domain,
+(CHS) in plants (Napoli et al., 1990; Van Der Krol et al., 1990).       or piwi domain (Fegard et al., 2000; Grishok et al., 2000; Ket-
+The mechanism of this curious phenomenon remained a mys-                ting et al., 1999; Tabara et al., 1999).
+tery, but it was proposed that the products of degradation of the          In plants, siRNA that are characteristic of RNAi have also
+dsRNA region in the CHS gene might be related to this post-             been detected when PTGS occurs as a result of invasion by
+transcriptional gene silencing (PTGS) (Metzlaff et al., 1997).          viruses or stress due to chemical treatment (Xie et al., 2001), on
+Small RNA of 21–23 nucleotides (nt) in length, which were               entry into plant cells of viroid molecules (Papaefthimiou et al.,
+formed only in the silenced plants and not in normal plants             2001), or by sense cosuppression and even antisense suppres-
+(Hamilton and Baulcombe, 1999), were identified as the prod-            sion (Serio et al., 2001). The siRNA is common to the various
+ucts of degradation of the dsRNA (Hammond et al., 2000;                 protective phenomena and is assumed to play a central protec-
+Tuschl et al., 1999; Zamore et al., 2000) and were designated           tive role.
+“short interfering RNA” (siRNA) (Elbashir et al., 2001b). The              In this report, we demonstrate that the RNAi effect caused by
+dsRNA was degraded by a member of the RNase III family into             a dsRNA expression plasmid provides an effective knockout
+siRNA (Fig. 1) (Bernstein et al., 2001). Then, the siRNA                strategy. To our knowledge, this is the first report of the repro-
+seemed to form a multicomponent nuclease complex (RISC)                 ducible and quantitative analysis of the RNAi effect in a tran-
+that destroyed mRNA that were complementary to siRNA. De-               sient assay system in plant cells.
+tails of this process remain to be clarified (Elbashir et al.,
+2001b; Matzke et al., 2001; Tuschl, 2001). Several genes that
+are related to PTGS have, however, been identified from                              MATERIALS AND METHODS
+knockout strains with defects in the RNAi effect, for example,
+                                                                        Plant cells and culture conditions
+genes for RNA helicase (Dalmay et al., 2001; Wu-Scharf et al.,
+2000), RNA-dependent RNA polymerase (Cogoni and Macino,                   Tobacco BY-2 cells, derived from Nicotiana tabacum L. cv
+1999a; Dalmay et al., 2000; Fegard et al., 2000; Mourrain et al.,       Bright Yellow 2, were grown in suspension culture in modified
+
+
+
+
+FIG. 1. A model for the mechanism of RNAi. (A) The dsRNA-processing proteins, which belong to a family of RNase III, bind to the dsRNA.
+(B) The RNase III cleaves the dsRNA into siRNA. (C) The siRNA are proposed to form multicomponent nuclease complexes (RISC) (Hammond
+et al., 2000; Bernstein et al., 2001). (D) The target mRNA recognized by the RISC is cleaved in the center of the region complementary to the
+siRNA (Elbashir et al., 2001b).
+RNA INTERFERENCE                                                                                                                                   361
+
+MS medium (Murashige and Skoog, 1962) that contained full-                   (Stratagene, La Jolla, CA) to prevent methylation of the BclI
+strength MS salts, 0.2 mg/L 2,4-dichlorophenoxyacetic acid,                  site. The BclI-NotI fragment of p35Sluc was replaced by the ap-
+0.2 g/L KH2PO4, 0.1 g/L myoinositol, 1 mg/L thiamine-HCl,                    propriate fragment, generated by PCR, to produce the dsRNA
+and 30 g/L sucrose. This medium was designated MSD                           expression plasmids i500 and i300 (Fig. 2A,B). The sense ex-
+medium. Cells were cultured at 27°C on a rotary shaker, oper-                pression plasmid was constructed by self-ligation of p35Sluc
+ated at 130 rpm, in darkness as described elsewhere (Nagata et               after digestion with BclI and NotI (Fig. 2C). After p35Sluc was
+al., 1992). The BY-2 cells were subcultured at 7-day intervals               digested by NcoI and NotI, the appropriate fragment, generated
+with 1 ml inoculum/95 ml MSD medium.                                         by PCR, was inserted to produce the antisense expression plas-
+                                                                             mids a500 and a300 (Fig. 2D,E).
+Construction of plasmids                                                        All the plasmids designed to produce dsRNA were amplified
+                                                                             in E. coli. strain SURE II (Stratagene). Other plasmids were
+   Two reporter genes for luciferase were constructed as fol-                amplified in E. coli DH5a.
+lows. The gene for luciferase (luc) from Photinus pyralis (fire-
+fly) and the gene for luciferase (Rluc) from Renilla reniformis
+                                                                             Transformation of tobacco BY-2 cells
+(seapansy) were obtained from the pGL3-control vector
+                                                                             by electroporation
+(Promega, Madison, WI) and the pRL-null vector (Promega),
+respectively. The unique XBaI site in the pGL3-control vector                  All plasmids for electroporation were prepared with a Hi-
+was converted into a NotI site by insertion of a NotI linker. The            speed Midiprep kit (Qiagen, Valencia, CA), with subsequent
+NcoI-NotI fragment of pCaMV35S-sGFP(s65T)-nos39 (kindly                      precipitation in ethanol. Protoplasts were prepared from sus-
+provided by Dr. Y. Niwa, University of Shizuoka) was replaced                pensions of BY-2 cells 3 days after subculture by treatment
+by the NcoI-NotI fragment derived from the pGL3-control vec-                 with a mixture of 0.1% (w/v) pectolyase Y23 and 1% cellulase
+tor to generate p35Sluc. The XbaI-NotI fragment of                           Y-C dissolved in 0.4 M mannitol, pH 5.5, at 30°C for 1 hour as
+pCaMV35S-sGFP(s65T)-nos39 was replaced by the NheI-NotI                      described elsewhere (Nagata et al., 1987). Pectolyase Y23 and
+fragment of the pRL-null vector to generate p35SRluc. The ex-                cellulase Y-C were purchased from Seishin Pharmaceutical Co.
+pression of the two reporter genes was controlled by the 35S                 (Tokyo, Japan). Electroporation was peformed with GENE
+promoter of cauliflower mosaic virus (CaMV) and a nopaline                   PULSER II (Bio-Rad, Hercules, CA) as described elsewhere
+synthase terminator.                                                         (Nagata, 1989). Briefly, protoplasts (approximately 1.5 3 106)
+   The sense and antisense dsRNA expression plasmids tar-                    were resuspended in 700 ml electroporation buffer (70 mM
+geted to the firefly luciferase gene were constructed as follows.            KCl, 0.3 M mannitol, 5 mM 2-morpholinoethanesulfonic acid,
+The plasmid p35Sluc was amplified in E. coli strain SCS110                   pH 5.8) and incubated on ice for 10 minutes. Protoplasts were
+
+
+
+
+FIG. 2. Schematic representation of dsRNA, sense and antisense expression plasmids. (A) and (B) indicate the plasmids that produce dsRNA for
+the luc gene of 500 bp and 300 bp in length, respectively. (C) indicates the sense expression plasmid for part of the luc gene. (D) and (E) indicate
+the plasmids that produce antisense RNA for the luc gene of 500 bp and 300 bp in length, respectively. i, inverted sequence; a, antisense sequence.
+The numbers after the letters i and a indicate the approximate length of the region of the dsRNA or antisense sequence, respectively. The hatched
+boxes indicate part of the gene for firefly luciferase, namely, nucleotides 11 to 1586 relative to the site of initiation of translation. The cross-
+hatched boxes indicate part of the gene for firefly luciferase of 500 bp or 300 bp in length, in the antisense orientation. In both cases, the sequence
+starts from the 1500 position relative to the site of initiation of translation of the gene for luciferase. The thin arrows show the orientation and the
+length of the dsRNA region. The thick arrows show promoters. The spacer (loop) region between sense and antisense sequences is also indicated.
+35S, 35S promoter of CaMV; NOS-ter, noplaine synthase terminator.
+362                                                                                                                            AKASHI ET AL.
+
+transferred to a cuvette (0.4-cm gap) with plasmid DNA as in-               mg/L 2,4-dichlorophenoxyacetic acid, 0.2 g/L KH2PO4, 0.1 g/L
+dicated. After electroporation at 0.3 kV and 125 mF, protoplasts            myoinositol, 1 mg/L thiamine-HCl, 10 g/L sucrose, 72.9 g/L
+were incubated on ice for 10 minutes. Then 200-ml aliquots of               mannitol) in wells of a 12-well plate (3 ml per well). After in-
+the suspension (approximately 4 3 105 protoplasts) were added               cubation at 27°C for 24 hours, cells were collected by centrifu-
+to 2.8 ml protoplast culture medium (full-strength MS salts, 0.2            gation and stored at 280°C until further analysis.
+
+
+
+
+FIG. 3. (A) Dependence of the firefly luciferase activity (luc) and Renilla luciferase activity (Rluc) on the amounts of respective plasmid used
+for electroporation. Tobacco BY-2 cells were independently transformed with the plasmids p35Sluc and p35SRluc after cells had been converted
+to protoplasts. (B) Dependence of relative luc activity relative to Renilla luciferase activity on the amounts of p35Sluc DNA used for electropo-
+ration. BY-2 cells, after conversion to protoplasts, were cotransformed by electroporation with 0.3 mg of p35SRluc and various amounts of
+p35Sluc as indicated. Relative luc activity was calculated by dividing firefly luciferase activity by Renilla luciferase activity. Triplicate electro-
+poration experiments were performed for each concentration of p35Sluc. Columns and bars show mean results and standard deviations (SD), re-
+spectively.
+RNA INTERFERENCE                                                                                                                                      363
+
+Assay of luciferase activities                                                 periment to avoid degradation of the protein (data not shown).
+                                                                               The debris in extracts of BY-2 cells could be removed by cen-
+   Luciferase activities were measured essentially according to                trifugation, but this step did not appear to affect significantly
+the instructions supplied with the Dual-Luciferase Reporter As-                the relative luc activity (data not shown).
+say System by Promega. In brief, 100 ml Passive Lysis Buffer
+(Promega) was added to the frozen BY-2 protoplasts and mixed
+by tapping. Cells were incubated at ambient temperature for at                                               RESULTS
+least 5 minutes, after which 10-ml aliquots of the extract were
+transferred to wells of a 96-well plate. Substrate solution (50
+                                                                               Dependence of luciferase activity in BY-2 cells on the
+ml) was added, and luminescence was detected with a lumi-
+                                                                               amount of electroporated plasmid DNA for accurate
+nometer (Luminescencer-JNR AB-2100) (ATTO, Tokyo,
+                                                                               estimation of RNAi
+Japan). Sonicaton appeared to be the best method for extraction
+of luciferase protein from BY-2 protoplasts. However, the dura-                   A sensitive assay system that readily reflects the abundance
+tion and the intensity of sonication had to be determined by ex-               of transcripts is necessary for the accurate estimation of RNAi.
+
+
+
+
+FIG. 4. Comparison of the RNAi effect of dsRNA on firefly luciferase activity with the effects on this activity of sense and antisense sequences
+in BY-2 cells. (A) Tobacco BY-2 cells were converted to protoplasts and cotransformed by electroporation with three plasmids, namely, 0.3 mg of
+p35Sluc, 0.3 mg of p35SRluc, and 3 mg of a sense, antisense, or dsRNA expression plasmid or 3 mg of a control plasmid (p35SDsRed). The amount
+of each expression plasmid used for electroporation was 10 times that of the reporter genes. The firefly luciferase activity was normalized by ref-
+erence to the activity of Renilla luciferase. (B) The activities of firefly and Renilla luciferases used to calculate the results in A. Triplicate electro-
+poration experiments were performed in every case. Columns and bars show mean results and SD, respectively.
+364                                                                                                                   AKASHI ET AL.
+
+For the preparation of reporter genes, we constructed two lucif-      Rluc. Because the level of expression of the control Rluc re-
+erase expression plasmids, p35Sluc and p35SRluc, which en-            mained nearly constant and only luc activity was reduced
+coded for a firefly gene and a seapansy gene for luciferase, re-      specifically by the dsRNA, we concluded that no nonspecific
+spectively, and we introduced the plasmids by electroporation         effects of dsRNA had occurred in this system.
+into BY-2 cells. The luminescence caused by the two reporter
+genes was dependent on the amount of plasmid DNA at doses             Length dependence of the RNAi effect in plant cells
+of 0.01 mg to 1 mg per assay (Fig. 3A). The luciferase activity
+due to the p35SRluc reporter plasmid, which served as the ref-           Tobacco BY-2 cells were transformed with dsRNA expres-
+erence, was supplemented by a low level of background lumi-           sion plasmids (Fig. 2A,B) by electroporation of protoplasts, and
+nescence derived from endogenous activity in BY-2 cells (ap-          the dependence of the RNAi effect on the length of dsRNA and
+proximately 5000 arbitrary units of authentic Rluc activity; data     the dose-response were examined (Fig. 5). The experimental
+not shown). The level of expression of the reference gene must        conditions were the same as those described, with the exception
+be high enough not to be affected by background activity, and a       that 3 mg and 1 mg of the dsRNA expression plasmids were
+low dose of plasmid DNA is preferable to avoid squelching.            used in separate assays. The control (mock) plasmid used was
+Therefore, we fixed the amount of p35SRluc at 0.3 mg per as-          p35SDsRed, in which the gene for DsRed (Clontech, Palo Alto,
+say. Various amounts of p35Sluc DNA, from 0.01 mg to 1 mg,            CA) from Discosoma sp. was under the control of the CaMV
+were introduced into BY-2 cells together with 0.3 mg of p35SR-        35S promoter and had a nopaline synthase terminator. The
+luc, and relative luc activity, normalized by reference to Rluc       RNAi effect was not significantly affected by the length of the
+activity, was determined. The relative luc activity was depen-        dsRNA but was clearly dependent on the amount of the dsRNA
+dent on the doses of the p35Sluc DNA over the range of levels         expression plasmid. We observed , 50% inhibition when 1 mg
+of DNA tested (Fig. 3B). Thus, the calculated relative luc activ-     of dsRNA expression plasmid was used. The extent of inhibi-
+ity could be used to estimate changes in the abundance of             tion was , 90% with 3 mg of the same plasmid.
+mRNA of interest. In the present analysis, we fixed the amounts
+of both p35Sluc and p35SRluc at 0.3 mg and then examined the
+RNAi effect of dsRNA expression plasmids.                                                      DISCUSSION
+
+Design of dsRNA expression plasmids                                      In this study, we evaluated quantitatively the RNAi effect of
+                                                                      dsRNA targeted to a gene for firefly luciferase and demon-
+   We constructed two dsRNA expression plasmids under the             strated clearly that RNAi can be used to suppress gene expres-
+control of the 35S promoter of CaMV, targeted to the firefly lu-
+ciferase gene (Fig. 2A,B). The length of the antisense sequence,
+which was defined as the length of the double-stranded region,
+was approximately 500 bp and 300 bp, respectively. The sense
+strand in each dsRNA expression plasmid was the region that
+corresponded to nucleotides 11 to 1586 relative to the site for
+initiation of translation of the luciferase gene. The spacer region
+between the sense and the antisense strand was designed to
+form a loop within a putative hairpin structure. In both cases,
+the spacer was the same 86 bp and corresponded to nt 1500 to
+1586. It is known that a perfect palindromic sequence without
+a loop sequence cannot survive in E. coli because of frequent
+recombination (Leach, 1994). Therefore, we used E. coli SURE
+II (see Materials and Methods), in which the palindromic se-
+quences are more stable than in other strains (Tavernarakis et
+al., 2000). In fact, even with the spacer (loop) region, dsRNA
+expression plasmids were somewhat difficult to construct, and
+odd products with, for example, duplicates of plasmids were of-
+ten detected (data not shown). The stability of plasmids seemed
+to be affected by the length of the double-stranded region.
+
+Estimation of specific dsRNA-mediated suppression as
+compared with sense and antisense effects
+   We first examined whether the RNAi effect was due to the
+                                                                      FIG. 5. The dependence of the RNAi effect on firefly luciferase ac-
+dsRNA, sense, or antisense sequences (Fig. 4). The amounts of
+                                                                      tivity in BY-2 cells on the amount of various dsRNA expression plas-
+p35Sluc, p35SRluc, and the dsRNA (or sense or antisense)-
+                                                                      mids. Tobacco BY-2 cells were converted to protoplasts and were co-
+coding plasmid used (Fig. 2) were 0.3 mg, 0.3 mg, and 3 mg per        transformed by electroporation with three plasmids, namely, p35Sluc
+electroporation, respectively. The dsRNA effectively sup-             and p35SRluc (0.3 mg each) and one dsRNA expression plasmid. The
+pressed expression of the firefly luciferase gene, whereas the        amounts of dsRNA expression plasmids are indicated below the his-
+sense and antisense sequences reduced expression by only              togram. Triplicate electroporation experiments were performed in each
+20%–40%. Figure 4B shows the absolute activities of luc and           case. Columns and bars show mean results and SD, respectively.
+RNA INTERFERENCE                                                                                                                          365
+
+sion in cultured plant cells. Assays that involve expression of         Tobacco BY-2 cells have an exceptionally high growth rate,
+genes for luciferase are very sensitive, and such assays have        and cultures exhibit high homogeneity compared with other
+been used to estimate the effects of RNAi in vitro (Elbashir et      cultured plant cells. Moreover, populations of cells that un-
+al., 2001b; Tuschl et al., 1999; Zamore et al., 2000) and in vivo    dergo highly synchronized cell division are easily established
+in Drosophila (Bernstein et al., 2001; Ui-Tei et al., 2000; Yang     (Nagata et al., 1992). Therefore, the ability to regulate the ex-
+et al., 2000) and in mammalian (Elbashir et al., 2001a; Ui-Tei et    pression of specific genes in tobacco BY-2 cells should be very
+al., 2000) systems. The RNAi effect was shown previously to          useful. To our knowledge, this is the first report demonstrating
+be dependent on the length of the dsRNA region (Elbashir et al.,     the reproducible and quantitative analysis of the RNAi effect in
+2001b), and it was reported that the shorter the dsRNA region,       a transient assay system in plant cells and, in particular, in to-
+the smaller the effect. Moreover, the effect decreased exponen-      bacco BY-2 cells. The knockout system reported here should be
+tially with decrease in the length of the dsRNA region (Yang et      useful in efforts to examine the functions of genes of interest
+al., 2000). Tuschl et al. concluded that the rate of production of   that might be related, for example, to regulation of the cell cy-
+siRNA via the action of RNase III was slower when the dsRNA          cle, hormonal regulation of plant growth, and mechanism of the
+was shorter (Elbashir et al., 2001b). We found that a region of      RNAi.
+dsRNA of 300 bp was sufficient to suppress luciferase activity
+in cultured plant cells. Moreover, longer dsRNA did not cause a
+significant enhancement of the RNAi effect (Fig. 5). In our sys-                        ACKNOWLEDGMENT
+tem, the RNAi effect might be saturated at 300 bp.
+   We observed strong sequence-specific suppression by                  We thank Professor Toshiyuki Nagata (Department of Bio-
+dsRNA (Fig. 4B). In mammalian cells, dsRNA often causes              logical Sciences, Graduate School of Science, The University
+nonspecific suppression, or alternatively, large amounts of          of Tokyo, Japan) for helpful advice and comments.
+dsRNA are required for detection of the RNAi effect (Ui-Tei et
+al., 2000). The nonspecific suppression in mammalian cells
+might result from the activation of dsRNA-dependent protein                                    REFERENCES
+kinase (PKR) and 29,59-oligoadenylate synthetase (29,59-OAS),
+via a pathway known as the interferon (IFN) pathway. Upon en-        ALVARADO, A.S., and NEWMARK, P.A. (1999). Double-stranded
+try of dsRNA into cells, activation of dsRNA-dependent PKR             RNA specifically disrupts gene expression during planarian regener-
+and 29,59-OAS results in the inhibition of translation and the         ation. Proc. Natl. Acad. Sci. USA 96, 5049–5054.
+nonspecific degradation of mRNA, respectively (Stark et al.,         BAHRAMIAN, M.B., and ZARBL, H. (1999). Transcriptional and
+1998). The IFN response is important as a defense system               posttranscriptional silencing of rodent a1(I) collagen by a homolo-
+against viral infection and is triggered by viral dsRNA. When          gous transcriptionally self-silenced transgene. Mol. Cell. Biol. 19,
+viral dsRNA enters cells, the system that inhibits translation of      274–283.
+all messages is turned on via phosphorylation of eukaryotic ini-     BEETHAM, P.R., KIPP, P.B., SAWYCKY, X.L., ARNTZEN, C.J.,
+                                                                       and MAY, G.D. (1999). A tool for functional plant genomics: Chi-
+tiation factor-2a (eIF-2a) by dsRNA-dependent PKR in eu-
+                                                                       meric RNA/DNA oligonucleotides cause in vivo gene-specific muta-
+karyotic cells, but this kind of regulation does not seem to oper-
+                                                                       tions. Proc. Natl. Acad. Sci. USA 96, 8774–8778.
+ate in plant cells (Harshey, 1991; Merrick, 1992). In plant cells,   BERNSTEIN, E., CAUDY, A.A., HAMMOND, S.M., and HANNON,
+the activity of plant PKR increases in the presence of virus or        G.J. (2001). Role for a bidentate ribonuclease in the initiation step of
+dsRNA (Hu and Roth, 1991), but the biologic role of PKR has            RNA interference. Nature 409, 363–366.
+not yet been identified. Another defense pathway in mam-             BOUCHE, N., and BOUCHEZ, D. (2001). Arabidopsis gene knockout:
+malian cells is the 29,59-OAS system, which is known to induce         Phenotypes wanted. Curr. Opin. Plant Biol. 4, 111–117.
+transcription of the gene for Nase L. The properties of 29,59-       BRUENING, G. (1998). Plant gene silencing regularized. Proc. Natl.
+OAS have not been well characterized in plants (Ogawa et al.,          Acad. Sci. USA 95, 13349–13351.
+1996). In our experiments, we did not observe nonspecific re-        CLEMENS, J.C., WORBY, C.A., SIMONSON-LEFF, N., MUDA, M.,
+                                                                       MAEHAMA, T., HEMMINGS, B.A., and DIXON, J.E. (2000). Use
+duction of Rluc activity by dsRNA (Fig. 4B). Therefore, the
+                                                                       of double-stranded RNA interference in Drosophila cell lines to dis-
+PkR and 29,59-OAS systems in plant cells might not be as im-
+                                                                       sect signal transduction pathways. Proc. Natl. Acad. Sci. USA 97,
+portant as in mammalian cells. Alternatively, the defense sys-         6499–6503.
+tems in mammalian cells might not operate in a protective fash-      COGONI, C., and MACINO, G. (1997). Isolation of quelling-defective
+ion in response to dsRNA in plant cells.                               (qde) mutants impaired in posttranscriptional transgene-induced
+   Our experiments revealed observable suppression by sense            gene silencing in Neurospora crassa. Proc. Natl. Acad. Sci. USA 94,
+and antisense constructs, but suppression was significantly less       10233–10238.
+effective than suppression by dsRNA (Fig. 4). Sense-mediated         COGONI, C., and MACINO, G. (1999a). Gene silencing in Neu-
+or antisense-mediated gene silencing has been observed in              rospora crassa requires a protein homologous to RNA-dependent
+plants, and it has been reported recently that these silencing         RNA polymerase. Nature 399, 166–169.
+phenomena share, at least in part, a pathway initiated by            COGONI, C., and MACINO, G. (1999b). Posttranscriptional gene si-
+                                                                       lencing in Neurospora by a RecQ DNA helicase. Science 286,
+dsRNA as a result of the presence of siRNA (Serio et al., 2001).
+                                                                       2342–2344.
+Superior suppressive effects by dsRNA might have originated          DALMAY, T., HAMILTON, A., RUDD, S., ANGELL, S., and
+from the significantly higher concentrations of siRNA as shown         BAULCOMBE, D.C. (2000). An RNA-dependent RNA polymerase
+in Figure 1. More detailed characterization would be required          gene in Arabidopsis is required for posttranscriptional gene silencing
+for elucidation of the accurate mechanism of the suppressive ef-       mediated by a transgene but not by a virus. Cell 101, 543–553.
+fects in our system.                                                 DALMAY, T., HORSEFIELD, R., BRAUNSTEIN, T.H., and
+366                                                                                                                          AKASHI ET AL.
+
+  BAULCOMBE, D.C. (2001). SDE3 encodes an RNA helicase re-                   gene in methionine biosynthesis. Plant Mol. Biol. 44, 759–775.
+  quired for post-transcriptional gene silencing in Arabidopsis. EMBO      LOHMANN, J.U., ENDL, I., and BOSCH, T.C.G. (1999). Silencing of
+  J. 20, 2069–2077.                                                          developmental genes in Hydra. Dev. Biol. 214, 211–214.
+DE FEYTER, R., YOUNG, M., SCHROEDER, K., DENNIS, E.S., and                 LU, C., and FEDOROFF, N. (2000). A mutation in the Arabidopsis
+  GERLACH, W. (1996). A ribozyme gene and an antisense gene are              HYL1 gene encoding a dsRNA binding protein affects responses to
+  equally effective in conferring resistance to tobacco mosaic virus on      abscisic acid, auxin, and cytokinin. Plant Cell 12, 2351–2365.
+  transgenic tobacco. Mol. Gen. Genet. 250, 329–338.                       MATZKE, M.A., MATZKE, A.J., PRUSS, G.J., and VANCE, V.B.
+DOMEIER, M.E., MORSE, D.P., KNIGHT, S.W., PORTEREIKO, M.,                    (2001). RNA-based silencing strategies in plants. Curr. Opin. Genet.
+  BASS, B.L., and MANGO, S.E. (2000). A link between RNA inter-              Dev. 11, 221–227.
+  ference and nonsense-mediated decay in Caenorhabditis elegans.           MAZZOLINI, L., AXELOS, M., LESCURE, N., and YOT, P. (1992).
+  Science 289, 1928–1930.                                                    Assaying synthetic ribozymes in plants: High-level expression of a
+ELBASHIR, S.M. HARBORTH, J., LENDECKEL, W., YALCIN, A.,                      functional hammerhead structure fails to inhibit target gene activity
+  WEBER, K., and TUSCHL, T. (2001a). Duplexes of 21-nucleotide               in transiently transformed protoplasts. Plant Mol. Biol. 20, 715–731.
+  RNAs mediate RNA interference in cultured mammalian cells. Na-           McINTYRE, C.L., BETTENAY, H.M., and MANNERS, J.M. (1996).
+  ture 411, 494–498.                                                         Strategies for the suppression of peroxidase gene expression in to-
+ELBASHIR, S.M., LENDECKEL, W., and TUSCHL, T. (2001b).                       bacco. II. In vivo suppression of peroxidase activity in transgenic to-
+  RNA interference is mediated by 21- and 22-nucleotide RNAs.                bacco using ribozyme and antisense constructs. Transgenic Res. 5,
+  Genes Dev. 15, 188–200.                                                    263–270.
+FEGARD, M., BOUTET, S., MOREL, J.-B., BELLINI, C., and                     MERLO, A.O., COWEN, N., DELATE, T., EDINGTON, B., FOLK-
+  VAUCHERET, H. (2000). AGO1, QDE-2, and RDE-1 are related                   ERTS, O., HOPKINS, N., LEMEIUX, C., SKOKUT, T., SMITH,
+  proteins required for post-transcriptional gene silencing in plants,       K., WOOSLEY, A., YANG, Y., YOUNG, S., and ZWICK, M.
+  quelling in fungi, and RNA interference in animals. Proc. Natl. Acad.      (1998). Ribozymes targeted to stearoyl-ACP delta9 desaturase
+  Sci. USA 97, 11650–11654.                                                  mRNA produce heritable increases of stearic acid in transgenic
+FIRE, A., XU, S., MONTGOMERY, M.K., KOSTAS, S.A., DRIVER,                    maize leaves. Plant Cell 10, 1603–1621.
+  S.E., and MELLO, C.C. (1998). Potent and specific genetic interfer-      MERRICK, W.C. (1992). Mechanism and regulation of eukaryotic pro-
+  ence by double-stranded RNA in Caenorhabditis elegans. Nature              tein synthesis. Microbiol. Rev. 56, 291–315.
+  391, 806–811.                                                            METTE, M.F., AUFSATZ, W., VAN DER WINDEN, J., MATZKE,
+GRISHOK, A., TABARA, H., and MELLO, C.C. (2000). Genetic re-                 M.A., and MATZKE, A.J.M. (2000). Transcriptional silencing and
+  quirements for inheritance of RNAi in C. elegans. Science 287,             promoter methylation triggered by double-stranded RNA. EMBO J.
+  2494–2497.                                                                 19, 5194–5201.
+HAMILTON, A.J., and BAULCOMBE, D.C. (1999). A species of                   METZLAFF, M., O’DELL, M., CLUSTER, P.D., and FLAVELL, R.B.
+  small antisense RNA in posttranscriptional gene silencing in plants.       (1997). RNA-mediated RNA degradation and chalcone synthase A
+  Science 286, 950–952.                                                      silencing in petunia. Cell 88, 845–854.
+HAMMOND, S.M., BERNSTEIN, E., BEACH, D., and HANNON,                       MOURRAIN, P., BECLIN, C., ELMAYAN, T., FEUERBACH, F.,
+  G.J. (2000). An RNA-directed nuclease mediates post-transcriptional        GODON, C., MOREL, J.B., JOUETTE, D., LACOMBE, A.M., NI-
+  gene silencing in Drosophila cells. Nature 404, 293–296.                   KIC, S., PICAULT, N., REMOUE, K., SANIAL, M., VO, T.A., and
+HAN, S., WU, Z., YANG, H., WANG, R., YIE, Y., XIE, L., and TIEN,             VAUCHERET, H. (2000). Arabidopsis SGS2 and SGS3 genes are re-
+  P. (2000). Ribozyme-mediated resistance to rice dwarf virus and the        quired for posttranscriptional gene silencing and natural virus resis-
+  transgene silencing in the progeny of transgenic rice plants. Trans-       tance. Cell 101, 533–542.
+  genic Res. 9, 195–203.                                                   MURASHIGE, T., and SKOOG, F. (1962). A revised medium for rapid
+HARSHEY, J.W. (1991). Translational control in mammalian cells.              growth and bioassays with tobacco tissue cultures. Physiol. Plant 15,
+  Annu. Rev. Biochem. 60, 717–755.                                           473–479.
+HU, J., and ROTH, D. (1991). Temporal regulation of tobacco mosaic         MURFETT, J., BOURQUE, J.E., and McCLURE, B.A. (1995). Anti-
+  virus-induced phosphorylation of a host encoded protein. Biochem.          sense suppression of S-RNase expression in Nicotiana using RNA
+  Biophys. Res. Commun. 179, 229–235.                                        polymerase II- and III-transcribed gene constructs. Plant Mol. Biol.
+HUTVAGNER, G., MLYNAROVA, L., and NAP, J.P. (2000). De-                      29, 201–212.
+  tailed characterization of the posttranscriptional gene-silencing-re-    NAGATA, T. (1989). Cell biological aspects of gene delivery into plant
+  lated small RNA in a GUS gene-silenced tobacco. RNA 6,                     protoplasts by electroporation. Int. Rev. Cytol. 116, 229–255.
+  1445–1454.                                                               NAGATA, T., NEMOTO, Y., and HASEZAWA, S. (1992). Tobacco
+JONES, L., RATCLIFF, F., and BAULCOMBE, D.C. (2001). RNA-di-                 BY-2 cell line as the “HeLa” cell in the cell biology of higher plants.
+  rected transcriptional gene silencing in plants can be inherited inde-     Int. Rev. Cytol. 132, 1–30.
+  pendently of the RNA trigger and requires Met1 for maintenance.          NAGATA, T., OKADA, K., KAWAZU, T., and TAKEBE, I. (1987).
+  Curr. Biol. 11, 747–757.                                                   Cauliflower mosaic virus 35S promoter directs S phase specific ex-
+KENNERDELL, J.R., and CARTHEW, R.W. (1998). Use of dsRNA-                    pression in plant cells. Mol. Gen. Genet. 207, 242–244.
+  mediated genetic interference to demonstrate the frizzled and frizzled   NAPOLI, C., LEMIEUX, C., and JOURGENSEN, R. (1990). Introduc-
+  2 act in the wingless pathway. Cell 95, 1017–1026.                         tion of a chimeric chalcone synthase gene into petunia results in re-
+KETTING, R.F., HAVERKAMP, T.H.A., VAN LUENEN, H.G.A.M.,                      versible co-suppression of homologous genes in trans. Plant Cell 2,
+  and PLASTERK, R.H.A. (1999). mut-7 of C. elegans, required for             279–289.
+  transposon silencing and RNA interference, is a homolog of Werner        NGO, H., TSCHUDI, C., GULL, K., and ULLU, E. (1998). Double-
+  syndrome helicase and RNase D. Cell 99, 133–141.                           stranded RNA induces mRNA degradation in Trypanosoma brucei.
+LEACH, D.R.F. (1994). Long DNA palindromes, cruciform structures,            Proc. Natl. Acad. Sci. USA 95, 14687–14692.
+  genetic instability and secondary structure repair. BioEssays 16,        OGAWA, T., HIRI, T., and ISHIDA, I. (1996). Virus-induced cell
+  893–900.                                                                   death in plants expressing the mammalian 29,59 oligoadenylate sys-
+LEVIN, J.Z., DE FRAMOND, A.J., TUTTLE, A., BAUER, M.W., and                  tem. Nature Biotechnol. 14, 1566–1569.
+  HEIFETZ, P.B. (2000). Methods of double-stranded RNA-mediated            PAPAEFTHIMIOU, I., HAMILTON, A.J., DENTI, M.A.,
+  gene inactivation in Arabidopsis and their use to define an essential      BAULCOMBE, D.C., TSAGRIS, M., and TABLER, M. (2001).
+RNA INTERFERENCE                                                                                                                                  367
+
+  Replicating potato spindle tuber viroid RNA is accompanied by short         UI-TEI, K., ZENNO, S., MIYATA, Y., and SAIGO, K. (2000). Sensi-
+  RNA fragments that are characteristic of post-transcriptional gene si-        tive assay of RNA interference in Drosophila and Chinese hamster
+  lencing. Nucleic Acids Res. 29, 2395–2400.                                    cultured cells using firefly luciferase gene as target. FEBS Lett. 479,
+PARINOV, S., and SUNDARESAN, V. (2000). Functional genomics                     79–82.
+  in Arabidopsis: Large-scale insertional mutagenesis complements             VAN DER KROL, A.R., MUR, L.A., BELD, M., MOL, J.N., and STU-
+  the Genome Sequencing Project. Curr. Opin. Plant Biol. 11,                    ITJE, A.R. (1990). Flavonoid genes in petunia: Addition of a limited
+  157–161.                                                                      number of gene copies may lead to a suppression of gene expression.
+PERRIMAN, R., BRUENING, G., DENNIS, E.S., and PEACOCK,                          Plant Cell 2, 291–299.
+  W.J. (1995). Effective ribozyme delivery in plant cells. Proc. Natl.        WANG, Z., MORRIS, J.C., DREW, M.E., and ENGLUND, P.T.
+  Acad. Sci. USA 92, 6175–6179.                                                 (2000). Inhibition of Trypanosoma brucei gene expression by RNA
+RATCLIFF, F., MARTIN-HERNANDEZ, A.M., and BAULCOMBE,                            interference using an integratable vector with opposing T7 promot-
+  D.C. (2001). Tobacco rattle virus as a vector for analysis of gene            ers. Proc. Natl. Acad. Sci. USA 275, 40174–40179.
+  function by silencing. Plant J. 25, 237–245.                                WARGELIUS, A., ELLINGSEN, S., and FJOSE, A. (1999). Double-
+SCHWEIZER, P., POKORNY, J., SCHULZE-LEFERT, P., and                             stranded RNA induces specific developmental defects in zebrafish
+  DUDLER, R. (2000). Technical advance. Double-stranded RNA in-                 embryos. Biochem. Biophys. Res. Commun. 263, 156–161.
+  terferes with gene function at the single-cell level in cereals. Plant J.   WIANNY, F., and ZERNICKA-GOETZ, M. (1999). Specific interfer-
+  24, 895–903.                                                                  ence with gene function by double-stranded RNA in early mouse de-
+SERIO, F.D., SCHOB, H., IGLESIAS, A., TARINA, C., BOUL-                         velopment. Nature Cell Biol. 2, 70–75.
+  DOIRES, E., and MEINS, F., Jr. (2001). Sense- and antisense-medi-           WU-SCHARF, D., JEONG, B.-R., ZHANG, C., and CERUTTI, H.
+  ated gene silencing in tobacco is inhibited by the same viral suppres-        (2000). Transgene and transposon silencing in Chlamydomonas rein-
+  sors and is associated with accumulation of small RNAs. Proc. Natl.           hardtii by a DEAH-box RNA helicase. Science 290, 1159–1162.
+  Acad. Sci. USA 98, 6506–6510.                                               XIE, Z., FAN, B., CHEN, C., and CHEN, Z. (2001). An important role
+SMARDON, A., SPOERKE, J.M., STACEY, S.C., KLEIN, M.E.,                          of an inducible RNA-dependent RNA polymerase in plant antiviral
+  MACKIN, N., and MAINE, E.M. (2000). EGO-1 is related to RNA-                  defense. Proc. Natl. Acad. Sci. USA 98, 6516–6521.
+  directed RNA polymerase and functions in germ-line development              YANG, D., LU, H., and ERICKSON, J.W. (2000). Evidence that
+  and RNA interference in C. elegans. Curr. Biol. 10, 169–178.                  processed small dsRNAs may mediate sequence-specific mRNA
+STARK, G.R., KERR, I.M, WILLIAMS, B.R.G., SILVERMAN, R.H.,                      degradation during RNAi in Drosophila embryos. Curr. Biol. 10,
+  and SCHREIBER, R.D. (1998). How cells respond to interferons.                 1191–1200.
+  Annu. Rev. Biochem. 67, 227–264.                                            YANG, X., YIE, Y., ZHU, F., LIU, Y., KANG, K., WANG, X., and
+STEINECKE, P., HERGET, T., and SCHREIER, P.H. (1992). Expres-                   TIEN, P. (1997). Ribozyme-mediated high resistance against potato
+  sion of a chimeric ribozyme gene results in endonucleolytic cleavage          spindle tuber viroid in transgenic potatoes. Proc. Natl. Acad. Sci.
+  of target mRNA and a concomitant reduction of gene expression in              USA 94, 4861–4865.
+  vivo. EMBO J. 11, 1525–1530.                                                ZAMORE, P.D., TUSCHL, T., SHARP, P.A., and BARTEL, D.P.
+SVOBODA, P., STEIN, P., HAYASHI, H., and SCHULTZ, R.M.                          (2000). RNAi: Double-stranded RNA directs the ATP-dependent
+  (2000). Selective reduction of dormant maternal mRNAs in mouse                cleavage of mRNA at 21 to 23 nucleotide intervals. Cell 101, 25–33.
+  oocytes by RNA interference. Development 127, 4147–4156.                    ZHU, T., PETERSON, D.J., TAGLIANI, L., ST. CLAIR, G.,
+TABARA, H., SARKISSIAN, M., KELLY, W.G., FLEENOR, J.,                           BASZCZYNSKI, C.L., and BOWEN, B. (1999). Targeted manipula-
+  GRISHOK, A., TIMMONS, L., FIRE, A., and MELLO, C.C. (1999).                   tion of maize genes in vivo using chimeric RNA/DNA oligonu-
+  The rde-1 gene, RNA interference, and transposon silencing in C. el-          cleotides. Proc. Natl. Acad. Sci. USA 96, 8768–8773.
+  egans. Cell 99, 123–132.
+TAVERNARAKIS, N., WANG, S.L., DOROVKOV, M.,                                                                      Address reprint requests to:
+  RYAZANOV, A., and DRISCOLL, M. (2000). Heritable and in-                                                             Prof. Kazunari Taira
+  ducible genetic interference by double-stranded RNA encoded by                                  Department of Chemistry and Biotechnology
+  transgenes. Nature Genet. 24, 180–183.                                                                     Graduate School of Engineering
+TCHURIKOV, N.A., CHISTYAKOVA, L.G., ZAVILGELSKY, G.B.,                                                              The University of Tokyo
+  MANUKHOV, I.V., CHERNOV, B.K., and GOLOVA, Y.B. (2000).                                                           Hongo, Tokyo 113-8656
+  Gene-specific silencing by expression of parallel complementary
+                                                                                                                                      Japan
+  RNA in Escherichia coli. J. Biol. Chem. 275, 26523–26529.
+TUSCHL, T. (2001). RNA interference and small interfering RNAs.
+  Chem. Biochem. 2, 239–245.                                                                             E-mail: taira@chembio.t.u-tokyo.ac.jp
+TUSCHL, T., ZAMORE, P.D., LEHMANN, R., BARTEL, D.P., and
+  SHARP, P.A. (1999). Targeted mRNA degradation by double-                    Received July 30, 2001; accepted in revised form September
+  stranded RNA in vitro. Genes Dev. 13, 3191–3197.                            12, 2001.
+

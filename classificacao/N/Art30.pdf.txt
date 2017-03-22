@@ -1,0 +1,377 @@
+                            Downloaded from http://rspb.royalsocietypublishing.org/ on December 15, 2015
+
+
+
+
+                                                                                             Proc. R. Soc. B (2005) 272, 1721–1725
+                                                                                                        doi:10.1098/rspb.2005.3128
+                                                                                                        Published online 14 July 2005
+
+
+
+       Gene essentiality and the topology of protein
+                 interaction networks
+                        Ste´phane Coulomb1, Michel Bauer1, Denis Bernard1
+                               and Marie-Claude Marsolier-Kergoat2,*
+             1
+                 Service de Physique The´orique, CEA/Saclay-Orme des Merisiers, 91191 Gif-sur-Yvette Cedex, France
+             2
+                 Service de Biochimie et de Ge´ne´tique Mole´culaire, CEA/Saclay, 91191 Gif-sur-Yvette Cedex, France
+        The mechanistic bases for gene essentiality and for cell mutational resistance have long been disputed. The
+        recent availability of large protein interaction databases has fuelled the analysis of protein interaction
+        networks and several authors have proposed that gene dispensability could be strongly related to some
+        topological parameters of these networks. However, many results were based on protein interaction data
+        whose biases were not taken into account. In this article, we show that the essentiality of a gene in yeast is
+        poorly related to the number of interactants (or degree) of the corresponding protein and that the
+        physiological consequences of gene deletions are unrelated to several other properties of proteins in the
+        interaction networks, such as the average degrees of their nearest neighbours, their clustering coefficients
+        or their relative distances. We also found that yeast protein interaction networks lack degree correlation, i.e.
+        a propensity for their vertices to associate according to their degrees. Gene essentiality and more generally
+        cell resistance against mutations thus seem largely unrelated to many parameters of protein network
+        topology.
+           Keywords: network; protein interaction; topology; mutational resistance; gene dispensability; yeast
+
+
+
+1. INTRODUCTION                                                        could be strongly related to gene essentiality and cell
+Living organisms are resistant against mutations. Only                 robustness against mutations ( Jeong et al. 2001; Maslov &
+18.7% of Saccharomyces cerevisiae genes prove essential for            Sneppen 2002; Barabasi & Oltvai 2004). However these
+growth on rich glucose medium and only 15% of all viable               conclusions were based on protein interaction data whose
+homozygous deletion strains exhibit a slow growth                      biases had been overlooked. We have therefore reassessed
+phenotype under optimal conditions (Giaever et al.                     systematically the relationships between gene essentiality
+2002). When a systematic analysis of synthetic lethal or               and several topological characteristics of proteins in the
+sick (SLS) interactions (in which the combination of                   yeast interaction networks. We found that the dispensa-
+mutations in two genes causes cell death or reduced                    bility of a gene is only weakly related to the number of links
+fitness) was performed in yeast, the average number of                 of the corresponding protein and seems completely
+SLS partners per studied gene was only 28 out of about                 unrelated to all the other topological parameters that we
+4700 interactions tested (Tong et al. 2004).                           tested, suggesting that protein network topology has little
+    Gene dispensability and overall cell resistance to                 influence on the essentiality of specific genes and more
+mutations can be explained either by the redundancy of                 globally on cell mutational robustness.
+duplicate genes or by other kinds of functional compen-
+sations involving sequence-unrelated genes. Gu et al.
+(2003) have found a significantly higher probability of                2. METHODS
+functional compensation for a duplicate gene than for a                Our study deals exclusively with data related to the yeast
+single-copy gene and a high correlation between the                    S. cerevisiae. To measure the degrees of essential and non-
+frequency of compensation and the sequence similarity of               essential genes, the data corresponding to the study by Ito
+two duplicates. However, even if there is clear evidence               et al. (2001) was downloaded from the web page http://
+that duplicate genes play a significant role in mutational             genome.c.kanazawa-u.ac.jp/Y2H/. A list of essential genes
+robustness, they do not seem to account for the main part              was obtained from the SGD (Saccharomyces Genome
+of it.                                                                 Database) webpage (http://db.yeastgenome.org/cgi-bin/
+    The accumulation of small-scale studies and the                    SGD/phenotype/phenotype.pl?phenotypeZinviable). To
+development of high-throughput technologies have                       evaluate the average numbers of articles dealing with essential
+recently led to the construction of large protein interaction          and non-essential genes, we considered all the open reading
+networks whose vertices (the proteins) are connected                   frames (ORFs) that were classified as genuine by the study of
+                                                                       Ghaemmaghami et al. (2003). The number of SGD curated
+when evidence for physical interaction between them has
+                                                                       references was retrieved automatically from SGD web site at
+been found. Several authors have proposed that the
+                                                                       http://www.yeastgenome.org/.
+topological properties of proteins in interaction networks
+                                                                          To measure the degrees of SLS partners, the average
+                                                                       degrees of nearest neighbours, the clustering coefficients and
+* Author for correspondence (marie-claude.marsolier-kergoat@cea.fr).   the distances between SLS partners, we have mostly used two
+
+Received 20 December 2004                                          1721                                      q 2005 The Royal Society
+Accepted 7 April 2005
+                              Downloaded from http://rspb.royalsocietypublishing.org/ on December 15, 2015
+
+
+1722 S. Coulomb and others Gene essentiality and protein network topology
+
+databases, which we considered the most comprehensive and            database also contains some biases regarding the number
+reliable: the database of interacting proteins (DIP) core            of interactants of essential and non-essential genes
+(Xenarios et al. 2000) and the ‘affinity purification’ databases.    because it records data derived from small-scale exper-
+The DIP core database records data derived from both small-          iments. We have found that essential genes are the objects
+scale and large-scale experiments that has been validated by         of more articles than non-essential ones as they have on
+different criteria such as its reproducibility or the occurrence     average 1.75 times more SGD curated references than
+of the interaction between paralogous proteins in different          non-essential genes (the SGD web site performs systema-
+species (Deane et al. 2002). The DIP core database was               tic searches through all PubMed literature for all papers
+downloaded in May 2004 from the web page http://dip.doe-             mentioning yeast genes). The fact that essential genes are
+mbi.ucla.edu/dip/Download.cgi. We constructed the affinity           more intensely studied than non-essential ones is likely to
+purification database from the GRID database (http://                increase the number of their known interactants.
+biodata.mshri.on.ca:80/yeast_grid/servlet/SearchPage) in                 In order to avoid the biases of databases recording the
+May 2004 by selecting all the protein interactions that have         results of small-scale studies, we determined to use only
+been found either by affinity chromatography or affinity             interaction data derived from large-scale analyses. Besides
+precipitation: the large majority of the data (about 90%)            the study by Uetz et al. (2000), three large-scale analyses
+corresponds to the results of Gavin et al. (2002) and Ho et al.      have been conducted: Ito et al. (2001) have tested all
+(2002) and some data had also been collected from the small-         possible interactions between about 6000 yeast proteins
+scale studies’ results recorded in the MIPS database (http://        and have defined a data core containing only interactions
+mips.gsf.de/genre/proj/yeast/index.jsp). Whereas the two-            that have been observed more than thrice, while Gavin
+hybrid system is assumed to mostly reveal binary interactions,       et al. (2002) and Ho et al. (2002) have analysed the
+the affinity methods also yield complex composition data. In         proteins found associated to respectively 493 and 589
+the case where proteins B and C are retrieved after affinity         tagged proteins. The study by Ito et al. is the only one that
+purification of protein A, the databases we used record the          can be considered as unbiased regarding the proteins that
+A/B and A/C interactions whereas A, B and C could be part of         were analysed since all yeast proteins were tested. In
+the same complex, B could interact with C and the A/C                contrast, Ho et al. and Gavin et al. analysed a small fraction
+interaction could even be mediated by B. Thus the data               of yeast proteins and these proteins were not chosen
+produced from affinity purification techniques are not subject       randomly. We therefore focused on the data core of the Ito
+to the same biases as the two-hybrid system, but certainly           et al. analysis and we found that the fractions of essential
+have their own limits. The purpose of this double choice (DIP        genes present among the 10% less-connected and the 10%
+core and affinity purification databases) was to use large           most-connected genes are 0.24 and 0.27, respectively. The
+databases with a priori different biases.                            average degrees of essential and non-essential genes are
+    The data from analyses of Tong et al. (2004) was collected       2.2 and 1.8, respectively, in the Ito et al. study, which
+from the GRID database (http://biodata.mshri.on.ca:80/               means that essential genes only have on average 1.2 times
+yeast_grid/servlet/SearchPage).                                      more links than non-essential ones. If the highest degrees
+                                                                     of the genes present in the Ito et al. data are artificially
+                                                                     attributed to the essential genes of this database, this ratio
+3. RESULTS                                                           amounts to 3.8.
+(a) The correlation between the essentiality of                          As another test of the correlation between the
+a gene and its degree in interaction networks                        topological positions of genes and the physiological
+Protein interaction networks exhibit a large degree                  consequences of their deletions, we calculated the average
+distribution, which can be approximately fitted to a                 degree of SLS partners. We used the study by Tong et al.
+power law ( Jeong et al. 2001): the probability P(k) that a          (2004) which describes the systematic screenings for SLS
+protein interacts with k other proteins roughly decreases            partners of 132 genes, termed query genes. The degrees of
+like kKg. These networks consist in a majority of low-               the SLS genes in the interaction networks were estimated
+connected vertices and a minority of highly connected                using different databases (the DIP core (Xenarios et al.
+vertices or hubs. For convenience, we will consider the              2000) and the affinity purification databases) as it was
+corresponding interaction networks linking genes whose               difficult to evaluate what could be their respective biases
+protein products interact physically and we will refer to the        for this measure (see §2). If the topological positions of
+topological parameters of these gene interaction networks.           genes in the networks were related to the phenotypes of
+Several authors have found that the fraction of essential            their deletions, SLS partners would be expected to exhibit
+genes is 3 to 5 times higher among highly connected genes            higher degrees than the bulk of non-essential genes.
+than among low-connected genes and have proposed that                However we found that the average degree of SLS partners
+the phenotypic consequences of a gene deletion in yeast              is similar to the average degree of the whole set of non-
+are affected to a large extent by the gene degree in the             essential genes, with 4.4 and 5.3 links for SLS genes versus
+interaction networks ( Jeong et al. 2001; Wuchty 2004; Yu            3.6 and 4.8 links for all non-essential genes in the DIP core
+et al. 2004). However these analyses used data derived               and the affinity purification databases, respectively.
+from Uetz et al. (2000) and/or from the DIP database                     We observed that, when considering interaction results
+(Xenarios et al. 2000), which present some biases. The               that are a priori unbiased for essential genes, essential
+study by Uetz et al. suffers from a specific bias in that            genes only have slightly more interactants than non-
+it mixes results from individual analyses of 192 genes               essential ones. Similarly, we found little difference
+(which remain unidentified) that have yielded 281                    between the average numbers of links of SLS genes and
+interacting protein pairs and from high-throughput                   of all non-essential genes. Our results suggest that the
+screening procedures involving almost 6000 proteins that             physiological consequences of gene deletions are only
+resulted in 692 interacting protein pairs. The DIP                   weakly related to gene degrees in interaction networks.
+
+Proc. R. Soc. B (2005)
+                         Downloaded from http://rspb.royalsocietypublishing.org/ on December 15, 2015
+
+
+                                               Gene essentiality and protein network topology                   S. Coulomb and others           1723
+
+(b) The essentiality of a gene and the average                                              25
+degree of its neighbours
+
+
+
+
+                                                                       average degree K1
+Another structural feature that has been suggested to                                       20
+influence gene essentiality is the average degree K1 of their
+                                                                                            15
+neighbours. Considering genes with a given degree k, it
+has been proposed that the deletion of genes with low K1 is                                 10
+less deleterious than the deletion of genes with high K1
+because low K1 should restrict the influence of the                                          5
+perturbations brought about by gene deletion (Maslov &
+Sneppen 2002). We therefore measured the average                                             0   10        20    30    40      50         60    70
+degree K1 of nearest neighbours as a function of k for
+                                                                                                                 degree k
+essential and non-essential genes, using either the affinity
+purification database or the DIP core database. We found           Figure 1. The average degree K1 of nearest neighbours as a
+no significant difference between the K1 of essential and          function of the degree k for essential (black circles) and non-
+non-essential genes whatever their degrees k (figure 1 and         essential genes (grey diamonds). The list of interactions used
+                                                                   is defined by the affinity purification database and similar
+data not shown). Hence the essentiality of a gene does not
+                                                                   results were obtained with the DIP core database.
+seem to be related to the average degree of its neighbours
+in interaction networks.
+    Interestingly, we also observed that K1 is independent
+of k for both essential and non-essential genes. We                    (a) 25
+confirmed this observation by measuring K1 as a function
+
+
+
+                                                                        average degree K1
+                                                                                            20
+of k for all genes with the affinity purification and the DIP
+core databases (figure 2a). This absence of correlation                                     15
+between k and K1 contradicts several reports stating that
+yeast protein interaction networks exhibit a negative                                       10
+degree correlation, that is a propensity for high-degree
+vertices to attach to low-degree vertices (Maslov &                                          5
+Sneppen 2002; Newman 2002; Newman 2003). How-
+ever, these studies used the full sets of data derived from                                  0   10        20    30     40     50         60    70
+systematic two-hybrid screens (Uetz et al. 2000; Ito et al.                                                      degree k
+2001), which suffer from several flaws, the most
+problematic one in this case being the number of false                 (b)
+                                                                                            40
+positives arising from the spurious activation of the
+                                                                        average degree K1
+
+
+
+
+reporter genes by proteins behaving as weak transcrip-                                      30
+tional activators (Aloy & Russell 2002). To illustrate the
+facility with which very few spurious hubs can bias these                                   20
+measures, we introduced into the experimental database
+                                                                                            10
+affinity purification three artificial vertices randomly
+connected to 100, 150 and 200 vertices, mimicking the
+kind of artifacts that can be observed in two-hybrid                                         0        40        80       120        160        200
+experiments. As shown in figure 2b, the introduction of                                                          degree k
+these three hubs enriches the network into low-degree
+                                                                   Figure 2. Absence of correlation between the degrees k of
+vertices linked to high-degree ones and brings about a             genes and the average degrees K1 of their nearest neighbours.
+negative degree correlation comparable to that previously          (a) The average degrees K1 of the nearest neighbours of genes
+reported (Maslov & Sneppen 2002).                                  are plotted against their degrees k using either the affinity
+                                                                   purification database (black squares) or the DIP core
+(c) The essentiality of a gene and its clustering                  database (grey triangles)—the point (kZ111; K1Z5.2) for
+coefficient                                                        the DIP database is out of the range of the figure. (b) K1 is
+Essential and non-essential genes have also been proposed          plotted as a function of k for the affinity purification database
+to differ in their clustering coefficients ( Yu et al. 2004).      complemented with three artificial hubs randomly connected
+                                                                   to 100, 150 and 200 vertices. The introduction of the three
+The clustering coefficient of a vertex i, Ci, is defined as the
+                                                                   spurious hubs and the subsequent measure of K1 were
+ratio between ni, the number of links that exist between the
+                                                                   repeated 100 times and the averaged results are represented
+ki neighbours of the vertex i, and ki (kiK1)/2, the number         here. The first point (kZ1) has been removed as it
+of all possible links between these ki neighbours. The             corresponds exclusively to vertices that have not been directly
+average clustering coefficients of essential and non-              affected by the introduction of the spurious hubs.
+essential genes are almost identical for the DIP core
+database (0.31 and 0.29, respectively) and the data core of
+the Ito et al. study (0.09 and 0.11, respectively), but quite      a relationship between the clustering coefficient and the
+different with the affinity purification database (0.29 and        essentiality of genes specifically when their protein
+0.18, respectively) and the database derived from the              products are part of stable complexes. However this
+Gavin et al. study (0.40 and 0.30, respectively). Since the        potential connection is not valid when considering more
+affinity purification database and the results of the Gavin        diverse sets of interactions like those recorded in the Ito
+et al. study are probably enriched in interactions within          et al. study or in the DIP core database, and we cannot
+stable protein complexes, our observations could hint at           reliably associate gene essentiality with this parameter.
+
+Proc. R. Soc. B (2005)
+                                         Downloaded from http://rspb.royalsocietypublishing.org/ on December 15, 2015
+
+
+1724 S. Coulomb and others Gene essentiality and protein network topology
+
+                    35                                                          between the essentiality of a gene and its topological
+                    30                                                          characteristics in interaction networks. One of the main
+                                                                                problems in studying interaction networks lies in the
+    frequency (%)
+
+                    25
+                                                                                choice of the interaction databases. All interaction
+                    20                                                          databases are probably biased and it appears crucial to
+                    15                                                          try to understand these biases and to test several bases
+                    10                                                          recording different kinds of data.
+                     5                                                             Several authors have proposed that topological charac-
+                                                                                teristics of protein interaction networks like their degree
+                     0
+                         1   2   3     4    5   6     7     8   9   10          distribution or degree correlation could account for cell
+                                  distance (number of links)                    robustness against mutations ( Jeong et al. 2001; Maslov &
+                                                                                Sneppen 2002; Barabasi & Oltvai 2004). However, these
+Figure 3. The distributions of the distances separating query
+genes from their SLS partners (black circles) and from the                      hypotheses are inconsistent with the observation that the
+whole set of non-essential genes (grey diamonds). The                           essentiality of genes is either poorly related or completely
+distances represent the numbers of intermediate links in the                    unrelated to their topological parameters in the interaction
+gene interaction network defined by the DIP core database.                      networks. The fact that the structure of interaction
+They were measured using a breadth-first search algorithm.                      networks has little or no effect on gene essentiality and
+Only query genes whose complete deletion has been studied                       mutational robustness is compatible with the hypotheses
+were included in this analysis. Similar results were obtained                   that the topology of interaction networks would not be
+with the affinity purification database.                                        submitted to evolutionary constraints and that their
+                                                                                structural features would simply be the consequences of
+(d) Synthetic lethality/sickness and the relative
+                                                                                construction processes. Indeed, it has been shown that
+distances between genes
+                                                                                protein interaction networks with a large degree distri-
+Finally we tested whether the distance between genes in
+                                                                                bution could be generated with evolution processes
+the interaction networks could be related to the pheno-
+                                                                                involving gene duplication and addition and deletion of
+types of double mutations. Using again the study by Tong
+                                                                                links, without invoking natural selection on the degree
+et al. (2004) and either the affinity purification database or
+                                                                                distribution itself (Wagner 2003). More recently,
+the DIP core database, we found that the average distance
+                                                                                Amoutzias et al. (2004) and van Noort et al. (2004) have
+separating query genes from their SLS partners in the
+                                                                                also shown that many structural characteristics of
+interaction networks (4.7 and 5.3 links for the affinity
+                                                                                experimentally observed coexpression and interaction
+purification and the DIP core databases, respectively) is
+                                                                                networks could be generated by neutralist models without
+similar to the average distance separating query genes
+                                                                                the need of selection. Likewise, the fact that yeast protein
+from the whole set of non-essential genes (4.6 and 5.6
+                                                                                interaction networks lack degree correlation is compatible
+links for the affinity purification and the DIP core
+                                                                                with random processes of network construction, even if it
+databases, respectively). A closer analysis showed that
+                                                                                excludes some models of network evolution based on
+the distributions of the distances between query genes and
+                                                                                asymmetric link attachment (Berg et al. 2004).
+their SLS partners or the global set of non-essential genes
+                                                                                   In conclusion, our results show that gene dispensability
+are almost identical (figure 3 and data not shown). The
+                                                                                has little if any relationship to the structure of protein
+synthetic lethality or sickness of two genes in yeast thus
+                                                                                interaction networks. Further investigations will be
+does not seem related to their relative topological positions
+                                                                                required to unravel the molecular mechanisms of gene
+in interaction networks.
+                                                                                essentiality and of cell mutational resistance.
+                                                                                We would like to thank Jean-Louis Sikorav and Arach Goldar
+4. DISCUSSION                                                                   for critical comments on the manuscript, and Raphae¨l
+We have looked systematically for correlations between the                      Gue´rois for the automatic retrieval of the numbers of SGD
+essentiality of genes and several of their topological                          curated references.
+characteristics in interaction networks. We have shown
+that the essentiality of genes or their synthetic lethality or
+sickness in yeast are only weakly related to their degrees in
+                                                                                REFERENCES
+interaction networks and that the physiological conse-                          Aloy, P. & Russell, R. B. 2002 Potential artefacts in protein-
+quences of gene deletions are unrelated to the average                             interaction networks. FEBS Lett. 530, 253–254.
+degrees of the genes’ neighbours or to their relative                           Amoutzias, G. D., Robertson, D. L., Oliver, S. G. &
+distances. The difference in the clustering coefficients of                        Bornberg-Bauer, E. 2004 Convergent networks by
+essential and non-essential genes proved highly variable                           single-gene duplications in higher eukaryotes. EMBO
+from one interaction database to another, which precludes                          Rep. 5, 274–279.
+any general conclusion about the relationship between the                       Barabasi, A. L. & Oltvai, Z. N. 2004 Network biology:
+essentiality of a gene and its cliquishness. So far no                             understanding the cell’s functional organization. Nat. Rev.
+topological feature of genes in the interaction networks has                       Genet. 5, 101–113.
+                                                                                Berg, J., Laessig, M. & Wagner, A. 2004 Structure and
+been found to be strongly related to their essentiality. We
+                                                                                   evolution of protein interaction networks: a statistical
+also showed that yeast interaction networks lack degree
+                                                                                   model for link dynamics and gene duplications. BMC
+correlation. Our results contradict several reports ( Jeong                        Evol. Biol. 4, 51.
+et al. 2001; Maslov & Sneppen 2002; Newman 2002;                                Deane, C. M., Salwinski, L., Xenarios, I. & Eisenberg, D.
+Newman 2003; Wuchty 2004; Yu et al. 2004) that argue                               2002 Protein interactions: two methods for assessment of
+for the existence of a negative degree correlation in yeast                        the reliability of high throughput observations. Mol. Cell.
+protein interaction networks or for a strong correlation                           Proteomics 1, 349–356.
+
+Proc. R. Soc. B (2005)
+                         Downloaded from http://rspb.royalsocietypublishing.org/ on December 15, 2015
+
+
+                                               Gene essentiality and protein network topology    S. Coulomb and others   1725
+
+Gavin, A. C. et al. 2002 Functional organization of the yeast      Newman, M. E. 2002 Assortative mixing in networks. Phys.
+   proteome by systematic analysis of protein complexes.              Rev. Lett. 89, 208 701.
+   Nature 415, 141–147.                                            Newman, M. E. 2003 Mixing patterns in networks. Phys.
+Ghaemmaghami, S., Huh, W. K., Bower, K., Howson, R. W.,               Rev. E Stat. Nonlin. Soft Matter Phys. 67, 026 126.
+   Belle, A., Dephoure, N., O’Shea, E. K. & Weissman, J. S.        Tong, A. H. et al. 2004 Global mapping of the yeast genetic
+   2003 Global analysis of protein expression in yeast. Nature        interaction network. Science 303, 808–813.
+   425, 737–741.                                                   Uetz, P. et al. 2000 A comprehensive analysis of protein–
+Giaever, G. et al. 2002 Functional profiling of the Sacchar-          protein interactions in Saccharomyces cerevisiae. Nature
+   omyces cerevisiae genome. Nature 418, 387–391.                     403, 623–627.
+Gu, Z., Steinmetz, L. M., Gu, X., Scharfe, C., Davis, R. W. &      van Noort, V., Snel, B. & Huynen, M. A. 2004 The yeast
+   Li, W. H. 2003 Role of duplicate genes in genetic                  coexpression network has a small-world, scale-free archi-
+   robustness against null mutations. Nature 421, 63–66.              tecture and can be explained by a simple model. EMBO
+Ho, Y. et al. 2002 Systematic identification of protein               Rep. 5, 280–284.
+   complexes in Saccharomyces cerevisiae by mass spec-             Wagner, A. 2003 How the global structure of protein
+   trometry. Nature 415, 180–183.                                     interaction networks evolves. Proc. R. Soc. B 270,
+Ito, T., Chiba, T., Ozawa, R., Yoshida, M., Hattori, M. &             457–466. (doi:10.1098/rspb.2002.2269.)
+   Sakaki, Y. 2001 A comprehensive two-hybrid analysis to          Wuchty, S. 2004 Evolution and topology in the yeast protein
+   explore the yeast protein interactome. Proc. Natl Acad. Sci.       interaction network. Genome Res. 14, 1310–1314.
+   USA 98, 4569–4574.                                              Xenarios, I., Rice, D. W., Salwinski, L., Baron, M. K.,
+Jeong, H., Mason, S. P., Barabasi, A. L. & Oltvai, Z. N. 2001         Marcotte, E. M. & Eisenberg, D. 2000 DIP: the database
+   Lethality and centrality in protein networks. Nature 411,          of interacting proteins. Nucleic Acids Res. 28, 289–291.
+   41–42.                                                          Yu, H., Greenbaum, D., Xin Lu, H., Zhu, X. & Gerstein, M.
+Maslov, S. & Sneppen, K. 2002 Specificity and stability in            2004 Genomic analysis of essentiality within protein
+   topology of protein networks. Science 296, 910–913.                networks. Trends Genet. 20, 227–231.
+
+
+
+
+Proc. R. Soc. B (2005)
+

@@ -1,0 +1,435 @@
+                                                                                 Gene 439 (2009) 11–16
+
+
+
+                                                                   Contents lists available at ScienceDirect
+
+
+                                                                                         Gene
+                                                     j o u r n a l h o m e p a g e : w w w. e l s e v i e r. c o m / l o c a t e / g e n e
+
+
+
+
+Multifunctionality dominantly determines the rate of human housekeeping and
+tissue speciﬁc interacting protein evolution
+Soumita Podder, Pamela Mukhopadhyay, Tapash Chandra Ghosh ⁎
+Bioinformatics Centre, Bose Institute, P 1/12, C.I.T. Scheme VII M, Kolkata 700 054, India
+
+
+
+
+a r t i c l e          i n f o                             a b s t r a c t
+
+Article history:                                           Elucidation of the determinants of the rate of protein sequence evolution is one of the great challenges in
+Received 27 October 2008                                   evolutionary biology. It has been proposed that housekeeping genes are evolutionarily slower than tissue
+Received in revised form 2 March 2009                      speciﬁc genes. In the present communication, we have examined different determinants that inﬂuence the
+Accepted 6 March 2009
+                                                           evolutionary rate variation in human housekeeping and tissue speciﬁc proteins present in protein–protein
+Available online 20 March 2009
+                                                           interaction network. Studies on yeast proteome, revealed a predominant role of protein connectivity in
+Received by F.G. Alvarez-Valin                             determining the rate of protein evolution. However, in human, we did not observe any signiﬁcant inﬂuence of
+                                                           protein connectivity on its evolutionary rate. Rather, a signiﬁcant impact of the proportion of protein's
+Keywords:                                                  interacting length (amount of protein interface involved in interaction with its partners), expression level
+Protein–protein interaction network                        and multifunctionality has been observed in determining the rate of protein evolution. We also observed that
+Evolutionary rate                                          multi interface proteins are evolutionarily conserved between housekeeping and tissue speciﬁc genes and it
+Multi interface protein                                    has been found that the average number of biological processes they associated in these two sets of genes is
+Single interface proteins                                  similar. Moreover, single interface proteins in housekeeping genes evolve more slowly as compared to tissue
+Connectivity
+                                                           speciﬁc genes owing to their involvement in different number of biological processes. Partial correlation
+Multifunctionality
+                                                           analysis suggests that the relative importance of three individual factors in determining the evolutionary rate
+                                                           variation between housekeeping and tissue speciﬁc proteins is in the order of protein multifunctionali-
+                                                           ty N protein expression level N interacting protein length.
+                                                                                                                                 © 2009 Elsevier B.V. All rights reserved.
+
+
+
+
+1. Introduction                                                                                   pleiotropy (He and Zhang, 2006a) have presented a fair view of
+                                                                                                  molecular evolution, though some of them are confounding to some
+    Different proteins evolve at different rates in the same organism.                            extent (Pal et al., 2006). Drummond et al. (2006) demonstrated that
+Understanding the factors causing differences in the evolutionary                                 expression level strongly correlates with protein evolutionary rates in
+rates of proteins have always been a study of interest. Several studies,                          yeast. Similar study on mammalian genes detected gene essentiality
+attempting to correlate protein evolutionary rates with different                                 as one of the most important determinant of protein evolution (Liao
+parameters such as gene essentiality (Hurst and Smith, 1999; Hirsh                                et al., 2006). However, till date, exploring factors determining protein
+and Fraser, 2001; Jordan et al., 2002; Wall et al., 2005; Zhang and He,                           evolutionary rate has remained the subject of active speculation and
+2005), gene expression level (Pal et al., 2001; Akashi, 2003; Rocha and                           ongoing research. The recent progress in the post genomic molecular
+Danchin, 2004; Subramanian and Kumar, 2004; Drummond et al.,                                      biology has been aimed to correlate the protein evolutionary rate with
+2006), tissue speciﬁcity (Hastings, 1996; Duret and Mouchiroud,                                   different features of protein–protein interaction network. Proteins
+2000; Winter et al., 2004; Zhang and Li, 2004), gene duplicability                                rarely act alone; rather, they carry out their activities through a
+(Nembaware et al., 2002; Castillo-Davis and Hartl, 2003; Yang et al.,                             multitude of interactions with other proteins or molecules. Interacting
+2003), properties in the protein–protein interaction network (Fraser                              proteins are fundamental components of almost all biological
+et al., 2002, 2003; Fraser and Hirsh, 2004; Fraser, 2005; Hahn and                                processes as they mediate a wide range of cellular functions to the
+Kern, 2005; Makino and Gojobori, 2006; Kahali et al., 2009), and                                  organism. Several reports claim that proteins with more interactors
+                                                                                                  evolve more slowly because they have functionally constrained
+                                                                                                  residues (Fraser et al., 2002, 2003). However, studies using different
+   Abbreviations: PPIN, Protein-Protein Interaction Network; ENC, Effective Number of             interaction datasets contradicted the above association between
+Codons; EST, Expressed Sequence Tags; dN, nonsynonymous substitution rate; HPRD,                  evolutionary rates and the number of protein–protein interactions
+Human Protein Reference Database; BIND, Bimolecular Interaction Network Database;
+MINT, Molecular INTeraction database; PFAM, Protein Family database.
+                                                                                                  (Jordan et al., 2003). Kim et al. explained this view in a different way.
+ ⁎ Corresponding author. Tel.: +91 33 2355 6626; fax: +91 33 2355 3886.                           They basically emphasized the role of structural constraints on protein
+   E-mail address: tapash@boseinst.ernet.in (T.C. Ghosh).                                         evolution (Kim et al., 2006). Jeong et al. (2001) proposed the
+
+0378-1119/$ – see front matter © 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.gene.2009.03.005
+12                                                         S. Podder et al. / Gene 439 (2009) 11–16
+
+
+“Lethality and Centrality” rule which reﬂects the crucial role of hub            were then compared with the species-speciﬁc EST data set by using
+proteins (i.e. highly connected proteins) in the architecture of the             BLASTN program. Alignments showing at least 60% identity and 80%
+protein network. Under this scenario hub proteins tend to be more                overlaps were counted as a sequence match. The numbers of EST
+essential than non hub proteins in protein networks (He and Zhang,               counts in each library for individual genes were summed. The total
+2006b). Most of the studies on protein–protein interaction network               EST count across 41 libraries represents mRNA abundance for that
+have been focused on unicellular organism particularly in yeast (Duret           particular gene.
+and Mouchiroud, 2000; Fraser et al., 2002, 2003; Kim et al., 2006;
+Drummond et al., 2006). Unlike unicellular organisms, mammalian                  2.4. Tissue speciﬁcity of gene expression
+cells are highly differentiated and different types of cells turn on
+different sets of genes to maintain their identities and functions.                 We used tissue speciﬁcity index τ (Yanai et al., 2005) to measure
+Focusing on the human protein–protein interaction network (PPIN),                the tissue speciﬁcity of 17,209 human genes. The τ of human gene i is
+we observed that there is a heterogeneity in the evolutionary rate of            deﬁned by
+human interacting proteins residing in housekeeping and tissue                                            h                     i
+speciﬁc PPIN. A number of factors inﬂuencing the rate of protein                         PnH                              ði;jÞ
+                                                                                            j = 1       1 − loglogS2 SðHi;max   Þ
+evolution have been supported by extensive sequence analysis (Jordan             TH =                              2 H
+                                                                                                                                      ;
+                                                                                                         nH − 1
+et al., 2003; Hahn and Kern, 2005; Makino and Gojobori, 2006; Kahali
+et al., 2009). We sought to further investigate the most promising               where nH is the number of human tissues examined and SH (i, max) is
+underlying phenomenon that led to the evolutionary rate differentia-             the highest expression signal of gene i across the nH tissues. The value
+tion between the housekeeping and tissue speciﬁc PPIN. We inferred               ranges from zero to one, with higher values indicating higher
+that the evolutionary rate difference between housekeeping and                   variations in expression level across tissues or higher tissue
+tissue speciﬁc PPIN is guided by the protein multifunctionality over             speciﬁcities. If a gene has expression in only one tissue, the value
+protein connectivity, expression level and interacting protein length.           approaches to one. In contrast, if a gene is equally expressed in all
+                                                                                 tissues, =0. We assigned housekeeping and tissue speciﬁc genes by
+2. Materials and methods                                                         sorting our dataset according to an increase in τ values and taking out
+                                                                                 genes from extreme 20% of population from both ends. By considering
+2.1. Sequence data                                                               the above criteria we obtained 1953 housekeeping and 1941 tissue
+                                                                                 speciﬁc human genes.
+   The coding and orthologous sequences between human and
+mouse were retrieved from Ensembl (release 49) (http://www.                      2.5. Identiﬁcation of protein–protein interaction
+ensembl.org/biomart/martview) (Liao and Zhang, 2006). The
+orthologous sequences which have at least 30% identity in amino                     Human protein interaction data was retrieved from HPRD-version7
+acid level were retained for further analysis. By using above cut off            (http://www.hprd.org/) (Mishra et al., 2006). HPRD contains 9427
+value we ﬁnally obtained 17,209 human–mouse putative ortholo-                    proteins that have been annotated with at least one or more direct
+gous sequences. All the analysis was performed using 17,209 human                interacting partners (out of ∼ 20,000 proteins annotated in this
+genes.                                                                           database) while BIND, IntAct and MINT contain the information of
+                                                                                 3,887; 4,614 and 4,975 proteins respectively (Mathivanan et al., 2006).
+2.2. Gene expression data                                                        From HPRD, we considered 15,458 non redundant protein–protein
+                                                                                 interactions. These interacting proteins are then mapped into house-
+   The expression information in human was obtained from micro-                  keeping and tissue speciﬁc orthologous sets and ﬁnally we assigned
+array data, GNF Gene Atlas (http://symatlas.gnf.org/SymAtlas/) (Su               1350 housekeeping and 1290 tissue speciﬁc interacting proteins for
+et al., 2004). Out of 22,217 probe sets, 18,447 were mapped into                 the analysis (Supplementary Tables 2 and 3).
+Ensembl human genes. Genes represented by more than a single
+probe set were discarded in order to avoid re-counting. Different                2.6. Interacting domain identiﬁcation
+genes sharing the same probe sets were also eliminated (with the
+exception of splice variants). A single and unique probe set therefore               Protein sequences were obtained from Ensembl 49 BioMart
+represents each of the 11,536 remaining human genes. Expression                  (http://www.ensembl.org/biomart/martview) (Liao and Zhang,
+values (expression signal intensities in each tissue) of genes were              2006). Interacting domains were retrieved from PFAM repository
+averaged over 19 human tissues that represent relative expression                (http://pfam.sanger.ac.uk/) (Bateman et al., 2002). To analyze the
+level across 19 tissues. These 19 tissues are adrenal gland, amyglada,           interacting protein interfaces, the working hypothesis is that inter-
+bone marrow, cerebellum, kidney, liver, lung, ovary, pituitary,                  acting domains confer binding capability to protein regions. The
+placenta, prostate, spinal cord, testis, thyroid, tongue, trachea, spleen,       following cutoff values were used for domain assignment: (1) e-value
+thymus and uterus. We sorted the average expression values in an                 of alignment b1.0 × 10− 4; (2) domain length N12; (3) matched
+ascending order, then divided them into ﬁve equal groups, each                   sequence length N80% of domain length (Kim et al., 2008). In
+containing 20% of population, and assigned an expression rank from 1             particular, single interface proteins were designated as having few
+(low expression) to 5 (high expression) (Ren et al. 2006).                       interaction interfaces (two at most) and multi interface proteins
+                                                                                 having more than two interacting interface (Kim et al., 2006). The
+2.3. Expression proﬁles by ESTs data                                             numbers of housekeeping multi interface and single interface proteins
+                                                                                 are respectively 83 and 387. The numbers of multi interface and single
+   Human EST data were retrieved from TIGR Gene Indices (http://                 interface proteins belonging to tissue speciﬁc PPIN are respectively
+compbio.dfci.harvard.edu/tgi/). We determined gene expression level              113 and 595. Then we calculated protein interacting length by the
+by counting the number of occurrence of each transcript of a gene                following formula:
+among 179 EST libraries that have been sampled with at least 10,000
+ESTs (Duret and Mouchiroud, 1999). From 179 EST libraries pathogenic                                                                      P
+                                                                                                                                              Each interacting domain length
+and cancerous libraries were eliminated and ﬁnally 41 libraries were             k of Protein interacting length =
+                                                                                                                                                     Protein length
+kept for further calculation of expression level (Supplementary Table
+1 contains full description of ESTs libraries). Human coding sequences                                                                    × 100:
+                                                                        S. Podder et al. / Gene 439 (2009) 11–16                                                                13
+
+
+Table 1                                                                                           A number of parameters like protein connectivity (Fraser et al.,
+Spearman's rank correlation coefﬁcient (ρ) and partial correlation coefﬁcient (ρ′)            2002, 2003; Fraser and Hirsh, 2004; Fraser, 2005), binding interface
+between various factors and dn.
+                                                                                              (Kim et al., 2006, 2008), expression level (Subramanian and Kumar,
+Factors                             dn                          dn                            2004), multifunctionality (Orr, 2005; Hahn and Kern, 2005) have been
+                                    Spearman's Rank             Partial Rank Correlation      shown to affect the rate of protein evolution. However, till date there
+                                    Correlation                                               has been no evidence whether the above mentioned factors
+                                    ρ           P value         ρ′          P value           independently determine the slower evolutionary rate of house-
+Connectivity                        − 0.024  5.69 × 10− 1       − 0.007   8.74 × 10− 1        keeping interacting proteins in human. We ﬁrst determined the non-
+                                    − 0.007# 7.79 × 10− 1#      − 0.010# 6.79 × 10− 1 #       parametric spearman's correlation of above mentioned four biological
+% of protein's interacting length   − 0.775  1.00 × 10− 3       − 0.098  1.90 × 10− 2
+                                                                                              variables (connectivity, binding interface, expression level and multi-
+                                    − 0.276# 1.00 × 10− 3#      − 0.069#   0.8 × 10− 3#
+Expression level                    − 0.785  1.00 × 10− 3       − 0.228   1.00 × 10− 3        functionality) with tissue speciﬁcity of human proteins. Interestingly,
+                                    − 0.316# 1.00 × 10− 3#      − 0.159# 1.00 × 10− 3#        connectivity does not correlate with tissue speciﬁcity (Rs = − 0.048,
+Multifunctionality                  − 0.977  1.00 × 10− 3       − 0.275   1.00 × 10− 3        P = 0.247) of the proteins. On the other hand, tissue speciﬁcity of
+                                    − 0.964# 1.00 × 10− 3#      − 0.492# 1.00 × 10− 3#
+                                                                                              proteins bears a signiﬁcant negative correlation with each of (i)
+Note. Correlations (#) by using EST expression data. Rests are by using Micro array data.     expression level (Rs = − 0.486, P b 0.001), (ii) interacting length
+Partial correlation of evolutionary rate with any 1 of the 4 biological factors controlling   (Rs = −0.465, P b 0.001) and (iii) multifunctionality (Rs = −0.581,
+for other 3 factors.
+                                                                                              P b 0.001). However, recently it has been demonstrated that 92–94% of
+                                                                                              human genes undergo alternative splicing (Wang et al., 2008).
+2.7. GO annotation                                                                            Expression proﬁles identiﬁed using microarray data have achieved
+                                                                                              more consistent coverage of tissues but are unable to distinguish
+   Multifunctionality of a gene was calculated by the number of                               closely related mRNA isoforms. Therefore, we have calculated
+biological processes in which a gene is involved (Salathe et al., 2006).                      expression level and tissue speciﬁcity (tau) of genes using EST data.
+Biological processes of each gene were assigned according to GO Slim                          Interestingly, we found a negative correlation between expression
+that classiﬁes proteins to gain a high level view of the functions                            level and tissue speciﬁcity (Rs = − 0.124, P b 0.001) as observed using
+(Prachumwat and Li, 2006). The number of biological processes                                 microarray expression data. It is further to be noted that tissue
+according to the Gene Ontology project (Camon et al., 2004) for all                           speciﬁcity using microarray data has a strong positive correlation
+human genes was retrieved from Ensembl 49 BioMart (http://www.                                (Spearman's rank correlation coefﬁcient = 0.872, (P b 1.0 × 10− 3) with
+ensembl.org/biomart/martview).                                                                tissue speciﬁcity calculated from EST data (Supplementary Fig. 1). This
+                                                                                              indicates that tissue speciﬁcity of genes remains the same irrespective
+2.8. Calculation of effective number of codons                                                of different expression sources. Thus, all the analyses were performed
+                                                                                              on the dataset (housekeeping and tissue speciﬁc genes) derived from
+   The effective number of codons (ENC) used to measure codon                                 micro array expression data. We also measured the correlations of
+usage bias (Wright, 1990) of a gene ranges from 20 (when only one                             above four biological variables with evolutionary rate of housekeeping
+codon is used per amino acid) to 61 (when all codons are used in equal                        and tissue speciﬁc interacting proteins individually. We did not
+probability). Codon usage bias was estimated according to the method                          observe any correlation between connectivity and protein evolution-
+of Novembre (2002) (ENC′) that accounts for the background                                    ary rates in these two sets of human proteins (Table 1 and Fig. 2D).
+nucleotide composition and is minimally affected by sequence length.                          Distributions of housekeeping and tissue speciﬁc interacting proteins
+                                                                                              in different connectivity range shown in Fig. 1 demonstrate that the
+2.9. Sequence analysis                                                                        number of interacting partners is uniformly distributed across
+                                                                                              housekeeping and tissue speciﬁc interacting proteins. This indicates
+   Pair-wise synonymous (ds) and non-synonymous (dn) distances                                that reported correlation between connectivity and protein evolu-
+between the orthologous genes of human and mouse were calculated                              tionary rate is free from any bias in their distribution. On the contrary,
+using PAML package with default parameters (Yang and Nielsen,                                 it has been shown that in Saccharomyces cerevisiae, there exists a
+2000).The non-parametric Mann–Whitney U test was used to                                      simple correlation between protein evolutionary rate and the number
+evaluate the signiﬁcance of all the pair-wise differences. Non-
+parametric Spearman's correlation test was used to evaluate the
+correlation coefﬁcient between two parameters and partial correla-
+tion was done to analyze relative inﬂuence of each parameter in
+guiding evolutionary rate. All the statistical tests were performed
+using the SPSS (13.0) package.
+
+3. Results
+
+3.1. Analyzing the factors affecting evolutionary rate variations between
+housekeeping and tissue speciﬁc human interacting proteins
+
+   We compiled a list of 1350 housekeeping and 1290 tissue speciﬁc
+proteins present in human PPIN according to the method as described
+in material and methods section. The number of non-synonymous
+substitution per non-synonymous site (dn) was estimated for these
+proteins using mouse orthologs. Pair-wise non-parametric Mann–
+Whitney test between housekeeping and tissue speciﬁc proteins
+present in human PPIN revealed that housekeeping interacting
+proteins are evolutionarily slower (dn = 0.09) (P b 0.001) than tissue
+speciﬁc proteins (dn = 0.11) which is in agreement with the previous                          Fig. 1. Distribution of interacting proteins in housekeeping and tissue speciﬁc genes
+studies (Winter et al., 2004; Zhang and Li, 2004).                                            present in PPIN.
+14                                                                   S. Podder et al. / Gene 439 (2009) 11–16
+
+
+
+
+Fig. 2. Scatter plot showing correlation between evolutionary rate and (A) expression rank using micro array data, (B) % of protein interacting length, (C) multifunctionality, (D)
+connectivity and (E) expression rank using EST data.
+
+
+
+of protein–protein interactions (Fraser et al. 2002). Human being                           protein. In intermediate connected proteins (number of interacting
+more complex than S. cerevisiae, the connectivity may not play any                          proteins 3–9), there are 69 multi interface and 429 single interface
+role in explaining the evolutionary rate variation between two sets of                      proteins whereas a total of 94 multi interface and 282 single interface
+interacting proteins that might be superimposed by other evolu-                             proteins was observed in highly connected proteins (number of
+tionary factors. Table 1 and Fig. 2 show that, all the three factors are                    interacting partners 10 and above). From the above result, it is clear
+negatively correlated with evolutionary rates of housekeeping and                           that protein interaction network could be distinguished into multi and
+tissue speciﬁc interacting proteins. In order to examine whether all                        singlish interface proteins. We only considered multi and singlish
+these factors independently inﬂuence evolutionary rate, we computed                         interface proteins encoding housekeeping and tissue speciﬁc expres-
+partial correlation analysis. In the partial correlation analysis, we                       sion pattern. Our results (Table 2) show that multi interface proteins
+focused on the correlation between the evolutionary rate and 1 of the                       are evolutionarily slower than the singlish interface proteins,
+4 factors (i.e. connectivity, protein interacting length, protein expres-                   presumably due to stronger constraints of the multiple interfaces
+sion level, protein multifunctionality), by controlling the other 3                         (Kim et al. 2006). Interestingly, we observed a signiﬁcant (Mann–
+factors. We observed that all the factors except connectivity have                          Whitney's P b 0.001) difference in evolutionary rate between house-
+signiﬁcant partial correlation with the protein evolutionary rate                           keeping and tissue speciﬁc single interface proteins, whereas no
+(Table 1). Therefore, the relative importance of the factors in                             difference was found between housekeeping and tissue speciﬁc multi
+determining the evolutionary rate of proteins residing in house-                            interface proteins. This result demonstrates that multi interface
+keeping as well as tissue speciﬁc PPIN is multifunctionality N protein                      proteins are evolutionarily conserved across housekeeping and tissue
+expression level N interacting protein length.                                              speciﬁc protein–protein interaction network. These lead us to further
+                                                                                            investigate how the three biological variables (protein's interacting
+3.2. Evolutionary forces in determining the evolutionary rate
+differentiation of multi and singlish interface proteins
+                                                                                            Table 2
+    Kim et al. (2006) on layering three-dimensional structural                              Evolutionary rate (dn) difference between multi interface proteins and single interface
+information on top of protein interaction networks revealed two                             proteins of housekeeping and tissue speciﬁc PPIN.
+
+different kinds of highly connected proteins or “hubs”. One type,                           Category                Average dn of Multi     Average dn of Singlish     Signiﬁcance
+referred to as a single interface hub, makes interactions to numerous                                               interface protein       interface protein          level⁎
+other proteins using just one binding surface; these interactions are                       Housekeeping PPIN       0.07                    0.11                       P b 5 × 10− 2
+mutually exclusive. The other type, a multi interface hub, makes                            Tissue speciﬁc PPIN     0.09                    0.14                       P b 4 × 10− 3
+                                                                                            Signiﬁcance level       NS                      P b 1 × 10− 3
+simultaneous interactions to multiple other proteins using multiple
+distinct binding surfaces. However, to our surprise, even in lowly                          Signiﬁcant level⁎ (two tailed Mann–Whitney's P) shows signiﬁcant difference between
+connected proteins (number of interacting partners 1–2) we observed                         multi interface and single interface proteins within housekeeping and within tissue
+                                                                                            speciﬁc PPIN. Signiﬁcant level (two tailed Mann–Whitney's P) shows signiﬁcant
+33 multi interface and 271 single interface proteins. There are 25 multi                    difference between multi interface proteins of housekeeping and tissue speciﬁc PPIN
+interface proteins that make simultaneous interaction with two                              and single interface proteins of housekeeping and tissue speciﬁc PPIN.
+interacting partner using distinct binding surface in lowly connected                       Note. NS indicates not signiﬁcant.
+                                                                       S. Podder et al. / Gene 439 (2009) 11–16                                                                     15
+
+
+Table 3
+Difference in expression level, % of interacting length, multifunctionality of multi interface and single interface proteins between housekeeping and tissue speciﬁc PIN.
+
+Factors                                                      Multi interface proteins                     Signiﬁcance       Singlish interface proteins                 Signiﬁcance
+                                                             Housekeeping PPIN      Tissue speciﬁc PPIN   level             Housekeeping PPIN     Tissue speciﬁc PPIN   level⁎
+
+Expression level in terms of expression signal intensities   338.83                 170.90                P b 1.0 × 10− 3   286.93                148.63                P b 1.0 × 10− 3
+Expression level in terms of total mRNA abundance             40.88                  22.96                                   30.18                 21.75
+% of interacting length                                       54.20                  47                   P b 2.2 × 10− 2    45.62                 38.63                P b 1.0 × 10− 3
+Multi-functionality                                           15.89                  14.03                NS                 10.51                  8.41                P b 1.0 × 10− 3
+
+Signiﬁcant level (two tailed Mann–Whitney's P) shows signiﬁcant difference between multi interface proteins within housekeeping and tissue speciﬁc PPIN. Signiﬁcant level⁎ (two
+tailed Mann–Whitney's P) shows signiﬁcant difference between single interface proteins of housekeeping and tissue speciﬁc PPIN.
+Note. NS indicates not signiﬁcant.
+
+
+
+
+length, expression level and multifunctionality) could explain the                           as they are involved in many different biological processes, the
+ambiguity in their evolutionary rates. Table 3 shows that there are no                       substitutions that are beneﬁcial for one process might often be
+signiﬁcant differences in multifunctionality (average number of                              deleterious for others (Salathe et al., 2006). We demonstrated that
+biological processes) between housekeeping and tissue speciﬁc                                slower evolutionary rate of housekeeping interacting proteins is
+multi interface proteins, whereas other two parameters varies                                predominantly due to their involvement with higher number of
+signiﬁcantly. In case of singlish interface proteins all three variables                     average biological processes than tissue speciﬁc interacting proteins.
+vary signiﬁcantly in both sets of proteins present in human PPIN                             On further dividing housekeeping and tissue speciﬁc interacting
+(Table 3). In order to ﬁnd the independent inﬂuence of three                                 proteins according to the number of interface they contain (i.e. multi
+parameters on the evolutionary rate, we performed multivariate                               and singlish interface proteins) it was observed that only multi-
+regression analysis in these two sets of proteins. In this method we can                     functionality inﬂuence evolutionary rate of multi interface proteins
+look at the inﬂuence of all potential predictor variables at the same                        between two sets of proteins present in human PPIN. Whereas, in case
+time and can eliminate step by step those predictors that contribute                         of singlish interface proteins, multifunctionality along with gene
+least to the regression model (Drummond et al., 2006). We observed                           expression level and protein interacting length determine the
+that among three determinants only multifunctionality indepen-                               evolutionary rate differences between the two sets of PPIN.
+dently inﬂuences the evolutionary rate of multi interface proteins                               Our results revealed that protein evolutionary rate is inﬂuenced by
+across housekeeping and tissue speciﬁc interacting proteins (Table 4).                       the amount of protein interacting surface and not simply by the
+On the other hand, for singlish interface proteins all the three                             number of interacting partners. Previous studies suggested that
+determinants independently inﬂuence evolutionary rate across these                           protein interacting length is proportional to the number of protein
+two sets of interacting proteins (Table 4). From the results it could be                     interaction (Fraser et al., 2002). However, in our study we did not ﬁnd
+inferred that multifunctionality is the main driving force for the                           any correlation between them (Rs = 0.022, P = 0.587). We argued
+evolutionary rate differences in two types of interacting proteins                           that this correlation does not exist, possibly due to the fact that
+(multi and singlish interface).                                                              interacting protein with lower domain content may interact with
+                                                                                             higher number of interacting partners as observed in our dataset.
+4. Discussion                                                                                Furthermore, it is also evident from our results that housekeeping
+                                                                                             interacting proteins have higher interacting length (20%) than tissue
+    Systematic analyses of proteomic data in our study, have demon-                          speciﬁc proteins (16%) presumably due to abundance of multi
+strated the inﬂuence of a range of factors on the evolution of                               interface proteins in housekeeping proteins.
+interacting proteins in housekeeping and tissue speciﬁc genes. Here                              Drummond et al. (2006) suggested that expression level is the
+we demonstrated that among all factors multifunctionality is the                             single determinant that dominates the rate of yeast protein evolution.
+strongest determinant of evolutionary rate in human interacting                              In vertebrate genome it has been observed that gene expression level
+proteins. However, a recent study by Salathe et al. (2006) in yeast                          has a strong inﬂuence on the evolutionary rate of proteins (Sub-
+argued that the relationship between the multifunctionality or                               ramanian and Kumar, 2004) whereas Liao et al. (2006) proposed that
+pleiotropy of a gene and its rate of evolution is not strong enough to                       gene expression level has virtually no effect in mammalian proteins,
+constrain the rate of adaptation of a multifunctional gene. In contrast                      even though tissue speciﬁcity was observed to have a strong inﬂuence.
+to yeast, mammalian genes have highly differentiated cell types                              However, our results are in agreement with the proposal of
+leading to acquire complementary specialized functions. It is evident                        Subramanian and Kumar (2004) that gene expression level has a
+from our data that housekeeping genes being expressed essentially in                         strong correlation with protein evolutionary rate. We also found that
+all tissue have signiﬁcantly higher multifunctionality (average multi-                       housekeeping interacting proteins have signiﬁcantly higher expres-
+functionality: 11.58, P b 0.001) than tissue speciﬁc genes (average                          sion level than tissue speciﬁc interacting proteins. In this context it is
+multifunctionality: 9.63). Multifunctional genes evolve at slower rates                      to be mentioned that in unicellular organisms synonymous codon
+                                                                                             usage pattern is a major driving force in determining the protein
+                                                                                             evolutionary rate (Nie et al., 2006). However, it has already been
+Table 4                                                                                      demonstrated that in human, codon bias tends to be high in both
+Multiple regression analysis between various factors and dn of multi interface proteins
+and singlish interface proteins in housekeeping and tissue speciﬁc PPIN.
+                                                                                             highly and lowly expressed genes (Lavner and Kotlar, 2005) and the
+                                                                                             codon usage pattern is also similar between housekeeping and tissue
+Factors                             Multi interface proteins Singlish interface proteins     speciﬁc genes (Zhang and Li, 2004). In contrast, Plotkin et al. (2004)
+                                    P value                  P value
+                                                                                             reported that there is a signiﬁcant difference in synonymous codon
+% of protein's interacting length   6.75 × 10− 1             1.00 × 10− 2
+                                                                                             usage between genes speciﬁcally expressed in different human tissues
+                                    2.16 × 10− 1#            1.00 × 10− 3#
+Expression level                    2.09 × 10− 1             1.00 × 10− 3                    and urged that selective constraint acts on synonymous codon usage
+                                    1.47 × 10− 1#            1.00 × 10− 3#                   to optimize codon mediated translation. Conversely, it has been
+Multifunctionality                  2.60 × 10− 2             1.00 × 10− 3                    argued that this tissue speciﬁc variability in synonymous codon usage
+                                    1.00 × 10− 3#            1.00 × 10− 3#                   is almost entirely due to variation in GC-content among different
+Note. Correlations (#) by using EST expression data. Rests are by using Micro array data.    tissues (Semon et al., 2006). Considering the above arguments we
+16                                                                      S. Podder et al. / Gene 439 (2009) 11–16
+
+
+even compared codon usage bias (ENC′) between housekeeping and                                Higurashi, M., Ishida, T., Kinoshita, K., 2007. Identiﬁcation of transient hub proteins and
+                                                                                                   the possible structural basis for their multiple interactions. Protein Sci. 17 (1), 72–78.
+tissue speciﬁc interacting proteins after controlling the effect of                           Hurst, L.D., Smith, N.G., 1999. Do essential genes evolve slowly? Curr. Biol. 9, 747–750.
+background nucleotide composition (Novembre, 2002). However, we                               Jeong, H., Mason, S.P., Barabasi, A.L., Oltvai, Z.N., 2001. Lethality and centrality in protein
+observed no signiﬁcant (Mann–Whitney's P = 0.109) difference in                                    networks. Nature 411, 41–42.
+                                                                                              Jordan, I.K., Rogozin, I.B., Wolf, Y.I., Koonin, E.V., 2002. Essential genes are more
+codon usage bias between housekeeping (49.98) and tissue speciﬁc                                   evolutionarily conserved than are nonessential genes in bacteria. Genome Res. 12,
+(49.43) interacting proteins. Hence, in case of human, the role of                                 962–968.
+codon usage pattern in driving the evolutionary rate differentiation                          Jordan, I.K., Wolf, Y.I., Koonin, E.V., 2003. No simple dependence between protein
+                                                                                                   evolution rate and the number of protein–protein interactions: only the most
+between two sets of interacting proteins seems to be insigniﬁcant as                               proliﬁc interactors tend to evolve slowly. BMC Evol. Biol. 3, 1.
+codon usage pattern shares no signiﬁcant correlation (Rs = − 0.010,                           Kahali, B., Ahmad, S., Ghosh, T.C., 2009. Exploring the evolutionary rate differences of
+P = 0.840) with evolutionary rate. Kim et al. (2006) and Higurashi                                 party hub and date hub proteins in Saccharomyces cerevisiae protein-protein
+                                                                                                   interaction network. Gene 429 (1–2), 18–22.
+et al. (2007) already established that the multiple interface proteins
+                                                                                              Kim, P.M., Lu, L.J., Xia, Y., Gerstein, M.B., 2006. Relating three-dimensional structures to
+are under stronger purifying selection than singlish interface proteins                            protein networks provides evolutionary insights. Science 314, 1938–1941.
+due to their stable interaction type and more surface area involved in                        Kim, P.M., Sboner, A., Xia, Y., Gerstein, M., 2008. The role of disorder in interaction
+interaction. We here added an additional determinant in these factors                              networks: a structural analysis. Mol. Syst. Biol. 4, 179.
+                                                                                              Lavner, Y., Kotlar, D., 2005. Codon bias as a factor in regulating expression via translation
+that multi interface proteins are involved in more biological processes                            rate in the human genome. Gene 345 (1), 127–138.
+than single interface proteins in both housekeeping and tissue speciﬁc                        Liao, B.Y., Zhang, J., 2006. Low rates of expression proﬁle divergence in highly expressed
+genes. Our results will obviously open a new paradigm in under-                                    genes and tissue-speciﬁc genes during mammalian evolution. Mol. Biol. Evol. 23,
+                                                                                                   1119–1128.
+standing the functional and structural constraints on protein                                 Liao, B.Y., Scott, N.M., Zhang, J., 2006. Impacts of gene essentiality, expression pattern,
+evolution.                                                                                         and gene compactness on the evolutionary rate of mammalian proteins. Mol. Biol.
+                                                                                                   Evol. 11, 2072–2080.
+                                                                                              Makino, T., Gojobori, T., 2006. The evolutionary rate of a protein is inﬂuenced by
+Acknowledgements                                                                                   features of the interacting partners. Mol. Biol. Evol. 23, 784–789.
+                                                                                              Mathivanan, S., et al., 2006. An evaluation of human protein–protein interaction data in
+    The authors are thankful to the Department of Biotechnology, Govt.                             the public domain. BMC Bioinform. 18 (7 Suppl 5), S19.
+                                                                                              Mishra, G.R., et al., 2006. Human protein reference database—2006 update. Nucleic
+of India for the ﬁnancial help. We are also thankful to two anonymous                              Acids Res. 1 (34), D411–D414.
+reviewers for their valuable suggestions in improving our manuscript.                         Nie, L., Wu, G., Zhang, W., 2006. Correlation of mRNA expression and protein abundance
+                                                                                                   affected by multiple sequence features related to translational efﬁciency in Desul-
+                                                                                                   fovibrio vulgaris: a quantitative analysis. Genetics 174, 2229–2243.
+Appendix A. Supplementary data
+                                                                                              Nembaware, V., Crum, K., Kelso, J., Seoighe, C., 2002. Impact of the presence of paralogs on
+                                                                                                   sequence divergence in a set of mouse–human orthologs. Genome Res. 12, 1370–1376.
+   Supplementary data associated with this article can be found, in                           Novembre, J.A., 2002. Accounting for Background Nucleotide Composition When
+the online version, at doi:10.1016/j.gene.2009.03.005.                                             Measuring Codon Usage Bias. Mol. Biol. Evol. 19 (8), 1390–1394.
+                                                                                              Orr, H.A., 2005. The genetic theory of adaptation: a brief history. Nat. Rev., Genet. 6,
+                                                                                                   119–127.
+References                                                                                    Pal, C., Papp, B., Hurst, L.D., 2001. Does the recombination rate affect the efﬁciency of
+                                                                                                   purifying selection? The yeast genome provides a partial answer. Mol. Biol. Evol. 18,
+Akashi, H., 2003. Translational selection and yeast proteome evolution. Genetics 164,              2323–2326.
+    1291–1303.                                                                                Pal, C., Papp, B., Lercher, M.J., 2006. An integrated view of protein evolution. Nat. Rev.,
+Bateman, A., Birney, E., Cerruti, L., et al., 2002. The Pfam protein families database.            Genet. 7, 337–348.
+    Nucleic Acids Res. 30, 276–280.                                                           Plotkin, J.B., Robins, H., Levine, A.J., 2004. Tissue-speciﬁc codon usage and the
+Camon, E., Magrane, M., Barrell, D., et al., 2004. The Gene Ontology Annotation (GOA)              expression of human genes. Proc. Natl. Acad. 101, 12588–12591.
+    Database: sharing knowledge in Uniprot with Gene Ontology. Nucleic Acids Res. 1           Prachumwat, A., Li, W.H., 2006. Protein function, connectivity and duplicability in yeast.
+    (32), D262–D266.                                                                               Mol. Biol. Evol. 23 (1), 30–39.
+Castillo-Davis, C.I., Hartl, D.L., 2003. Conservation, relocation and duplication in genome   Ren, X.Y., Vorst, O., Fiers, M.W.E.J., Stiekema, W.J., Nap, J.P., 2006. Trends Genet. 10,
+    evolution. Trends Genet. 19, 593–597.                                                          528–532.
+Drummond, D.A., Raval, A., Wilke, C.O., 2006. A single determinant dominates the rate         Rocha, E.P., Danchin, A., 2004. An analysis of determinants of amino acids substitution
+    of Yeast protein evolution. Mol. Biol. Evol. 23, 327–337.                                      rates in bacterial proteins. Mol. Biol. Evol. 21, 108–116.
+Duret, L., Mouchiroud, D., 2000. Determinants of substitution rates in mammalian              Salathe, M., Ackermann, M., Bonhoeffer, S., 2006. The effect of multifunctionality on the
+    genes: expression pattern affects selection intensity but not mutation rate. Mol.              rate of evolution in yeast. Mol. Biol. Evol. 23, 721–722.
+    Biol. Evol. 17, 68–74.                                                                    Semon, M., Lobry, J.R., Duret, L., 2006. No Evidence for Tissue-Speciﬁc Adaptation of
+Duret, L., Mouchiroud, D., 1999. Expression pattern and, surprisingly, gene length shape           Synonymous Codon Usage in Humans. Mol. Biol. Evol. 23, 523–529.
+    codon usage in Caenorhabditis, Drosophila, and Arabidopsis. Proc. Natl. Acad. 96 (8),     Su, A.I., et al., 2004. A gene atlas of the mouse and human protein-encoding
+    4482–4487.                                                                                     transcriptomes. Proc. Natl. Acad. Sci. U. S. A. 101, 6062–6067.
+Fraser, H.B., 2005. Modularity and evolutionary constraint on proteins. Nat. Genet. 37,       Subramanian, S., Kumar, S., 2004. Gene expression intensity shapes evolutionary rates
+    351–352.                                                                                       of the proteins encoded by the vertebrate genome. Genetics 168, 373–381.
+Fraser, H.B., Hirsh, A.E., 2004. Evolutionary rate depends on number of protein–protein       Wall, D.P., et al., 2005. Functional genomic analysis of the rates of protein evolution.
+    interactions independently of gene expression level. BMC Evol. Biol. 4, 13.                    Proc. Natl. Acad. Sci. U. S. A. 102, 5483–5488.
+Fraser, H.B., Hirsh, A.E., Steinmetz, L.M., Scharfe, C., Feldman, M.W., 2002. Evolutionary    Winter, E.E., Goodstadt, L., Ponting, C.P., 2004. Elevated rates of protein secretion,
+    rate in the protein interaction network. Science 296, 750–752.                                 evolution, and disease among tissue-speciﬁc genes. Genome Res. 14, 54–61.
+Fraser, H.B., Wall, D.P., Hirsh, A.E., 2003. A simple dependence between protein              Wang, E.T., et al., 2008. Alternative isoforms regulation in human tissue transcriptomes.
+    evolution rate and the number of protein–protein interactions. BMC Evol. Biol. 3, 11.          Nature 456 10.1038.
+Hahn, M.W., Kern, A.D., 2005. Comparative genomics of centrality and essentiality in          Wright, F., 1990. The ‘effective number of codons’ used in a gene. Gene 87, 23–29.
+    three eukaryotic protein interaction networks. Mol. Biol. Evol. 22, 803–806.              Yanai, I.H., et al., 2005. Genome-wide midrange transcription proﬁles reveal expression
+Hastings, K.E., 1996. Strong evolutionary conservation of broadly expressed protein                level relationships in human tissue speciﬁcation. Bioinformatics 21, 650–659.
+    isoforms in the troponin I gene family and other vertebrate gene families. J. Mol.        Yang, J., Gu, Z., Li, W.H., 2003. Rate of protein evolution versus ﬁtness effect of gene
+    Evol. 42, 631–640.                                                                             deletion. Mol. Biol. Evol. 20, 772–774.
+He, X., Zhang, J., 2006a. Toward a molecular understanding of pleiotropy. Genetics 173,       Yang, Z., Nielsen, R., 2000. Estimating synonymous and nonsynonymous substitution
+    1885–1891.                                                                                     rates under realistic evolutionary models. Mol. Biol. Evol. 17, 32–39.
+He, X., Zhang, J., 2006b. Why do hubs tend to be essential in protein networks? PloS          Zhang, J., He, X., 2005. Signiﬁcant impact of protein dispensability on the instantaneous
+    Genet. 2, e88.                                                                                 rate of protein evolution. Mol. Biol. Evol. 22, 1147–1155.
+Hirsh, A.E., Fraser, H.B., 2001. Protein dispensability and rate of evolution. Nature 411,    Zhang, L., Li, W.H., 2004. Mammalian housekeeping genes evolve more slowly than
+    1046–1049.                                                                                     tissue-speciﬁc genes. Mol. Biol. Evol. 21, 236–239.
+

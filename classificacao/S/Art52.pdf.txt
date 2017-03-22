@@ -1,0 +1,569 @@
+THE JOURNAL OF BIOLOGICAL CHEMISTRY                                                                     Vol. 278, No. 41, Issue of October 10, pp. 39794 –39800, 2003
+© 2003 by The American Society for Biochemistry and Molecular Biology, Inc.                                                                          Printed in U.S.A.
+
+
+
+Gene Knockdown of ␥-Glutamylcysteine Synthetase by RNAi in the
+Parasitic Protozoa Trypanosoma brucei Demonstrates That It Is an
+Essential Enzyme*
+                                                                                                              Received for publication, June 16, 2003
+                                                                         Published, JBC Papers in Press, July 29, 2003, DOI 10.1074/jbc.M306306200
+
+
+                Tu T. Huynh, Van T. Huynh, Margaret A. Harmon‡, and Margaret A. Phillips§
+                From the Department of Pharmacology, University of Texas Southwestern Medical Center, Dallas, Texas 75390-9041
+
+
+
+   The parasitic protozoa Trypanosoma brucei utilizes a                             treatment of trypanosomiasis, toxicity and resistance have lim-
+novel cofactor (trypanothione, T(SH)2), which is a con-                             ited their effectiveness (4 – 6). Metabolic differences between
+jugate of GSH and spermidine, to maintain cellular re-                              trypanosomes and their mammalian hosts are being character-
+dox balance. ␥-Glutamylcysteine synthetase (␥-GCS) cat-                             ized to identify new potential drug targets in the parasite.
+alyzes the first step in the biosynthesis of GSH. To                                   Polyamine biosynthesis has been identified as a target for
+evaluate the importance of thiol metabolism to the par-
+
+
+
+
+                                                                                                                                                                         Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+                                                                                    chemotherapeutic intervention against a number of prolifera-
+asite, RNAi methods were used to knock down gene ex-                                tive diseases including African sleeping sickness (7–9). Unlike
+pression of ␥-GCS in procyclic T. brucei cells. Induction                           mammalian cells, trypanosomes conjugate the polyamine sper-
+of ␥-GCS RNAi with tetracycline led to cell death within                            midine to GSH to generate a novel cofactor termed trypano-
+4 – 6 days post-induction. Cell death was preceded by the                           thione (T(SH)21; N1,N8-bis(glutathionyl)spermidine; Fig. 1).
+depletion of the ␥-GCS protein and RNA and by the loss
+                                                                                    T(SH)2 is required to maintain cellular redox balance and re-
+of the cellular pools of GSH and T(SH)2. The addition of
+                                                                                    places the function of GSH in mammalian cells (10, 11). T(SH)2
+GSH (80 ␮M) to cell cultures rescued the RNAi cell death
+                                                                                    is maintained in the reduced form by the action of trypano-
+phenotype and restored the intracellular thiol pools to
+wild-type levels. Treatment of cells with buthionine sul-                           thione reductase (TR), a homolog of glutathione reductase in
+foximine (BSO), an enzyme-activated inhibitor of ␥-GCS,                             mammalian cells. Thus, in these parasites polyamines not only
+also resulted in cell death. However, the toxicity of the                           play a role in their typical functions that promote cell growth,
+inhibitor was not reversed by GSH, suggesting that BSO                              but they are also essential for maintenance of the reduced
+has more than one cellular target. BSO depletes intra-                              intracellular thiol pools.
+cellular thiols to a similar extent as ␥-GCS RNAi; how-                                T(SH)2 is synthesized in four steps via the synthesis of GSH
+ever, addition of GSH did not restore the pools of GSH                              and its subsequent conjugation to spermidine (Fig. 1). In the
+and T(SH)2. These data suggest that BSO also acts to                                first two steps GSH is synthesized by two enzymes, which are
+inhibit the transport of GSH or its peptide metabolites                             common to mammalian cells. The conjugation of GSH to sper-
+into the cell. The ability of BSO to inhibit both synthesis                         midine in the following steps is catalyzed by trypanosome-
+and transport of GSH likely makes it a more effective                               specific enzymes (12–14). The first step in the biosynthesis of
+cytotoxic agent than an inhibitor with a single mode of                             GSH is catalyzed by ␥-glutamylcysteine synthetase (␥-GCS),
+action. Finally the potential for the T(SH)2 biosynthetic                           which catalyzes the ATP-dependent ligation of L-Cys and L-Glu
+enzymes to be regulated in response to reduced thiol                                to produce ␥-GC. ␥-GCS has been demonstrated to be the rate-
+levels was studied. The expression levels of ornithine                              limiting enzyme in the biosynthesis of GSH in mammalian cells
+decarboxylase and of S-adenosylmethionine decarboxy-                                (15) and of T(SH)2 in Leishmania tarentolae (16). The enzyme
+lase, two essential enzymes in spermidine biosynthesis,                             from T. brucei has been biochemically characterized by study of
+remained constant in induced ␥-GCS RNAi cell lines.
+                                                                                    the recombinant enzyme (17–20).
+                                                                                       The importance of thiol metabolism to trypanosome survival
+                                                                                    is suggested by a number of observations. In particular an
+  African trypanosomiasis is caused by subspecies of the ge-                        enzyme-activated, potent inhibitor of ␥-GCS, buthionine sul-
+nus, trypanosomatidae. These uniflagellated parasitic protozoa                      foximine (BSO), was shown to cure or prolong survival of mice
+are transmitted by an insect vector and cause nagana (Trypa-                        infected with a bloodstream form T. brucei (21). These studies
+nosoma brucei brucei) in cattle and sleeping sickness (Trypa-                       implicated ␥-GCS as a potential drug target, and the observed
+nosoma brucei rhodesiense and Trypanosoma brucei gambi-                             selectivity of BSO suggested that trypanosomes are more sen-
+ense) in humans (1–3). Although drugs are available for the                         sitive to GSH depletion than mammalian cells. However, the
+                                                                                    mechanism of action of BSO as an anti-trypanosomal agent
+                                                                                    was not conclusively demonstrated to be inhibition of ␥-GCS.
+  * This work was supported in part by National Institutes of Health
+                                                                                       Other studies to demonstrate the importance of thiol metab-
+Grant R01 AI34432 and the Welch Foundation Grant I-1257 (to
+M. A. P.). The costs of publication of this article were defrayed in part           olism to the parasite have focused on T(SH)2. Gene knockout
+by the payment of page charges. This article must therefore be hereby               studies suggest that TR is an essential enzyme in both Leish-
+marked “advertisement” in accordance with 18 U.S.C. Section 1734
+solely to indicate this fact.
+                                                                                       1
+  ‡ Present address: Science Media, 6450 Lusk Blvd., San Diego, CA                       The abbreviations used are: T(SH)2, trypanothione; TR, trypano-
+92121.                                                                              thione reductase; ␥-GCS, ␥-glutamylcysteine synthetase; BSO, buthi-
+  § Recipient of a Burroughs Wellcome Fund Scholar Award in Molec-                  onine sulfoximine; ODC, ornithine decarboxylase; AdoMetDC, S-adeno-
+ular Parasitology. To whom correspondence should be addressed: Dept.                sylmethionine decarboxylase; Tet, tetracycline; HPLC, high pressure
+of Pharmacology, University of Texas Southwestern Medical Center,                   liquid chromatography; RT, reverse transcriptase; MOPS, 4-morpho-
+5323 Harry Hines Blvd., Dallas, TX 75390-9041. Tel.: 214-648-3637;                  linepropanesulfonic acid; HEPPS, N-2-hydroxyethylpiperazine-N⬘-3-
+Fax: 214-648-9961; E-mail: margaret.phillips@utsouthwestern.edu.                    propanesulfonic acid; ZPFM, Zimmerman post-fusion medium.
+
+                                                                              39794                        This paper is available on line at http://www.jbc.org
+                                         T. brucei ␥-Glutamylcysteine Synthetase RNAi                                                      39795
+                                                                          were grown in the presence of varying concentrations of BSO (0 –150
+                                                                          ␮M) with or without the addition of GSH (80 ␮M). After 4 days, 100-␮l
+                                                                          aliquots of the cells were plated onto 96-well tissue culture plates. Cell
+                                                                          viability was determined using the Cell Titer 96 Aqueous Non-radioac-
+                                                                          tive Cell Proliferation Assay (Promega) according to the manufacturer’s
+                                                                          protocol. A reagent solution containing a tetrazolium compound (3-(4,5-
+                                                                          dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-
+                                                                          2H-tetrazolium, inner salt; MTS) and an electron coupling reagent
+                                                                          (phenazine methosulfate; PMS), supplied by the kit was applied to the
+                                                                          cells. The MTS reagent was reduced by viable cells into a formazan
+                                                                          product that is soluble in the tissue culture medium and is detectable by
+                                                                          a spectrophotometer at 490 nm (Power WaveX Select plate reader,
+                                                                          Bio-Tek instruments, Inc.). The quantity of the formazan product,
+                                                                          measured as a 490 nm absorbance, was directly proportional to the
+                                                                          number of viable cells in culture. Standard curves of known cell
+                                                                          amounts were used to determine the number of viable cells in test
+                                                                          cultures.
+                                                                             Generation of DNA Constructs and Transgenic Trypanosome Cell
+                                                                          Lines—The pZJM vector (a gift from Dr. Paul Englund, The Johns
+                                                                          Hopkins University) was used to construct the ␥-GCS RNAi plasmid.
+   FIG. 1. Polyamine and trypanothione metabolism in T. brucei.           The pZJM vector was digested with XhoI and HindIII to remove the
+Enzymes catalyzing each reaction are indicated in italics. ODC, orni-     ␣-tubulin stuffer. The XhoI overhangs were filled in with the Klenow
+
+
+
+
+                                                                                                                                                       Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+thine decarboxylase; AdoMetDC and dcSAM, S-adenosylmethionine de-         fragment (from Escherichia coli) of DNA polymerase I and dNTPs. The
+carboxylase; SpeSyn, spermidine synthetase; ␥-GCS, ␥-glutamylcys-         ␥-GCS insert was digested with BsaAI (at nucleotide 1426) and HindIII
+teine synthetase; GS, glutathione synthetase; GSS, glutathionyl-          (at nucleotide 2152) from clone Tb12.1 (20) and ligated into the pZJM
+spermidine synthetase; TS, trypanothione synthetase.                      vector, replacing the tubulin stuffer. The incorporated gene fragment
+                                                                          corresponded to amino acid residues 459 – 679. The ␥-GCS RNAi plas-
+mania donovani and T. brucei (22, 23). Trypanosomes have                  mid was linearized with NotI and transfected into 29-13 parent cell line
+                                                                          (a gift from Dr. George Cross, Rockefeller University), which harbors
+been reported to lack catalase, which in mammals breaks down              the integrated genes for T7 RNA polymerase and the tetracycline re-
+hydrogen peroxide in the peroxisome (24). Instead, hydrogen               pressor. pZJM contains a marker for phleomycin resistance and directs
+peroxide is reduced by tryparedoxin peroxidase in a cycle that            recombination into the rRNA locus. The ␥-GCS RNAi cells were main-
+is dependent on a novel tryparedoxin/TR system to provide the             tained in SDM-79 media with G418 (15 ␮g/ml), hygromycin (50 ␮g/ml),
+reduced thiol in the form of T(SH)2 (25, 26). The need for                and phleomycin (2.5 ␮g/ml). The antibiotics G418 and hygromycin
+T(SH)2 to detoxify peroxides in place of catalase may make                maintained the T7 RNA polymerase and tetracycline repressor con-
+                                                                          structs, respectively.
+trypanosomes more sensitive to thiol depletion than mamma-                   The pHD 328 vector (33) (a gift from Dr. Christine Clayton, Univer-
+lian cells. T(SH)2 is also essential for the action of ribonucle-         sity of Heidelberg, Germany) was used to construct the ␥-GCS single
+otide reductase and the reduction of dehyroascorbate (27, 28).            knockout plasmid. The Tb12.1 plasmid was used as the DNA template
+   RNAi is an effective tool for silencing gene expression in both        to PCR-amplify the 5⬘ and 3⬘ flanks for ligation into the pHD 328 vector.
+the insect stage procyclic form and the mammalian blood-                  The 5⬘ ␥-GCS fragment (nucleotide residues 706 –2252) was generated
+stream form of T. brucei parasites (29 –31). In this paper, we            by PCR with the following primers: 5⬘-CCACGTTTCCAGCGGCCGCT-
+                                                                          CTGCTTGCG-3⬘ (has NotI site) and 5⬘-CCTTCGTACACAACGCGTCA-
+utilized RNAi methods for gene knockdown of ␥-GCS in                      AGTTGCGGCC-3⬘ (has MluI site). The 3⬘ ␥-GCS fragment (nucleotide
+T. brucei procyclic parasites. Induction of ␥-GCS RNAi leads to           residues 6141– 6797) was generated by PCR with the following primers:
+cell death demonstrating that ␥-GCS is essential to cell sur-             5⬘-CCCAGTTTGGCAGGCCTGTTTTCATCGACTGC-3⬘ (has StuI site)
+vival. This effect on parasite survival correlated directly to loss       and 5⬘-CCATGTTACGCATGCACGCATTTCCCC-3⬘ (has SphI site).
+of ␥-GCS RNA and protein and to a depletion of the cellular               The vector and PCR products were digested with the restriction en-
+thiol pools. As was observed in prior studies on blood stage              zymes mentioned above. The PCR products were ligated into the
+                                                                          corresponding sites on the pHD 328 vector. The single knockout
+parasites (21), the ␥-GCS inhibitor BSO was toxic to the growth           plasmid was transfected into wild-type 427 procyclic cells and main-
+of procyclic parasites. GSH was able to rescue the RNAi cell              tained in SDM-79 media with hygromycin (50 ␮g/ml).
+death phenotype, but it did not rescue BSO toxicity. These                   Transfection of T. brucei Parasites—Transfection of T. brucei procy-
+results demonstrate that the mechanism of BSO toxicity on                 clic cells was performed according to protocols described previously (34)
+T. brucei is not fully explained by inhibition of ␥-GCS as the            with some modifications. Actively growing 29-13 cells, co-expressing the
+sole target.                                                              T7 RNA polymerase and tetracycline repressor, were split (1:10) the day
+                                                                          before transfection. Cells were harvested from log phase cultures
+   Finally, the convergence of the polyamine and GSH biosyn-              (⬃106–107 cells/ml) by centrifugation (1000 rpm for 10 min.) and
+thetic pathways for the synthesis of T(SH)2 suggested the pos-            washed once in ice-cold Zimmerman post-fusion medium (ZPFM). The
+sibility that the two pathways may have a mechanism to coor-              cell pellets were resuspended in ZPFM and diluted to 2 ⫻ 107 cells/ml.
+dinate their metabolic output. To address this question we used           Aliquots of 1 ⫻ 107 cells/ml in 0.5 ml of ZPFM with 20 ␮g of linear DNA
+the ␥-GCS RNAi cell line to determine whether reduced thiol               (digested with NotI) were subjected to two pulses on the Bio-Rad Gene
+levels could affect expression levels of ornithine decarboxylase          Pulser electroporation system. Transfections were carried out at room
+                                                                          temperature in 4-mm cuvettes with the peak discharge set at 1.5 kV, 25
+(ODC) or of S-adenosylmethionine decarboxylase (AdoMetDC),                microfarads, and 20 ohms (resistance of the core unit). Immediately
+two essential enzymes in polyamine biosynthesis. No evidence              after electroporation, cells were transferred to 5 ml of SDM-79 media
+for cross-pathway regulation was observed.                                containing appropriate inhibitors to sustain the host background (G418
+                                                                          at 15 ␮g/ml and hygromycin at 50 ␮g/ml) and incubated overnight at
+                   EXPERIMENTAL PROCEDURES                                25 °C. The selection for transformant cells, which had integrated the
+   Trypanosome Cultures—Procyclic form trypanosomes were grown in         construct into the rRNA locus, was applied the following day with 2.5
+SDM-79 media (32) with 10% fetal calf serum at 25 °C. Cells were          ␮g/ml phleomycin. Synthesis of double-stranded RNA was induced by
+grown to mid-log phase (105–106 cells/ml) and diluted 1:100 about every   the addition of tetracycline (Tet; 1 ␮g/ml) to the culture media.
+4 days into fresh media with the appropriate antibiotics for selection       Cell Lysate Preparation and Immunoblots—Cultures (100 ml) of pro-
+(G418, 15 ␮g/ml; hygromycin, 50 ␮g/ml; and/or phleomycin, 2.5 ␮g/ml).     cyclic trypanosomes were grown for about 4 days to late log phase
+To analyze the effects of RNAi induction on cell growth, cell densities   (107–108 cells/ml). Cells were pelleted at 3000 rpm (Beckman Instru-
+were determined by using a hemocytometer (Brightline, Fisher).            ments, model J-6B centrifuge) for 10 min at 4 °C. The cell pellets were
+Growth curves were plotted as the product of the cell density and the     washed with 1 ml of phosphate-buffered saline (pH 7.4; 137 mM NaCl,
+total dilution. To determine the effects of BSO, cells (5-ml cultures)    2.7 mM KCl, 10 mM Na2HPO4, 1.8 mM KH2PO4). Pellets were resus-
+39796                                     T. brucei ␥-Glutamylcysteine Synthetase RNAi
+pended in 100 –500 ␮l of lysis buffer (20 mM MOPS, pH 8.0, 10 mM NaCl,      normalized ratios of wild-type to obtain a change in transcript levels
+0.4 mM EDTA, 4 mM MgCl2, 0.4 mM phenylmethylsulfonyl fluoride, 1            relative to wild type.
+␮g/ml leupeptin, 2 ␮g/ml antipain, 10 ␮g/ml benzamidine, 1 ␮g/ml               Total RNA (⬃3 ␮g) was separated on denaturing 1% agarose gels
+pepstatin, 1 ␮g/ml chymostatin) with vortexing. The resuspended cell        (RNAqueous kit, Ambion), and Northern blot analyses were performed
+lysate was frozen in liquid nitrogen and allowed to quickly thaw in a       according to standard procedures (39). Radiolabeled ([32P]dATP) DNA
+37 °C water bath. This freeze/thaw cycle was repeated two more times.       probes were prepared as described previously (20) using the Random
+The cell lysate was cleared of cell debris by centrifugation at 13,000 ⫻    Primed DNA Labeling Kit (Roche Applied Science) according to the
+g for 3 min at room temperature. Protein content in cell-free extracts      manufacturer’s protocols.
+was determined according to Bradford (35) with protein assay dye               Quantitation of Thiols in Cell Lysates—Intracellular thiols were an-
+reagent and bovine serum albumin for standard curve calibration (Bio-       alyzed according to Fairlamb et al. (40) with some modifications.
+Rad). The supernatant-containing protein was boiled in SDS treatment        Trypanosome cells (1 ⫻ 108) were centrifuged at 3000 rpm for 10 min at
+buffer (125 mM Tris-HCl, 4% (w/v) SDS, 20% (v/v) glycerol, 3.1% (w/v)       4 °C in a swing bucket rotor clinical centrifuge (Beckman Instruments,
+dithiothreitol, 0.001% (w/v) bromphenol blue) for 5 min.                    model J-6B). HEPPS buffer (50 ␮l; 40 mM HEPPS, 4 mM diethylenetri-
+   Protein (20 – 40 ␮g) from the cell-free extracts was separated by        aminepentaacetic acid, pH 8.0) and monobromobimane solution (50 ␮l;
+Tris/SDS-PAGE (12.5% T (total monomer), 0.3% C (cross-linker) resolv-       2 mM Thiolyte in absolute ethanol, Calbiochem) were added to the pellet
+ing gel and 3.9% T, 0.3% C stacking gel) in a Mini-Protean II Cell          to lyse cells and label thiols. The resuspended pellet was heated at 70 °C
+(Bio-Rad) according to the method of Laemmli. Proteins were trans-          for 3 min and briefly cooled on ice before the addition of the methane-
+ferred to a polyvinylidene difluoride membrane (Hybond-P; Amersham          sulfonic acid solution (100 ␮l, lithium methanesulfonate, 4 M, pH 1.6).
+Biosciences) with transfer buffer (25 mM Tris, 192 mM glycine, 20% (v/v)    The cell lysate was placed on ice for 30 min before the removal of protein
+methanol; without adjusting the pH, it should be around 8.0 – 8.2) at       precipitate in a microcentrifuge (14000 rpm, 5 min). The resulting
+100 V for 1 h. Proteins immobilized on the polyvinylidene difluoride        supernatant was collected and analyzed by HPLC (20 ␮l of the reaction
+membrane were incubated in Tris-buffered saline (TBS: 20 mM Tris-           is injected).
+
+
+
+
+                                                                                                                                                         Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+HCl, 137 mM NaCl, 0.1% (v/v) Tween 20, pH 7.6) with 5% (w/v) blocking          Labeled thiols were separated using the HPLC system (System Gold
+agent (supplied in the ECL Western blotting Analysis System, Amer-          Nouveau, Beckman Instruments) and solvents described below. Follow-
+sham Biosciences) prior to antibody incubations. Rabbit polyclonal an-      ing injection, linear gradients of 0 –20% solvent B (25% (v/v) n-propyl
+tisera (Babco, Richmond, CA) was generated to recombinant T. brucei         alcohol in water with D-camphor sulfonate, lithium salt, 0.25% (w/v), pH
+␥-GCS (20), ODC (36), and AdoMetDC (37) purified as described previ-        2.64); solvent A contained D-camphor sulfonate (lithium salt, 0.25%
+ously and diluted 10,000-fold before use. Antigen recognition was visu-     (w/v) in water, pH 2.64) over 60 min, followed by 20 –75% solvent B over
+alized by horseradish peroxidase detection reagents 1 and 2 (supplied in    40 min were applied. Fluorescent compounds were detected using a
+the ECL Western blotting Analysis System, Amersham Biosciences)             DYNAMAX fluorescence detector (Rainin, model FL-1). Specific thiol
+                                                                            concentrations were determined by peak area relative to derivatized
+with donkey anti-rabbit IgG/horseradish peroxidase conjugate diluted
+                                                                            standards; GSH was from Sigma; GSH-GSP was from Bachem; and
+1:10,000 (Amersham Biosciences).
+                                                                            T(SH)2 was a gift from Dr. Alan Fairlamb, University of Dundee.
+   Protein band intensities were determined by Scion software. Inte-
+grated densities of protein bands, which cross-reacted with the primary                                    RESULTS
+antibody of interest, was divided by the corresponding integrated den-
+sities of the protein bands recognized by the tubulin antibody (devel-
+                                                                               Induction of ␥-GCS RNAi Kills Trypanosomes by Depleting
+oped in rabbit, Sigma, catalog T-3526) to obtain a normalized protein       ␥-GCS and Thiol Pools—To show that ␥-GCS is an essential
+ratio. Standard curves of purified proteins were used to demonstrate        enzyme for the growth of T. brucei cells, we inhibited ␥-GCS
+that signals were in the linear range for quantitative purposes.            gene expression by RNAi methods using the tetracycline-induc-
+   Real Time RT-PCR and Northern Blot Analyses—Total RNA was                ible pZJM dual T7 vector (30). Procyclic 29-13 cells stably
+isolated from trypanosome cells with the RNAqueous kit (Ambion;             transformed with the ␥-GCS RNAi construct (Fig. 2A) arrested
+Austin, TX) according to the manufacturer’s protocols. RNA yield and
+                                                                            cell division after a limited number of cell cycles when induced
+quality were evaluated spectrophotometrically and by analytical gel
+electrophoresis according to Sagerstro¨ m and Sive (38). RNA integrity      with Tet (1 ␮g/ml). After about 4 days in culture, the ␥-GCS
+was confirmed by visualizing the 18 S and 28 S rRNA bands with              RNAi ⫹ Tet cells (Fig. 2B, open circles) began to die, while the
+ethidium bromide staining.                                                  uninduced RNAi (⫺Tet; solid circles) cells grew at rates similar
+   Transcript amounts of various genes were quantitated using the real      to the 29-13 parents cells grown with Tet (open triangles) or
+time RT-PCR method with the Taqman PCR Reagent kit (Applied                 without (solid triangles). ␥-GCS RNA and protein levels were
+Biosystems; Foster City, CA). PCR amplimers (Sigma Genosys; The             analyzed in these RNAi cell lines. Northern blot (Fig. 2B, inset,
+Woodlands, TX) and dual-labeled (5⬘ reporter dye, 6-carboxyfluorescein;
+                                                                            N panel) and Western blot analyses (Fig. 2B, inset, W panel)
+3⬘ quencher dye, 6-carboxytetramethylrhodamine) fluorescent probes
+(Integrated DNA Technologies, Coralville, IA) were designed for each        revealed that both RNA and protein levels in the induced
+gene of interest based on the T. brucei gene sequence (GenBankTM            ␥-GCS RNAi cells (⫹ Tet) were reduced ⬎80%. The levels of
+accession number U56818) using the Primer Express 2.0 software (Ap-         tubulin RNA (Fig. 2B, inset, T panel) and protein (data not
+plied Biosystems). For ␥-GCS, the PCR amplimers used were 5⬘-TGCG-          shown) were measured as a control and were found to be
+GCGGCGTTACC-3⬘ (forward) and 5⬘-GACCAACGTAACAGCGAATG-                       constant under all conditions. RNA levels were also quanti-
+TG-3⬘ (reverse), and the probe was 5⬘-CATGTTGGACGCTGCCGCTG-
+                                                                            tated by real time RT-PCR, and the results also demonstrated
+G-3⬘. For ODC, the PCR amplimers used were 5⬘-AGGAAGCACGAA-
+ACATGGAAA-3⬘ (forward) and 5⬘-TGCATTTGACCGCGTAAAAC-3⬘
+                                                                            that RNA levels were effectively depleted by the induction of
+(reverse), and the probe was 5⬘-AATGCCTTCCCCGCGTCACG-3⬘. For                ␥-GCS RNAi (Fig. 3A, black bars).
+AdoMetDC, the PCR amplimers used were 5⬘-CGAAACACTGGTACT-                      In addition to the ␥-GCS RNAi cell line, a single knockout
+CGGATAAGA-3⬘ (forward) and 5⬘-CCGTTGCCTCCCGTATCAC-3⬘ (re-                   procyclic cell line that has one allele of ␥-GCS replaced by a
+verse), and the probe was 5⬘-TTGCCTACGGGTCCTGAAACCGC-3⬘.                    hygromycin selectable marker was generated. Trypanosomes
+For tubulin, the PCR amplimers used were 5⬘-AACAACCTTTCCACC-                are diploids containing two copies of the ␥-GCS gene (20); thus
+GCATT-3⬘ (forward) and 5⬘-GCTGGCCCACGCAAACT-3⬘ (reverse),
+                                                                            one copy of the gene still remains in these cells. These cells
+and the probe was 5⬘-ATCGAGCAGCGGCCCCTCCTATG-3⬘. Each real
+time RT-PCR (10 ␮l) included 10 ng of total RNA, Taqman PCR Master          grew at normal wild-type rates (data not shown). RNA levels in
+mix (with AmpliTaq Gold DNA polymerase; Applied Biosystems), 300            this cell line were measured by real time RT-PCR and were
+nM PCR amplimers, 250 nM probe, and 1 unit of the reverse transcript-       reduced by 50% when compared with wild-type 427 cells sug-
+ase/RNase inhibitor mix (Applied Biosystems). The temperature cycles        gesting a gene dosage effect (Fig. 3A, black bars). However,
+for the RT-PCR runs were as follows: reverse transcription at 48 °C for     ␥-GCS protein levels in the single knockout line were the same
+30 min, deactivation of reverse transcriptase at 95 °C for 10 min, 40       as wild-type suggesting that the cell may regulate the level of
+PCR cycles of 95 °C for 15 s, 60 °C for 1 min, and a final polymerization
+step at 60 °C for 10 min. Relative amounts of gene transcripts norma-
+                                                                            ␥-GCS activity at the protein level (Fig. 3A, gray bars).
+lized to tubulin were calculated using the ABI PRISM 7700 Sequence             Thiol levels in cell lysates of RNAi cells induced with Tet for
+Detection System (User Bulletin 2, Applied Biosystems). The norma-          zero (0d HPLC profile), two (2d HPLC profile), and 4 days (4d
+lized ratios obtained for all cell lines examined were divided by the       HPLC profile) were examined (Fig. 4). Thiol levels (nmol/108
+                                          T. brucei ␥-Glutamylcysteine Synthetase RNAi                                                     39797
+
+
+
+
+                                                                                                                                                       Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+   FIG. 2. ␥-GCS RNAi cell growth profiles. A, ␥-GCS RNAi pZJM
+vector. A sequence of the ␥-GCS gene corresponding to amino acid
+residues 459 – 679 replaces the ␣-tubulin sequence of the pZJM vector.
+The tetracycline-inducible T7 promoters are indicated by the T7 arrows;
+the tetracycline operators are indicated by the Tet Op boxes. B, cell
+densities were determined for various RNAi cells in culture for 20 days.
+Cell lines examined include 29-13 RNAi parent cell lines uninduced
+(⫺ Tet, ) or induced (⫹ Tet, ƒ), and ␥-GCS RNAi cell lines uninduced
+(⫺ Tet, ●), induced (⫹ Tet, E), or induced with the addition of 80 ␮M
+GSH (⫹ Tet, f). The arrows and asterisks indicate the days (about every
+4 days) in which the cultures were diluted (1:100). The inset shows
+Western (W panel; 40 ␮g of total protein loaded per lane) or Northern
+analyses (N panel; 3 ␮g of total RNA loaded per lane) for ␥-GCS
+antibodies or DNA probes. A tubulin probe is included to show equal
+loading of total RNA (T panel). The lanes represent cell lysates pre-
+pared from 29-13 parent RNAi cells uninduced (⫺ Tet, lane 1) or
+induced (⫹ Tet, lane 2) and ␥-GCS RNAi cell lines uninduced (⫺ Tet,
+lane 3) or induced (⫹ Tet, lane 4).
+
+
+cells) were determined for glutathione (GSH, peak B), gluta-
+thionyl-spermidine (GSH-SPD, peak C), and trypanothione
+(T(SH)2, peak D) (Table I). Uninduced (⫺ Tet) RNAi cells had
+2.15 nmol of GSH, 0.79 nmol of GSH-SPD, and 3.81 nmol of
+T(SH)2. After 2 days of induction (⫹ Tet) 78% GSH (1.69 nmol),
+46% GSH-SPD (0.36 nmol), and 32% T(SH)2 (1.2 nmol) re-
+mained. After 4 days of induction, all three thiols were reduced
+by more than 80%. GSH-SPD levels were undetectable after 4
+days of induction. These results collectively indicate that there
+is a direct correlation between cell death, the reduction of
+␥-GCS transcript and protein levels, and the depletion of thiol
+pools in the T. brucei cells. The single knockout cell line had
+wild-type levels of all three thiols (data not shown), consistent             FIG. 3. Comparing ␥-GCS (A), ODC (B), and AdoMetDC (C)
+with the observation that ␥-GCS protein levels were unchanged              transcript and protein levels. Transcript levels (black bars) were
+                                                                           determined by real time RT-PCR. Protein levels (gray bars) were de-
+in these cells.                                                            termined by obtaining integrated densities of the visualized protein
+   GSH Rescues the RNAi Cell Death Phenotype—GSH is the                    bands (Scion software). Values shown for each cell line represent ratios
+key metabolic intermediate downstream of ␥-GCS. GSH was                    of ␥-GCS, ODC, or AdoMetDC to tubulin transcript or protein levels
+tested over a range of 20 –180 ␮M to determine the maximum                 that have been normalized to the wild-type (427 cells) values. The error
+                                                                           bars depict the S.E. of the mean for n ⫽ 3 determinations. The inset
+levels that cells could tolerate with normal growth (similar to            shows Western analyses of cell lysates (40 ␮g of total protein loaded per
+427 wild-type cells). The optimum GSH concentration was 80                 lane) prepared from each of the corresponding cell lines.
+␮M; concentrations above this level had detrimental effects on
+cell growth (data not shown). To determine whether the addi-               but growth rates became comparable with control cells after
+tion of GSH rescues the RNAi cell death phenotype, Tet-in-                 about 14 days in culture. The addition of 80 ␮M GSH to cell
+duced ␥-GCS RNAi cells were cultured in the presence of 80 ␮M              cultures expressing ␥-GCS RNAi (4 days post-Tet induction)
+GSH (Fig. 2B, solid squares). GSH rescued the detrimental                  restored the thiol pools to control cell levels (Table I).
+growth effects caused by ␥-GCS gene knockdown. The rescued                   The Anti-trypanosomal Activities of BSO Are Not Rescued by
+cells grew somewhat slower than the control cells (uninduced               GSH—To examine the effects of the ␥-GCS inhibitor BSO on
+RNAi, and 29-13 parent cells) for the first 10 days of culture,            procyclic trypanosomes, 29-13 cells (without Tet) were cultured
+39798                                    T. brucei ␥-Glutamylcysteine Synthetase RNAi
+                                                                                                    DISCUSSION
+                                                                            RNAi techniques provide a powerful method to evaluate gene
+                                                                         function in a number of organisms, including in the protozoan
+                                                                         parasite T. brucei (41). In this paper, we demonstrate that
+                                                                         ␥-GCS is essential for the survival of procyclic T. brucei para-
+                                                                         sites in vitro. RNAi-induced depletion of ␥-GCS RNA and pro-
+                                                                         tein causes a loss of cellular thiol pools that is commensurate
+                                                                         with cell death. The two major thiols (GSH and T(SH)2) in the
+                                                                         parasite were both reduced by 80 –90% in T. brucei parasites
+                                                                         immediately prior to the loss of cell viability. The addition of
+                                                                         GSH to cell cultures rescued the RNAi cell death phenotype
+                                                                         providing further proof that GSH is an essential metabolite in
+                                                                         these parasites. Whereas this requirement for GSH can be
+                                                                         supplied exogenously in vitro, T. brucei is an extracellular
+                                                                         parasite in all stages of its life cycle (42, 43). Thus the parasite
+                                                                         does not have access to the intracellular thiol pools in the host
+   FIG. 4. HPLC analyses of monobromobimane-labeled thiols in
+cell lysates of ␥-GCS RNAi cell lines. The cell lines examined include
+                                                                         likely constraining it to supply the growth requirement for
+␥-GCS RNAi uninduced (⫺ Tet, zero day control; 0d HPLC profile) and      GSH through de novo synthesis.
+induced (⫹ Tet) for 2 days (2d HPLC profile) or for 4 days (4d HPLC         Other studies have also pointed to the importance of thiol
+
+
+
+
+                                                                                                                                                Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+profile). Thiol amounts (see Table I) were quantitated for glutathione   metabolism to trypanosome survival; however, past genetic
+(GSH, B peak), glutathionyl-spermidine (GSH-SPD, C peak), and
+trypanothione (T(SH)2, D peak). Peak A represents the monobromobi-
+                                                                         methods did not allow a direct correlation between loss of cell
+mane reagent peak.                                                       viability and the depletion of the reduced cellular thiol pools to
+                                                                         be established. The deletion of a single allele of TR in
+                               TABLE I                                   L. donovani decreased their ability to survive in macrophages
+   Thiol amounts in cell lysates of ␥-GCS RNAi cells induced with
+                             tetracycline
+                                                                         (23). Knockout of both alleles of TR in bloodstream form of
+  The amounts of thiol are given as nanomoles per 108 cells. The         T. brucei was achieved after insertion of a regulated copy of the
+samples were analyzed in duplicate.                                      gene, and this study linked cell viability with loss of TR gene
+                                                                         expression (22). However, the levels of reduced GSH and
+      Days of induction   Addition                Thiols
+         with Teta        of GSHb                                        T(SH)2 in these cells were not detectably changed, and thus the
+                                     GSH        GSH-SPD     T(SH)2
+                                                                         mechanism of cell killing could not be fully established.
+             0               ⫺       2.15        0.79       3.81            The ability of GSH to rescue the ␥-GCS RNAi cell death
+             2               ⫺       1.69        0.36       1.20
+             4               ⫺       0.37        NDc        0.31
+                                                                         phenotype clearly establishes that GSH is an essential metab-
+             0               ⫹       2.29        0.91       4.01         olite for T. brucei growth. Unlike in mammalian cells oxidation
+             4               ⫹       1.82        0.65       2.96         by T(SH)2, and not GSH, is enzymatically reduced by the
+  a
+    Addition of 1 ␮g/ml tetracycline.                                    trypanosome parasites (10, 11). Further T(SH)2, and not GSH,
+  b
+    addition of 80 ␮M GSH into culture media.                            provides the reducing equivalents required for the function of
+  c
+    Not detectable.                                                      ribonucleotide reductase, for the detoxification of hydrogen per-
+                                                                         oxides via tryparedoxin peroxidase, and for the reduction of
+with BSO (0 –150 ␮M), in the absence (Fig. 5, solid circles) or          dehydroascorbate (26 –28, 44). These observations suggest that
+presence (Fig. 5, open circles) of 80 ␮M GSH. BSO kills these            the depletion of T(SH)2 observed upon ␥-GCS RNAi induction is
+parasites with an inhibitory concentration (IC50) of 50 ⫾ 8 ␮M           likely to be the lethal event leading to the loss of cell viability.
+(solid circles). HPLC analysis of thiol pools demonstrates that          However, our data are also consistent with the possibility that
+BSO (60 –120 ␮M) depletes intracellular levels of GSH and                GSH has essential functions beyond its requirement for the
+T(SH)2 to a similar extent as induction of ␥-GCS RNAi (Table             formation of T(SH)2.
+II), consistent with the expectation that cell death is caused by           The T(SH)2 and GSH concentrations are similar in both
+thiol depletion. However addition of GSH (80 ␮M) to the cells            procyclic and bloodstream parasites, and the roles of the cellu-
+treated with BSO did not provide effective rescue of BSO tox-            lar thiols are thought to be similar in both stages (40, 45). Thus
+icity (Fig. 5). In the presence of GSH the IC50 value for BSO            the finding that ␥-GCS is an essential gene in procyclic
+increased only slightly to 60 ⫾ 4 ␮M. Furthermore, the addition          T. brucei parasites will likely extend to bloodstream parasites,
+of GSH to cells treated with BSO (60 –120 ␮M) did not restore            and the RNAi analysis of the procyclic cells provides support for
+intracellular GSH and T(SH)2 to control cell levels (Table II).          the hypothesis that ␥-GCS is a potential drug target for the
+   The Effect of Thiol Depletion on Levels of Polyamines Biosyn-         treatment of African sleeping sickness. Further validation of
+thetic Enzymes—Because spermidine, synthesized in the poly-              the target would be obtained by demonstrating that parasite
+amines biosynthetic pathway, converges with trypanothione                cells can be killed by agents that function by inhibiting the
+biosynthesis (Fig. 1), we hypothesized cross-regulation between          target enzyme. The potent ␥-GCS inhibitor, BSO, had been
+the GSH, and spermidine biosynthetic pathways may occur. To              demonstrated previously to have antitrypanosomal activities
+test this hypothesis, expression levels of two other enzymes in          in a rodent model; however, the mechanism of action of BSO
+the polyamines pathway (ODC and AdoMetDC) were examined                  killing was not clearly established (21).
+in the ␥-GCS cell lines. Normalized ODC transcript levels (Fig.             The ␥-GCS RNAi cell line provided a direct method to test the
+3B, black bars) were similar to wild-type levels in all cell lines       mechanism of BSO killing. Procyclic T. brucei cells are effec-
+examined. In addition, normalized AdoMetDC transcript levels             tively killed by BSO, but in contrast to the results observed for
+were similar to wild type in all cell lines (Fig. 3C, black bars).       the RNAi death phenotype, the trypanolytic activities of BSO
+Western blot analyses demonstrated that ODC (Fig. 3B, gray               were not rescued by GSH. These data strongly suggest that
+bars) and AdoMetDC (Fig. 3C, gray bars) protein levels paral-            BSO acts on other targets in addition to ␥-GCS to produce its
+leled the RNA results. Thus, the depletion of ␥-GCS (by RNAi)            trypanolytic effects. Furthermore, the finding that addition of
+did not affect RNA or protein levels of ODC and AdoMetDC.                exogenously added GSH restores the intracellular levels of
+                                             T. brucei ␥-Glutamylcysteine Synthetase RNAi                                                             39799
+                                                                            Plasmodium spp., which also have limited ability to detoxify
+                                                                            hydrogen peroxide, are also killed by BSO in vitro (24, 52, 53).
+                                                                            Furthermore, BSO has been demonstrated to reverse drug
+                                                                            resistance for antimonials and chloroquine in resistant Leish-
+                                                                            mania and Plasmodium cells that have increased levels of GSH
+                                                                            (53, 54).
+                                                                               In the trypanosome parasites the polyamines and GSH biosyn-
+                                                                            thetic pathways are unusually linked together for the biosynthe-
+                                                                            sis of T(SH)2, suggesting the possibility that cross-regulation in
+                                                                            gene expression may occur between enzymes of these two path-
+                                                                            ways. Regulation of enzyme levels would provide a mechanism to
+                                                                            coordinate the levels of T(SH)2 precursors that are synthesized,
+                                                                            thus maintaining a balanced metabolic output between the two
+                                                                            pathways. To examine this possibility, we depleted ␥-GCS levels
+                                                                            (by RNAi) and investigated how these alterations in expression
+                                                                            levels affect the protein levels of ODC and of AdoMetDC. We
+                                                                            observed no change in ODC or AdoMetDC protein levels when
+                                                                            ␥-GCS and hence the thiol pools were depleted. Although these
+   FIG. 5. Effect of BSO on cell viability. Cell viability was deter-
+mined for 29-13 parent cells after 4 days in SDM-79 culture medium          studies did not demonstrate any regulatory mechanisms in the
+
+
+
+
+                                                                                                                                                                   Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+with various concentrations of BSO (0 –150 ␮M) and with 80 ␮M GSH (E)       T(SH)2 biosynthetic pathway, regulation may still occur at dif-
+or without (●). The fractional cell number relative to no drug control is   ferent points in the pathways.
+plotted. See Table II for thiol amounts in BSO-treated cells.
+                                                                                                            CONCLUSIONS
+                               TABLE II
+ Thiol amounts in cell lysates of 29 –13 parent cells treated with BSO         The data in this paper conclusively demonstrate that GSH is
+  The amounts of thiol are given as nanomoles per 108 cells. The            an essential metabolite for the growth of procyclic trypanosome
+samples were analyzed in duplicate.                                         parasites. In vitro this growth requirement can be supplied by
+                                                  Thiols                    de novo GSH biosynthesis requiring the action of ␥-GCS or
+      Concentration of    Addition
+       BSO in media       of GSHa                                           through supplementation of the media with GSH. In vivo
+                                      GSH       GSH-SPD       T(SH)2
+                                                                            T. brucei is an extracellular parasite that does not have access
+            ␮M                                                              to intracellular thiol pools, and thus, the parasite is thought to
+              0              ⫺        2.08        0.68         3.39
+             30              ⫺        1.75        0.46         1.65         require de novo synthesis to obtain GSH. Furthermore, our
+             60              ⫺        0.92        0.30         0.99         data demonstrate that BSO, an enzyme-activated inhibitor of
+             90              ⫺        0.78        0.23         0.49         ␥-GCS, has a complex mechanism of action for the observed
+            120              ⫺        0.45        0.19         0.16         anti-trypanosomal activity. BSO inhibits not only GSH biosyn-
+              0              ⫹        2.73        0.58         3.79
+             30              ⫹        1.78        0.65         2.13
+                                                                            thesis but transport of the needed GSH precursors that could
+             60              ⫹        1.34        0.56         1.31         be utilized to overcome the block of ␥-GCS inhibition. This dual
+             90              ⫹        0.85        0.24         0.79         mechanism of BSO action provides more effective depletion of
+            120              ⫹        0.49        0.11         0.20         cellular thiol pools than expected for a single action inhibitor
+  a
+      Addition of 80 ␮M GSH into culture media.                             and suggests the mechanism by which this compound is also a
+                                                                            useful chemotherapeutic agent for intracellular parasites.
+thiols to wild-type levels in the induced ␥-GCS RNAi cells, but
+not the BSO-treated cells (60 –120 ␮M BSO), strongly suggests                  Acknowledgments—We thank Alan Fairlamb for generously sharing
+                                                                            the protocols for the thiol measurements and for providing the mono-
+that GSH transport into the cell is also inhibited by BSO.                  bromobimane-labeled T(SH)2 standard. We are grateful to
+   In mammalian cells GSH is not transported directly into the              Christine Clayton for the pHD 328 expression vector, to Paul Englund
+cell; however, extracellular GSH is metabolized by ␥-glutamyl-              for the pZJM vector, and to George Cross for the 29-13 cells. We also
+transpeptidase, and the resulting products of the reaction (Cys-            thank Traci Kinkel for help with RNA isolation and cell culturing.
+Gly and ␥-Glu-amino acid conjugates) are transported into the                                                REFERENCES
+cell (46 – 48). A major substrate of this translocation is ␥-Glu-
+                                                                             1. Kirchhoff, L. V. (1994) Curr. Opin. Infect. Dis. 7, 542–546
+cyst(e)ine, which can restore the cellular pools of ␥-GC (49). It            2. Pepin, J. (2000) in Hunter’s Tropical Medicine (Strickland, G., ed) 8th Ed., pp.
+has been reported that BSO inhibits the uptake of cystine into                     643– 652, W. B. Saunders Co., Philadelphia
+                                                                             3. Reed, S. G., and Magill, A. J. (2000) in Hunter’s Tropical Medicine (Strickland,
+human lung carcinoma cells (50) and of ␥-glutamylmethionine                        G., ed) 8th Ed., pp. 653– 663, W. B. Saunders Co., Philadelphia
+sulfone into the kidney (46). A similar mechanism for degrad-                4. Wang, C. C. (1995) Annu. Rev. Pharmacol. Toxicol. 35, 93–127
+ing and transporting peptide components of GSH into the cell is              5. Burchmore, R. J. S., Pogbundude, P. O. J., Enanga, B., and Barrett, M. P.
+                                                                                   (2002) Curr. Pharmaceutical Design 8, 257–267
+likely present in T. brucei. Inhibition of either the transpepti-            6. Matovu, E., Seebeck, T., Enyaru, J. C. K., and Kaminsky, R. (2001) Microb.
+dase or the peptide transporter by BSO would account for the                       Infect. 3, 763–770
+                                                                             7. Augustyns, K., Amssoms, K., Yamani, A., Rajan, P. K., and Haemers, A. (2001)
+inability of exogenous GSH to restore intracellular thiol pools                    Curr. Pharmaceutical Design 7, 1117–1141
+or to rescue the cells from BSO-induced death. Although no                   8. Fries, D. S., and Fairlamb, A. H. (2003) in Burger’s Medicinal Chemistry and
+direct experimental evidence for ␥-glutamyltranspeptidase has                      Drug Discovery (Abraham, D., ed) pp. 1033–1087, John Wiley and Sons,
+                                                                                   Inc., New York
+been reported in T. brucei, enzyme activity has been observed                9. Pegg, A. E., Shantz, L. M., and Coleman, C. S. (1995) J. Cell Biol. 22, 132–138
+in T. cruzi (51).                                                           10. Fairlamb, A. H., Blackburn, P., Chait, B. T., and Cerami, A. (1985) Science
+                                                                                   227, 1485–1487
+   The finding that BSO inhibits GSH biosynthesis not only by               11. Fairlamb, A. H., and Le Quesne, S. A. (1997) in Trypanosomiasis and Leish-
+affecting the ␥-GCS reaction but also by preventing transport                      maniasis (Hide, G., Mottram, J., Coombs, G., and Holmes, P., eds) pp.
+of the ␥-Glu conjugates required to bypass the block would be                      149 –161, CAB International, Wallingford, Oxon, UK
+                                                                            12. Smith, K., Nadeau, K., Bradley, M., Walsh, C., and Fairlamb, A. H. (1992)
+expected to make BSO a more effective cytotoxic agent. This                        Protein Sci. 1, 874 – 883
+additional mechanism prevents the cells from restoring thiol                13. Tetaud, E., Manai, F., Barrett, M. P., Nadeau, K., Walsh, C. T., and Fairlamb,
+                                                                                   A. H. (1998) J. Biol. Chem. 273, 19383–19390
+pools with exogenous GSH, and likely explains why BSO is                    14. Oza, S. L., Tetaud, E., Ariyanayagam, M. R., Warnon, S. S., and Fairlamb,
+effective even against intracellular parasites. L. donovani and                    A. H. (2002) J. Biol. Chem. 277, 35853–35861
+39800                                               T. brucei ␥-Glutamylcysteine Synthetase RNAi
+15. Meister, A. (1989) in Metabolism and Function of Glutathione (Avramovic, D.,             35. Bradford, M. M. (1976) Anal. Biochem. 12, 248 –254
+      and Poulson, R., eds) pp. 367– 474, John Wiley & Sons, Inc., New York                  36. Jackson, L. K., Brooks, H. B., Osterman, A. L., Goldsmith, E. J., and Phillips,
+16. Grondin, K., Haimeur, A., Mukhopadhyay, R., Rosen, B. P., and Ouellette, M.                     M. A. (2000) Biochemistry 39, 11247–11257
+      (1997) EMBO J. 16, 3057–3065                                                           37. Kinch, L. N., and Phillips, M. A. (2000) Biochemistry 39, 3336 –3343
+17. Abbott, J. A., Pei, J., Ford, J. L., Qi, Y., Grishin, V. N., Pitcher, L. A., Phillips,   38. Sagerstro¨ m, C. G., and Sive, H. L. (1996) in A Laboratory Guide to RNA:
+      M. A., and Grishin, N. V. (2001) J. Biol. Chem. 276, 42099 – 42107                            Isolation, Analysis, and Synthesis (Krieg, P. A., ed) pp. 83–103, Wiley-Liss,
+18. Abbott, J. A., Ford, J. L., and Phillips, M. A. (2002) Biochemistry 41,                         Inc., New York
+      2741–2750                                                                              39. Sambrook, J., Fritsch, E. F., and Maniatis, T. (1989) Molecular Cloning: A
+19. Brekken, D. L., and Phillips, M. A. (1998) J. Biol. Chem. 273, 26317–26322                      Laboratory Manual, 2nd Ed., pp. 7.37–7.52, Cold Spring Harbor Laboratory
+20. Lueder, D. V., and Phillips, M. A. (1996) J. Biol. Chem. 271, 17485–17490                       Press, Cold Spring Harbor, NY
+21. Arrick, B. A., Griffith, O. W., and Cerami, A. (1981) J. Exp. Med. 153, 720 –725         40. Fairlamb, A. H., Henderson, G. B., Bacchi, C. J., and Cerami, A. (1987) Mol.
+22. Krieger, S., Schwarz, W., Ariyanayagam, M. R., Fairlamb, A. H., Krauth-                         Biochem. Parasitol. 24, 185–191
+      Siegel, R. L., and Clayton, C. (2000) Mol. Microbiol. 35, 542–552                      41. Cotrell, T. R., and Doering, T. L. (2003) Trends Microbiol. 11, 37– 43
+23. Dumas, C., Ouellette, M., Tovar, J., Cunningham, M. L., Fairlamb, A. H.,                 42. Mulenga, C., Mhlanga, J. D., Kristensson, K., and Robertson, B. (2001) Neu-
+      Tamar, S., Olivier, M., and Papadopoulou, B. (1997) EMBO J. 16,                               ropathol. Appl. Neurobiol. 27, 77– 85
+      2590 –2598                                                                             43. Seed, J. R., and Sechelski, J. B. (1989) J. Protozool. 36, 572–577
+24. Mehlotra, R. K. (1996) Clin. Rev. Microbiol. 22, 295–314                                 44. Hillebrand, H., Schmidt, A., and Krauth-Siegel, R. L. (2003) J. Biol. Chem.
+25. Ludemann, H., Dormeyer, M., Sticherling, C., Stallmann, D., Follmann, H.,                       278, 6809 – 6815
+      and Krauth-Siegel, R. L. (1998) FEBS Lett. 431, 381–385                                45. Bellafatto, V., Fairlamb, A. H., Henderson, G. B., and Cross, G. A. (1987) Mol.
+26. Reckenfelderbaumer, N., Ludemann, H., Schmidt, H., Steverding, D., and                          Biochem. Parasitol. 25, 227–238
+      Krauth-Siegel, R. L. (2000) J. Biol. Chem. 275, 7547–7552                              46. Griffith, O. W., Bridges, R. J., and Meister, A. (1979) Proc. Natl. Acad. Sci.
+27. Dormeyer, M., Reckenfelderbaumer, N., Ludemann, H., and Krauth-Siegel,                          U. S. A. 76, 6319 – 6322
+      R. L. (2001) J. Biol. Chem. 276, 10602–10606                                           47. Griffith, O. W., Bridges, R. J., and Meister, A. (1981) Proc. Natl. Acad. Sci.
+28. Schmidt, A., and Krauth-Siegel, R. L. (2002) Curr. Top. Med. Chem. 2,                           U. S. A. 78, 2777–2781
+      1239 –1259                                                                             48. Karp, D. R., Kiyoshi, S., and Lipsky, P. E. (2001) J. Biol. Chem. 276,
+29. Ngo, H., Tschudi, C., Gull, K., and Ullu, E. (1998) Proc. Natl. Acad. Sci.                      3798 –3804
+      U. S. A. 95, 14687–14692                                                               49. Griffith, O. W., Bridges, R. J., and Meister, A. (1978) Proc. Natl. Acad. Sci.
+
+
+
+
+                                                                                                                                                                                     Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+30. Wang, Z., Morris, J. C., Drew, M. E., and Englund, P. T. (2000) J. Biol. Chem.                  U. S. A. 75, 5405–5408
+      275, 40174 – 40179                                                                     50. Kang, Y. J. (1994) Toxicology 88, 177–189
+31. Morris, J. C., Wang, Z., Drew, M. E., Paul, K. S., and Englund, P. T. (2001) Mol.        51. Repetto, Y., Letelier, M. E., Aldunate, J., and Morello, A. (1987) Comp. Bio-
+      Biochem. Parasitol. 117, 111–113                                                              chem. Physiol. 87, 73–78
+32. Brun, R., and Schonenberger, M. (1979) Acta Trop. 36, 289 –292                           52. Weldrick, D. P., Chodacka, B., Vogt, R., and Steenkamp, D. J. (1999) FEMS
+33. Wirtz, E., Hartmann, C., and Clayton, C. (1994) Nucleic Acids Res. 22,                          Microbiol. Lett. 173, 139 –146
+      3887–3894                                                                              53. Luersen, K., Walter, R. D., and Muller, M. (2000) Biochem. J. 346, 545–552
+34. Wirtz, L. E., Hoek, M., and Cross, A. M. C. (1998) Nucleic Acids Res. 26,                54. Carter, K. C., Sundar, S., Spickett, C., Pereira, O. C., and Mullen, A. B. (2003)
+      4626 – 4634                                                                                   Antimicrob. Agents Chemother. 47, 1529 –1535
+Enzyme Catalysis and Regulation:
+Gene Knockdown of γ-Glutamylcysteine
+Synthetase by RNA i in the Parasitic
+Protozoa Trypanosoma brucei
+Demonstrates That It Is an Essential
+Enzyme
+
+Tu T. Huynh, Van T. Huynh, Margaret A.
+Harmon and Margaret A. Phillips
+
+
+
+
+                                                                                                    Downloaded from http://www.jbc.org/ at CAPES/MEC - UFSM on December 15, 2015
+J. Biol. Chem. 2003, 278:39794-39800.
+doi: 10.1074/jbc.M306306200 originally published online July 29, 2003
+
+
+
+
+Access the most updated version of this article at doi: 10.1074/jbc.M306306200
+
+Find articles, minireviews, Reflections and Classics on similar topics on the JBC Affinity Sites.
+
+Alerts:
+     • When this article is cited
+     • When a correction for this article is posted
+
+Click here to choose from all of JBC's e-mail alerts
+
+This article cites 47 references, 23 of which can be accessed free at
+http://www.jbc.org/content/278/41/39794.full.html#ref-list-1
+

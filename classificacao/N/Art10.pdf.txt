@@ -1,0 +1,351 @@
+                                                                                          REPORTS
+      unspliced RNA in the cytoplasm (23, 24) is not                       rays were scanned and analyzed by using a GenePix               starting from 2 bases downstream of the brp aden-
+      supported by the observation that the majority                       4000A scanner and GenePix Pro 3.0 software from                 osine to the Y of the 3⬘ ss YAG sequence. Therefore,
+                                                                           Axon Instruments (Union City, CA).                              their distance of 12 nt corresponds to 17 nt from the
+      of these do not accumulate significantly in a                  11.   D. Yan et al., Mol. Cell. Biol. 18, 5000 (1998).                actual branched A to the 3⬘ splice site G.
+      upf3⌬ strain [suppl. fig. 3 (7)]. The expectation              12.   R. Perriman, M. Ares Jr., Genes Dev. 14, 97 (2000).       22.   T. A. Clark, C. W. Sugnet, M. Ares Jr., unpublished
+      based on intronic small nucleolar RNA–pro-                     13.   K. B. Chapman, J. D. Boeke, Cell 65, 483 (1991).                observations.
+                                                                     14.   The splice junction (SJ) index is the ratio of the        23.   F. He, S. W. Peltz, J. L. Donahue, M. Rosbash, A.
+      cessing phenotypes that accumulation of in-                          mutant/wild-type ratios derived from the normal-                Jacobson, Proc. Natl. Acad. Sci. U.S.A. 90, 7034
+      trons in the dbr1⌬ mutant should be inversely                        ized signals from the splice junction probe to the              (1993).
+      related to intron size (25) seems not to hold                        exon 2 probe: SJ index ⫽ SJmut/SJwt divided by            24.   M. J. Lelivelt, M. R. Culbertson, Mol. Cell. Biol. 19,
+                                                                           E2mut/E2wt, obtained by subtracting the log2 ratio              6710 (1999).
+      either, most likely because of Dbr1p-indepen-                        of the exon 2 probe from the log2 ratio of the            25.   S. L. Ooi, D. A. Samarsky, M. J. Fournier, J. D. Boeke,
+      dent mechanisms of intron turnover (suppl. fig.                      splice junction probe. The intron accumulation (IA)             RNA 4, 1096 (1998).
+      4). We do not observe correlation between a                          index is obtained by subtracting the log2 ratio of        26.   O. Puig, A. Gottschalk, P. Fabrizio, B. Seraphin, Genes
+                                                                           the exon 2 probe from the log2 ratio of the intron              Dev. 13, 569 (1999).
+      nonconsensus 5⬘ splice site or a U-rich region                       probe. Because probe performance may not be               27.   J. C. Rain, P. Legrain, EMBO J. 16, 1759 (1997).
+      near the 5⬘ splice site and strong dependence on                     directly related to absolute transcript amount,           28.   E. S. Lander et al., Nature 409, 860 (2001).
+      Nam8p (26) for splicing in vivo (Suppl. figs. 5                      these indexes depend idiosyncratically on the se-         29.   B. Modrek, C. Lee, Nature Genet. 30, 13 (2002).
+      and 6). We also see no correlation between the                       quences of the probes. We also calculated the             30.   L. H. Boise et al., Cell 74, 597 (1993).
+                                                                           precursor/mature (PM) index, which is obtained by         31.   D. D. Shoemaker et al., Nature 409, 922 (2001).
+      presence of a U residue upstream of the branch-                      subtracting the log2 ratio of the splice junction         32.   http://genome-www.stanford.edu/Saccharomyces/
+      point sequence (27) or the presence of a poly-                       probe from the log2 ratio of the intron probe. This       33.   Thanks go to H. Igel for technical assistance; and to
+      pyrimidine tract before or after the branchpoint                     index mimics the unspliced/spliced ratio used in                J. DeRisi, T. Ferea, T. Furey, G. Hartzog, D. Haussler,
+
+
+
+
+                                                                                                                                                                                                     Downloaded from www.sciencemag.org on December 15, 2015
+                                                                           classical splicing studies (15).                                H. Heynecker, R. Perriman, T. Powers, L. Shiue, and
+      and strong dependence on Mud2p (suppl. figs.                   15.   C. W. Pikielny, M. Rosbash, Cell 41, 119 (1985).                R. Samaha for advice. Funding was provided by a
+      7 and 8). These data indicate that using any one               16.   H. V. Colot, F. Stutz, M. Rosbash, Genes Dev. 10, 1699          W. M. Keck Foundation Grant to the Center for
+      intron as a reporter may cause the importance of                     (1996).                                                         Molecular Biology of RNA, by National Cancer
+                                                                     17.   P. Fortes et al., Mol. Cell. Biol. 19, 6543 (1999).             Institute grant CA77813 to M.A. and D. Haussler,
+      a factor to be overemphasized or missed.                       18.   E. C. Shen, T. Stage-Zimmermann, P. Chui, P. A. Silver,         and by NIH grant GM40478 to M.A. T.C. was
+      Genomewide analysis allows perturbations of                          J. Biol. Chem. 275, 23718 (2000).                               supported by a University of California Biotechnol-
+      splicing to be evaluated on every intron at once,              19.   M. H. Jones, D. N. Frank, C. Guthrie, Proc. Natl. Acad.         ogy training grant, and an NIH Training Grant. C.S.
+      in effect using the entire genome as a reporter.                     Sci. U.S.A. 92, 9687 (1995).                                    is a Predoctoral Fellow of the Howard Hughes
+                                                                     20.   X. Zhang, B. Schwer, Nucleic Acids Res. 25, 2146                Medical Institute.
+          These studies present the first genome-                          (1997).
+      wide view of splicing for any organism. The                    21.   Zhang and Schwer define the brp-to–3⬘ ss distance               27 December 2001; accepted 29 March 2002
+      ability to distinguish differently spliced forms
+      of RNA by using oligonucleotide microarrays
+      opens the way for expression profiling that
+      accounts for alternative splicing and splicing                                Specificity and Stability in
+      regulation in higher cells. Estimates suggest
+      that 40 to 60% of human genes produce                                       Topology of Protein Networks
+      alternatively spliced transcripts (28, 29). In a
+      growing number of key cases, alternatively                                                        Sergei Maslov1 and Kim Sneppen2
+      spliced mRNAs produce proteins of distinct
+      or even antagonistic function [e.g. (30)]. Im-                           Molecular networks guide the biochemistry of a living cell on multiple levels:
+      proved expression profiling technologies                                 Its metabolic and signaling pathways are shaped by the network of interacting
+      must resolve changes in alternative splicing                             proteins, whose production, in turn, is controlled by the genetic regulatory
+      not simply by estimating exon representation                             network. To address topological properties of these two networks, we quan-
+      [e.g. (31)], but by providing direct evidence                            tified correlations between connectivities of interacting nodes and compared
+      for exon joining. The results we describe here                           them to a null model of a network, in which all links were randomly rewired.
+      demonstrate that oligonucleotide arrays de-                              We found that for both interaction and regulatory networks, links between
+      signed to detect specific splicing products                              highly connected proteins are systematically suppressed, whereas those be-
+      will be key to accurate parallel analysis of                             tween a highly connected and low-connected pairs of proteins are favored. This
+      alternative splicing in higher organisms.                                effect decreases the likelihood of cross talk between different functional mod-
+                                                                               ules of the cell and increases the overall robustness of a network by localizing
+          References and Notes                                                 effects of deleterious perturbations.
+       1. J. P. Staley, C. Guthrie, Cell 92, 315 (1998).
+       2. D. L. Black, Cell 103, 367 (2000).                         With the growth of experimental information                     phosphorylation and allosteric regulation of
+       3. C. A. Davis, L. Grate, M. Spingola, M. Ares Jr., Nucleic
+          Acids Res. 28, 1700 (2000).                                about basic biochemical mechanisms of life,                     proteins. The information about specific
+       4. M. Spingola, L. Grate, D. Haussler, M. Ares Jr., RNA 5,    molecular networks operating in living cells                    binding of proteins to each other has recently
+          221 (1999).                                                are becoming better defined. Direct physical                    grown by an unprecedented amount as a re-
+       5. J. L. DeRisi, V. R. Iyer, P. O. Brown, Science 278, 680
+          (1997).                                                    interactions between pairs of proteins form                     sult of high-throughput two-hybrid experi-
+       6. D. J. Lockhart, E. A. Winzeler, Nature 405, 827 (2000).    one such network, which serves as a back-                       ments (1, 2). The production and degradation
+       7. Supplementary on Science Online at www.                    bone for functional and structural relation-                    of proteins participating in the interaction
+          sciencemag.org/cgi/content/full/296/5569/907/DC1.
+          Microarray data are available at the Gene Expression
+                                                                     ships among its nodes and defines pathways                      network is controlled by the genetic regula-
+          Omnibus (GEO) at www.ncbi.nlm.nih.gov/geo/, under          for the propagation of various signals such as                  tory network of the cell, formed by all pairs
+          accession numbers GSE34 and GSE35.                                                                                         of proteins in which the first protein directly
+       8. J. Banroques, J. N. Abelson, Mol. Cell. Biol. 9, 3710
+          (1989).
+                                                                                                                                     regulates the abundance of the second. The
+                                                                     1
+                                                                       Department of Physics, Brookhaven National Labo-
+       9. S. P. Bjorn, A. Soltyk, J. D. Beggs, J. D. Friesen, Mol.   ratory, Upton, NY 11973, USA. 2Department of Phys-
+                                                                                                                                     majority of known cases of such regulation
+          Cell. Biol. 9, 3698 (1989).                                ics, Norwegian University of Science and Technology,            happens at the level of transcription, in which
+      10. Fluorescently labeled target sequence sample prepa-        N-7491 Trondheim, Norway.                                       a transcription factor positively or negatively
+          ration and hybridization were performed as described
+          (5) by using 20 ␮g of total RNA primed with a              *To whom correspondence should be addressed. E-                 regulates the RNA transcription of the con-
+          mixture of oligo(dT ) and random hexamers (7). Ar-         mail: maslov@bnl.gov                                            trolled protein. The large-scale structure of
+
+910                                                          3 MAY 2002 VOL 296 SCIENCE www.sciencemag.org
+                                                                  REPORTS
+both these networks is characterized by a             To test for correlations in connectivities of     this purpose, in our randomization procedure
+high degree of interconnectedness, where          nodes for each of the above two networks, we          we would treat the two-hybrid data as a di-
+most pairs of nodes are linked to each other      calculated the likelihood P(K0,K1) that two           rected network with an arrow on each edge
+by at least one path. One may wonder how          proteins with connectivities K0 and K1 are            pointing out from bait to prey hybrid. Ran-
+such a heavily intertwined and mutually de-       connected to each other by a link and com-            domized versions of these two networks were
+pendent dynamical system can perform mul-         pared it to the same quantity Pr(K0,K1) mea-          constructed by randomly reshuffling links,
+tiple functional tasks and still remain stable    sured in a randomized version of the same             while keeping the in- and out-degree of each
+against deleterious perturbations.                network. In this “null model” network, all            node constant. A convenient numerical algo-
+    We analyzed the topological properties of     proteins have exactly the same connectivity           rithm performing such randomization con-
+interaction and transcription regulatory net-     as in the original one, whereas the choice of         sists of first randomly selecting a pair of
+works in yeast Saccharomyces cerevisiae,          their interaction partners is totally random.         directed edges A3 B and C3 D. The two
+which at present is perhaps the best charac-      The transcription regulatory network is natu-         edges are then rewired in such a way that A
+terized model organism. The interaction net-      rally directed, whereas the network of phys-          becomes connected to D, while C connects to
+work used in this study consists of 4549          ical interactions among proteins in principle         B. However, in case one or both of these new
+physical interactions between 3278 yeast pro-     lacks directionality. However, for poorly un-         links already exist in the network, this step is
+teins as measured in the most comprehensive       derstood reasons, the two-hybrid experimen-           aborted and a new pair of edges is selected.
+two-hybrid screen of yeast proteins (2),          tal data have a significant asymmetry be-             This last restriction prevents the appearance
+whereas the genetic regulatory network is         tween baits and preys, with bait hybrids being        of multiple edges connecting the same pair of
+formed by 1289 directed positive or negative      more likely to be highly connected than their         nodes. A repeated application of the above
+direct transcriptional regulations within a set   prey counterparts. This can be seen, e.g., in         rewiring step leads to a randomized version
+of 682 proteins as listed in the Yeast Protein    the fact that average connectivity of baits           of the original network. Multiple sampling of
+Database (Incyte Genomics, Palo Alto, CA)         with at least one interaction partner is close to     randomized networks allowed us to calculate
+(3). The protein interaction network is a rep-    3, whereas the same quantity measured for             both the average expectation and the standard
+resentative of the broad class of scale-free      preys is only 1.8. Because each reported in-          deviation for any particular property of the
+networks (4–6) in which the number of nodes       teraction involves one bait and one prey pro-         random network.
+with a given number of neighbors (connec-         tein, this asymmetry needs to be taken into               Correlations in connectivities manifest
+tivity) K scales as a power law ⬀ 1/K␥. In our    account when constructing an uncorrelated             themselves as systematic deviations of the
+case the histogram of connectivities can be       “null” model for the interaction network. For         ratio P(K0,K1)/Pr(K0,K1) from 1. We calcu-
+fitted by a power law with ␥ ⫽ 2.5 ⫾ 0.3 for
+K ranging from 2 to about 100 (7, 8). A small
+part of the protein interaction network,
+formed by proteins known to be localized in
+the nucleus and to interact with at least one
+other nuclear protein, was visualized (Fig. 1).
+One remarkable feature of this graph is the
+abundance of highly connected proteins that
+are mostly connected to those with low con-
+nectivity, and thus well separated from each
+other.
+
+
+
+
+Fig. 1. Network of physical interactions be-      Fig. 2. Correlation profiles of protein interaction and regulatory networks in yeast. (A) The ratio
+tween nuclear proteins. Here, we show the         P(K0,K1)/Pr(K0,K1), where P(K0,K1) is the probability that a pair of proteins with total numbers of
+part of the network reported in (2), consist-     interaction partners given by K0,K1 correspondingly, directly interact with each other in the full set
+ing of all proteins that are known to be          of (2), while Pr(K0,K1) is the same probability in a randomized version of the same network. (B) The
+localized in the yeast nucleus (3), and which     same as in (A) but for a protein with the in-degree Kin to be regulated by that with the out-degree
+interact with at least one other protein in the   Kout in the transcription regulatory network (3). (C) Z-scores for connectivity correlations from (A):
+nucleus. This subset consists of 318 interac-     Z(K0,K1) ⫽ [P(K0,K1) – Pr(K0,K1)]/␴r(K0,K1), where ␴r(K0,K1) is the standard deviation of Pr (K0, K1) in
+tions between 329 proteins. Note that most        1000 realizations of a randomized network. (D) As in (C), but for incoming and outgoing links in the
+neighbors of highly connected nodes have          the transcription regulatory network. To improve statistics, the connectivities in all four panels of
+rather low connectivity.                          this figure were logarithmically binned into 2 bins per decade.
+
+                                           www.sciencemag.org SCIENCE VOL 296 3 MAY 2002                                                                     911
+                                                                         REPORTS
+      lated this ratio for interaction (Fig. 2A) and     throughput study (9), which is four times          to an excess likelihood of it being connected
+      regulatory (Fig. 2B) networks, with K0 and         more than one would expect to find by pure         to a protein with very high connectivity, as
+      K1 being the total number of interaction part-     chance alone.                                      was mentioned above. On the other hand, the
+      ners of two interacting proteins (for the inter-       To further quantify and compare corre-         distribution of connectivities K1 of neighbors
+      action network), and out- and in-degrees of        lation patterns in interaction and regulatory      of highly connected proteins scales as ⬀
+      two nodes connected by a directed edge 0 3         networks, we calculated the average con-           1/K12.5 and thus differs from that of lowly
+      1 (for the regulatory network). Thus, by the       nectivity 具K1典 of nearest neighbors of a           connected ones by a factor of 1/K1.
+      very construction, P(K0,K1) is symmetric for       node, as a function of its own connectivity            When analyzing molecular networks, one
+      the physical interaction network but not for       K0 (Fig. 3A). In order to simplify the com-        should consider possible sources of errors in
+      the regulatory network. We also estimated          parison between two networks here, we              the underlying data. Two-hybrid experiments
+      the statistical significance Z(K0,K1) of the       characterize each node in the regulatory           give rise to false positives of two kinds. In
+      above deviations in the interaction (Fig. 2C)      network by its total number of neighbors           one case, the interaction between proteins is
+      and regulatory (Fig. 2D) networks, by divid-       K ⫽ Kin ⫹ Kout. For both interaction and           real but it never happens in the course of the
+      ing each observed deviation from the null          regulatory networks, the average connec-           normal life cycle of the cell, due to spatial or
+      model by the standard deviation in multiple        tivity 具K1典 shows a gradual decline with K0,       temporal separation of participating proteins.
+      realizations of a randomized network. The          which can be fitted with a power law 具K1典 ⬀        In another case, an indirect physical interac-
+      combination of these two plots reveals the         1/K00.6 ⫾ 0.1 over approximately two de-           tion is mediated by one or more unknown
+      regions on the K0-K1 plane, where connec-          cades. This observation gives an additional        proteins localized in the yeast nucleus. Con-
+      tions between proteins in the real network are     credit to the affinity between correlation         versely, in a high-throughput two-hybrid
+      significantly enhanced or suppressed, com-         patterns in these two protein networks vis-        screen, one should expect a sizeable number
+      pared to the null model. In particular, red        ible in Fig. 2. It was recently found (10)         of false negatives. Primarily, a binding may
+      regions in the upper left and the lower right      that the internet, defined as the set of inter-    not be observed if the conformation of the
+      corners reflect the tendency of highly con-        connected routers, in addition to a scale-         bait or prey heterodimer blocks relevant in-
+      nected nodes (hubs) to associate with nodes        free distribution of node connectivities sim-      teraction sites or if the corresponding het-
+      of low connectivity, while the blue/green re-      ilar to the protein interaction network, is        erodimer altogether fails to fold properly.
+      gion in the upper right corner reflects the        characterized by the same correlation pat-         Secondly, 391 proteins out of the potential
+      reduced likelihood that two hub centers are        tern between connectivities of neighboring         5671 baits in (2) were not tested as possible
+      directly linked to each other. One should also     nodes: 具K1典 ⬀ 1/K00.5. This extends by one         bait hybrids, because they were found to ac-
+      note a prominent feature on the diagonal of        step an intriguing similarity in the topology      tivate transcription of the reporter gene in the
+      Fig. 2, A and C, corresponding to an en-           of these networks of completely different          absence of any prey proteins.
+      hanced affinity of proteins with between four      nature.                                                Unlike for the interaction network, our
+      and nine interaction partners to physically            For the scale-free physical interaction net-   data for the genetic regulatory network do not
+      interact with each other. This feature can be      work, we also plotted the probability distri-      come from a single large-scale project. In-
+      tentatively attributed to the tendency of mem-     bution of the nearest-neighbor connectivity        stead, they derive from a collection of numer-
+      bers of multiprotein complexes to interact         K1, measured separately for nodes with small       ous experiments performed with different ex-
+      with other proteins from the same complex.         connectivity K0 ⱕ 3, and for those with large      perimental techniques in different labs.
+      The above range of connectivities thus cor-        connectivity K0 ⱖ 100 (Fig. 3B). In the            Therefore, it is not feasible even to list pos-
+      responds to a typical number of direct inter-      absence of correlations, this conditional prob-    sible sources of errors present in such a di-
+      action partners of a protein in a complex.         ability does not depend on K0 and is propor-       verse data set. In particular, one should worry
+      When we checked for interactions between           tional to K1/K1␥ ⬃ 1/K11.5. This uncorrelated      about a hidden anthropomorphic factor
+      proteins in this range of connectivities, we       form holds approximately true for neighbors        present in such a network: Some proteins just
+      found 39 pairs of interacting proteins to be-      of a protein with low connectivity. It is only     constitute more attractive subjects of research
+      long to the same complex in a recent high-         violated at the far tail of the distribution due   and are, therefore, relatively better studied
+                                                                                                            than others. One should also note that the
+                                                                                                            transcription regulation network is only a
+                                                                                                            subset of a larger genetic regulatory network,
+                                                                                                            which in addition to transcriptional regulation
+                                                                                                            includes translational regulation, RNA edit-
+                                                                                                            ing, and so forth. An encouraging sign was
+                                                                                                            that when we separately analyzed the set
+                                                                                                            representing the current knowledge (3) about
+                                                                                                            this later more complete network, consisting
+                                                                                                            of 1750 genetic regulations among 848 pro-
+                                                                                                            teins, we reproduced all of our empirical
+                                                                                                            results for the transcriptional network.
+                                                                                                                The observed suppression of connections
+                                                                                                            between nearest neighbors of highly connected
+                                                                                                            proteins is consistent with compartmentaliza-
+                                                                                                            tion and modularity characteristic of control of
+                                                                                                            many cellular processes (11). In fact, it suggests
+      Fig. 3. Correlations in connectivities of neighbors. (A) The average connectivity 具 K1 典 of nearest   the picture of functional modules of the cell
+      neighbors of proteins with the connectivity K0 in the physical interaction network (triangles) and
+      the regulatory network (squares). The solid line is a power law fit, ⬀ 1/K00.6. (B) The probability
+                                                                                                            organized around individual hubs. To further
+      distribution of connectivities K1 in the physical interaction network, calculated separately for      test the extent of modularity of hubs and their
+      neighbors of proteins with small connectivity K0 ⱕ 3 (squares), and with large connectivity K0 ⱖ      immediate neighborhood in each network, we
+      100 (circles). Lines are power laws ⬀ 1/K11.5 (dashed) and ⬀ 1/K12.5 (solid).                         selected 15 highest connected nodes. To pro-
+
+912                                               3 MAY 2002 VOL 296 SCIENCE www.sciencemag.org
+                                                                           REPORTS
+vide an unbiased sample of hubs from the point       lethality of the mutant cell lacking this protein                    Baraba´si, Nature 407, 651 (2000); D. A. Fell, A. Wag-
+of view of in- and out-connectivity, half of         is not particularly strong (8).                                      ner, Nature Biotechnol. 18, 1121 (2000).
+                                                                                                                     7.   A. Wagner, Mol. Biol. Evol. 18, 1283 (2001).
+those nodes were selected as the highest out-            It is feasible that molecular networks in a
+                                                                                                                     8.   H. Jeong, S. Mason, A.-L. Barabasi, Z. N. Oltvai, Nature
+degree hubs (8 baits with Kbait ⱖ 90 for the         living cell have organized themselves in an                          411, 41 (2001).
+interaction network and 7 nodes with Kout ⱖ 34       interaction pattern that is both robust and                     9.   A.-C. Gavin et al., Nature 415, 141 (2002).
+for the regulatory network), while half were the     specific. Topologically, the specificity of dif-               10.   R. Pastor-Satorras, A. Vazquez, A. Vespignani, Phys.
+highest in-degree hubs (7 preys with Kprey ⱖ 20      ferent functional modules can be enhanced by                         Rev. Lett. 87, 258701 (2001).
+for the interaction network and 8 nodes with         limiting interactions between hubs and sup-                    11.   L. H. Hartwell, J. J. Hopfield, S. Leibler, A. W. Murray,
+                                                                                                                          Nature 402 (6761 suppl.), C47 (1999).
+Kout ⱖ 8 for the regulatory network). In agree-      pressing the average connectivity of their                     12.   R. Albert, H. Jeong, A.-L. Barabasi, Nature 406, 378
+ment with the correlation properties described       neighbors. We have seen that such a correla-                         (2000).
+above, direct connections between hubs were          tion pattern appears in a similar way in two                   13.   B. Vogelstein, D. Lane, A. J. Levine, Nature 408, 307
+significantly suppressed. In the interaction net-    different layers of molecular networks in                            (2000).
+                                                                                                                    14.   Supported in part by the NSF under grant PHY99-
+work, we observed 20 links between different         yeast, and thus presumably is a universal                            07949. Work at Brookhaven National Laboratory
+hubs in this group, which is significantly below     feature of all molecular networks operating in                       was carried out under Contract No. DE-AC02-
+56 ⫾ 7.5 links in the randomized network. In         living cells.                                                        98CH10886, Division of Material Science, U.S. De-
+the transcription regulatory network, there were                                                                          partment of Energy. We thank the Institute for
+                                                                                                                          Theoretical Physics at the University of California
+16 links between hubs in real network, as op-              References and Notes                                           at Santa Barbara, Nordita, and the University of
+                                                         1. P. Uetz et al., Nature 403, 623 (2000).
+posed to 35 ⫾ 6.5 in its randomized version.             2. T. Ito et al., Proc. Natl. Acad. Sci. U.S.A. 98, 4569
+                                                                                                                          Tokyo (for S.M.) for hospitality, K. Eriksen for valu-
+Not only are direct links between hubs sup-                                                                               able comments on the manuscript, T. Hwa for
+                                                            (2001).
+                                                                                                                          suggesting the subject of two-hybrid experiments,
+pressed in both studied networks, but hubs also          3. M. C. Costanzo et al., Nucleic Acids Res. 29, 75
+                                                                                                                          and T. Ito for providing the information on limita-
+tend to share fewer of their neighbors with other           (2001).
+                                                                                                                          tions of his experimental techniques.
+                                                         4. A. L. Baraba
+                                                                       ´si, R. Albert, Science 286, 509 (1999).
+hubs, thereby extending their isolation to the           5. A. Broder et al., Comput. Networks 33, 309 (2000).
+level of next-nearest neighbor connections. The          6. H. Jeong, B. Tombor, R. Albert, Z. N. Oltvai, A.-L.           6 August 2001; accepted 25 March 2002
+total number of paths of length 2 between the
+set of 15 hubs in the interaction network is
+equal to 418, whereas in the null model we
+measured this number to be 653 ⫾ 56. Simi-                       Partitioning of Lipid-Modified
+larly, for the transcriptional network the number
+of paths of length 2 is equal to 186 in the real                Monomeric GFPs into Membrane
+network, whereas from the null model one ex-
+pects it to be 262 ⫾ 30. Since the number of
+paths of length 2 between a pair of proteins is
+                                                                  Microdomains of Live Cells
+equal to the number of their common interac-                David A. Zacharias,1,3*† Jonathan D. Violin,1,2* Alexandra C. Newton,1
+tion partners, one concludes that both the hub                                         Roger Y. Tsien1,3‡
+node itself and its immediate surroundings tend
+to separate from other hubs, reinforcing the                    Many proteins associated with the plasma membrane are known to partition
+picture of functional modules clustered around                  into submicroscopic sphingolipid- and cholesterol-rich domains called lipid
+individual hubs.                                                rafts, but the determinants dictating this segregation of proteins in the mem-
+    A further implication of the observed corre-                brane are poorly understood. We suppressed the tendency of Aequorea fluo-
+lation is in the suppression of the propagation of              rescent proteins to dimerize and targeted these variants to the plasma mem-
+deleterious perturbations over the network. It is               brane using several different types of lipid anchors. Fluorescence resonance
+reasonable to assume that certain perturbations                 energy transfer measurements in living cells revealed that acyl but not prenyl
+such as, e.g., significant changes in the concen-               modifications promote clustering in lipid rafts. Thus the nature of the lipid
+tration of a given protein (including its vanish-               anchor on a protein is sufficient to determine submicroscopic localization within
+ing altogether in a null-mutant cell) with a                    the plasma membrane.
+ceratin probability can affect its first, second,
+and sometimes even more distant neighbors in         Subcellular compartmentalization of signal-                    to sequester proteins in lipid rafts and caveo-
+the corresponding network. While the number          ing increases the specificity and efficiency of                lae. In particular, acylated proteins may pref-
+of immediate neighbors of a node is by defini-       signal transduction. Caveolae and lipid rafts                  erentially partition into these compartments
+tion equal to its own connectivity K0, the aver-     are related microdomains of the plasma mem-                    (5, 6). Unambiguous observation of these
+age number of its second neighbors, given by         brane that are enriched in cholesterol, sphin-                 small (⬍100-nm) microdomains in living
+K0 具(K1 – 1)典K0, is sensitive to correlation pat-    golipids, and many signaling proteins (1, 2).                  cells is beyond the resolution of visible light
+terns of the network. Because highly connected       Whereas protein-protein interactions main-                     microscopy; thus destructive assays such as
+nodes serve as powerful amplifiers for the prop-     tain many signaling complexes (3, 4), specif-                  cellular fractionation (7) or immunolocaliza-
+agation of deleterious perturbations, it is espe-    ic lipid modifications are believed sufficient                 tion by electron microscopy (8) have been
+cially important to suppress this propagation                                                                       relied upon to study lipid rafts and caveolae.
+beyond their immediate neighbors. It was ar-         1
+                                                      Department of Pharmacology, 2Biomedical Sciences              We now use fluorescence resonance energy
+gued that scale-free networks in general are         Graduate Program, and 3Howard Hughes Medical In-               transfer (FRET) between nondimerizing cyan
+very vulnerable to attacks aimed at highly con-      stitute, University of California, San Diego, La Jolla,        (CFP) and yellow (YFP) variants of Ae-
+nected nodes (12, 13). The anticorrelation pre-      CA 92093– 0647, USA.                                           quorea green fluorescent protein (9, 10) to
+sented above implies a reduced branching ratio       *These authors contributed equally to this work.               show which lipid modifications are sufficient
+around these nodes and thus provides a certain       †Present address: Merck Research Laboratories, 3535            to cause such test proteins to aggregate within
+                                                     General Atomics Court, MRLSDB1, San Diego, CA
+degree of protection against such attacks. This      92121, USA.
+                                                                                                                    lipid rafts inside living cells. FRET from CFP
+may be the reason why the correlation between        ‡To whom correspondence should be addressed. E-                to YFP is advantageous, because it nonde-
+the connectivity of a given protein and the          mail: rtsien@ucsd.edu                                          structively detects proximities at nanometer
+
+                                              www.sciencemag.org SCIENCE VOL 296 3 MAY 2002                                                                                           913
+                               Specificity and Stability in Topology of Protein Networks
+                               Sergei Maslov and Kim Sneppen
+                               Science 296, 910 (2002);
+                               DOI: 10.1126/science.1065103
+
+
+
+
+                               This copy is for your personal, non-commercial use only.
+
+
+
+
+             If you wish to distribute this article to others, you can order high-quality copies for your
+
+
+
+
+                                                                                                                      Downloaded from www.sciencemag.org on December 15, 2015
+             colleagues, clients, or customers by clicking here.
+             Permission to republish or repurpose articles or portions of articles can be obtained by
+             following the guidelines here.
+
+             The following resources related to this article are available online at
+             www.sciencemag.org (this information is current as of December 15, 2015 ):
+
+             Updated information and services, including high-resolution figures, can be found in the online
+             version of this article at:
+             http://www.sciencemag.org/content/296/5569/910.full.html
+             A list of selected additional articles on the Science Web sites related to this article can be
+             found at:
+             http://www.sciencemag.org/content/296/5569/910.full.html#related
+             This article cites 13 articles, 4 of which can be accessed free:
+             http://www.sciencemag.org/content/296/5569/910.full.html#ref-list-1
+             This article has been cited by 575 article(s) on the ISI Web of Science
+             This article has been cited by 100 articles hosted by HighWire Press; see:
+             http://www.sciencemag.org/content/296/5569/910.full.html#related-urls
+             This article appears in the following subject collections:
+             Cell Biology
+             http://www.sciencemag.org/cgi/collection/cell_biol
+
+
+
+
+Science (print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last week in December, by the
+American Association for the Advancement of Science, 1200 New York Avenue NW, Washington, DC 20005. Copyright
+2002 by the American Association for the Advancement of Science; all rights reserved. The title Science is a
+registered trademark of AAAS.
+

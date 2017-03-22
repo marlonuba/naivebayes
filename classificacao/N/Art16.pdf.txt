@@ -1,0 +1,617 @@
+             Research
+
+
+
+A cotton ascorbate peroxidase is involved in hydrogen
+Blackwell Publishing Ltd
+
+
+
+
+peroxide homeostasis during fibre cell development
+Hong-Bin Li, Yong-Mei Qin, Yu Pang, Wen-Qiang Song, Wen-Qian Mei and Yu-Xian Zhu
+National Laboratory of Protein Engineering and Plant Genetic Engineering and Department of Biochemistry and Molecular Biology, College of Life Sciences,
+Peking University, Beijing, 100871, China
+
+
+
+                                                    Summary
+
+Author for correspondence:                          • Reactive oxygen species (ROS) play important roles in multiple physiological
+Yong-Mei Qin                                        processes such as cellular signalling and stress responses, whereas, the hydrogen
+Tel: +86 10 62758885                                peroxide (H2O2) scavenging enzyme ascorbate peroxidase (APX) participates in the
+Fax: +86 10 62754427
+Email: qinym@pku.edu.cn
+                                                    regulation of intracellular ROS levels.
+                                                    • Here, a cotton (Gossypium hirsutum) cytosolic APX1 (GhAPX1) was identified to
+Received: 16 February 2007
+                                                    be highly accumulated during cotton fibre elongation by proteomic analysis.
+Accepted: 11 April 2007
+                                                    GhAPX1 cDNA contained an open reading frame of 753-bp encoding a protein of
+                                                    250 amino acid residues. When GhAPX1 was expressed in Escherichia coli, the purified
+                                                    GhAPX1 was a dimer consisting of two identical subunits with a molecular mass of
+                                                    28 kDa. GhAPX1 showed the highest substrate specificity for ascorbate.
+                                                    • Quantitative real-time polymerase chain reaction (PCR) analyses showed that
+                                                    GhAPX1 was highly expressed in wild-type 5-d postanthesis fibres with much lower
+                                                    transcript levels in the fuzzless-lintless mutant ovules. Treating in vitro cultured
+                                                    wild-type cotton ovules with exogenous H2O2 or ethylene induced the expression
+                                                    of GhAPX1 and hence increased total APX activity proportionally, followed by
+                                                    extended fibre cell elongation.
+                                                    • These data suggest that GhAPX1 expression is upregulated in response to an
+                                                    increase in cellular H2O2 and ethylene. GhAPX1 encodes a functional enzyme that
+                                                    is involved in hydrogen peroxide homeostasis during cotton fibre development.
+
+                                                    Key words: ascorbate peroxidase, ethylene, Gossypium hirsutum (cotton), reactive
+                                                    oxygen species (ROS).
+
+                                                    New Phytologist (2007) 175: 462–471
+
+                                                    © The Authors (2007). Journal compilation © New Phytologist (2007)
+                                                    doi: 10.1111/j.1469-8137.2007.02120.x
+
+
+
+                                                                               (Potikha et al., 1999). Studies on an Arabidopsis mutant in
+Introduction                                                                   which root and root hair elongation is impaired indicate that
+Cotton fibres, the most important materials in the textile                     the mutant is defective in the generation of ROS because of
+industry, are single-cell trichomes and develop from the ovule                 disruption of a NAD(P)H oxidase gene and ROS regulated
+epidermis. Fibre quality is determined by its final length and                 cell growth through the activation of Ca2+ channels (Foreman
+strength. Cell elongation or expansion is regarded as a central                et al., 2003).
+process in plant morphogenesis. Cell wall loosening is not                        Reactive oxygen species were also shown to be signalling
+only catalysed by expansins (Cosgrove, 2000), reactive oxygen                  molecules involved in stress perception, pathogen response,
+species (ROS) such as superoxide radical, hydrogen peroxide                    programmed cell death and regulation of photosynthesis; control
+(H2O2) and hydroxyl radical were found to participate in                       of intracellular ROS level is thought to be essential to maintain
+plant cell expansion (Schopfer, 2001; Rodriguez et al., 2002;                  cellular redox homeostasis (Mittler et al., 2004). Ascorbate
+Liszkay et al., 2004). Interestingly, H2O2 acts as a developmental             peroxidase (APX, EC 1.11.1.11) uses ascorbate as electron
+signal in the differentiation of secondary walls in cotton fibres              donor to reduce H2O2 to water. Therefore, APX represents
+
+
+462                                                                                                                          www.newphytologist.org
+                                                                                                                                 Research     463
+
+
+one of the most important enzymes scavenging H2O2. It has              tion at 20000 g for 1 h, the pellet was washed first with cold
+been identified in many higher plants, with eight isozymes             acetone containing 0.07% (w : v) 2-mercaptoethanol, then
+distributed in at least four cellular compartments, including          with 80% cold acetone, and finally suspended in a lysis
+cytosol, chloroplasts, mitochondria and peroxisomes (Shigeoka          buffer (7 M urea, 2 M thiourea, 4% 3-[(3-cholamidopropyl)-
+et al., 2002). Cytosolic APX1 plays an essential role in cross-        dimethylammonio]-1-propane sulphonate (CHAPS), 20 mM
+compartment protection and maintenance of the cellular                 dithiothreitol (DTT)) and the soluble fraction was purified
+reactive oxygen network, demonstrated by the collapse of the           using 2-DE clean up kit (Amersham Pharmacia Biotech,
+entire chloroplastic H2O2-scavenging system, an increase in            Cambridge, UK). Protein concentration was determined
+H2O2 concentrations and oxidation of proteins in the absence           with 2-D Quant kit (Amersham Pharmacia Biotech). Two-
+of APX1 (Davletova et al., 2004). Cytosolic APX2 in Arabidopsis        dimensional electrophoresis was performed as described in
+is regulated by several stresses such as ozone, sulphur dioxide,       Gorg et al. (1988). Briefly, total protein of 100 µg and 1.5 mg
+excessive light, heat and heavy metals (Karpinski et al., 1997;        were applied for silver- and Coomassie-stained gels, respectively.
+Fryer et al., 2003). However, the specific functions of the APX        Isoelectric focusing (IEF) was performed with pH range 4–7
+genes in the context of plant growth and development remain            using the Immobiline 4-7 linear DryStrip and the IPGphor
+to be determined.                                                      system (Amersham Pharmacia Biotech). Denaturing 12.5%
+    Previously, a number of cotton cDNAs were identified that          polyacrylamide gel was used for sodium dodecyl sulphate–
+were preferentially expressed during fast fibre expansion period       polyacrylamide gel electrophoresis (SDS-PAGE) analysis. Silver-
+by microarray transcriptome analysis (Ji et al., 2003; Shi et al.,     and Coomassie-stained gels were achieved using the method
+2006). Since two-dimensional electrophoresis (2-DE) coupled            described by Shevchenko et al. (1996) and 0.1% (w : v)
+with mass spectrometry (MS) is considered an essential method          Coomassie Blue R-350 (Amersham Pharmacia Biotech) in
+to interpret gene expression at the protein level (Aebersold &         10% acetic acid plus continuous destaining with 10% acetic
+Mann, 2003), here we took a proteomic approach to identify             acid, respectively. Silver-stained gels were used for image analysis
+proteins that are potentially involved in cotton fibre cell elon-      processed with 2-D IMAGEMASTER ELITE software (version 4.01;
+gation. Four cotton protein spots annotated as cytosolic APX           Amersham Pharmacia Biotech) according to the manufacturer’s
+encoded by the GhAPX1 gene, among a total of 49 protein                instructions, and Coomassie-stained gels were used for in-gel
+spots that were accumulated specifically in elongating fibre           digestion and successive protein identification by MALDI-
+cells, were obtained by matrix assisted laser desorption ionisa-       TOF MS and MS/MS methods. All mass spectra from
+tion time of flight mass spectrometry (MALDI-TOF MS)                   MALDI-TOF MS and MS/MS were obtained on an Ultraflex
+and MALDI-TOF MS/MS with a total of more than 20-fold                  TOF/TOF (Bruker Daltonics, Bremen, Germany) and used
+increase compared with that of a fuzzless-lintless mutant ( f l ),     to search the NCBInr database using the MASCOT search
+recessive mutant which does not produce fuzz and lint fibres.          engine (http://www.matrixscience.com) with a tolerance of
+Functional analysis of GhAPX1 suggested that it might                  ± 0.1 Da and one missed cleavage site. All gels were performed
+participate in the regulation of fibre cell development by             in three triplicates from independent protein samples.
+modulating cellular H2O2 content.
+                                                                       Expression and purification of GhAPX1 in E. coli
+Materials and Methods                                                  The GhAPX1 cDNA was amplified by PCR with primers,
+                                                                       5′-CGGGATCCATGACCAAGTGTTACCCAACTGTG-3′
+Plant materials
+                                                                       (sense) and 5′-CCCAAGCTTGTGCATCAGCAAATCCT-
+Upland cotton (Gossypium hirsutum L. cv. Xuzhou 142) and               AGCTCAGA-3′ (antisense) containing BamHI and HindIII
+fl mutant cotton ovules were grown in a fully automated                restriction endonuclease sites (underlined). A PCR amplification
+glasshouse. Fresh ovules at 1-d postanthesis (dpa) were picked         reaction was performed using Taq DNA polymerase and the
+from the plants and used for in vitro ovule cultures. The various      purified product was cloned into plasmid pGEM-T (Promega,
+materials used for experiments were harvested immediately at           Madison, WI, USA). The cDNA of GhAPX1 was verified by
+indicated times and frozen in liquid nitrogen until use.               sequencing and was cloned into pET28a, resulting in the
+                                                                       pET28a-GhAPX1 plasmid containing 6 × His-Tag. The
+                                                                       pET28a-GhAPX1 plasmid was transformed into E. coli BL21
+Proteomic analysis
+                                                                       (DE3) pLysS cells. The transformed cells were cultured at 37°C
+A series of 2-DE gels were produced as previously described            in liquid Luria–Bertani (LB) medium (1% Bacto-tryptone, 0.5%
+(Wang et al., 2006). Approximately 1 g of different tissues were       yeast extract, and 1% NaCl, pH 7.5) containing 50 µg ml–1
+ground in liquid nitrogen in a mortar and pestle. The fine             kanamycin with vigorous shaking. Isopropyl-1-thio-β-D-
+powder was precipitated at −20°C with 10% (w : v) trichlo-             galactoside (IPTG) was added to the culture to a final
+roacetic acid (TCA) in cold acetone containing 0.07% (w : v)           concentration of 0.4 mM when the cell density reached an
+2-mercaptoethanol for at least 2 h or overnight. After centrifuga-     optical density at 600 nm (OD600) of 0.6–0.8. After 4 h of
+
+
+© The Authors (2007). Journal compilation © New Phytologist (2007) www.newphytologist.org               New Phytologist (2007) 175: 462–471
+464 Research
+
+
+     additional incubation at 37°C, the cells were harvested by
+                                                                            RNA extraction and quantitative real-time RT-PCR
+     centrifuging at 5000 g for 20 min at 4°C. The pelleted cells
+                                                                            (QRT-PCR) analysis
+     were suspended in a binding buffer (50 mM Tris–HCl, 0.5 M
+     NaCl and 1% Triton X-100, pH 8.0). The suspension was                  Total RNA was prepared using a modified hot borate method
+     sonicated and the lysate was centrifuged at 10 000 g for 10 min        as described (Shi et al., 2006). Total RNA (5 µg) was used to
+     at 4°C. The supernatant was loaded on Ni-charged His-Bind              synthesize first-strand cDNA with the Superscript first-strand
+     column according to the instructions provided by Novagen               synthesis system for RT-PCR (Invitrogen, Carlsbad, CA, USA)
+     (Madison, WI, USA). The fractions eluted from the column               according to the manufacturer’s recommendations. Gene-
+     containing the recombinant GhAPX1 protein were collected               specific primers of GhAPX1 for RT- and quantitative RT-PCR
+     and load on a HiLoad 16/60 Superdex 200 (GE Healthcare,                analyses were synthesized commercially with 5′-TCCCTAA-
+     Pollards Wood, UK) equilibrated with the buffer containing             CCTCACCTACGCT-3′ (sense) and 5′-CCTTCCTTCTCT-
+     20 mM Tris-HCl, 150 mM NaCl, pH 7.5. Bio-Rad (Hercules,                CCCGACA-3′ (antisense). Cotton UBQ7 primers were used
+     CA, USA) Gel Filtration Standard containing mixture of                 as control to adjust the amount of the template cDNA for
+     five proteins with known molecular weight: vitamin B12                 each amplification reaction. The QRT-PCR was performed
+     (1.35 kDa), equine myoglobin (17.5 kDa), chicken ovalbumin             using the SYBR Green PCR kit (Applied Biosystems) and a
+     (44 kDa), bovine gamma globulin (158 kDa) and thyroglobulin            DNA Engine Opticon continuous fluorescence detection
+     (670 kDa), was used for molecular mass calibration. The                system (MJ Research) as previously described (Qin et al., 2005).
+     resulted peak fractions were analysed by SDS-PAGE and                  Real time-PCR and quantitative RT-PCR results were obtained
+     used for further optimum pH, enzyme kinetics and substrate             from three experiments using independent RNA samples.
+     specificity analyses. Protein concentration was determined by the
+     Bradford method using bovine serum albumin as standard.
+                                                                            In vitro ovule culture and treatment with exogenous
+                                                                            H2O2 and ethylene
+     Ascorbate peroxidase activity measurement
+                                                                            Cotton ovules were collected at 1 dpa, soaked in 70% ethanol
+     The APX activity was assayed using the spectrophotometric              for 1 min, rinsed in distilled and deionized water and soaked
+     method (Nakano & Asada, 1987). Different tissues (200 mg)              again in 0.1% HgCl solution containing 0.05% Tween-80 for
+     were ground in liquid nitrogen, mixed with 1 ml of an                  20 min to sterilize. Ovules (c. 0.02 g) were placed in liquid
+     extraction buffer containing 50 mM potassium-phosphate                 media formulated as described (Beasley & Ting, 1973) in
+     (pH 7.0), 1 mM ethylenediaminetetraacetic acid (EDTA),                 50-ml flasks under aseptic conditions. The ovules generally
+     2% (w : v) polyvinylpyrrolidone-40, 10% (w : v) glycerol, and          floated on the surface of 20 ml of the liquid media with or
+     1 mM ascorbate (AsA), and centrifuged at 14000 g for 10 min            without (CK) exogenous 50 µM H2O2 and 0.1 µM ethylene
+     at 4°C. The supernatant was used for the APX activity assay            and were cultured at 30°C in darkness without agitation. The
+     in a reaction mixture that contained 50 mM potassium-                  lengths of fibres were measured manually under a bright-field
+     phosphate (pH 7.0), 0.1 mM EDTA, 0.1 mM H2O2, 0.5 mM                   microscope after combing the cells to upright positions, with
+     AsA. The reaction was initiated with the addition of H2O2 in           three independent ovule culture experiments and a total of 90
+     a total volume 1 ml. Enzyme activity was performed by                  fibre cells measured on three individual ovules each time (Shi
+     measuring the decrease in absorbance of ascorbate at 290 nm            et al., 2006).
+     (ε290/2.8 mM–1 cm–1). One unit of enzyme activity was defined
+     with the oxidization of 1 µmol AsA at 25°C in 1 min. The
+                                                                            Determination of H2O2 content in vivo
+     electron donors except AsA were 10 mM guaiacol (ε470/26.6
+     mM–1 cm–1), 0.15 mM NADH (ε340/6.2 mM–1 cm–1), 0.15 mM                 Flowers were marked at anthesis and tissues at indicated times
+     NADPH (ε340/6.2 mM–1 cm–1), 50 µM cytochrome c (ε550/19                were collected immediately for H2O2 measurement. H2O2
+     mM –1 cm–1), 20 mM 3,3′-diaminobenzidine (DAB) (ε460/                  content was determined by the method of titanium oxidation
+     3.73 mM–1 cm–1) and 1 mM glutathione. The rate of hydrogen             with hydroperoxide-titanium complex formed (Brennan &
+     peroxide-dependent oxidation of the electron donors was                Frenkel, 1977). Tissues (0.5 g) were ground in 1 ml acetone,
+     determined using the absorption coefficients cited in parentheses.     and 75 µl freshly prepared 20% TiCl4 (v : v in 11 M HCl) and
+     When glutathione was used as substrate, the enzyme activity            150 µl NH4OH were added to the acetone extract forming a
+     was determined by the method coupling with glutathione                 hydroperoxide–titanium complex. The complex pellet was
+     reductase and 0.12 mM NADPH (Little et al., 1970). The                 obtained after centrifugation at 11000 g for 5 min and
+     pH-dependent APX activity of recombinant GhAPX1 was                    suspended in 400 µl 1 M H2SO4 with addition of 180 µl
+     determined in the following buffers: mixture of 0.1 M                  acetone. The supernatant was collected by removing the
+     Na2HPO4 and 0.05 M citric acid for pH 3–6, 0.05 M                      insoluble material after centrifugation at 11000 g for 5 min
+     sodium-phosphate buffer for pH 6–8 and 0.05 M Tris–HCl                 and the absorbance at 405 nm was measured against a blank.
+     buffer for pH 8–10.                                                    Hydrogen peroxide concentration was determined from the
+
+
+     New Phytologist (2007) 175: 462–471              www.newphytologist.org © The Authors (2007). Journal compilation © New Phytologist (2007)
+                                                                                                                                   Research     465
+
+
+standard curve with 0.01 mM to 1 mM H2O2 added to the
+titanium solution.
+
+
+Results
+
+Identification of a cotton APX by proteomic analysis
+during cotton fibre development
+Proteomic analysis was performed on 10 dpa wild-type cotton
+ovules associated with fibres. For control purpose, 10 dpa fl
+mutant cotton ovules were also analysed. Proteins extracted
+from the cotton ovules were analysed by 2-D gel electrophoresis.
+A total of 1240 ± 20 protein spots were detected on both gels
+in three independent experiments (see the Supplementary
+Material, Fig. S1). The numbered spots were excised from
+gels, in-gel digested with trypsin and subjected to MALDI-
+TOF MS (Fig. S1). Among them, 61 proteins showing highly
+up-regulated (see the Supplementary Material, Table S1),
+downregulated (Table S2) were identified, compared with
+intensity of the relatively unchanged or housekeeping cotton
+proteins (Table S3). Spots 1–4, highly accumulated in 10 dpa
+wild-type ovules associated with fibres (Fig. 1), were all identified
+as ascorbate peroxidase encoded by the same APX gene (Table
+S1) through NCBInr database searches using the MASCOT
+search engine (http://www.matrixscience.com), and the peptides
+obtained from these four spots were matched perfectly with
+the deduced amino acid sequence of GhAPX1 (Table S4).
+Four unique peptides from each of intensive spots 1–4 (Fig. 1)
+had monocharged ions mass peaks at m/z (mass/charge) m/z
+1331.1, m/z 2076.9, m/z 1612 and m/z 2320.1, indicating
+that the spots were GhAPX1 analyzed by MALDI-TOF MS
+(Table S4) and MALDI-TOF MS/MS (Fig. S2).
+
+
+Characterization of GhAPX1
+GhAPX1 is encoded by a cDNA containing a 753-bp open                    Fig. 1 Protein spots 1–4 accumulated specifically in elongating
+                                                                        cotton (Gossypium hirsutum) fibre cells. The same parts of
+reading frame (ORF) with a predicted molecular mass of                  corresponding integrated gels (see the Supplementary Material
+28 kDa. The cDNA sequence was submitted to GenBank                      Fig. S1) were enlarged to show the difference in spot intensities.
+with accession number EF432582. The deduced amino acid                  WT-10, samples prepared from 10 d postanthesis (dpa) wild-type
+sequence of GhAPX1 was shown in Fig. 2, in alignments with              ovules plus fibre cells; FL-10, 10 dpa mutant ovules that produced no
+homologous sequences from species including Capsicum                    fibre cells; WT-0, 0 dpa wide-type ovules; FL-0, 0 dpa mutant ovules.
+                                                                        Protein spots 63, 79 and 87 (specified in the Supplementary Material,
+annuum, Arabidopsis thaliana, Oryza sativa and Glycine max.             Table S3) were used as internal loading controls and for relative
+The amino acid residues Arg-38 essential for binding and                positioning on the integrated gel.
+orientation of the ligand, His-42 and Arg-172 critical for
+Compound I and II formation were found to be conserved in
+all the APX1 proteins shown in Fig. 2a. A neighbour-joining
+bootstrap tree constructed based on the homologous APX                  protein. We propose that GhAPX1 probably encodes for a
+proteins revealed that they could be divided into four groups           cytosolic APX: a definitive conclusion may be drawn later by
+and GhAPX1 belongs to cytosolic APX proteins (Fig. 2b; see              a localization study of the protein.
+the Supplementary Material, Fig. S3). At the amino acid level,             When pET28a-GhAPX1 was expressed in Escherichia coli
+the GhAPX1 showed pronounced 47–93% similarity and                      and induced by IPTG, soluble extract of the cells were able to
+27–84% identity with other APX proteins (Fig. S3). GhAPX1               convert ascorbate to the compound II at a rate of 2.88 ± 0.21
+did not possess mitochondrial or peroxisomal targeting signal           µmol min–1 mg–1 protein. No activity was obtained from
+or chloroplast transit peptides, implying it is a cytosolic             protein extracts using cells without IPTG induction or cells
+
+
+© The Authors (2007). Journal compilation © New Phytologist (2007) www.newphytologist.org                 New Phytologist (2007) 175: 462–471
+466 Research
+
+
+
+
+                                                                                                   Fig. 2 Sequence alignment (a) and
+                                                                                                   phylogenetic analysis (b) of GhAPX1 and
+                                                                                                   related proteins. Amino acid sequences were
+                                                                                                   deduced from putative full-length cDNAs
+                                                                                                   available in NCBI database. (a) Ca, Capsicum
+                                                                                                   annuum (AAL83708); At, Arabidopsis
+                                                                                                   thaliana (NP_172267); Os, Oryza sativa
+                                                                                                   (japonica cultivar group) (P93404) and Gm,
+                                                                                                   Glycine max (BAC92739). Black shading
+                                                                                                   indicates strictly conserved residues whereas
+                                                                                                   grey shading indicates regions of less strict
+                                                                                                   conservation. The three asterisks indicate
+                                                                                                   the highly conserved ascorbate peroxidase
+                                                                                                   (APX) functional amino acid residues.
+                                                                                                   (b) Neighbour-joining bootstrap tree was
+                                                                                                   constructed from the alignment of GhAPX1
+                                                                                                   with the two best known APX families of
+                                                                                                   Arabidopsis thaliana and Oryza sativa (see
+                                                                                                   the Supplementary material, Fig. S3) using
+                                                                                                   Molecular Evolutionary Genetics Analysis
+                                                                                                   (MEGA) software with 1000 bootstrap
+                                                                                                   replicates. The scale bar corresponds to 0.1
+                                                                                                   estimated amino acid substitutions per site.
+                                                                                                   AtAPX1, NP_172267; AtAPX2, NP_187575;
+                                                                                                   AtAPX3, NP_195226; AtAPX4, P82281;
+                                                                                                   AtAPX5, Q7XZP5; AtAPX6, Q8GY91;
+                                                                                                   AtsAPX, Q42592; AttAPX, Q42593;
+                                                                                                   OsAPX1, P93404; OsAPX2, Q9FE01;
+                                                                                                   OsAPX3, Q6TY83; OsAPX4, Q6ZJJ1;
+                                                                                                   OsAPX5, P0C0L0; OsAPX6, P0C0L1;
+                                                                                                   OsAPX7, Q7XJ02; OsAPX8, Q69SV0.
+
+
+     transformed with the empty vector. The expressed recom-                Table 1 Enzymatic properties of recombinant GhAPX1 protein
+     binant GhPAX1 was purified from the cell extract to apparent           expressed in Escherichia coli
+     homogeneity by two chromatographic steps on a Ni-charged
+     His-Bind column (Novagen) and gel filtration on a Superdex                                                          Recombinant GhAPX1
+     200 column (GE Healthcare). By SDS/PAGE analysis, the                  Molecular weight (kDa)
+     molecular mass of the recombinant protein was 31.5 kDa                    Native                                    56
+     (data not shown), which agrees with the theoretical molecular             Subunit                                   28
+     mass of 28 kDa plus 3.5 kDa His-tag fused with GhAPX1.                 Km (mM)
+     Size-exclusion chromatography on Superdex 200 gave an                     Ascorbate                                  0.43 ± 0.031
+                                                                               H2O2                                       0.12 ± 0.008
+     experimental native molecular mass of 64.2 kDa (Fig. 3a),              kcat (s–1)
+     suggesting that the recombinant protein was a homodimer.                  Ascorbate                                  2.60 × 102 ± 21
+     Steady-state data for oxidation of ascorbate by GhAPX1 are                H2O2                                      46.71 ± 3.92
+     shown in Table 1. The dependence of the rate of substrate              Kcat/km (s–1 mM–1)
+     oxidation vs pH yields a pH optimum for GhAPX1 at 6.5 for                 Ascorbate                                  6.04 × 102 ± 5.66
+                                                                               H2O2                                       3.89 × 102 ± 2.13
+     oxidation of ascorbate (Fig. 3b). The dependence of the spe-
+     cific activity of GhAPX1 on the concentration of ascorbate
+     (Fig. 3c) or H2O2 (Fig. 3d) was linear (r 2 = 0.9956 and
+                                                                            Both GhAPX1 mRNA level and total APX activity reach
+     r 2 = 0.9327, respectively), suggesting that the both reactions
+                                                                            to peak value during fast fibre cell elongation period
+     are first order. Figure 3e shows the relative activities of GhAPX1
+     with different reducing substrates when the activity of GhAPX1         The expression levels for GhAPX1 gene in various develop-
+     towards ascorbate is defined as 100%. Guaiacol, glutathione,           mental stages were examined by QRT-PCR and RT-PCR analyses
+     NADH, NADPH, cytochrome c were poorer substrates of                    (Fig. 4a). GhAPX1 mRNA increased to greater than fivefold
+     GhAPX1 with 0.02- to 0.28-fold of the activity of ascorbate            at 5 dpa (the point of early fibre-cell fast elongating) ovules in
+     and no oxidation was observed when DAB was used as the                 wild-type associated with fibres compared with that of –3 dpa
+     substrate (Fig. 3e).                                                   ovules and expression of GhAPX1 was found to remain at low
+
+
+     New Phytologist (2007) 175: 462–471              www.newphytologist.org © The Authors (2007). Journal compilation © New Phytologist (2007)
+                                                                                                                                 Research      467
+
+
+
+
+                                                                        Fig. 4 Characterizing GhAPX1 expression pattern and enzyme
+                                                                        activity during different cotton (Gossypium hirsutum) fibre
+                                                                        development stages. (a) Quantitative real-time polymerase chain
+                                                                        reaction (QRT-PCR) analyses indicated that GhAPX1 was
+                                                                        preferentially expressed in fast-elongating fibre cells. For visual
+                                                                        comparison, we inserted a piece of corresponding RT-PCR data above
+                                                                        the QRT data. (b) Total ascorbate peroxidase (APX) activity from
+                                                                        cotton ovules increased in a similar manner. Enzyme activity was
+                                                                        measured by assaying the oxidation rate of ascorbate (AsA)
+                                                                        photometrically and monitoring the absorbance at 290 nm (A290nm)
+Fig. 3 Purification, molecular size determination and enzymatic         using samples prepared from the growth stages indicated. Total RNA
+property analyses of purified recombinant GhAPX1 protein from           samples were extracted from various developmental stages and were
+Escherichia coli. (a) Determination of the molecular weight of native   used for QRT-PCR analysis. Cotton UBQ7 (Genbank accession no.
+GhAPX1 protein. (b) Effect of pH on recombinant GhAPX1 enzyme           AY189972) was included as the template control. The QRT-PCR
+activity. Ascorbate peroxidase (APX) activity at pH 6.5 was assumed     results were obtained from three independent RNA extractions.
+to be 100%. (c) Lineweaver–Burk double reciprocal plot of the           **, P < 0.01; ***, P < 0.001 as determined by one-way ANOVA
+recombinant protein with ascorbate as the substrate. (d) Lineweaver–    and Holm–Sidak multiple comparison test compared with –3 d
+Burk double reciprocal plot of the recombinant protein with hydrogen    postanthesis (dpa) wild type at each indicated time point. wt, wild
+peroxide (H2O2) as the substrate. (e) Substrate specificity of the      type; fl, fuzzless-lintless.
+recombinant GhAPX1 protein. The APX activity of GhAPX1 was
+measured at pH 6.5 using indicated substrates with 0.1 mM H2O2.
+The APX activity using ascorbate acid as substrate was supposed to be
+100%. Results are the mean ± SD of triplicate determinations from       activity reached a peak value at 5 dpa (Fig. 4b), which agreed
+independent samples. ***, P < 0.001; determined by one-way ANOVA        with the transcriptional levels of the gene.
+and Holm–Sidak multiple comparison test compared with ascorbate.
+
+                                                                        Exogenous H2O2 and ethylene treatments promoted
+                                                                        fibre elongation as well as GhAPX1 transcription and
+level at 10 dpa fl mutant ovules, suggesting that GhAPX1 was
+                                                                        total APX enzyme activity in cotton ovules
+specifically upregulated during cotton fibre development. The
+oxidation rate of ascorbate was measured using protein extracts         The QRT-PCR analyses showed that GhAPX1 expression was
+from the fibre developmental stages indicated. The total APX            significantly upregulated in wild-type, but not mutant ovules,
+
+
+© The Authors (2007). Journal compilation © New Phytologist (2007) www.newphytologist.org                New Phytologist (2007) 175: 462–471
+468 Research
+
+
+                                                                               shortly after exogenous H2O2 or ethylene treatments (Fig. 5a).
+                                                                               Total APX activity from in vitro cultured ovules was also found
+                                                                               to increase significantly after H2O2 or ethylene supplementation
+                                                                               (Fig. 5b). When 50 µM H2O2 or 0.1 µM ethylene were added
+                                                                               in the ovule culture media, significant promotion of fibre cell
+                                                                               growth was observed over a longer period of time (Fig. 5c).
+                                                                               Application of 0.1 µM ethylene to cultured cotton ovules was
+                                                                               able to stimulate significant H2O2 production as early as 6 h
+                                                                               after the treatment (Fig. 5d). Our results suggest that GhAPX1
+                                                                               may play an important role during early cotton fibre cell
+                                                                               development by mediating the endogenous H2O2 homeostasis
+                                                                               that was controlled by the plant hormone ethylene.
+
+
+                                                                               Discussion
+                                                                               Recent studies using knockout and antisense plants reveal a
+                                                                               strong connection between ROS overproduction in response
+                                                                               to environmental stresses and ROS-removal enzymes (Mittler
+                                                                               et al., 2004). Reactive oxygen species may act as second
+                                                                               messengers in plants, which is supported by the presence of
+                                                                               redox-sensitive regulation of gene expression (Mou et al., 2003).
+                                                                               Cytosolic APX genes were found to be induced under variable
+                                                                               environmental conditions such as high light and high salt,
+                                                                               wounding, pathogen infection, fruit ripening and application
+                                                                               of paraquat (Mittler & Zilinskas, 1992; Schantz et al., 1995;
+                                                                               Donahue et al., 1997; Karpinski et al., 1997, 1999; Storozhenko
+                                                                               et al., 1998; Morita et al., 1999; Yoshimura et al., 2000),
+                                                                               implying that the high expression of APX genes induced by
+                                                                               oxidative stress is essential to remove H2O2 and minimize the
+                                                                               oxidative damage. Although ascorbate peroxidases have been
+                                                                               identified in many higher plants and comprise a family of
+                                                                               isozymes with different characters, their functions in the
+                                                                               regulation of plant growth remain unclear.
+                                                                                  Our results show that GhAPX1 identified by proteomic
+                                                                               analysis (Fig. 1) is highly upregulated during an early stage of
+                                                                               the developing cotton fibres (Fig. 4a). Analysis of the amino
+                                                                               acid sequence of GhAPX1 suggests that GhAPX1 belongs to
+                                                                               the group of cytosolic APX (Fig. 2). Characterization of the
+                                                                               purified recombinant GhAPX1 showed that the protein was
+
+                                                                               cell growth significantly. (d) Exogenous ethylene induced H2O2
+                                                                               production. Wild-type ovules were harvested at 1 d postanthesis
+                                                                               (dpa) and in vitro cultured in the presence of 50 µM H2O2 or 0.1 µM
+                                                                               ethylene for 6 d. The fibre lengths were the average of three
+                                                                               independent ovule culture experiments with a total of 90 fibre cells
+                                                                               measured on three individual ovules each time. Total RNA samples
+                                                                               were prepared from 1 dpa ovules after culturing for the specified time
+                                                                               (h) in the presence of 50 µM H2O2 or 0.1 µM ethylene and were used
+     Fig. 5 Effects of exogenously applied hydrogen peroxide (H2O2) and        for quantitative real-time polymerase chain reaction(QRT-PCR)
+     ethylene on GhAPX1expression and cotton (Gossypium hirsutum)              analysis. The H2O2 content was measured according to titanium
+     fibre cell development (CK, without exogenous H2O2 and ethylene).         oxidation using in vitro cultured cotton ovules treated with 0.1 µM
+     (a) GhAPX1 transcription was significantly upregulated by exogenous       ethylene at the time (h) indicated. g FW, gram fresh weight. Results
+     H2O2 or ethylene treatment of wild-type, but not fl mutant ovules.        are mean ± SD of triplicate determinations. *, P < 0.05; **, P < 0.01;
+     (b) Total ascorbate peroxidase (APX) enzyme activity in cultured wild-    ***, P < 0.001; determined by (c) one-way and (a,b, d) two-way
+     type cotton ovules increased significantly after exogenous application    ANOVA and Holm–Sidak multiple comparison test compared with (c)
+     of H2O2 or ethylene. (c) Exogenous H2O2 and ethylene promote fibre        CK or (a, b,d) CK at each specified time (h), respectively.
+
+
+
+     New Phytologist (2007) 175: 462–471                 www.newphytologist.org © The Authors (2007). Journal compilation © New Phytologist (2007)
+                                                                                                                                         Research      469
+
+
+active with ascorbate and H2O2, verifying that the identified          References
+putative GhAPX1 was an ascorbate peroxidase. The GhAPX1                Aebersold R, Mann M. 2003. Mass spectrometry-based proteomics.
+obeyed Michaelis–Menten kinetics toward ascorbate and                     Nature 422: 198–207.
+H2O2 (Fig. 3c,d). From the double-reciprocal plots, the apparent       Beasley CA, Ting IP. 1973. The effects of plant growth substances on in vitro
+Km values of the enzyme for ascorbate and H2O2 were 0.43 ±                fiber development from fertilized cotton ovules. American Journal of
+0.031 mM and 0.12 ± 0.008 mM. The kcat value for GhAPX1                   Botany 60: 130–139.
+                                                                       Brennan T, Frenkel C. 1977. Involvement of hydrogen peroxide in the
+was 2.60 × 102 ± 21 s–1 and the kcat/Km value for ascorbate               regulation of senescence in pear. Plant Physiology 59: 411–416.
+was 6.04 × 102 ± 5.66 s–1 mM–1; these values are comparable            Cosgrove DJ. 2000. Loosening of plant cell walls by expansins. Nature
+to other characterized plant APXs (Mittler & Zilinskas, 1991;             407: 321–326.
+Yoshimura et al., 1998; Takeda et al., 2000). GhAPX1 displays          Davletova S, Rizhsky L, Liang H, Zhong S, Oliver DJ, Coutu J, Shulaev V,
+much lower or no catalytic activity with the electron donors,             Schlauch K, Mittler R. 2004. Cytosolic ascorbate peroxidase 1 is a central
+                                                                          component of the reactive oxygen gene network of Arabidopsis. Plant Cell
+including guaiacol, glutathione, NADH, NADPH, cytochrome                  17: 268–281.
+c and DAB (Fig. 3e).                                                   Donahue JL, Okpodu CM, Cramer CL, Grabau EA, Alscher RG. 1997.
+   Plant cells in culture are considered to be subject to high            Responses of antioxidants to paraquat in pea leaves. Plant Physiology 113:
+levels of oxidative stress, providing a good model for the study          249–257.
+of antioxidative mechanisms (Lee et al., 1999). To study the           Foreman J, Demidchik V, Bothwell JHF, Mylona P, Miedema H,
+                                                                          Torres MA, Linstead P, Costa S, Brownlee C, Jones JDG, Davies JM,
+early response of GhAPX to ROS in the early stage of cotton               Dolan L. 2003. Reactive oxygen species produced by NADPH oxidase
+fibre development, the profiles of GhAPX1 expression and the              regulate plant cell growth. Nature 422: 442–446.
+total APX activities from the wild-type cotton ovules treated          Fryer MJ, Ball L, Oxborough K, Karpinski S, Mullineaux PM,
+with H2O2 were analysed (Fig. 5a,b). The GhAPX1 transcript                Baker NR. 2003. Control of ascorbate peroxidase 2 expression
+level reached a maximum at 5 dpa, which is the time point                 by hydrogen peroxide and leaf water status during excess light stress
+                                                                          reveals a functional organisation of Arabidopsis leaves. Plant Journal
+when the APX activity increased at a peak value, implying that            33: 691–705.
+there is a direct correlation between the transcription and the        Gorg A, Postel W, Gunther S. 1988. The current state of two-dimensional
+activity of GhAPX1. Both the transcript levels of GhAPX1                  electrophoresis with immobilized pH gradients. Electrophoresis 9:
+gene and the APX activity from cotton fibres increased owing              531–546.
+to induction by H2O2 (Fig. 5a,b), supporting the hypothesis            Ji S-J, Lu Y-C, Feng J-X, Wei G, Li J, Shi Y-H, Fu Q, Liu D, Luo J-C,
+                                                                          Zhu Y-X. 2003. Isolation and analyses of genes preferentially expressed
+that GhAPX1 functions to immediately detoxify H2O2 gen-                   during early cotton fiber development by substractive PCR and cDNA
+erated during the fibre fast-elongation period. This transient            array. Nucleic Acids Research 31: 2534–2543.
+increase in H2O2 followed by cytosolic APX expression was              Joo JH, Bae YS, Lee JS. 2001. Role of auxin-induced reactive oxygen species
+also observed in high-light-exposed Arabidopsis (Karpinski                in root gravitropism. Plant Physiology 126: 1055–1060.
+et al., 1997). Ethylene was shown to play an important role in         Karpinski S, Escobar C, Karpinska B, Creissen G, Mullineaux PM. 1997.
+                                                                          Photosynthetic electron transport regulates the expression of cytosolic
+the development of fibre cells (Shi et al., 2006). With regard            ascorbate peroxidase genes in Arabidopsis during excess light stress.
+to the question of whether ethylene can regulate H2O2 pro-                Plant Cell 9: 627–640.
+duction, leading to fibre elongation, treatment of cotton ovules       Karpinski S, Reynolds H, Karpinska B, Wingsle G, Creissen G,
+by exogenous ethylene was found to stimulate H2O2 produc-                 Mullineaux P. 1999. Systemic signaling and acclimation in response to
+tion (Fig. 5d) and increase the transcript level of the GhAPX1            excess excitation energy in Arabidopsis. Science 284: 654–657.
+                                                                       Lee SC, Kang BG, Oh SE. 1999. Induction of ascorbate peroxidase by
+gene (Fig. 5a), leading to enhancement of the total APX activity          ethylene and hydrogen peroxide during growth of cultured soybean cells.
+in cotton ovules (Fig. 5b). Our data are consistent with the              Molecular Cells 9: 166–171.
+expression pattern of the soybean ascorbate peroxidase gene that       Liszkay A, van der Zalm E, Schopfer P. 2004. Production of reactive
+was induced by ethylene and hydrogen peroxide (Lee et al.,                oxygen intermediates (O2.–, H2O2, and .OH) by maize roots and their
+1999). Our data are also supported by the finding that the                role in wall loosening and elongation growth. Plant Physiology 136:
+                                                                          3114–3123.
+plant hormone auxin can stimulate the generation of H2O2,              Little C, Olinescu R, Reid KG, O’Brien PJ. 1970. Properties and
+which plays a role in root gravitropism ( Joo et al., 2001). We           regulation of glutathione peroxidase. Journal of Biological Chemistry
+propose that cotton APX1 gene participates in hydrogen per-               245: 3632–3636.
+oxide homeostasis. Our results indicate that ROS-mediated              Mittler R, Zilinskas BA. 1991. Purification and characterization of pea
+cell expansion may be one important mechanism that regulates              cytosolic ascorbate peroxidase. Plant Physiology 97: 962–968.
+                                                                       Mittler R, Zilinskas BA. 1992. Molecular cloning and characterization of a
+cotton fibre elongation.                                                  gene encoding pea cytosolic ascorbate peroxidase. Journal of Biological
+                                                                          Chemistry 267: 21802–21807.
+                                                                       Mittler R, Vanderauwera S, Gollery M, van Breusegem F. 2004.
+Acknowledgements                                                          Reactive oxygen gene network of plants. Trends in Plant Science 9:
+This work was supported by grants from China National                     490–498.
+                                                                       Morita S, Kaminaka H, Masumura T, Tanaka K. 1999. Induction of rice
+Basic Research Program (Grant 2004CB117302). We thank                     cytosolic ascorbate peroxidase mRNA by oxidative stress; the involvement
+Dr Xiao-Dong Su and MSc Cong Liu for determination of                     of hydrogen peroxide in oxidative stress signalling. Plant and Cell
+native molecular weight of GhAPX1.                                        Physiology 40: 417–422.
+
+
+
+© The Authors (2007). Journal compilation © New Phytologist (2007) www.newphytologist.org                    New Phytologist (2007) 175: 462–471
+470 Research
+
+
+     Mou Z, Fan W, Dong X. 2003. Inducers of plant systemic acquired                    elongation). A total of 100 µg of proteins extracted from the
+       resistance regulate NPR1 function through redox changes. Cell 113:               indicated stages were separated on 12.5% sodium dodecyl
+       935–944.
+     Nakano Y, Asada K. 1987. Purification of ascorbate peroxidase in spinach
+                                                                                        sulphate–polyacrylamide gel electrophoresis with a pH gradient
+       chloroplasts; its inactivation in ascorbate-depleted medium and                  ranging from 4 to 7 using 24 cm Immobiline DryStrip gel.
+       reactivation by monodehydroascorbate radical. Plant and Cell Physiology          The marked spots, including differentially accumulated protein
+       28: 131–140.                                                                     spots and some relatively invariable spots, were identified by
+     Potikha TS, Collins CC, Johnson DI, Delmer DP, Levine A. 1999. The                 matrix assisted laser desorption ionisation time of flight mass
+       involvement of hydrogen peroxide in the differentiation of secondary wall
+       in cotton fibers. Plant Physiology 119: 849 –858.
+                                                                                        spectrometry (MALDI-TOF MS) and MALDI-TOF MS/
+     Qin Y-M, Pujol FMA, Shi Y-H, Feng J-X, Liu Y-M, Kastaniotis AJ,                    MS, and are reported in the Supplementary Material, Tables
+       Hiltunen JK, Zhu Y-X. 2005. Cloning and functional characterization              S1–S3. All gels were performed in triplicate using independent
+       of two cDNAs encoding NADPH-dependent 3-ketoacyl-CoA                             protein samples. WT-10, 10 dpa wild-type ovule with fibres;
+       reductases from developing cotton fibers. Cell Research 15:                      FL-10, 10 dpa fuzzless-lintless ( fl ) mutant ovules; WT-0, 0 dpa
+       465–473.
+     Rodriguez AA, Grunberg KA, Taleisnik EL. 2002. Reactive oxygen species
+                                                                                        wild-type ovules; FL-0: 0 dpa mutant ovules.
+       in the elongation zone of maize leaves are necessary for leaf extension. Plant
+       Physiology 129: 1627–1632.                                                       Fig. S2 Mass spectrometry/mass spectrometry (MS/MS)
+     Schantz ML, Schreiber H, Guillemaut P, Schantz R. 1995. Changes in                 identification of protein spots 1–4. The MS/MS spectra were
+       ascorbate peroxidase activities during fruit ripening in Capsicum annum.         generated from Ultraflux TOF/TOF operated in LIFT mode.
+       FEBS Letter 358: 149–152.
+     Schopfer P. 2001. Hydroxyl radical-induced cell-wall loosening in vitro and
+                                                                                        Ions with m/z 1331.7 (a), 2076.9 (b), 1612.1 (c) and 2320.1
+       in vivo: implications for the control of elongation growth. Plant Journal 28:    (d) were obtained from all four protein spots in matrix assisted
+       679–688.                                                                         laser desorption ionisation time of flight mass spectrometry
+     Shevchenko A, Wilm M, Vorm O, Mann M. 1996. Mass spectrometric                     (MALDI-TOF MS) identification (Table S4) and were used
+       sequencing of proteins from silver-stained polyacrylamide gels. Analytical       for MS/MS analysis here. Deduced amino acid sequences
+       Chemistry 68: 850–858.
+     Shi Y-H, Zhu S-W, Mao X-Z, Feng J-X, Qin Y-M, Zhang L, Cheng J,
+                                                                                        are shown in the upper part of each graph. Fragmentation
+       Wei L-P, Wang Z-Y, Zhu Y-X. 2006. Transcriptome profiling, molecular             of the peptide backbone during MS/MS analysis resulted
+       biological, and physiological studies reveal a major role for ethylene in        in the characteristic bn- and yn-ions (where n denotes
+       cotton fiber cell elongation. Plant Cell 18: 651– 664.                           arbitrary positions counted from the N and C termini, respec-
+     Shigeoka S, Ishikawa T, Tamoi M, Miyagawa Y, Takeda T, Yabuta Y,                   tively). (e) The amino acid sequences obtained from protein
+       Yoshimura K. 2002. Regulation and function of ascorbate peroxidase
+       isoenzymes. Journal of Experimental Botany 53: 1305 –1319.
+                                                                                        spots 1–4 matched perfectly with the deduced GhAPX1 protein
+     Storozhenko S, Pauw PD, Montagu MV, Inze D, Kushnir S. 1998. The                   sequence.
+       heat-shock element is a functional component of the Arabidopsis APX1
+       gene promoter. Plant Physiology 118: 1005 –1014.                                 Fig. S3 Sequence alignment of selected two best known
+     Takeda T, Yoshimura K, Yoshii M, Kanahoshi H, Miyasaka H, Shigeoka S.              families of Arabidopsis thaliana and Oryza sativa with the
+       2000. Molecular characterization and physiological role of ascorbate
+       peroxidase from halotolerant Chlamydomonas sp. W80 Strain. Archives of
+                                                                                        amino acid sequences deduced from putative full-length
+       Biochemistry and Biophysics 376: 82–90.                                          cDNAs available in NCBI database using CLUSTALX software.
+     Wang B-C, Wang H-X, Feng J-X, Meng D-Z, Qu L-J, Zhu Y-X. 2006.                     Black shading indicates strictly conserved residues whereas grey
+       Post-translational modifications, but not transcriptional regulation, of         shading indicates regions of less strict conservation. AtAPX1,
+       major chloroplast RNA-binding proteins are related to Arabidopsis                NP_172267; AtAPX2, NP_187575; AtAPX3, NP_195226;
+       seedling development. Proteomics 6: 2555 –2563.
+     Yoshimura K, Ishikawa T, Nakamura Y, Tamoi M, Takeda T, Tada T,
+                                                                                        AtAPX4, P82281; AtAPX5, Q7XZP5; AtAPX6, Q8GY91;
+       Nishimura K, Shigeoka S. 1998. Comparative study on recombinant                  AtsAPX, Q42592; AttAPX, Q42593; OsAPX1, P93404;
+       chloroplastic and cytosolic ascorbate peroxidase isozymes of spinach.            OsAPX2, Q9FE01; OsAPX3, Q6TY83; OsAPX4, Q6ZJJ1;
+       Archives of Biochemistry and Biophysics 353: 55 – 63.                            OsAPX5, P0C0L0; OsAPX6, P0C0L1; OsAPX7, Q7XJ02;
+     Yoshimura K, Yabuta Y, Ishikawa T, Shigeoka S. 2000. Expression of                 OsAPX8, Q69SV0.
+       spinach ascorbate peroxidase isoenzymes in response to oxidative stresses.
+       Plant Physiology 123: 223 –233.
+                                                                                        Table S1 Identification of proteins up-regulated in WT-10
+                                                                                        using matrix assisted laser desorption ionisation time of flight
+     Supplementary Material                                                             mass spectrometry (MALDI-TOF MS).
+
+     The following supplementary material is available for this                         Table S2 Downregulated proteins in WT-10 identified by
+     article online:                                                                    matrix assisted laser desorption ionisation time of flight mass
+                                                                                        spectrometry (MALDI-TOF MS).
+     Fig. S1 Representatives of comparative silver stained two-
+     dimensional gel electrophoresis maps of total proteins extracted                   Table S3 Identification of relatively unchanged and house-
+     from wild-type and fuzzless-lintless ( fl ) mutant at 0 d                          keeping proteins obtained by matrix assisted laser desorption
+     postanthesis (dpa; no fibre growth) and 10 dpa (fast fibre cell                    ionisation time of flight mass spectrometry (MALDI-TOF MS).
+
+
+     New Phytologist (2007) 175: 462–471                        www.newphytologist.org © The Authors (2007). Journal compilation © New Phytologist (2007)
+                                                                                                                                    Research      471
+
+
+Table S4 Each peptide of protein spots 1–4 identified as                 This material is available as part of the online article from
+ascorbate peroxidase was obtained by matrix assisted laser               http://www.blackwell-synergy.com/doi/abs/10.1111/
+desorption ionisation time of flight mass spectrometry                   j.1469-8137.2007.02120.x
+(MALDI-TOF MS) with searching in NCBInr database and                     (this link will take you to the article abstract).
+compared with the deduced amino acid sequence of cytosolic
+GhAPX1                                                                   Please note: Blackwell Publishing are not responsible for the
+                                                                         content or functionality of any supplementary materials supplied
+                                                                         by the authors. Any queries (other than missing material) should
+                                                                         be directed to the journal at New Phytologist Central Office.
+
+
+
+
+              About New Phytologist
+
+
+   • New Phytologist is owned by a non-profit-making charitable trust dedicated to the promotion of plant science, facilitating projects
+     from symposia to open access for our Tansley reviews. Complete information is available at www.newphytologist.org.
+
+   • Regular papers, Letters, Research reviews, Rapid reports and both Modelling/Theory and Methods papers are encouraged.
+     We are committed to rapid processing, from online submission through to publication ‘as-ready’ via OnlineEarly – our average
+     submission to decision time is just 30 days. Online-only colour is free, and essential print colour costs will be met if necessary. We
+     also provide 25 offprints as well as a PDF for each article.
+
+   • For online summaries and ToC alerts, go to the website and click on ‘Journal online’. You can take out a personal subscription to
+     the journal for a fraction of the institutional price. Rates start at £131 in Europe/$244 in the USA & Canada for the online edition
+     (click on ‘Subscribe’ at the website).
+
+   • If you have any questions, do get in touch with Central Office (newphytol@lancaster.ac.uk; tel +44 1524 594691) or, for a local
+     contact in North America, the US Office (newphytol@ornl.gov; tel +1 865 576 5261).
+
+
+
+
+© The Authors (2007). Journal compilation © New Phytologist (2007) www.newphytologist.org                   New Phytologist (2007) 175: 462–471
+

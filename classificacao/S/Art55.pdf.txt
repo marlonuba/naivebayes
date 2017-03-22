@@ -1,0 +1,800 @@
+              Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+
+KREPA6 is an RNA-binding protein essential for editosome
+integrity and survival of Trypanosoma brucei
+
+
+SALVADOR ZIPAGAN TARUN JR.,1 ACHIM SCHNAUFER,1 NANCY LEWIS ERNST,1 ROSEMARY PROFF,1
+JUNPENG DENG,2,4 WIM HOL,2 and KENNETH STUART1,3
+1
+ Seattle Biomedical Research Institute, Seattle, Washington 98109, USA
+2
+ Department of Biochemistry, University of Washington, Seattle, Washington 98195, USA
+3
+ Department of Pathobiology, University of Washington, Seattle, Washington 98195, USA
+
+
+
+
+ABSTRACT
+Most mitochondrial mRNAs in kinetoplastid protozoa require post-transcriptional RNA editing that inserts and deletes
+uridylates, a process that is catalyzed by multiprotein editosomes. KREPA6 is the smallest of six editosome proteins that have
+predicted oligonucleotide-binding (OB) folds. Inactivation of KREPA6 expression results in disruption and ultimate loss of ;20S
+editosomes and inhibition of procyclic form cell growth. Gel shift studies show that recombinant KREPA6 binds RNA, but not
+DNA, with a preference for oligo-(U) whether on the 39 end of gRNA or as a (UU)12 homopolymer. Thus, KREPA6 is essential for
+the structural integrity and presence of ;20S editosomes and for cell viability. It functions in RNA binding perhaps primarily
+through the gRNA 39 oligo(U) tail. The significance of these findings to key steps in editing is discussed.
+Keywords: Trypanosoma brucei; trypanosomatids; RNA editing; editosome; OB-fold; RNA-binding protein
+
+
+
+
+INTRODUCTION                                                                         RNA editing is carried out by 20S editosomes, likely
+                                                                                  in coordination with other multiprotein complexes. The
+The protozoan parasite Trypanosoma brucei is responsible
+                                                                                  editosomes contain the catalysts that cleave the pre-mRNA,
+for African sleeping sickness in humans and nagana in
+                                                                                  add or delete the Us, and ligate the processed products
+cattle. RNA editing in T. brucei and related kinetoplastids is
+                                                                                  (Rusche et al. 1997; Madison-Antenucci et al. 1998;
+a unique, essential, and extensive form of post-transcrip-
+                                                                                  Panigrahi et al. 2001a). They can accurately edit single sites
+tional RNA processing in which uridylates (Us) are deleted
+                                                                                  of model pre-RNAs in vitro (Seiwert and Stuart 1994; Kable
+and inserted in the majority of the mitochondrial pre-
+                                                                                  et al. 1996; Igo Jr. et al. 2000, 2002). The current model
+mRNAs as specified by guide RNAs (gRNAs). The edited
+                                                                                  of RNA editing by 20S editosomes envisions a series of
+mRNAs encode protein components of respiratory chain
+                                                                                  dynamic interactions between the pre-mRNA and its cog-
+complexes I, III, IV, and V, as well as RPS12 and MURF2,
+                                                                                  nate gRNA and between these RNAs and the RNA-binding
+a protein of unknown function (for reviews, see Madison-
+                                                                                  proteins and catalysts within the editosomes (Madison-
+Antenucci et al. 2002; Simpson et al. 2004; Stuart et al.
+                                                                                  Antenucci et al. 2002; Stuart and Panigrahi 2002; Stuart
+2005). It functions in a stage-specific fashion resulting in
+                                                                                  et al. 2005 and references therein). Editing generally pro-
+differentially expressed proteins, perhaps to accommodate
+                                                                                  ceeds in the 39 to 59 direction and commences with a gRNA
+the alternate energy requirements within the insect (pro-
+                                                                                  selection step via complementary base-pairing between the
+cyclic forms, PF) and animal hosts (bloodstream forms, BF)
+                                                                                  59 ‘‘anchor’’ region of each gRNA and the 8–10-base pair
+(Benne et al. 1986; Feagin et al. 1987, 1988; Koslowsky et al.
+                                                                                  (bp) region of mRNA sequence adjacent to the block to be
+1990).
+                                                                                  edited, followed by specific endonucleolytic cleavage of
+                                                                                  the pre-mRNA at an unpaired nucleotide immediately up-
+    4                                                                             stream of the anchor duplex. As guided by base comple-
+    Present address: Department of Biochemistry and Molecular Biology,
+Oklahoma State University, Stillwater, OK 74078, USA.                             mentarity within the central informational region of the
+   Reprint requests to: Kenneth Stuart, Seattle Biomedical Research               gRNA, U removal or addition at the 39 end of the pre-
+Institute, 307 Westlake Avenue North, Suite 500, Seattle, WA 98109,               mRNA 59 cleavage fragment is then catalyzed by a U-
+USA; e-mail: kenneth.stuart@sbri.org; fax: (206) 256-7229.
+   Article published online ahead of print. Article and publication date are at   specific 39-exoribonuclease (exoUase) or by a terminal
+http://www.rnajournal.org/cgi/doi/10.1261/rna.763308.                             uridylyl transferase (TUTase), respectively, followed by
+
+RNA (2008), 14:347–358. Published by Cold Spring Harbor Laboratory Press. Copyright Ó 2008 RNA Society.                                    347
+               Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+Tarun et al.
+
+
+
+joining of the processed 59 fragment with the 39 mRNA                 (Matthews and Sunde 2002; Theobald et al. 2003;
+fragment by RNA ligases. Multiple cycles of these catalytic           Bochkarev and Bochkareva 2004). The OB-fold of KREPA4
+steps are required for complete editing of the region specified       resembles that of the S1 ribosomal protein, while the others
+by a single gRNA, and most mRNAs require sequential use of            more closely resemble that of the Escherichia coli DNA
+multiple gRNAs. This complex process must entail numer-               single-strand binding protein (SSB) (Schnaufer et al. 2003;
+ous protein–RNA and RNA–RNA interactions, the identifi-               Worthey et al. 2003; Salavati et al. 2006). KREPA1 and
+cation of which is still in its infancy (Sacharidou et al. 2006;      KREPA2 proteins interact with KREL2 and KREL1, re-
+Salavati et al. 2006; Yu and Koslowsky 2006).                         spectively, and, in the case of KREPA1, enhance catalysis
+   Consistent with the expected complexity of the inter-              (Schnaufer et al. 2003). These proteins were suggested to
+actions between 20S editosomes and their RNA editing                  provide the OB-fold in trans that may function in substrate
+substrates, the sequences of all 20S editosome proteins               binding (Schnaufer et al. 2003). KREPA3 binds duplex
+have predicted catalytic and/or RNA interaction motifs                RNA or DNA in a zinc-dependent fashion (Brecht et al.
+(Schnaufer et al. 2003; Worthey et al. 2003; Stuart et al.            2005), while KREPA4 specifically binds the 39 oligo(U) tail
+2005), many of which have been experimentally confirmed.              of gRNA (Salavati et al. 2006). Knockdown of expression
+The kinetoplastid RNA editing endonuclease1 (KREN1)                   of each of these proteins inhibits cell growth and, except
+that cleaves deletion sites, KREN2 that cleaves insertion             perhaps for KREPA3, results in partial or full disruption of
+sites, and the KREN3 editing endonuclease that specifically           20S editosomes (Drozdz et al. 2002; Huang et al. 2002;
+cleaves the COII insertion site have RNase III, U1-like zinc          O’Hearn et al. 2003; Brecht et al. 2005; Salavati et al. 2006).
+finger-like, and double-stranded RNA-binding (dsRBM)                  Thus, KREPA family members have critical functions in
+motifs (Carnes et al. 2005, 2007; Trotter et al. 2005).               RNA editing associated with RNA substrate binding and
+Similarly, the U-deletion editing exoUases KREX1 and                  20S complex integrity.
+KREX2 and the U-insertion editing TUTase KRET2 have                      We examined KREPA6, the smallest (18 kDa) KREPA
+39–59 exonuclease and poly(A) polymerase domains,                     family member that is present among different 20S edito-
+respectively (Aphasizhev et al. 2003; Ernst et al. 2003; Kang         somes (Panigrahi et al. 2006), which interacts with several
+et al. 2005; N.L. Ernst, unpubl.). The editing RNA Ligases            other editosome proteins (Schnaufer et al. 2003; A.
+KREL1 and KREL2 also have motifs characteristic of their              Schnaufer, unpubl.) and the loss of which affects complex
+activities (McManus et al. 2001; Schnaufer et al. 2001;               structure and U-deletion and U-insertion endonuclease
+Rusche´ et al. 2001). All six members of the KREPA family             activities in vitro (Law et al. 2007). Thus, while it is a
+of 20S editosome proteins have oligonucleotide-binding                critical member of 20S editosomes, its specific roles in RNA
+(OB) fold motifs (Schnaufer et al. 2003; Panigrahi et al.             editing are unknown. We confirm here that KREPA6 is
+2006; Salavati et al. 2006), and the KREPB4–8 family mem-             critical for normal growth of PF Trypanosome brucei and
+bers have U1 zinc finger-like motifs (Worthey et al. 2003).           the structural integrity of 20S editosomes. Importantly, we
+The 20S editosomes have a common set of proteins that are             also show further that loss of KREPA6 strongly affects RNA
+physically and functionally arranged in subcomplexes that             editing in vivo and that the protein binds RNA but not
+can catalyze the U removal and ligation steps of deletion             DNA in vitro, displaying high cooperativity, a similar
+editing or the U addition and ligation steps of insertion             affinity for pre-mRNA and gRNA, and a weaker affinity
+editing (Schnaufer et al. 2003). However, the KREN1, KREN2,           for their partially duplexed form. Also, KREPA6 preferen-
+and KREN3 endonucleases are in different 20S editosomes               tially binds to the gRNA 39 oligo(U) tail. Thus, KREPA6 is
+along with this common set of proteins but each with one              a RNA-binding component of the 20S editosome that is
+or two specific proteins (Panigrahi et al. 2006). Thus,               essential for its structural integrity.
+endonuclease activity appears associated with different 20S
+editosomes, each of which can catalyze the subsequent U
+                                                                      RESULTS
+deletion or U insertion and ligation steps of editing.
+   While components of 20S editosomes that account for
+                                                                      KREPA6 is important for growth and in vivo
+the six key catalytic steps of editing have been identified,
+                                                                      RNA editing
+the functions of many other editosomal proteins have not
+been determined but must include RNA-binding and pro-                 Conditional repression of KREPA6 expression by RNAi in
+tein interaction. Some of the six KREPA family members                PF T. brucei inhibited cell growth and accumulation of
+have been shown to function in RNA-binding and/or                     edited RNAs (Fig. 1). Induction of dsRNA that spans the
+protein interaction (Schnaufer et al. 2003; Brecht et al.             entire KREPA6 coding sequence, using the two opposing
+2005; Salavati et al. 2006). In addition to the aforemen-             promoter system of Wang et al. (2000), resulted in about a
+tioned OB-fold motifs, KREPA1, KREPA2, and KREPA3                     40% knockdown of KREPA6 mRNA after 4 d compared
+also contain two zinc-finger motifs (Panigrahi et al. 2001b).         to uninduced cells (Fig. 1B). Growth inhibition became
+As shown in other organisms, OB-fold and zinc-finger                  apparent after 4 d, with cells exhibiting reduced motility,
+domains function in nucleic acid or protein binding                   and persisted for another 5 d (Fig. 1A). During this period,
+
+348      RNA, Vol. 14, No. 2
+             Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+                                                                                          Essential RNA-binding protein in RNA editing
+
+
+
+                                                                           loss of KREPA6 repression as sometimes observed (for
+                                                                           example, see O’Hearn et al. 2003; Luo et al. 2004).
+                                                                           Quantitative real-time RT-PCR (qPCR) analysis indicated
+                                                                           that the level of KREPA6 mRNA was reduced substantially
+                                                                           (Fig. 1B, light gray bar), whereas the levels of the KREPA1–5
+                                                                           mRNAs, which encode related editosome proteins, were
+                                                                           unchanged or slightly increased (Fig. 1B, gray bars), indi-
+                                                                           cating that knockdown was specific for KREPA6 mRNA.
+                                                                           Western analysis of fractions of glycerol gradient purified
+                                                                           total cell lysates from KREPA6 RNAi cells with anti-
+                                                                           KREPA6 polyclonal antibodies revealed that KREPA6 pro-
+                                                                           tein was dramatically reduced after 2 d of RNAi knock-
+                                                                           down and essentially undetectable after 4 d, while the level
+                                                                           of a control mitochondrial protein, 2-OGDCp, a compo-
+                                                                           nent of the 2-oxoglutarate dehydrogenase complex, was
+                                                                           essentially unaffected (Fig. 2). The apparent greater re-
+                                                                           duction of KREPA6 protein compared to the mRNA may
+                                                                           reflect the use of qPCR primers to KREPA6 39 UTR lying
+                                                                           outside the region targeted by RNAi, or an effect of dsRNA
+                                                                           expression on translation of the KREPA6 mRNA rather
+                                                                           than its stability. Overall, the RNAi knockdown dramati-
+                                                                           cally reduced the cellular level of KREPA6 protein and
+                                                                           proliferation of PF T. brucei cells.
+                                                                              KREPA6 repression resulted in a 90% reduction of edited
+                                                                           A6 and RPS12 mRNAs and 60% reduction of edited COII
+                                                                           and MURF2 mRNAs after 4 d of RNAi induction as deter-
+                                                                           mined by qPCR (Fig. 1B, white bars). In contrast, the relative
+                                                                           levels of the corresponding pre-edited mRNAs (Fig. 1B, black
+                                                                           bars) were increased. In addition, the levels of ND4 and COI
+                                                                           mitochondrial mRNAs (Fig. 1B, slashed bars) that do not
+                                                                           undergo editing were essentially unaffected by the KREPA6
+                                                                           knockdown, similar to the nuclearly encoded KREPA1–5
+                                                                           mRNAs. Hence, KREPA6 repression resulted in loss of
+                                                                           KREPA6 mRNA and protein, and RNA editing in vivo.
+FIGURE 1. KREPA6 repression by RNAi inhibits cell growth and
+reduces RNA editing in PF cells. (A) Growth of RNAi-A6 cells in the
+absence (uninduced, open squares) or presence of tetracycline (tet)        KREPA6 is essential for the integrity
+(induced, solid squares) was monitored for 12 d. For comparison,
+growth of uninduced (open triangles) and induced (solid triangles)         of 20S editosomes
+29.13 parental strain cells was also determined. The cumulative cell
+                                                                           Repression of KREPA6 expression by RNAi caused the loss
+number was calculated by multiplying the cell densities by the dilution
+factor. (B) Quantitative real-time PCR analysis of total RNA from          of 20S editosomes (Fig. 2A–C, upper panels). RNAi-A6 PF
+RNAi-A6 cells in which KREPA6 was either expressed or repressed for        cells were induced for 2 or 4 d, and whole cell lysates were
+4 d. The relative abundance of each RNA is in comparison to when           fractionated on glycerol gradients and examined by West-
+KREPA6 was expressed, with the line at 1 indicating no change, and
+bars above or below this line indicating an increase or decrease,
+                                                                           ern analysis using monoclonal antibodies specific for the
+respectively. The levels of 18S rRNA were used for normalization. The      KREPA1, KREPA2, KREPA3, and KREL1 editosome com-
+error bars indicate the standard deviation of three replicates. Relative   ponents. Uninduced cells were analyzed in parallel. Each
+mRNA levels of (i) the KREPA editosome proteins (KREPA6, light             of these editosome proteins was dramatically reduced with
+gray bar; KREPA1 to KREPA5, dark gray bars), (ii) selected mito-
+chondrial pre-edited (black bars) and edited (white bars) mRNAs, and       virtually no detectable signal remaining in the 20S region
+never-edited mRNAs (slashed bars).                                         (fractions 11–15) after 4 d of KREPA6 repression, closely
+                                                                           paralleling the loss of KREPA6 protein (Fig. 2C). Approx-
+                                                                           imately 90% of the strongest Western signal, corresponding
+most cells had reduced motility, and formation of cell                     to KREPA1 within the 20S region, was eliminated by day 2
+debris was observed, mostly at days 6–8, suggesting cell                   of RNAi (Fig. 2B). A small amount of Western signal was
+death (data not shown). Growth resumed after z9 d and                      detected in fractions 5–9, especially for KREPA1, possibly
+was accompanied by the reappearance of KREPA6 protein                      indicating a slight accumulation or retention of editosome
+based on Western analysis (data not shown), suggesting                     subcomplexes as has been seen previously with knockdown
+
+                                                                                                            www.rnajournal.org      349
+               Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+Tarun et al.
+
+
+
+
+FIGURE 2. KREPA6 repression leads to loss of 20S editosomes. RNAi-A6 cell lines were grown in the (A) absence or presence of tet for (B) 2 d or
+(C) 4 d. Equal numbers of cells were lysed and fractionated on glycerol gradients. Odd-numbered fractions were analyzed by Western blot with
+a mixture of monoclonal antibodies specific for editosome proteins KREPA1, KREPA2, KREL1, and KREPA3, and a polyclonal antibody
+to KREPA6. Blots were also probed with a monoclonal antibody recognizing a component (2-OGDCp) of the mitochondrial 2-oxoglutarate
+dehydrogenase complex as a control.
+
+
+
+
+of mRNAs for other editosome components (Huang et al.                     that it might function in substrate RNA binding during
+2002; O’Hearn et al. 2003; Wang et al. 2003; Salavati et al.              editing, its RNA-binding ability was assessed by electro-
+2006; Babbarwal et al. 2007). This suggests that KREPA6 is                phoretic mobility-shift assay (EMSA). Recombinant His-
+critical to overall editosome integrity and perhaps assembly              tagged KREPA6 that was expressed in E. coli (HisKREPA6)
+since the KREPA1, KREPA2, and KREPA3 mRNA levels,                         and purified to near homogeneity (Fig. 4B) was incubated
+and presumably their translation and mitochondrial                        with 59 end-labeled synthetic RNAs of comparable lengths
+import, remained virtually unchanged at day 4 of RNAi                     representing pre-edited ATPase subunit 6 mRNA (A6 pre-
+induction (see Fig. 1B). The absence of these proteins                    mRNA), its cognate gRNA gA6[14] (gRNA), gA6[14]
+probably reflects their degradation as a result of perturbed              minus the oligo(U) tail (gRNADU-tail), annealed pre-
+20S editosome structural integrity or assembly.                           mRNA and gRNA (pre-mRNATgRNA), and a pBluescript
+   Repression of KREPA6 also resulted in loss of in vitro                 RNA (pBS), and resolved on native gels, as described in
+RNA editing activities (Fig. 3). Glycerol gradient fractions              Materials and Methods. HisKREPA6 bound these RNAs in
+of crude mitochondrial lysates of RNAi-A6 cells in which                  a protein concentration-dependent manner, resulting in
+KREPA6 was expressed (uninduced) or repressed for 2 and                   three shifted bands (Fig. 4C) and accumulation of radio-
+4 d were analyzed by pre-cleaved insertion and deletion                   active signal in the wells of the gel. The majority of the
+editing assays. These assays bypass the first step of editing,            shifted bands occurred at higher concentrations of
+the endonucleolytic cleavage of the mRNA, and thus ef-                    HisKREPA6, as did material that did not leave the well,
+ficiently measure the subsequent TUTase and ligase activities             especially in the case of pre-mRNA and pBS. The bands
+associated with insertion editing (Fig. 3A), and exoUase and              were particularly distinct with the gRNAs and pre-mRNA,
+ligase activities associated with deletion editing (Fig. 3B),             suggesting relatively stable or well-defined protein–RNA
+respectively. KREPA6 repression resulted in loss of TUTase,               complexes. This was less so with partial duplex pre-
+exoUase, and ligase activities in vitro in the 20S region of the          mRNATgRNA and pBS. Essentially all of each RNA was
+gradient, consistent with the substantial loss of 20S edito-              bound at z7 mM HisKREP6, except pBS RNA, which was
+some proteins (Fig. 3, fractions 13–17). Residual TUTase,                 completely bound at z20 mM HisKREPA6.
+exoUase, and ligase activities were detected in these fractions,             The complex and partially overlapping pattern of gel-
+and a small increase in these activities was observed in                  shifted bands did not permit a rigorous determination of
+fractions 7–9 after RNAi induction, suggesting that some                  apparent equilibrium dissociation constants (KD app) for
+complete editosomes remained and some functional sub-                     each individual HisKREPA6/RNA complex. Thus, an iso-
+complexes were generated upon KREPA6 loss, consistent                     therm of the overall binding of HisKREPA6 with each
+with the results from the Western analysis (see Fig. 2). Taken            RNA, referring to all retarded bands including those in the
+together, these data demonstrate that KREPA6 is essential for             wells of the gel, was approximated from the best statistical
+the structural and functional integrity of 20S editosomes.                fit of each binding curve to various equilibrium binding
+                                                                          models (Fig. 4D). Each resulting best fit conformed to the
+                                                                          Hill equation with coefficients greater than 1, indicating
+KREPA6 binds to pre-edited mRNA and gRNA
+                                                                          cooperative binding of HisKREPA6 to RNA (Fig. 4D,
+cooperatively and with similar affinities in vitro
+                                                                          inset), and each estimated overall KD app was in the low
+Since the presence of an OB-fold motif in KREPA6 (Fig.                    micromolar range, indicating a moderate affinity of
+4A; Schnaufer et al. 2003; Worthey et al. 2003) suggested                 HisKREPA6 for each RNA tested. F-test analysis of the
+
+350      RNA, Vol. 14, No. 2
+             Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+                                                                                         Essential RNA-binding protein in RNA editing
+
+
+
+                                                                           KD app values for all RNA species may be underestimated
+                                                                           since it is likely that <100% of the recombinant protein in
+                                                                           the preparation was active. Determination of the KD app
+                                                                           for the HisKREPA6/duplex pre-mRNATgRNA complex
+                                                                           (Fig. 4C, panel 5) could not be performed accurately due
+                                                                           to the overlap of this complex with HisKREPA6/gRNA
+                                                                           (Fig. 4C, lane 2, bound gRNA) and duplexed pre-
+                                                                           RNATgRNA without protein (Fig. 4C, lane 3, free duplex),
+                                                                           and therefore was not included here.
+
+
+                                                                           Recombinant KREPA6 protein preferentially binds
+                                                                           to gRNA with a 39 oligo(U) tail
+                                                                           Gel-shift competition assays revealed a general correlation
+                                                                           between the affinity of HisKREPA6 for the gRNA based
+                                                                           from overall KD app measured as above (see Fig. 4D) and
+                                                                           binding specificities associated with the 39 oligo(U) tail
+                                                                           (Fig. 5A,B). A 500–1000-fold molar excess of unlabeled
+                                                                           gRNA essentially abolished the gel-shifted radiolabeled
+                                                                           gRNA band while similar excesses of unlabeled gRNADU-
+                                                                           tail or pBS resulted in a reduction of <15% (Fig. 5A,B).
+                                                                           Incubation with pre-mRNA resulted in additional bands
+                                                                           that include the partial gRNA:mRNA duplex (see Fig. 4E)
+                                                                           and, presumably, additional RNA/protein complexes, based
+                                                                           on sensitivity of the higher-shifted bands to protease
+FIGURE 3. KREPA6 repression results in a substantial reduction of          digestion (data not shown). The observed competition
+RNA editing activities in vitro. Crude mitochondrial extracts of           is consistent with the higher KD app values of HisKREPA6
+RNAi-A6 cells induced with tet for the indicated number of days            for gRNA-DU tail and pBS relative to gRNA (see Fig. 4C,
+were fractionated on glycerol gradients. Odd-numbered gradient
+                                                                           bottom panel). Thus, the oligo(U) tail may be an important
+fractions were assayed for (A) pre-cleaved insertion and (B) pre-
+cleaved deletion editing activities in vitro. The radiolabeled input       element for the binding of HisKREPA6 to the gRNA, either
+RNAs, input RNA with two Us added (+2U), or four Us removed                acting as a direct binding target and/or by stabilizing a
+( 4U), ligated products of unprocessed 59 and 39 input RNAs                structure favorable for binding. This was paralleled by
+(ligated), and edited products are indicated. Positive control reactions
+(+) were performed using a fraction of z20S editosomes that contains
+                                                                           complementary gel-shift competition assays with homo-
+peak editing activity. The region corresponding to 20S editosomes is       polymeric poly(A), poly(G), poly(C), and poly(U) RNAs of
+indicated, based on Western blot analyses of the gradients with            heterogeneous lengths (10–70 nucleotides [nt]) (Fig.
+antibodies specific for known editosome proteins as in Figure 2 (data      5C,D). Poly(U) was found to be the most effective
+not shown).
+                                                                           competitor of HisKREPA6 binding to gA6[14] gRNA,
+                                                                           essentially eliminating the gel shift at 1000-fold molar
+                                                                           excess, while the other homopolymers reduced it by
+overall KD app values and the Hill plots indicated that the                z40% (Fig. 5C,D).
+differences between each RNA species were statistically
+significant (P-values < 0.0001) (data not shown). A6 pre-
+                                                                           Recombinant KREPA6 protein is a poly(U)
+mRNA, gRNA, and gRNADU-tail RNAs each had signifi-
+                                                                           RNA-binding protein
+cantly higher Hill coefficients and lower KD app values for
+HisKREPA6 binding compared to pBS RNA, indicating                          HisKREPA6 also had a preference for oligo(U) in gel-shift
+both higher cooperativity and affinity of HisKREPA6                        assays using synthetic 24-mer (UU)12, (UG)12, (UC)12,
+binding for these editing-related RNAs compared with                       and (AG)12 RNAs (Fig. 6). When limiting concentrations
+pBS. The complex gel-shift patterns and binding models                     (0.5–2 nM) of 59-end-labeled RNA were incubated at room
+together suggest that either there are multiple HisKREPA6                  temperature with increasing excess amounts of purified
+editing RNA-binding interactions that influence each other,                HisKREPA6 (30 nM–15 mM), only (UU)12 was bound by
+or concentration dependent HisKREPA6 oligomerization                       HisKREPA6 with high affinity (Fig. 6A,B). HisKREPA6
+(which could be influenced by RNA binding), or both.                       bound more than 50% of (UU)12 at z200 nM protein,
+Absence of the oligo(U) tail (i.e., gRNADU tail) signifi-                  indicating a KD app around this value. Synthetic (AG)12
+cantly reduced both cooperativity and affinity, indicating                 and (UG)12 resulted in gel-shifted bands at higher
+that this tail contributes to the binding energy. The overall              HisKREPA6 concentrations although even at the highest
+
+                                                                                                           www.rnajournal.org    351
+               Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+Tarun et al.
+
+
+
+
+FIGURE 4. Recombinant KREPA6 binds both gRNA and pre-mRNA cooperatively with similar affinities. (A) Schematic representation of native
+pre-processed KREPA6 and the recombinant TEV cleavable N-terminally histidine-tagged version, HisKREPA6, used in this study, highlighting
+the single central OB-fold domain. The mitochondrial import signal (MIS) of KREPA6 was replaced with a hexa-histidine tag. (B) Coomassie-
+stained SDS-PAGE gel of affinity-purified HisKREPA6 protein used in EMSA. Due to the affinity tag, it migrates at z22 kDa. (C) EMSA gel
+analysis of HisKREPA6 binding to (1) ATPase 6 pre-mRNA (pre-mRNA), (2) its cognate gRNA, gA6[14] with a 39-oligo(U) tail (gRNA), (3)
+gA6[14] without a 39-oligo(U) tail (gRNADU-tail), (4) control pBluescript RNA, and (5) partial duplexes of A6 pre-mRNA and gA6[14] (pre-
+mRNATgRNA). [32P]- radiolabeled RNA was incubated with various concentrations of HisKREPA6 and resolved on native gels. The unbound
+radiolabeled RNA (free) and HisKREPA6 bound RNA complexes (bound) are indicated. Note that the range of HisKREPA6 concentrations used in
+partial duplex RNA binding (panel 5) is different (0–12 mM) from the other panels (0–20 mM), and has two additional concentrations (asterisks).
+(D) HisKREPA6/RNA-binding curves indicating the relative amount of RNA bound at different HisKREPA6 concentrations. In each case, the
+amount of RNA bound includes all of the shifted bands in the gel including the signals in the wells (C) and is the average of three replicates.
+Binding data were fit as described in Materials and Methods. Quantitation of the amount of HisKREPA6 bound to duplex pre-mRNATgRNA
+could not be done accurately due to the overlap of gel shifts between HisKREPA6 bound to gRNA or pre-mRNATgRNA.
+
+
+
+concentration of HisKREPA6 (z15 mM) less than 50% of                      DISCUSSION
+the input RNA was shifted. Essentially no (UC)12 RNA was
+bound by HisKREPA6. The RNA degradation observed at                       We conclude from the results reported here that KREPA6
+high concentrations of purified HisKREPA6 is likely due to                has a critical role in the structural integrity of z20S
+residual nucleases in the preparation. HisKREPA6 also                     editosomes and that it also appears to function in RNA
+did not shift two 24-mer deoxyribonucleotide-analogs,                     binding. Repression by RNAi of KREPA6 expression resulted
+d(UU)12 and d(AG)12, to any significant extent (data not                  in essentially complete loss of z20S editosomes with little
+shown), indicating the specificity of HisKREPA6 for RNA.                  accumulation of free editosome proteins or subcomplexes.
+
+352      RNA, Vol. 14, No. 2
+            Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+                                                                                         Essential RNA-binding protein in RNA editing
+
+
+
+
+FIGURE 5. Recombinant KREPA6 preferentially binds poly(U) and gRNA with an oligo(U) tail. (A) EMSA gel analysis of HisKREPA6 binding
+to radiolabeled gA6[14] gRNA with an oligo(U) tail in the absence or presence of excess unlabeled competitor RNAs. (Lanes 8,9) The multiple
+bands observed in the presence of excess unlabeled pre-mRNA are due to partially duplexed gRNATpre-mRNA and/or HisKREPA6 binding to
+the duplex RNA. (B) Quantitation of the amount of gRNA binding in A, indicating the percent of gRNA bound in the presence of competitor
+RNAs relative to their absence. (A, lane 2) The amount of HisKREPA6 bound to gRNA in the absence of competitor was set to 100%. The
+competitor RNAs were gRNA with a U tail (black bars), gRNADU tail (striped bars), pre-mRNA (gray bars), and pBlueScript control RNA (white
+bars). The apparent increase in HisKREPA6 gRNA binding in the presence of excess pre-mRNA >100% is due at least in part to formation of
+partial gRNATpre-mRNA duplexes. (C) EMSA analysis of HisKREPA6 binding to radiolabeled gRNA with a U tail in the absence or presence of
+excess unlabeled homopolymeric competitor RNAs. Molar excess was based on nucleotide gram weight estimate because of the heterogeneous
+polymer sizes (10–70 nt) of the RNAs. (D) Quantitation of the amount of gRNA binding in C, indicating the percent of gRNA bound in the
+presence of competitor RNAs relative to their absence. (C, lane 2) As in B, the amount of HisKREPA6 bound to gRNA in the absence of
+competitor was set to 100%. The competitors were poly(U) (black bars), poly(G) (striped bars), poly(A) (gray bars), and poly(C) (white bars).
+
+
+
+Not surprisingly, this resulted in the loss of both editing and          editosome structural integrity. A recent study reported a
+the viability of PF T. brucei, which are reliant on this process.        similar finding (Law et al. 2007). The concomitant loss of
+Recombinant KREPA6 was found by gel retardation studies                  other editosome proteins also indicates that integration of
+to have a moderate affinity for RNA in general and a greater             these proteins into the editosome is essential for their
+affinity for oligo(U) but no affinity for DNA. These results             stability since limiting amounts of KREPA6 appears to
+indicate that KREPA6 is an integral component of z20S                    compromise the assembly and/or the stability of the 20S
+editosomes and suggest that it functions in RNA binding                  editosomes, leading to rapid turnover of editosome proteins.
+that may entail binding of the 39 oligo(U) tail of gRNAs.                These structural effects appear more severe relative to similar
+                                                                         inactivation of expression of editosome proteins KREPA1 or
+                                                                         KREPA3 by RNAi in PF T. brucei, which caused only slight
+Effects of KREPA6 repression on 20S editosome
+                                                                         changes in editosome sedimentation (Drozdz et al. 2002;
+structure and cell growth
+                                                                         O’Hearn et al. 2003; Brecht et al. 2005). However, the results
+The extensive loss of 20S editosomes upon knockdown of                   reported here are similar to the consequences of inactivation
+KREPA6 expression (Fig. 2) indicates that it is essential to             of expression of KREPA2, KREPA4, and KREPB4 in PFs
+
+                                                                                                              www.rnajournal.org        353
+               Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+Tarun et al.
+
+
+
+                                                                                                editosome structural stability, is its
+                                                                                                ability to bind RNA with an apparent
+                                                                                                preference for oligo(U) RNA. This
+                                                                                                RNA-binding ability is consistent
+                                                                                                with its predicted OB-fold structure
+                                                                                                (Schnaufer et al. 2003), a domain asso-
+                                                                                                ciated with nucleic acid recognition/
+                                                                                                binding in various proteins (Theobald
+                                                                                                et al. 2003; Bochkarev and Bochkareva
+                                                                                                2004). The six KREPA family members
+                                                                                                all have predicted OB-fold domains
+                                                                                                near their C termini, and we previously
+                                                                                                suggested that KREPA1 and KREPA2
+                                                                                                may provide this substrate recognition/
+                                                                                                binding function in trans to the cata-
+                                                                                                lytic proteins with which they directly
+                                                                                                interact within the editosome (Schnaufer
+                                                                                                et al. 2003). RNA binding would also
+                                                                                                be expected to function in associat-
+                                                                                                ing pre-mRNA and gRNA with the
+                                                                                                editosome and in relocating these RNAs
+                                                                                                during the multiple coordinated steps
+                                                                                                of editing.
+                                                                                                   KREPA6 exhibited a similarly com-
+                                                                                                plex pattern of binding to various syn-
+FIGURE 6. Recombinant KREPA6 has a higher affinity for poly(U) RNA. (A) EMSA analysis
+of HisKREPA6 binding to synthetic 24-mer RNAs. (B) Quantitation of the RNA binding in A thetic RNAs, generating multiple but
+indicating the percent of RNA bound with increasing HisKREPA6 concentrations. The RNA discrete, concentration-dependent gel-
+ligands were 59-end-labeled (UC)12 (white bars), (AG)12 (striped bars), (UG)12 (gray bars), and shifted products, including material
+(UU)12 (black bars). Owing to the apparent RNA degradation in lanes containing high
+                                                                                                that did not enter the gel (Fig. 4C).
+concentrations of HisKREPA6, the amount of radioactive free RNA in the absence of
+HisKREPA6 (lane 11 of each gel) was used to estimate percent binding as detailed in the Hence, KREPA6 may have either mul-
+Materials and Methods. Also because of this RNA degradation, apparent KD estimations could tiple or alternate binding sites on the
+not be accurately determined.                                                                   RNAs, bind multiple RNA ligands
+                                                                                                simultaneously, or have oligomeric con-
+                                                                                                formations that influence binding. The
+(Huang et al. 2002; Salavati et al. 2006; Babbarwal et al. 2007)           strong positive cooperativity of KREPA6 binding to RNA
+and KREPB5 (TbMP44) in BFs (Wang et al. 2003). KREPA6                      (Fig. 4D) is consistent with these possibilities. Understand-
+has been shown to directly interact with KREPA1 and to                     ing the functional significance of this behavior by KREPA6
+partially associate with the heterotrimeric insertion and                  will require determining the stoichiometry of KREPA6
+deletion subcomplexes of editosomes (Schnaufer et al. 2003)                within the editosome.
+as well as to directly interact with various other editosome                  Remarkably, although KREPA6 binds all of the RNAs
+proteins (A. Schnaufer, unpubl.). Therefore, KREPA6 appears                tested with similar, moderate affinities (range of overall
+to have a central role in establishing and/or maintaining                  KD app’s = 1.3–5.1 mM), a preference of KREPA6 for
+key protein–protein interactions within 20S editosomes, as                 oligo(U) binding is clearly evident from the competition
+hypothesized previously (Stuart et al. 2005). KREPA4,                      and direct binding studies (Figs. 5, 6). Therefore, the
+KREPB4, and KREPB5 are of similarly critical importance,                   kinetics of substrate binding, which was not addressed in
+while KREPA1 and KREPA2 appear to be less central to                       our studies, may significantly contribute to the relative
+overall editosome stability, given the formation of stable                 specificity observed. The preference of KREPA6 for
+subcomplexes upon their inactivation. Nevertheless all these               oligo(U), at least for recombinant protein in vitro, implies
+noncatalytic proteins, and perhaps others in the editosome,                interaction with the gRNA 39 oligo(U) tail, although
+are critical for 20S editosome assembly and/or stability.                  interaction with stretches of U to be deleted or that are
+                                                                           inserted at specific sites during editing cannot be
+                                                                           excluded. For example, the presence of the oligo(U) tail
+RNA binding of KREPA6
+                                                                           might result in more stable binding of KREPA6 to gRNA
+Another important characteristic of KREPA6 uncovered in                    (i.e., result in a reduced OFF rate constant, kOFF). This
+this study, in addition to its role in protein interaction and             interaction may significantly contribute to the binding of
+
+354      RNA, Vol. 14, No. 2
+          Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+                                                                                  Essential RNA-binding protein in RNA editing
+
+
+
+gRNA to the editosome complex, perhaps analogous to               MATERIALS AND METHODS
+the kinetic contribution of the mRNA 39-poly(A) tail to
+ribosome binding during translation in eukaryotes via the         Plasmids
+poly(A)-binding protein (Tarun Jr. and Sachs 1995; Sachs
+                                                                  An RNAi construct for inducible knockdown of KREPA6 expres-
+and Buratowski 1997). Detailed kinetic studies will be
+                                                                  sion was prepared in the pZJM vector, which harbors opposing
+necessary to uncover the underlying mechanism for the             tetracycline (tet)-inducible T7 promoters flanking the cloning site
+observed specificity.                                             (Wang et al. 2000; Morris et al. 2001). A 563-bp XhoI/HindIII
+   Despite the preference of the KREPA6 protein for               fragment encompassing the entire KREPA6 open reading frame
+oligo(U), its moderate affinity binding of RNA, essentially       plus 48 and 17 nt of the 59 and 39 UTR, respectively, was generated
+regardless of sequence, may reflect a general RNA affinity        by PCR amplification of PF T. brucei genomic DNA (strain 29.13)
+that is important to the process of RNA editing. Hence,           using 59-GACCTCGAGAAGGGGGTTCGTATTCTGTT-39 as the
+KREPA6 may utilize both its general RNA-binding prop-             forward primer and 59-GCCAAGCTTGCGGAAACACAAGGGC
+erties and its higher affinity and relative preference for        ATTA-39 as the reverse primer that contain the relevant restriction
+oligo(U) for distinct but functionally related purposes.          sites (underlined italics). The PCR product was initially cloned
+The former characteristic could provide a low-affinity            into pGEM-T Easy (Promega) then released by digestion with
+                                                                  HindIII and XhoI and subcloned into pZJM that was digested
+interaction platform for gRNA and/or pre-mRNA during
+                                                                  with the same enzymes, thus generating RNAi plasmid pZJMA6–
+editing. On the other hand, since it is inconceivable that        1. The HisKREPA6 expression plasmid pProEX-HisKREPA6–1
+each of the more than 1200 different gRNAs are uniquely           was the kind gift of Junpeng Deng and Wim Hol (J. Deng and W.
+recognized by the 20S editosome, preferential recognition         Hol, unpubl.). It expresses a TEV-cleavable N-terminally His-
+of a common element such as the gRNA oligo(U) tail via            tagged KREPA6 without the mitochondrial targeting signal from a
+KREPA6 could facilitate positioning of the anchor duplex          pProEX HTa vector (Invitrogen).
+(which is another common structural element in RNA
+editing) and editing sites with the respective RNA-binding        Transfection, RNAi induction and growth
+and catalytic domains of the editosome proteins. Further-
+more, such potential functions can be integrated with             PF T. brucei strain 29–13 cells (Wirtz et al. 1999) were transfected
+those of other members of the KREPA family or other               as described previously (Schnaufer et al. 2001), using 15 mg of
+                                                                  pZJMA6–1 plasmid DNA that was linearized by digestion with
+RNA-binding components of the editosome. For example,
+                                                                  NotI. The resultant stable cell lines were selected by growth in
+like KREPA6, KREPA4 also binds gRNA with a preference
+                                                                  SDM-79 medium containing 10% FBS and supplemented with 15
+for the oligo(U) tail and is essential for editing and for        mg/mL G418, 25 mg/mL hygromycin, and 2.5 mg/mL phleomycin,
+editosome structural integrity, although it appears less          and designated RNAi-A6 PF. Correct integration into the 18S
+stably associated with the deletion and insertion subcom-         rRNA locus was confirmed by PCR using vector-specific and
+plexes than KREPA6 (Salavati et al. 2006). Therefore, it is       genome-specific primers. RNAi was induced in half of the culture
+conceivable that KREPA6 and KREPA4 might be involved              after growth in the same medium to a density of 2.0 3 107 cells/
+in a ‘‘hand-off’’ process via their respective OB-fold do-        mL, dilution to 1.2 3 106 cells/mL, and addition of 1 mg/mL tet.
+mains to coordinate the forward progression of RNA                The induced and uninduced cultures were maintained between
+editing steps. This subunit switching is a recurring and          1.2 3 106 and 2.0 3 107 cells/mL, and cell density was monitored
+unifying theme that has emerged from mechanistic studies          daily using a particle counter (Beckman).
+in DNA replication, repair, and recombination (Stauffer
+and Chazin 2004). In these transactions, the OB-fold              Quantitative real-time PCR (qPCR)
+domains of various DNA-binding proteins act coopera-              Oligonucleotide primers for qPCR were designed using the Primer
+tively in handing off the DNA substrate, either by direct         Express software (Applied Biosystems) and purchased from
+competition for binding sites or allosteric structural re-        Invitrogen. Primers corresponding to sequences that are specific
+arrangements to facilitate dynamic restructuring of DNA           for KREPA6 mRNA, are outside the OB-fold motif, and are in its
+processing complexes in the course of DNA processing.             39 UTR, were used to distinguish it from other KREPA family
+KREPA6 and KREPA4, probably along with other pre-                 members (Worthey et al. 2003). Primers specific for pre-edited
+dicted OB-fold proteins in the editosome, may therefore           and edited mRNAs (A6, RPS12, COII, MURF2), never-edited
+play analogous roles within editosome complexes during            mRNAs (COI and ND4), and control 18S rRNA were previously
+RNA editing. Such RNA-binding functions of the KREPA-             reported (Carnes et al. 2005; Trotter et al. 2005). Briefly, total
+                                                                  cellular RNA was extracted using Trizol essentially as described
+family proteins must be further integrated with the pre-
+                                                                  in the manufacturer’s protocol (GIBCO BRL) from z1 3 108
+dicted RNA-binding motifs of other editosome proteins,
+                                                                  KREPA6 RNAi PF cells in which RNAi was induced by 4 d of
+such as zinc fingers, dsRBMs, and Pumilio motifs. Clearly,        growth in 1 mg/mL tet and from non-induced cells. Ten micro-
+both structural information from protein/RNA com-                 grams of RNA was DNase-treated using the DNA-free kit
+plexes and detailed studies of the dynamic events that            (Ambion), following the manufacturer’s instructions, and the
+occur during RNA editing will be needed to validate our           quality of the resultant RNA was assessed using a Bioanalyzer
+hypothesis.                                                       (Agilent Technologies). cDNA was generated from intact total
+
+                                                                                                       www.rnajournal.org        355
+               Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+Tarun et al.
+
+
+
+cellular RNA using random hexamer primers and the TaqMan                HisKREPA6 protein expression and purification
+Reverse Transcription Reagent Kit (Applied Biosystems) accord-
+ing to the manufacturer’s instructions. Control reactions without       The pProEX-HisKREPA6–1 plasmid encoding the recombinant
+reverse transcriptase were included. Amplification reactions (25        KREPA6 protein with a TEV cleavable N-terminal His6 tag was
+mL total) were set up in triplicate in a 96-well plate format, and      transformed and expressed in E. coli BL-21(DE3). Cells were
+each reaction contained 2.5 mL of appropriate dilutions of cDNA         grown to an OD600 of 0.5–0.7 at 37°C in LB broth containing 100
+(typically between 1:7 and 1:50) and 5 mL each of 1.5 mM stock of       mg/mL ampicillin and induced with 1 mM isopropyl b-D-1-
+the forward and reverse primer pairs, and 12.5 mL of SYBR Green         thiogalactopyranoside for 20 h at 18°C. The protein was purified
+PCR Master Mix (Applied Biosystems). qPCR reactions were                as follows with all steps at 4°C. Two grams of fresh or quick-
+run in the ABI Prism 700 Sequence Detection System (Applied             frozen, washed cells were resuspended in 6 mL of wash buffer A
+Biosystems) under the following amplification conditions: 10 min        (50 mM Tris-HCl at pH 8.0) that contained Complete Mini-
+at 95°C followed by 40 cycles of 15 sec at 95°C and 1 min at 60°C       EDTA free Protease Inhibitor Cocktail (Roche). They were lysed
+at each cycle. PCR efficiencies were calculated by linear regression    by 30-min incubation at 4°C in 100 mg/mL lysozyme (Sigma), and
+using LinRegPCR (Ramakers et al. 2003), and amplification was           the lysate was cleared by 30 min of centrifugation at 10,000g after
+analyzed using the Pfaffl method (Pfaffl 2001). Data were               adding NaCl to 1.0 M and sonicating to reduce viscosity. In order
+normalized to 18S rRNA, and relative changes in mRNA abun-              to remove nucleic acids, the cleared lysate was mixed with 5 mL of
+dance after RNAi induction were expressed as fold-changes               Q-Sepharose beads (Amersham Biosciences) that were pre-equil-
+relative to uninduced control cells.                                    ibrated in buffer A containing 1.0 M NaCl and incubated for
+                                                                        60 min with gentle shaking and poured into a glass column, and
+                                                                        the flowthrough was collected. HisKREPA6 protein was purified
+Glycerol gradient fractionations and Western analysis
+                                                                        from the flowthrough by binding to a 0.5 mL column of nickel-
+RNAi-A6 cells were induced with 1 mg/mL tet for 0, 2, or 4 d (i.e.,     nitrilotriacetic acid (QIAGEN) equilibrated with the same buffer
+until prior to growth inhibition), and lysates were prepared from       washing stepwise with 5 mL of buffer B (20 mM Tris-HCl at
+1 3 108 total cells or from mitochondria isolated from 1.25 3 1010      pH 8.0, 100 mM KCl, 10% glycerol) containing 2 and 20 mM
+cells of each induction as described previously (Harris et al. 1990),   imidazole, then eluting with 1.5 mL of buffer B containing
+using lysis buffer with protease inhibitors [20 mM HEPES at             250 mM imidazole. Each step of HisKREPA6 purification was
+pH 7.9, 10 mM Mg(OAc)2, 50 mM KCl, 1 mM EDTA, 1 mg/mL                   monitored by SDS-PAGE and Western analysis using rabbit anti-
+pepstain, 2 mg/mL leupeptin, and 1 mM pefabloc]. One milliliter         KREPA6 and anti-His antibodies. A single protein band with an
+of cleared lysates were layered onto an 11-mL 10%–30% glycerol          apparent size of 22 kDa was seen in Western and stained gels. The
+gradient that contained 10 mM Tris-Cl (pH 7.2), 10 mM MgCl2,            purified protein was dialyzed against two changes of buffer C (10
+100 mM KCl, 1 mM DTT, 1 mg/mL pepstatin, 2 mg/mL leupeptin,             mM Tris-HCl at pH 7.2, 100 mM KCl, 10% glycerol, and 1 mM
+and 1 mM pefabloc. Total cell lysates were centrifuged for 9 h and      DTT) and resulted in z1 mL of 4–5 mg/mL protein based on
+mitochondrial extracts for 12 h both at 38,000 rpm in a SW40            comparison of serial dilutions of the protein and known amounts
+rotor (Beckman) at 4°C. Half-milliliter fractions were collected        of BSA as determined by Bradford analysis using the Coomassie
+from the top, aliquoted, and quick-frozen in liquid nitrogen and        Plus Kit (Pierce) and comparison of serial dilutions of the protein
+stored at 80°C for Western and in vitro RNA editing assays.             and known amounts of BSA in stained SDS-PAGE gels. Aliquots
+   For Western analysis, 30 mL fractions were electrophoresed           were stored at 80°C.
+in pre-cast 10% Tris-HCl SDS-PAGE gels (Bio-Rad) and trans-
+ferred to PVDF membrane as described previously (Trotter                RNA-binding assays
+et al. 2005). The membranes were probed with monoclonal
+antibodies specific for KREPA1, KREPA2, KREPA3, and KREL1               Electrophoretic mobility shift assays (EMSA) were performed as
+(Panigrahi et al. 2001b), rabbit polyclonal antibodies specific         previously described (Salavati et al. 2006) except as indicated.
+for KREPA6 (Schnaufer et al. 2003), or a monoclonal antibody            Briefly, for single-strand RNA binding, 2–8 fmol of [g-32P] 59-
+recognizing a protein, designated here as 2-OGDCp, of the               end-labeled RNA were incubated with increasing concentrations
+mitochondrial 2-oxoglutarate dehydrogenase complex (A. Panigrahi,       of purified HisKREPA6 protein in 20-mL reactions with RBB-1
+pers. comm.).                                                           buffer (20 mM Tris-HCl at pH 7.4, 150 mM KCl, 5 mM Mg2Cl,
+                                                                        1 mM DTT, 0.1 mg/mL BSA, 2 units/mL RNAsin) for 30 min at
+RNA synthesis and in vitro RNA editing                                  room temperature. Reactions were incubated, mixed with gel-
+                                                                        loading dye (0.05% bromophenol blue, 0.05% xylene cyanol, 8%
+Synthetic 24-mer RNAs (UU12, UG12, UC12, and AG12) and DNAs             sucrose), and loaded directly on a native 10% TBE gel (Bio-Rad),
+(dAG12 and dUU12) were purchased and de-protected according             pre-run at 110 V for 30 min with 0.5% TBE buffer at 4°C. The gel
+to the manufacturer’s protocol (Dharmacon). The A6 short/               was electrophoresed for 1.5 h under pre-running conditions, fixed
+TAG.1 ATP synthase subunit 6 pre-mRNA and its cognate                   in 10% isopropanol plus 7% acetic acid for 30 min, and air-dried
+gA6[14] gRNA with or without the oligo(U) tail were transcribed         with cellophane sheets overnight. For the duplex RNA-binding
+in vitro from PCR products as described previously (Seiwert et al.      assay, equimolar (250 nM) amounts of internally labeled
+1996) and used in gel-shift analyses (Salavati et al. 2006). In vitro   [32P]UTP gRNA and unlabeled A6 short/TAG.1 pre-mRNA were
+pre-cleaved insertion was assayed using 59-labeled 59-CL18 with         annealed in 20 mL of 50 mM Tris (pH 7.5), 0.1 mM EDTA, 100
+39-CL13pp and gPCA6–2A RNAs, while pre-cleaved deletion used            mM KCl, 3% glycerol, 2 mM MgCl2, and 1 mL of RNA Secure
+59-labeled U5-59, U5-39, and gA6[14]PC-del RNAs as previously           (Ambion) in a GeneAmp System 9700 PCR machine (Applied
+described (Igo Jr. et al. 2000, 2002).                                  Biosystems) for 10 min at 60°C, cooled to 27°C at 2°/min, and
+
+356      RNA, Vol. 14, No. 2
+            Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+                                                                                            Essential RNA-binding protein in RNA editing
+
+
+
+held at this temperature for 20 h (D. Koslowsky, unpubl.).                Carnes, J., Trotter, J.R., Peltan, A., Fleck, M., and Stuart, K. 2007.
+Annealing efficiency was determined by electrophoresis in pre-               RNA editing in Trypanosoma brucei requires three different
+cast 10% TBE native gels (Bio-Rad). One-tenth (25 nM) of the                 editosomes. Mol. Cell. Biol. doi: 10.1128/MCB.01374-07.
+                                                                          Drozdz, M., Palazzo, S.S., Salavati, R., O’Rear, J., Clayton, C., and
+annealed RNA was used in each reaction for gel-shift analyses as
+                                                                             Stuart, K. 2002. TbMP81 is required for RNA editing in Trypa-
+described above for single-strand RNA binding.                               nosoma brucei. EMBO J. 21: 1791–1799.
+   HisKREPA6-bound and unbound RNAs were visualized using                 Ernst, N.L., Panicucci, B., Igo Jr., R.P., Panigrahi, A.K., Salavati, R.,
+a Molecular Dynamics PhosphorImager, and scaled-up reactions                 and Stuart, K. 2003. TbMP57 is a 39 terminal uridylyl transferase
+performed in triplicate were quantified using the ImageQuant                 (TUTase) of the Trypanosoma brucei editosome. Mol. Cell 11:
+software. The overall apparent equilibrium dissociation constant             1525–1536.
+(overall KD app), i.e., the HisKREPA6 protein concentration at            Feagin, J.E., Jasmer, D.P., and Stuart, K. 1987. Developmentally
+                                                                             regulated addition of nucleotides within apocytochrome b tran-
+which half of the RNA was bound, was estimated from the sum of               scripts in Trypanosoma brucei. Cell 49: 337–345.
+all shifted radiolabel in each lane, including that in the well (which    Feagin, J.E., Abraham, J.M., and Stuart, K. 1988. Extensive editing
+may be aggregated material), since the RNA/protein stoichiometry             of the cytochrome c oxidase III transcript in Trypanosoma brucei.
+in each band is uncertain. The data were analyzed using GraphPad             Cell 53: 413–422.
+Prism Software (GraphPad Software, Inc.) to determine an overall          Harris, M.E., Moore, D.R., and Hajduk, S.L. 1990. Addition
+binding model for each RNA. The EC50 values for each RNA,                    of uridines to edited RNAs in trypanosome mitochondria
+                                                                             occurs independently of transcription. J. Biol. Chem. 265:
+defined as the concentration of HisKREPA6 evoking 50% RNA
+                                                                             11368–11376.
+binding, were taken as overall KD app and were determined using           Huang, C.E., O’Hearn, S.F., and Sollner-Webb, B. 2002. Assembly and
+the Hill equation with a floating Hill coefficient and had P-values          function of the RNA editing complex in Trypanosoma brucei
+<0.0001 by the F-test.                                                       requires band III protein. Mol. Cell. Biol. 22: 3194–3203.
+   RNA-gel-shift assays with competitor RNAs were carried out as          Igo Jr., R.P., Palazzo, S.S., Burgess, M.L.K., Panigrahi, A.K., and
+described above using a fixed amount (6 pmol) of HisKREPA6                   Stuart, K. 2000. Uridylate addition and RNA ligation contribute to
+protein. The radiolabeled RNA was mixed with various molar                   the specificity of kinteoplastid insertion RNA editing. Mol. Cell.
+                                                                             Biol. 20: 8447–8457.
+excess amounts of unlabeled competitor RNA in buffer prior to             Igo Jr., R.P., Weston, D.S., Ernst, N.L., Panigrahi, A.K., Salavati, R.,
+the addition of HisKREPA6 protein. The amount of competition                 and Stuart, K. 2002. Role of uridylate-specific exoribonuclease activ-
+was estimated as the ratio of bound RNA in the presence of cold              ity in Trypanosoma brucei RNA editing. Eukaryot. Cell 1: 112–118.
+competitor and bound RNA without competitor.                              Kable, M.L., Seiwert, S.D., Heidmann, S., and Stuart, K. 1996. RNA
+                                                                             editing: A mechanism for gRNA-specified uridylate insertion into
+                                                                             precursor mRNA. Science 273: 1189–1195.
+ACKNOWLEDGMENTS                                                           Kang, X., Rogers, K., Gao, G., Falick, A.M., Zhou, S., and Simpson, L.
+                                                                             2005. Reconstitution of uridine-deletion precleaved RNA editing
+We thank G. Cross and E. Wirtz for providing T. brucei strain                with two recombinant enzymes. Proc. Natl. Acad. Sci. 102: 1017–
+29.13, P. Englund for the pZJM vector, and members of the Stuart             1022.
+laboratory for insightful comments. Funding for this work was             Koslowsky, D.J., Bhat, G.J., Perrollaz, A.L., Feagin, J.E., and Stuart, K.
+provided by NIH grant GM042188 to K.S., initial joint support by             1990. The MURF3 gene of T. brucei contains multiple domains
+AI014102 to K.S., NIH grant GM077418 to W.H., and also by                    of extensive editing and is homologous to a subunit of NADH
+                                                                             dehydrogenase. Cell 62: 901–911.
+NIH F-32 Ruth L. Kirschstein National Research Service Awards             Law, J.A., O’Hearn, S., and Sollner-Webb, B. 2007. In Trypanosoma
+for Individual Post-doctoral Fellows grant AI68303 to S.Z.T.                 brucei RNA editing, TbMP18 (band VII) is critical for editosome
+                                                                             integrity and for both insertional and deletional cleavages. Mol.
+Received August 6, 2007; accepted October 31, 2007.                          Cell. Biol. 27: 777–787.
+                                                                          Luo, S., Rohloff, P., Cox, J., Uyemura, S.A., and Docampo, R. 2004.
+                                                                             Trypanosoma brucei plasma membrane-type Ca2+-ATPase 1
+REFERENCES                                                                   (TbPMC1) and 2 (TbPMC2) genes encode functional Ca2+-
+                                                                             ATPases localized to the acidocalcisomes and plasma membrane,
+Aphasizhev, R., Aphasizheva, I., and Simpson, L. 2003. A tale of two         and essential for Ca2+ homeostasis and growth. J. Biol. Chem. 279:
+   TUTases. Proc. Natl. Acad. Sci. 100: 10617–10622.                         14427–14439.
+Babbarwal, V.K., Fleck, M., Ernst, N.L., Schnaufer, A., and               Madison-Antenucci, S., Sabatini, R.S., Pollard, V.W., and Hajduk, S.L.
+   Stuart, K.D. 2007. An essential role of KREPB4 in RNA editing             1998. Kinetoplastid RNA-editing-associated protein 1 (REAP-1):
+   and structural integrity of the editosome in Trypanosoma brucei.          A novel editing complex protein with repetitive domains. EMBO J.
+   RNA 13: 737–744.                                                          17: 6368–6376.
+Benne, R., Van den Burg, J., Brakenhoff, J.P.J., Sloof, P., Van           Madison-Antenucci, S., Grams, J., and Hajduk, S.L. 2002. Editing
+   Boom, J.H., and Tromp, M.C. 1986. Major transcript of the                 machines: The complexities of trypanosome RNA editing. Cell
+   frameshifted coxII gene from trypanosome mitochondria contain             108: 435–438.
+   four nucleotides that are not encoded in the DNA. Cell 46: 819–826.    Matthews, J.M. and Sunde, M. 2002. Zinc fingers—Folds for many
+Bochkarev, A. and Bochkareva, E. 2004. From RPA to BRCA2: Lessons            occasions. IUBMB Life 54: 351–355.
+   from single-stranded DNA binding by the OB-fold. Curr. Opin.           McManus, M.T., Shimamura, M., Grams, J., and Hajduk, S.L. 2001.
+   Struct. Biol. 14: 36–42.                                                  Identification of candidate mitochondrial RNA editing ligases
+Brecht, M., Niemann, M., Schlu¨ter, E., Mu¨ller, U.F., Stuart, K., and       from Trypanosoma brucei. RNA 7: 167–175.
+   Go¨ringer, H.U. 2005. TbMP42, a protein component of the RNA           Morris, J.C., Wang, Z., Drew, M.E., Paul, K.S., and Englund, P.T.
+   editing complex in African trypanosomes has endo-exoribonu-               2001. Inhibition of bloodstream form Trypanosoma brucei gene
+   clease activity. Mol. Cell 17: 621–630.                                   expression by RNA interference using the pZJM dual T7 vector.
+Carnes, J., Trotter, J.R., Ernst, N.L., Steinberg, A.G., and Stuart, K.      Mol. Biochem. Parasitol. 117: 111–113.
+   2005. An essential RNase III insertion editing endonuclease in         O’Hearn, S., Huang, C.E., Hemann, M., Zhelonkina, A., and Sollner-
+   Trypanosoma brucei. Proc. Natl. Acad. Sci. 102: 16614–16619.              Webb, B. 2003. Trypanosoma brucei RNA editing complex: Band II
+
+
+                                                                                                                  www.rnajournal.org          357
+               Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+Tarun et al.
+
+
+
+    is structurally critical and maintains band V ligase, which is            Seiwert, S.D. and Stuart, K. 1994. RNA editing: Transfer of genetic
+    nonessential. Mol. Cell. Biol. 23: 7909–7919.                                information from gRNA to precursor mRNA in vitro. Science 266:
+Panigrahi, A.K., Gygi, S., Ernst, N., Igo Jr., R.P., Palazzo, S.S.,              114–117.
+    Schnaufer, A., Weston, D., Carmean, N., Salavati, R.,                     Seiwert, S.D., Heidmann, S., and Stuart, K. 1996. Direct visualization
+    Aebersold, R., et al. 2001a. Association of two novel proteins,              of uridylate deletion in vitro suggests a mechanism for kineto-
+    TbMP52 and TbMP48, with the Trypanosoma brucei RNA editing                   plastid RNA editing. Cell 84: 831–841.
+    complex. Mol. Cell. Biol. 21: 380–389.                                    Simpson, L., Aphasizhev, R., Gao, G., and Kang, X. 2004. Mitochon-
+Panigrahi, A.K., Schnaufer, A., Carmean, N., Igo Jr., R.P., Gygi, S.P.,          drial proteins and complexes in Leishmania and Trypanosoma
+    Ernst, N.L., Palazzo, S.S., Weston, D.S., Aebersold, R., Salavati, R.,       involved in U-insertion/deletion RNA editing. RNA 10: 159–170.
+    et al. 2001b. Four related proteins of the Trypanosoma brucei RNA         Stauffer, M.E. and Chazin, W.J. 2004. Structural mechanisms of DNA
+    editing complex. Mol. Cell. Biol. 21: 6833–6840.                             replication, repair, and recombination. J. Biol. Chem. 279: 30915–
+Panigrahi, A.K., Ernst, N.L., Domingo, G.J., Fleck, M., Salavati, R.,            30918.
+    and Stuart, K.D. 2006. Compositionally and functionally distinct          Stuart, K. and Panigrahi, A.K. 2002. RNA editing: Complexity and
+    editosomes in Trypanosoma brucei. RNA 12: 1038–1049.                         complications. Mol. Microbiol. 45: 591–596.
+Pfaffl, M.W. 2001. A new mathematical model for relative quantifi-            Stuart, K.D., Schnaufer, A., Ernst, N.L., and Panigrahi, A.K. 2005.
+    cation in real-time RT-PCR. Nucleic Acids Res. 29: e45. doi:                 Complex management: RNA editing in trypanosomes. Trends
+    10.1093/nar/29.9.e45.                                                        Biochem. Sci. 30: 97–105.
+Ramakers, C., Ruijter, J.M., Deprez, R.H.L., and Moorman, A.F.M.              Tarun Jr., S.Z. and Sachs, A.B. 1995. A common function for mRNA
+    2003. Assumption-free analysis of quantitative real-time poly-               59 and 39 ends in translation initiation in yeast. Genes & Dev. 9:
+    merase chain reaction (PCR) data. Neurosci. Lett. 339: 62–66.                2997–3007.
+Rusche, L.N., Cruz-Reyes, J., Piller, K.J., and Sollner-Webb, B. 1997.        Theobald, D.L., Mitton-Fry, R.M., and Wuttke, D.S. 2003. Nucleic
+    Purification of a functional enzymatic editing complex from                  acid recognition by OB-fold proteins. Annu. Rev. Biophys. Biomol.
+    Trypanosoma brucei mitochondria. EMBO J. 16: 4069–4081.                      Struct. 32: 115–133.
+Rusche´, L.N., Huang, C.E., Piller, K.J., Hemann, M., Wirtz, E., and          Trotter, J.R., Ernst, N.L., Carnes, J., Panicucci, B., and Stuart, K. 2005.
+    Sollner-Webb, B. 2001. The two RNA ligases of the Trypanosoma                A deletion site editing endonuclease in Trypanosoma brucei. Mol.
+    brucei RNA editing complex: Cloning the essential Band IV gene               Cell 20: 403–412.
+    and identifying the Band V gene. Mol. Cell. Biol. 21: 979–989.            Wang, Z., Morris, J.C., Drew, M.E., and Englund, P.T. 2000.
+Sacharidou, A., Cifuentes-Rojas, C., Halbig, K., Hernandez, A.,                  Inhibition of Trypanosoma brucei gene expression by RNA inter-
+    Dangott, L.J., De Nova-Ocampo, M., and Cruz-Reyes, J. 2006.                  ference using an integratable vector with opposing T7 promoters.
+    RNA editing complex interactions with a site for full-round U                J. Biol. Chem. 275: 40174–40179.
+    deletion in Trypanosoma brucei. RNA 12: 1219–1228.                        Wang, B., Ernst, N.L., Palazzo, S.S., Panigrahi, A.K., Salavati, R., and
+Sachs, A.B. and Buratowski, S. 1997. Common themes in transla-                   Stuart, K. 2003. TbMP44 is essential for RNA editing and
+    tional and transcriptional regulation. Trends Biochem. Sci. 22: 189–         structural integrity of the editosome in Trypanosoma brucei.
+    192.                                                                         Eukaryot. Cell 2: 578–587.
+Salavati, R., Ernst, N.L., O’Rear, J., Gilliam, T., Tarun Jr., S., and        Wirtz, E., Leal, S., Ochatt, C., and Cross, G.A.M. 1999. A tightly
+    Stuart, K. 2006. KREPA4, an RNA binding protein essential for                regulated inducible expression system for conditional gene knock-
+    editosome integrity and survival of Trypanosoma brucei. RNA 12:              outs and dominant-negative genetics in Trypanosoma brucei. Mol.
+    819–831.                                                                     Biochem. Parasitol. 99: 89–101.
+Schnaufer, A., Panigrahi, A.K., Panicucci, B., Igo Jr., R.P., Salavati, R.,   Worthey, E.A., Schnaufer, A., Mian, I.S., Stuart, K., and Salavati, R.
+    and Stuart, K. 2001. An RNA ligase essential for RNA editing and             2003. Comparative analysis of editosome proteins in trypanoso-
+    survival of the bloodstream form of Trypanosoma brucei. Science              matids. Nucleic Acids Res. 31: 6392–6408. doi: 10.1093/nar/gkg870.
+    291: 2159–2162.                                                           Yu, L.E. and Koslowsky, D.J. 2006. Interactions of mRNAs and gRNAs
+Schnaufer, A., Ernst, N.L., O’Rear, J., Salavati, R., and Stuart, K. 2003.       involved in trypanosome mitochondrial RNA editing: Structure
+    Separate insertion and deletion sub-complexes of the Trypanosoma             probing of a gRNA bound to its cognate mRNA. RNA 12: 1050–
+    brucei RNA editing complex. Mol. Cell 12: 307–319.                           1060.
+
+
+
+
+358       RNA, Vol. 14, No. 2
+            Downloaded from rnajournal.cshlp.org on December 15, 2015 - Published by Cold Spring Harbor Laboratory Press
+
+
+
+
+KREPA6 is an RNA-binding protein essential for editosome integrity
+and survival of Trypanosoma brucei
+Salvador Zipagan Tarun, Jr, Achim Schnaufer, Nancy Lewis Ernst, et al.
+
+RNA 2008 14: 347-358
+
+        References           This article cites 52 articles, 33 of which can be accessed free at:
+                             http://rnajournal.cshlp.org/content/14/2/347.full.html#ref-list-1
+
+     Email Alerting          Receive free email alerts when new articles cite this article - sign up in the box at the top
+           Service           right corner of the article or click here.
+
+
+
+
+To subscribe to RNA go to:
+http://rnajournal.cshlp.org/subscriptions
+
+
+
+Copyright © 2008 RNA Society
+

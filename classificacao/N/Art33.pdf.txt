@@ -1,0 +1,325 @@
+Published online 10 November 2011                                 Nucleic Acids Research, 2012, Vol. 40, Database issue D901–D906
+                                                                                                              doi:10.1093/nar/gkr986
+
+
+OGEE: an online gene essentiality database
+Wei-Hua Chen1, Pablo Minguez1, Martin J. Lercher2 and Peer Bork1,3,*
+1
+ European Molecular Biology Laboratory (EMBL), Meyerhofstrasse 1, 69117 Heidelberg, 2Institute for Computer
+
+
+
+
+                                                                                                                                                              Downloaded from http://nar.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+Science, Heinrich-Heine-University Du¨sseldorf, Universita¨tsstr. 1, 40225 Du¨sseldorf and 3Max-Delbru¨ck-Centre
+for Molecular Medicine, Berlin-Buch Robert-Ro¨ssle-Str. 10, 13092 Berlin, Germany
+
+Received August 14, 2011; Revised September 28, 2011; Accepted October 17, 2011
+
+
+
+ABSTRACT                                                                        concept of ‘conditional essentiality’ has not been widely
+OGEE is an Online GEne Essentiality database. Its                               adopted by existing essential gene databases.
+main purpose is to enhance our understanding of                                    Gene essentiality does not only depend on individual
+the essentiality of genes. This is achieved by collect-                         gene functions, but can also be affected by global
+ing not only experimentally tested essential and                                factors. Duplicated genes are typically less essential than
+                                                                                the genomic average because they often overlap in gene
+non-essential genes, but also associated gene
+                                                                                function and expression proﬁle; genes forming hubs in PPI
+features such as expression profiles, duplication                               networks (those connected to many direct neighbors) are
+status, conservation across species, evolutionary                               more often essential (5); and genes involved in develop-
+origins and involvement in embryonic development.                               ment and tissue differentiation in higher eukaryotes are
+We focus on large-scale experiments and comple-                                 also more likely to be essential (6). However, given the
+ment our data with text-mining results. Genes are                               complex nature of biological systems, gene essentiality is
+organized into data sets according to their                                     often affected by multiple factors simultaneously; studying
+sources. Genes with variable essentiality status                                one factor at a time may generate conﬂicting results
+across data sets are tagged as conditionally essen-                             among species. For example, in a biased data set, mouse
+tial, highlighting the complex interplay between                                duplicates and singletons were reported to be equally es-
+gene functions and environments. Linked tools                                   sential (7), which disagreed with theoretical expectations
+allow the user to compare gene essentiality among                               and experimental ﬁndings in yeast (8). Experimental biases
+                                                                                could only partially explain the contradiction (6). In a
+different gene groups, or compare features of es-
+                                                                                previous study, we showed that considering both the du-
+sential genes to non-essential genes, and visualize                             plication status of genes and their evolutionary origins
+the results. OGEE is freely available at http://                                could solve the discrepancies (Chen, W.-H., Trachana,
+ogeedb.embl.de.                                                                 K., Lercher, M.J., and Bork, P., unpublished data).
+                                                                                   Our understanding of gene essentiality is still limited.
+                                                                                Progress can be enhanced by collecting the following in-
+INTRODUCTION                                                                    formation into a central database: (i) tested essential and
+                                                                                non-essential genes, allowing comparisons between the
+Large-scale efforts to link genotypes to phenotypes belong                      two groups; (ii) essentiality information obtained from
+to the most important and challenging tasks in the                              large-scale studies, facilitating genome-wide analyses,
+post-omics era. Essential genes, whose removal results                          as well as more precise information from small-scale
+in inviability or infertility, are of particular interests                      studies, more suited for gene-centered biological
+because of their theoretical and practical applications,                        research; (iii) additional gene features that are either
+for example, in studying the robustness of a biological                         known or hypothesized to inﬂuence gene essentiality.
+system (1), deﬁning a minimal set of genes for a free                           Ideally, such a database should come with a set of tools
+living organism (2) and identifying effective drug                              that allow the user to systematically explore and analyze
+targets (3).                                                                    the raw data.
+   Essentiality often depends on the environment (4), es-                          Existing essential gene databases either only include
+pecially for bacterial genes, or for eukaryotic genes that                      data for a speciﬁc species (9) or contain only essential
+were tested in cell lines. For example, genes coding for                        genes (10). This provided the motivation to develop
+proteins involved in the biosynthesis of amino acids,                           OGEE, an online gene essentiality database that
+nucleic acids and vitamins are essential for cell survival                      combines points a–d with a set of tools for large-scale
+in minimal media, but not in rich media where the corres-                       data analysis. This should make OGEE useful to both
+ponding metabolites are supplied (4). However, so far the                       biologists and bioinformaticians.
+
+*To whom correspondence should be addressed. Tel: +49 6221 387 852; Fax: +49 6221 387 517; Email: bork@embl.de
+
+ß The Author(s) 2011. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/3.0), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+D902 Nucleic Acids Research, 2012, Vol. 40, Database issue
+
+
+DATA GENERATION                                                (M. musculus versus S. cerevisiae) if similar techniques
+Collection and organization of genes tested for essentiality   were used. Cell lines generate lower PE than in vivo if
+                                                               the same multi-cellular organism is used [data sets 347
+We collected 91 436 protein-coding genes from 8 eukary-        (11) and 363 (25) of D. melanogaster]. In prokaryotes,
+otic and 16 prokaryotic organisms tested for essentiality in   overall PE is affected by details of the survey technology
+genome-wide studies (2,3,9,11–37). For data sets that both     as well as by genome size and life style (free living versus
+
+
+
+
+                                                                                                                               Downloaded from http://nar.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+essential and non-essential genes are publicly available,      parasitic).
+the genomic proportion of essential genes (PE) ranges             In addition to the collection of large-scale data, we also
+from 2% [data set 347 (11) of Drosophila melanogaster]        employed text-mining to obtain 3543 genes from 38
+to 66.04% [Aspergillus fumigatus Af293, data set 361 (3)]      species that were tested in small-scale studies. We
+in eukaryotes and from 5.46% [Bacilus subtilis 168, data       applied a customized text-mining pipeline based on the
+set 352 (17)] to 80% [Mycoplasma genitalium G37, data set      one used for data collection by the STRING database
+357 (2)] in prokaryotes. It seems that overall PE in eukary-   (38). We searched for a set of terms related to essentiality
+otes is most strongly inﬂuenced by organism complex-           (Supplementary Table S1) in PubMed abstracts (as pub-
+ity and by the methods employed for testing, in                lished February 2011) and manually checked the results
+particular by the experimental conditions surveyed.            and removed some false positives. We divided identiﬁed
+Gene knockout techniques [data sets 349 (14) and 350           genes into essential and non-essential genes according to
+(37) of Mus musculus and Saccharomyces cerevisiae, re-         their associated terms. Due to a strong reporting bias,
+spectively] generate higher PE than siRNA-based                most genes identiﬁed in this way were essential. Among
+methods [data sets 348 (12) and 347 (11) of Homo               those, 3168 (89.4% of 3543) genes overlapped with those
+sapiens and D. melanogaster, respectively]. Multi-cellular     tested in genome-wide studies. Please note that although
+organisms have higher PE than single-celled eukaryotes         substantial efforts have been made to improve the quality
+
+
+
+
+Figure 1. Interface of the ‘Browse’ module.
+                                                                       Nucleic Acids Research, 2012, Vol. 40, Database issue         D903
+
+
+
+
+                                                                                                                                               Downloaded from http://nar.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+Figure 2. Extra gene features shown in a popup window. This window will show up when clicking locus IDs in the ‘Browse’ or ‘Search’ modules.
+
+
+
+
+of the text-mining data, there might still be signiﬁcant                evolutionary origins of genes (deﬁned as the age of the
+fraction of false-positive results; please use with caution.            evolutionarily most distant species group where
+   We organized genes in each organism into distinct data               homologs can be found (39); see the web Q&As for
+sets according to the data source; a gene can have multiple             more details).
+entries within a data set or in different data sets. Two                   We also collected several extra features that might in-
+entries of a gene would be included in two distinct data                ﬂuence gene essentiality, including the number of homolo-
+sets if the gene was tested in a large-scale study as well as           gous genes (family size) in the same genome, and the
+in a small-scale study; if a gene was tested by several                 earliest expression stage during embryonic development
+small-scale studies, multiple entries of this gene would be             [for multi-cellular organisms only; data was obtained
+included in the text-mining data set, with each entry cor-              from the NCBI UniGene database (40)]. It is known
+responding to a distinct PubMed record. A gene was                      that duplicates are often less essential than singletons.
+marked as ‘conditionally essential’ if multiple entries for             This may be due to a range of factors, including the
+this gene exist in OGEE but essentiality status varies                  ability of duplicates to provide a functional backup for
+among entries (see, e.g. the essentiality status of gene                each other, lower expression abundances of duplicates
+‘FBgn0001112’ in Figure 1 and the supporting evidence                   (41,42), or a lower duplicability of the genes in certain
+in Figure 2).                                                           important functional classes (43). It is thus conceivable
+                                                                        that duplicates in large gene families are even less likely
+Collection of gene features inﬂuencing gene essentiality                to be essential than duplicates in smaller families. In multi-
+We collected several gene features that are known to in-                cellular organisms, embryonic development is a tightly
+ﬂuence gene essentiality, encompassing duplication status,              regulated chain of events. Disruption of genes expressed
+connectivity in protein–protein interaction (PPI) networks              earlier may affect all subsequent events, thereby causing
+(deﬁned as the number of direct neighbors) (5) and                      more severe phenotypes in the host. Both gene family size
+D904 Nucleic Acids Research, 2012, Vol. 40, Database issue
+
+
+
+
+                                                                                                                                                              Downloaded from http://nar.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+Figure 3. Screen shots taken from the ‘Analyze’ module. With integrated tools, the user can easily explore and analyze the collected data, including
+the visualization of results. Shown here are the results of the following analyses: (A) the proportion of essential genes (PE) as a function of family size
+(number of homologous genes within the genome) in mouse, (B) PE as a function of the earliest expression stage during mouse development, (C) the
+effects of gene duplication status and involvement in development on gene essentiality in Caenorhabditis elegans and (D) the effects of gene con-
+nectivity and involvement in development on gene essentiality in C. elegans.
+
+
+and earliest expression in development are indeed                               databases, including Gene Ontology (44), EGGNOG2
+correlated with PE in mouse (Figure 3A and B).                                  (45), NCBI taxonomy, as well as NCBI BLAST (40) are
+                                                                                also integrated (Figure 2). For example, if the gene of
+                                                                                interests is involved in development, several corresponding
+USAGE OF OGEE                                                                   GO IDs and terms will be shown; clicking each GO ID,
+The functionalities of OGEE have been divided into six                          the user will be redirected to the corresponding page at the
+different modules (tabs): ‘Summary’, ‘Browse’, ‘Search’,                        Gene Ontology website. Similarly, the user will be redir-
+‘Analyze’, ‘Download’ and ‘Q&As’. We provide inline                             ected to the corresponding NCBI taxonomy page if
+help messages displayed as ‘tooltips’ within each module;                       clicking on the organism name. The NCBI BLAST
+we also provide detailed help contents and answers to fre-                      website will be opened in a new window if clicking on
+quently asked questions in ‘Q&As’. Below, we introduce                          the BLAST NCBI links.
+several of the most interesting features of OGEE.                                  The popup window also features in-site data integra-
+                                                                                tion. For example, if a query gene has orthologs in other
+Viewing details of individual genes                                             species collected by OGEE, not only the corresponding
+                                                                                orthologs [based on EGGNOG2 (45)], but also their es-
+In the ‘Browse’ and ‘Search’ modules, by default only                           sentiality status will be shown (Figure 2). This way, the
+some gene features such as essentiality, duplication                            conservation of a gene as well as the conservation of its
+status and data sources will be displayed (Figure 1). To                        essentiality across species can be checked easily.
+view more details of individual genes, the user can simply
+mouse over or click the locus names; a popup window
+                                                                                Analyzing collected gene features using linked tools
+containing all available information for the corresponding
+gene will appear. As shown in Figure 2, extra information                       One of the most interesting features of OGEE is that users
+including gene description, type of evidence for gene es-                       can analyze the data systematically and visualize the
+sentiality and corresponding links to original data sources,                    results with integrated tools from the ‘Analyze’ module.
+involvement in development, evolutionary origin (phyletic                       With ‘Analyze’, the user can divide genes into distinct
+age), connectivity in the PPI network, as well as nucleotide                    groups according to one of the available features, calculate
+and protein sequences are available. Links to other                             the proportion of essential genes (PE) in each group and
+                                                               Nucleic Acids Research, 2012, Vol. 40, Database issue            D905
+
+
+then plot the results as either a bar-chart or line plot. To    Conﬂict of interest statement. None declared.
+illustrate this feature, Figures 3A and B show average
+mouse PE values as functions of the earliest expression
+stage during development and gene family size, respective-      REFERENCES
+ly; both factors affect PE values globally.
+   Users can also investigate two gene features simultan-        1. Keller,P.J. and Knop,M. (2009) Evolution of mutational
+                                                                    robustness in the yeast genome: a link to essential genes and
+
+
+
+
+                                                                                                                                         Downloaded from http://nar.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+eously to study their effects individually or in combin-            meiotic recombination hotspots. PLoS Genet., 5, e1000533.
+ation. For example, the user can divide genes ﬁrst into          2. Glass,J.I., Assad-Garcia,N., Alperovich,N., Yooseph,S.,
+developmental and non-developmental genes, and then                 Lewis,M.R., Maruf,M., Hutchison,C.A. III, Smith,H.O. and
+further divide each group into duplicates and singletons            Venter,J.C. (2006) Essential genes of a minimal bacterium.
+                                                                    Proc. Natl Acad. Sci. USA, 103, 425–430.
+(Figure 3C). Similarly, on could ﬁrst divide genes accord-       3. Hu,W., Sillaots,S., Lemieux,S., Davison,J., Kauffman,S.,
+ing to the connectivity in PPI network and then according           Breton,A., Linteau,A., Xin,C., Bowman,J., Becker,J. et al. (2007)
+to their involvement in development (Figure 3D).                    Essential gene identiﬁcation and drug target prioritization in
+   By default, predeﬁned breaks by which genes can be               Aspergillus fumigatus. PLoS Pathog., 3, e24.
+divided into distinct groups and matching labels are             4. D’Elia,M.A., Pereira,M.P. and Brown,E.D. (2009) Are essential
+                                                                    genes really essential? Trends Microbiol., 17, 433–438.
+used. However, if desired, the user can change the               5. Jeong,H., Mason,S.P., Barabasi,A.L. and Oltvai,Z.N. (2001)
+default settings by providing customized breaks and labels.         Lethality and centrality in protein networks. Nature, 411, 41–42.
+                                                                 6. Makino,T., Hokamp,K. and McLysaght,A. (2009) The complex
+Open access to all data contained in OGEE                           relationship of gene duplication and essentiality. Trends Genet.,
+                                                                    25, 152–155.
+Our data are freely accessible to all academic users. We         7. Liao,B.-Y. and Zhang,J. (2007) Mouse duplicate genes are as
+provide an SQL-dump ﬁle of the whole database as well as            essential as singletons. Trends Genet., 23, 378–381.
+several selected data sections as tab-delimited ﬂat ﬁles in      8. Gu,Z., Steinmetz,L.M., Gu,X., Scharfe,C., Davis,R.W. and
+the ‘Download’ module. Users can also download individ-             Li,W.H. (2003) Role of duplicate genes in genetic robustness
+                                                                    against null mutations. Nature, 421, 63–66.
+ual gene essentiality data sets for a selected species in        9. Hashimoto,M., Ichimura,T., Mizoguchi,H., Tanaka,K.,
+‘Browse’ and raw data used in data analysis in ‘Analyze’.           Fujimitsu,K., Keyamura,K., Ote,T., Yamakawa,T., Yamazaki,Y.,
+                                                                    Mori,H. et al. (2005) Cell size and nucleoid organization of
+                                                                    engineered Escherichia coli cells with a reduced genome.
+CONCLUSIONS                                                         Mol. Microbiol., 55, 137–149.
+                                                                10. Zhang,R. and Lin,Y. (2009) DEG 5.0, a database of essential
+OGEE introduces several unique and novel features                   genes in both prokaryotes and eukaryotes. Nucleic Acids Res., 37,
+compared with existing gene essentiality databases. For             D455–D458.
+example (i) OGEE provides both essential and                    11. Boutros,M., Kiger,A.A., Armknecht,S., Kerr,K., Hild,M.,
+                                                                    Koch,B., Haas,S.A., Paro,R. and Perrimon,N. (2004)
+non-essential genes from large-scale as well as small-scale         Genome-wide RNAi analysis of growth and viability in
+studies; (ii) OGEE introduces ‘conditional essentiality’ to         Drosophila cells. Science, 303, 832–835.
+reﬂect the complexity of biological systems and the inter-      12. Silva,J.M., Marran,K., Parker,J.S., Silva,J., Golding,M.,
+play between gene functions and environments; (iii) OGEE            Schlabach,M.R., Elledge,S.J., Hannon,G.J. and Chang,K. (2008)
+lists a variety of gene features known or suspected to inﬂu-        Proﬁling essential genes in human mammary cells by multiplex
+                                                                    RNAi screening. Science, 319, 617–620.
+ence gene essentiality; and (iv) OGEE provides a set            13. Kamath,R.S., Fraser,A.G., Dong,Y., Poulin,G., Durbin,R.,
+of online tools to explore and analyze the data and to              Gotta,M., Kanapin,A., Le Bot,N., Moreno,S., Sohrmann,M.
+visualize the results. We thus believe that OGEE should             et al. (2003) Systematic functional analysis of the Caenorhabditis
+be highly useful to biologists and bioinformaticians                elegans genome using RNAi. Nature, 421, 231–237.
+studying gene essentiality, whether focusing on individual      14. Blake,J.A., Bult,C.J., Kadin,J.A., Richardson,J.E., Eppig,J.T. and
+                                                                    Mouse Genome Database,G. (2011) The Mouse Genome
+genes or on genome-wide analyses.                                   Database (MGD): premier model organism resource for
+                                                                    mammalian genomics and genetics. Nucleic Acids Res., 39,
+                                                                    D842–D848.
+FUTURE DIRECTIONS                                               15. Dwight,S.S., Harris,M.A., Dolinski,K., Ball,C.A., Binkley,G.,
+                                                                    Christie,K.R., Fisk,D.G., Issel-Tarver,L., Schroeder,M.,
+Future development of OGEE will include the incorpor-               Sherlock,G. et al. (2002) Saccharomyces Genome Database
+ation of essential non-coding genes, and the possibility for        (SGD) provides secondary gene annotation using the Gene
+users to submit additional essentiality data.                       Ontology (GO). Nucleic Acids Res., 30, 69–72.
+                                                                16. de Berardinis,V., Vallenet,D., Castelli,V., Besnard,M., Pinet,A.,
+                                                                    Cruaud,C., Samair,S., Lechaplais,C., Gyapay,G., Richez,C. et al.
+SUPPLEMENTARY DATA                                                  (2008) A complete collection of single-gene deletion mutants of
+                                                                    Acinetobacter baylyi ADP1. Mol. Syst. Biol., 4, 174.
+Supplementary Data are available at NAR Online:                 17. Kobayashi,K., Ehrlich,S.D., Albertini,A., Amati,G.,
+Supplementary Table S1. Key words used to search for                Andersen,K.K., Arnaud,M., Asai,K., Ashikaga,S., Aymerich,S.,
+                                                                    Bessieres,P. et al. (2003) Essential Bacillus subtilis genes.
+essential and non-essential genes in PubMed abstracts.              Proc. Natl Acad. Sci. USA, 100, 4678–4683.
+                                                                18. Langridge,G.C., Phan,M.D., Turner,D.J., Perkins,T.T., Parts,L.,
+                                                                    Haase,J., Charles,I., Maskell,D.J., Peters,S.E., Dougan,G. et al.
+FUNDING                                                             (2009) Simultaneous assay of every Salmonella Typhi gene using
+                                                                    one million transposon mutants. Genome Res., 19, 2308–2316.
+Funding    for    open   access    charge: BMBF                 19. Thanassi,J.A., Hartman-Neumann,S.L., Dougherty,T.J.,
+(Bundesministerium fu¨r Bildung und Forschung)                      Dougherty,B.A. and Pucci,M.J. (2002) Identiﬁcation of 113
+MedSys grant #0315450C to Peer Bork.                                conserved essential genes using a high-throughput gene disruption
+D906 Nucleic Acids Research, 2012, Vol. 40, Database issue
+
+
+    system in Streptococcus pneumoniae. Nucleic Acids Res., 30,          33. Sassetti,C.M. and Rubin,E.J. (2003) Genetic requirements for
+    3152–3162.                                                               mycobacterial survival during infection. Proc. Natl Acad. Sci.
+20. Chaudhuri,R.R., Allen,A.G., Owen,P.J., Shalom,G., Stone,K.,              USA, 100, 12989–12994.
+    Harrison,M., Burgis,T.A., Lockyer,M., Garcia-Lara,J., Foster,S.J.    34. Liberati,N.T., Urbach,J.M., Miyata,S., Lee,D.G., Drenkard,E.,
+    et al. (2009) Comprehensive identiﬁcation of essential                   Wu,G., Villanueva,J., Wei,T. and Ausubel,F.M. (2006) An
+    Staphylococcus aureus genes using Transposon-Mediated                    ordered, nonredundant library of Pseudomonas aeruginosa strain
+    Differential Hybridisation (TMDH). BMC Genomics, 10, 291.                PA14 transposon insertion mutants. Proc. Natl Acad. Sci. USA,
+21. French,C.T., Lao,P., Loraine,A.E., Matthews,B.T., Yu,H. and              103, 2833–2838.
+
+
+
+
+                                                                                                                                                    Downloaded from http://nar.oxfordjournals.org/ at FundaÃ§Ã£o Oswaldo Cruz-Biblioteca de Manguinhos/Oswaldo Cruz Foundation-Ma on December 15, 2015
+    Dybvig,K. (2008) Large-scale transposon mutagenesis of               35. Knuth,K., Niesalla,H., Hueck,C.J. and Fuchs,T.M. (2004)
+    Mycoplasma pulmonis. Mol. Microbiol., 69, 67–76.                         Large-scale identiﬁcation of essential Salmonella genes by
+22. Salama,N.R., Shepherd,B. and Falkow,S. (2004) Global                     trapping lethal insertions. Mol. Microbiol., 51, 1729–1744.
+    transposon mutagenesis and essential gene analysis of                36. Lamichhane,G., Zignol,M., Blades,N.J., Geiman,D.E.,
+    Helicobacter pylori. J. Bacteriol., 186, 7926–7935.                      Dougherty,A., Grosset,J., Broman,K.W. and Bishai,W.R. (2003)
+23. Trepod,C.M. and Mott,J.E. (2005) Elucidation of essential and            A postgenomic method for predicting essential genes at
+    nonessential genes in the Haemophilus inﬂuenzae Rd cell wall             subsaturation levels of mutagenesis: application to Mycobacterium
+    biosynthetic pathway by targeted gene disruption. Antimicrob.            tuberculosis. Proc. Natl Acad. Sci. USA, 100, 7213–7218.
+    Agents Chemother., 49, 824–826.                                      37. Cherry,J.M., Ball,C., Weng,S., Juvik,G., Schmidt,R., Adler,C.,
+24. Gallagher,L.A., Ramage,E., Jacobs,M.A., Kaul,R., Brittnacher,M.          Dunn,B., Dwight,S., Riles,L., Mortimer,R.K. et al. (1997) Genetic
+    and Manoil,C. (2007) A comprehensive transposon mutant library           and physical maps of Saccharomyces cerevisiae. Nature, 387,
+    of Francisella novicida, a bioweapon surrogate. Proc. Natl Acad.         67–73.
+    Sci. USA, 104, 1009–1014.                                            38. Szklarczyk,D., Franceschini,A., Kuhn,M., Simonovic,M., Roth,A.,
+25. Chen,S., Zhang,Y.E. and Long,M. (2010) New genes in                      Minguez,P., Doerks,T., Stark,M., Muller,J., Bork,P. et al. (2011)
+    Drosophila quickly become essential. Science, 330, 1682–1685.            The STRING database in 2011: functional interaction networks
+26. Meinke,D., Muralla,R., Sweeney,C. and Dickerman,A. (2008)                of proteins, globally integrated and scored. Nucleic Acids Res., 39,
+    Identifying essential genes in Arabidopsis thaliana.                     D561–D568.
+    Trends Plant Sci., 13, 483–491.                                      39. Wolf,Y.I., Novichkov,P.S., Karev,G.P., Koonin,E.V. and
+27. Amsterdam,A., Nissen,R.M., Sun,Z., Swindell,E.C., Farrington,S.          Lipman,D.J. (2009) Inaugural article: the universal distribution of
+    and Hopkins,N. (2004) Identiﬁcation of 315 genes essential for           evolutionary rates of genes and distinct characteristics of
+    early zebraﬁsh development. Proc. Natl Acad Sci. USA, 101,               eukaryotic genes of different apparent ages. Proc. Natl Acad. Sci.
+    12792–12797.                                                             USA, 106, 7273–7280.
+28. Baba,T., Ara,T., Hasegawa,M., Takai,Y., Okumura,Y., Baba,M.,         40. Sayers,E.W., Barrett,T., Benson,D.A., Bolton,E., Bryant,S.H.,
+    Datsenko,K.A., Tomita,M., Wanner,B.L. and Mori,H. (2006)                 Canese,K., Chetvernin,V., Church,D.M., DiCuccio,M.,
+    Construction of Escherichia coli K-12 in-frame, single-gene              Federhen,S. et al. (2011) Database resources of the National
+    knockout mutants: the Keio collection. Mol. Syst. Biol., 2, 2006         Center for Biotechnology Information. Nucleic Acids Res., 39,
+    0008.                                                                    D38–D51.
+29. Gerdes,S.Y., Scholle,M.D., Campbell,J.W., Balazsi,G., Ravasz,E.,     41. Qian,W., Liao,B.-Y., Chang,A.Y.-F. and Zhang,J. (2010)
+    Daugherty,M.D., Somera,A.L., Kyrpides,N.C., Anderson,I.,                 Maintenance of duplicate genes and their functional redundancy
+    Gelfand,M.S. et al. (2003) Experimental determination and                by reduced expression. Trends Genet., 26, 425–430.
+    system level analysis of essential genes in Escherichia coli         42. Schrimpf,S.P., Weiss,M., Reiter,L., Ahrens,C.H., Jovanovic,M.,
+    MG1655. J. Bacteriol., 185, 5673–5684.                                   Malmstrom,J., Brunner,E., Mohanty,S., Lercher,M.J.,
+30. Kraemer,P.S., Mitchell,A., Pelletier,M.R., Gallagher,L.A.,               Hunziker,P.E. et al. (2009) Comparative functional analysis of the
+    Wasnick,M., Rohmer,L., Brittnacher,M.J., Manoil,C., Skerett,S.J.         Caenorhabditis elegans and Drosophila melanogaster proteomes.
+    and Salama,N.R. (2009) Genome-wide screen in Francisella                 PLoS Biol., 7, e48.
+    novicida for genes required for pulmonary and systemic infection     43. He,X. and Zhang,J. (2006) Higher duplicability of less important
+    in mice. Infect. Immun., 77, 232–244.                                    genes in yeast genomes. Mol. Biol. Evol., 23, 144–151.
+31. Akerley,B.J., Rubin,E.J., Novick,V.L., Amaya,K., Judson,N. and       44. Ashburner,M., Ball,C.A., Blake,J.A., Botstein,D., Butler,H.,
+    Mekalanos,J.J. (2002) A genome-scale analysis for identiﬁcation          Cherry,J.M., Davis,A.P., Dolinski,K., Dwight,S.S., Eppig,J.T.
+    of genes required for growth or survival of Haemophilus                  et al. (2000) Gene ontology: tool for the uniﬁcation of biology.
+    inﬂuenzae. Proc. Natl Acad. Sci. USA, 99, 966–971.                       The Gene Ontology Consortium. Nat. Genet., 25, 25–29.
+32. Chalker,A.F., Minehart,H.W., Hughes,N.J., Koretke,K.K.,              45. Muller,J., Szklarczyk,D., Julien,P., Letunic,I., Roth,A., Kuhn,M.,
+    Lonetto,M.A., Brinkman,K.K., Warren,P.V., Lupas,A.,                      Powell,S., von Mering,C., Doerks,T., Jensen,L.J. et al. (2010)
+    Stanhope,M.J., Brown,J.R. et al. (2001) Systematic identiﬁcation         eggNOG v2.0: extending the evolutionary genealogy of genes with
+    of selective essential genes in Helicobacter pylori by genome            enhanced non-supervised orthologous groups, species and
+    prioritization and allelic replacement mutagenesis. J. Bacteriol.,       functional annotations. Nucleic Acids Res., 38, D190–D195.
+    183, 1259–1268.
+

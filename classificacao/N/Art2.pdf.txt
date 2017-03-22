@@ -1,0 +1,663 @@
+BMC Genomics                                                                                                                             BioMed Central
+
+
+
+Research article                                                                                                                       Open Access
+Chromosome level assembly of the hybrid Trypanosoma cruzi
+genome
+D Brent Weatherly, Courtney Boehlke and Rick L Tarleton*
+
+Address: Center for Tropical and Emerging Global Diseases, University of Georgia, Athens, GA, USA
+Email: D Brent Weatherly - dbrentw@uga.edu; Courtney Boehlke - cboehlke@uga.edu; Rick L Tarleton* - tarleton@cb.uga.edu
+* Corresponding author
+
+
+
+
+Published: 1 June 2009                                                      Received: 16 January 2009
+                                                                            Accepted: 1 June 2009
+BMC Genomics 2009, 10:255     doi:10.1186/1471-2164-10-255
+This article is available from: http://www.biomedcentral.com/1471-2164/10/255
+© 2009 Weatherly et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+
+
+
+                 Abstract
+                 Background: In contrast to the essentially fully assembled genome sequences of the kinetoplastid
+                 pathogens Leishmania major and Trypanosoma brucei the assembly of the Trypanosoma cruzi genome
+                 has been hindered by its repetitive nature and the fact that the reference strain (CL Brener) is a
+                 hybrid of two distinct lineages. In this work, the majority of the contigs and scaffolds were
+                 assembled into pairs of homologous chromosomes based on predicted parental haplotype,
+                 inference from TriTryp synteny maps and the use of end sequences from T. cruzi BAC libraries.
+                 Results: Ultimately, 41 pairs of chromosomes were assembled using this approach, a number in
+                 agreement with the predicted number of T. cruzi chromosomes based upon pulse field gel analysis,
+                 with over 90% (21133 of 23216) of the genes annotated in the genome represented. The approach
+                 was substantiated through the use of Southern blot analysis to confirm the mapping of BAC clones
+                 using as probes the genes they are predicted to contain, and each chromosome construction was
+                 visually validated to ensure sufficient evidence was present to support the organization. While
+                 many members of large gene families are incorporated into the chromosome assemblies, the
+                 majority of genes excluded from the chromosomes belong to gene families, as these genes are
+                 frequently impossible to accurately position.
+                 Conclusion: Now assembled, these chromosomes bring T. cruzi to the same level of organization
+                 as its kinetoplastid relatives and have been used as the basis for the T. cruzi genome in TriTrypDB,
+                 a trypanosome database of EuPathDB. In addition, they will provide the foundation for analyses
+                 such as reverse genetics, where the location of genes and their alleles and/or paralogues is
+                 necessary and comparative genome hybridization analyses (CGH), where a chromosome-level view
+                 of the genome is ideal.
+
+
+
+
+Background                                                                      within the TriTryp genomes is most striking with respect
+The publication of the three trypanosomatid, or TriTryp,                        to T. cruzi which, because of its highly repetitive nature
+genomes in 2005 was an important advance in our under-                          and the fact that the reference strain (CL Brener) is a
+standing of the related parasites Trypanosoma cruzi, Leish-                     hybrid of
+mania major, and Trypanosoma brucei. However, as with
+other genomes [1,2] a published genome is not necessar-                         two distinct T. cruzi lineages, resulted in the publication of
+ily a completed genome. The issue of incompleteness                             32,746 contigs only partially assembled into 638 scaffolds
+
+                                                                                                                                       Page 1 of 13
+                                                                                                                 (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                 http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+with no complete chromosomes [3]. Though this resulted         somes, T. cruzi genes from the same contig (and thus the
+in a genome suitable for identifying and studying individ-     same region on a chromosome) may map to T. brucei
+ual genes, the absence of a chromosome-based assembly          genes on different chromosomes. To address this, each
+hinders analyses where the location of genes and their         contig/scaffold was initially assigned to the construct that
+alleles and/or paralogues is important (e.g. comparative       accounted for the greatest number of genes in the corre-
+genome analysis and strategies for gene knockouts).            sponding T. brucei chromosomes. Where available, the
+                                                               haplotype assignments for genes as previously annotated
+Fortunately, the genomes of T. brucei and L. major fared       [3] were used to further designate Esmeraldo- and non-
+much better, providing not only nearly complete chromo-        Esmeraldo-like homologous chromosomes. For situa-
+somes but also synteny maps linking the majority of the        tions where the haplotype was unknown or a sequenced
+core (and conserved) genes of the T. cruzi genome to T.        contig was the result of the merging of sequence reads
+brucei and L. major chromosomes [4-6]. In this study, we       from both haplotypes, an assignment was made to the
+sought to organize the majority of the 32,746 T. cruzi con-    homologous chromosome accounting for the greatest
+tigs into chromosomes-size assemblies using a combina-         number of genes on the contig or scaffold.
+tion of scaffolds, synteny maps, and end sequences from
+T. cruzi BAC libraries. To support the soundness of the        Mapping of BAC Clones
+process, a set of chromosomes was validated experimen-         The sequenced ends of the BAC clones from the
+tally via Southern blot analysis using individual genes as     CHORI105 library [11] were mapped to the contigs based
+probes to confirm the predicted organization of each           upon BLAST [12] analysis. The mappings were classified
+chromosome.                                                    as "high-confidence" if they matched no more than 2 con-
+                                                               tigs with 3 or fewer base mismatches but otherwise were
+Methods                                                        considered "low-confidence". In general, the high-confi-
+Genome Data                                                    dence mappings were used for the basis of organization,
+From version 5 of the T. cruzi genome [3] the following        while the low-confidence mappings provided additional
+data were obtained: 32,746 contigs and 638 scaffolds, as       support. PERL scripts were then used to identify BAC
+well as the coordinates and annotation data of predicted       clones for which both ends mapped to the same construct,
+genes, from the National Center for Biotechnology Infor-       ensuring that the ends were oriented properly to represent
+mation (NCBI) [7], results of TRIBE-MCL analysis to            the clone (i.e. 1 sense and 1 anti-sense) and that the dis-
+determine TriTryp clusters of orthologous genes (COGs)         tance between the mapped ends was appropriate based on
+from published supplemental materials [3], and                 the average clone size of the library (TARBAC: avg. length
+1,131,562 whole genome shotgun sequence (wgs) reads            75 kb, EPIFOS: avg. length 35 kb). Using an iterative proc-
+from the Institute for Genome Research (TIGR). Note that       ess of GBrowse visualization of each construct followed
+the annotation data includes the predicted haplotype (i.e.     by contig/scaffold rearrangement to place syntenous
+"Esmeraldo-like" or "non-Esmeraldo-like") assignment           sequences on the same chromosome and/or to correct the
+for each gene. Additionally, 39,605 sequenced ends of the      orientation of the sequenced BAC ends of the CHORI-105
+CHORI-105 BAC library (produced by Pieter de Jong at           BAC library, the constructs were split and/or expanded to
+the Children's Hospital Oakland Research Institute and         generate the chromosomes.
+sequenced by TIGR), consisting of the TARBAC (avg.
+length 75 kb) and EPIFOS (avg. length 35 kb) libraries,        To simplify the chromosome assembly process, only
+were obtained from the GSS database at NCBI. All data          those BAC clones that spanned scaffolds were utilized,
+were loaded into a generic feature format (GFF) database       under the assumption that the organization of the previ-
+and visualized with the Generic Genome Browser                 ously assembled scaffolds [3] is correct. However, in some
+(GBrowse) [8]. Telomeric repeats were identified by            instances, scaffolds were found to contain both Esmer-
+searching contigs for at least 9 contiguous runs of the hex-   aldo- and non-Esmeraldo-like contigs. In these cases the
+americ repeat 5'-TTAGGG-3' [9].                                scaffolds were split in order to place the contigs on the
+                                                               appropriate homologous chromosome.
+Synteny Maps
+T. brucei chromosomes were used as the basis for the           Contigs/scaffolds containing genes absent in the T. brucei
+organization of the initial constructs of T. cruzi chromo-     genome, and thus not fully represented in the first-pass
+somes. TriTryp synteny maps were downloaded from               constructs based on T. cruzi/T. brucei synteny, were also
+GeneDB [10] and were parsed using custom PERL scripts          placed as dictated by the mapping of BAC end sequences.
+to determine an initial assignment of T. cruzi contigs and
+scaffolds based on the order of T. cruzi genes in the syn-     Model Chromosomes
+teny map of each chromosome. Because the synteny maps          To arrive at a single chromosome model for the CL Brener
+are based on the order of genes on the T. brucei chromo-       genome, consensus versions of each homologous chro-
+
+
+                                                                                                                  Page 2 of 13
+                                                                                            (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                               http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+mosome pair were constructed by merging the gene fea-        bled contigs. Third, because many BAC ends mapped to
+tures from the aligned contigs from both the Esmeraldo-      multiple locations on the chromosomes or had mates that
+and non-Esmeraldo-like haplotypes (one representative        mapped to different chromosomes, completely disam-
+of each allele). While choosing a representative gene for    biguating the organization of the contigs/scaffolds based
+loci containing 2 fully sequenced alleles is straightfor-    on mapping of BAC ends was not possible, and thus
+ward, in many cases 1 or both alleles were not fully         placement decisions were made based on majority evi-
+sequenced and thus the genes exist in pieces on separate     dence. Finally, while some T. cruzi chromosomes are
+contigs (i.e. no contiguous sequence for the complete        known to be triploid [16] the focus of this work was to dif-
+gene). In these cases, the most likely coordinates for the   ferentiate the homologous chromosomes of the two
+full-length locus was inferred.                              parental haplotypes only, and thus all assemblies are pre-
+                                                             sented as diploid. Where appropriate, we address conse-
+Using SynView [13] for GBrowse, synteny maps were con-       quences of these decisions.
+structed using the model T. cruzi chromosomes as refer-
+ence to compare to T. brucei and L. major. These T. cruzi-   Chromosome Construction
+based TryTryp synteny maps were used to further validate     TriTryp synteny maps for the T. brucei chromosomes were
+the chromosome assemblies (see below).                       used as an initial platform on which to tentatively assem-
+                                                             ble 11 pairs of homologous "T. brucei-like" chromosomes
+Dot Blot Validation                                          from the T. cruzi genes, contigs, and scaffolds. Contigs that
+To validate the organization of the chromosomes, South-      were not present in the T. brucei synteny maps but whose
+ern "dot" blots were performed on overlapping BAC            location in the T. cruzi constructs could be inferred were
+clones from the CHORI-105 library using genes along the      also added. These constructs were then systematically
+chromosomes as probes. DNAs isolated from the CHORI-         reorganized into T. cruzi chromosome-size pieces based
+105 BAC library were used as targets, and gene-specific      on the preferential mapping of both ends of BAC clones
+DNAs, either from a library of cloned genes in the Gate-     that would link contigs or scaffolds in the proper orienta-
+way pDONR201 plasmid [14] (Invitrogen) or produced           tion ("closed" BAC clones). Ultimately, 41 chromosomes
+by PCR amplification with gene specific primers, were        were assembled using this approach, a number in agree-
+used as probes in this process. Cloned genes were digested   ment with the predicted number of T. cruzi chromosomes
+from pDONR plasmids with either BsrGI or PsiI and then       based upon pulsed-field gel electrophoresis (PFGE) [17-
+labeled with Digoxigenin-11-dUTP using Roche's DIG-          22].
+High Prime DNA labeling Kit and Detection Starter Kit as
+per manufacturer's instructions. Denatured target (BAC       Chromosome numbers were assigned based on the length
+clone) DNA was applied to positively charged nylon           of the aligned homologous chromosomes as displayed in
+membranes (Roche) and incubated with denatured,              GBrowse. Because most of the chromosome ends were not
+labeled probes in pre-heated hybridization buffer (DIG       fully assembled (see below), the lengths of the chromo-
+Easy Hyb Roche) at a hybridization temperature calcu-        somes are likely underestimations. Compounding this is
+lated using the Wahl formula [15] for 16 hrs. Membranes      the fact that distinct, repetitive regions may be collapsed
+were then washed and spots were colormetrically detected     into a single gene or regions during assembly [23]. As
+according to the DIG High Prime DNA Labeling and             such, the numbering scheme will not match those of pre-
+Detection Starter kit I (Roche) as per manufacturer's        vious studies [17-22,24]. In particular, chromosomes 1
+instructions.                                                and 3 as previously described [16,25,26] map to TcChr35
+                                                             and TcChr6 respectively (see Discussion).
+Results
+The goal of this study was to extend and improve the         Figure 1 shows all 41 model chromosomes ordered by
+organization of the existing genome data for T. cruzi in     size, and Table 1 shows the breakdown of the genes/con-
+order to construct a model of the core regions of the T.     tigs/scaffolds included. Over 90% (21133 of 23216) of
+cruzi chromosomes. Accordingly, certain assumptions and      the genes annotated in the published genome are repre-
+design decisions were made to simplify the process. First,   sented [3]. Tic marks under each chromosome show the
+the organization of previously published scaffolds was       location of gaps, indicating that the appropriate sequence
+assumed correct unless significant evidence suggested oth-   for these regions was either not identified or that the
+erwise. This assumption is particularly important for the    sequence is not included in the released genome sequence
+scaffolds rich in members of large gene families, as these   [3]. The size of the chromosomes varies substantially (~78
+scaffolds were included where possible but could not be      kb to ~2.4 Mb) also in agreement with previous physical
+validated further. Second, although some contigs are         data [17-22,24]. These sizes are likely underestimates as
+clearly the result of merging of sequences from both hap-    not all contigs/scaffolds have been included because of
+lotypes, no global attempt was made to split misassem-       the inability to confidently place many of the small con-
+
+
+                                                                                                                 Page 3 of 13
+                                                                                           (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                     http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+Table 1: Breakdown of the genes/contigs/scaffolds on the           physical maps [16-18,20-22,27]. However, this effort was
+assembled chromosomes                                              ultimately inconclusive, as too few of the described mark-
+ # Chromosomes (shortest: 78 kb, longest 2.3 Mb)              41   ers mapped unambiguously to single chromosomes.
+                                                                   Rather than attempt further chromosomal blot analyses,
+ # Scaffolds on chromosomes                                  419   we chose to validate the method of chromosome assem-
+                                                                   bly by probing mapped, overlapping BAC clones with spe-
+ # Contigs on chromosomes                                  3338    cific genes that the clones were predicted to contain based
+                                                                   upon our assembly (Figure 3a, b). Figure 3c shows that in
+ # Genes on chromosomes                                    21133   all cases, the probes hybridized with the expected BAC
+                                                                   clones. These results substantiate the utility of our meth-
+ # Unassignable Scaffolds                                    219   ods, as the linkage of 2 large scaffolds on the non-Esmer-
+                                                                   aldo-like "P" chromosome and 5 scaffolds on the
+ # Unassignable Annotated Contigs                            663   Esmeraldo-like "S" chromosome was confirmed. The gap
+                                                                   in the middle of the chromosome between scaffolds
+ # Unassignable Annotated Genes                             2083
+                                                                   CH473364 and CH473349 on the P chromosome and
+                                                                   CH473583 and CH473541 on the S chromosome
+tigs containing primarily members of the trans-sialidase,          (denoted by red stars on Figure 3b) shows a region rich in
+MASP, RHS, GP63, mucin, and DGF-1 familes, which col-              trans-sialidase sequences that may have hindered the link-
+lectively make-up approximately 23% of the annotated               age of these scaffolds in the original assembly. Although
+genes in the T. cruzi genome. In particular, the majority of       the complete chromosomal assembly was not validated
+the "unclosed" BAC clones (those for which the 5' and 3'           by dot blot analysis, similar probing of other selected
+ends were not oriented properly on the same chromo-                chromosome regions also confirmed the quality of the
+some) indicate that these sequences belong at the ends of          assembly (Additional File 1 and text below).
+the chromosome assemblies (telomeric and sub-telomeric
+regions). A total of 56 contigs containing telomeric               Additional "fixes" in the reassembled T. cruzi genome
+repeats were identified. Of these, 39 were mapped to 22 of         Although in most cases we accepted previously assembled
+the chromosomes and the remaining 17 to the unassigna-             scaffolds as correct, there were occasions where this
+ble scaffolds and contigs. Of the 22 chromosomes con-              approach was not compatible with synteny and BAC-end
+taining telomeric repeats, 5 have these features on both           mapping results. In most of these cases, sets of homolo-
+ends (TcChr11, 22, 25, 27, and 35). Unassignable scaf-             gous genes from the 2 distinct haplotypes in the CL Brener
+folds and contigs are depicted as arbitrarily arranged             genome had been placed adjacent to each other in the for-
+assemblies in Figure 1.                                            mation of scaffolds and contigs. To correct for this issue,
+                                                                   scaffolds were split (always at contig boundaries) in order
+Visual Validation                                                  to assign genes to the appropriate homologous chromo-
+All 41 chromosomes were visually confirmed to ensure               some (Additional file 2). For example, on TcChr39 scaf-
+that sufficient evidence (allelic synteny, mapped BAC              fold CH473328 was divided into 2 pieces and these pieces
+clones linking scaffolds) exists to support the organiza-          assigned to the P and S chromosomes in order to place the
+tion. For example, Figure 2a shows a view of chromosome            respective alleles on the appropriate chromosome. This
+39 (TcChr39) where only the BAC clones that either span            assignment is consistent with the annotation of these alle-
+scaffolds or whose ends map to homologous regions on               les as heterozygous and as part of the same COG group
+the paired chromosomes (and thus indicative of missing             [3]. Overall, 166 scaffolds were split to correct for the pre-
+sequences on one of the chromosome pairs – see Discus-             sumed merging of homologous sequences from the 2
+sion) are displayed. This chromosome is comprised of               haplotypes.
+145 contigs and 16 scaffolds, five of which were split in
+order to place genes on the appropriate chromosome of              TcChr39 illustrates a second type of sequence merging:
+the homologous pair. The cumulative mapping of multi-              that of homologous Esmeraldo- and non-Esmeraldo-like
+ple BAC clones linking all scaffolds is strong support for         raw sequence reads during the creation of the consensus
+the accuracy of the chromosome organization. As                    sequence (Additional file 2), the evidence for which is the
+expected, the T. cruzi chromosome exhibits substantial             fact that the "best hit" mappings of BAC ends of the same
+synteny with regions of the chromosomes of T. brucei as            clone were to contigs assigned to different chromosomes.
+well as those of L. major (Figure 2b).                             For example, the 5' BAC end of clone "CHORI105-17N2"
+                                                                   maps to the P chromosome on contig 504109 with 99.9%
+Experimental Validation                                            sequence identity (840/841 bases), while the 3' end maps
+We initially sought to validate the linkage of genes on the        to the S chromosome on contig 506925 with many mis-
+same chromosomes using data from previously published              matches (97.2%, 714/734 bases). Additionally, 4 genes
+
+
+                                                                                                                       Page 4 of 13
+                                                                                                 (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                     http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+
+Figure
+The  41 model
+         1      chromosomes of T. cruzi
+The 41 model chromosomes of T. cruzi. Because the CL Brener reference strain is a hybrid of the "non-Esmeraldo-like"
+and "Esmeraldo-like" lineages, each chromosome is comprised of 2 homologous chromosomes. These model chromosomes
+represent the consensus view of both haplotypes. Gene family members are depicted as non-blue colors; of note is the number
+of clusters of gene family members on the chromosomes, as well as in the artificially assembled contigs that were not assignable
+to individual chromosomes.
+
+
+
+on contig 506925 are annotated as "heterozygous" but              through C show strong synteny between the assembled P
+have their predicted allelic match on the same contig.            and S chromosomes. However, genes A and C each have
+Errors of this type are noted where observed but the reas-        one copy on one of the homologous chromosomes but
+sembling of these merged contigs throughout the genome            two annotated genes on the corresponding chromosome,
+was considered to be beyond the scope of this work.               while B has 2 differently sized copies on each chromo-
+                                                                  some. In all cases, it appears that the "2 copies" are actu-
+Observations from the Assembled Chromosomes                       ally truncated pieces of the full-length gene, as shown by
+Figure 4 illustrates how the assembled T. cruzi chromo-           sequence alignment for gene A, which encodes a helicase
+somes can help clarify gene assembly issues. In the region        protein (Figure 4b). These truncations all occur at contig
+of TcChr39 (Figure 4a) the genes flanking those labeled A         boundaries – and indeed there are at least 6 additional
+
+
+                                                                                                                       Page 5 of 13
+                                                                                                 (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                    http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+
+FigureValidation
+Visual  2
+Visual Validation. a) The 1336 genes ("Gene Features"), 145 "Contigs", 26 "Scaffolds", and mapped BAC clones ("BAC
+Clone") are shown for the homologous chromosome pairs (the non-Esmeraldo-like haplotype are the "P" features and the
+Esmeraldo-like haplotype are the "S" features) of chromosome TcChr39. Where possible, contigs are aligned to place at least
+one pair of alleles in the same locus (red contigs). Lines between genes on the two homologous chromosomes indicate allelic
+synteny. BAC clones are color-coded according to the source library (blue = TARBAC, green = EPIFOS); note that only BAC
+clones that span scaffolds or whose ends map to opposite homologous chromosomes (light blue and light green) are shown.
+Black contigs are those that were not aligned with another on the opposite chromosome (either no homologous sequence
+present or the alignment could not be made). Finally, brown contigs indicate possible merged sequence from the two parental
+haplotypes, blue contigs denote sequences where one or more alleles exist on this chromosome but could not be aligned, and
+gray contigs indicate sequences where one or more alleles exist on a different chromosome altogether. b) The TriTryp synteny
+map of TcChr39 shows the regions of T. brucei ("Tb Chromosome Portion") and L. major ("Lm Chromosome Portion") for
+which at least 10 genes are syntenous with T. cruzi genes are shown. For each chromosome (i.e. Tc, Lm, Tb), the coding strand
+is shown ("Rev" for reverse strand and "For" for forward strand). Telomeric repeats were identified on the 3' end of this chro-
+mosome (yellow ellipses).
+
+
+
+
+                                                                                                                     Page 6 of 13
+                                                                                               (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                        http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+
+Figure 3 of assemblies by Southern "dot" blot analysis
+Validation
+Validation of assemblies by Southern "dot" blot analysis. a) The top-most cartoon depicts overlapping BAC clones
+(light blue) which are predicted to span a chromosome (assembled from multiple scaffolds, dark blue). Genes (orange) are
+selected such that they link proposed contiguous scaffolds. These overlapping pairs of probes create a stair-stepping effect on
+the Southern blot if the hybridization results are as predicted (bottom), indicating that the linkage of the scaffolds, and thus the
+chromosome, is correct. b) TcChr20 was chosen for Southern blot validation. Overlapping BAC clones (grey) are selected
+such that they span most of the chromosome. Gene probes are shown in orange (ids shown are truncated forms of the "Tc"
+gene ids, i.e. 506581.10 denotes Tc00.1047053506851.10). While there are 11 previously published scaffolds linked on this
+chromosome, the red stars indicate a region containing many trans-sialidase genes whose repetitive nature must have hindered
+the joining of the 4 scaffolds that terminate in this region (2 large "P" scaffolds and 2 "S" scaffolds). c) For each BAC clone, both
+of the gene probes positively hybridize as predicted, creating the stair-step effect that confirms the linkage of the genes on the
+chromosome. BAC clones are labeled with their assigned ids from the CHORI library.
+
+
+
+
+                                                                                                                          Page 7 of 13
+                                                                                                    (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+sets of truncations apparent in this one section of chromo-   nal-field-alternation gel electrophoresis (OFAGE) study
+some. Careful comparisons of the assembled chromo-            [24] has described chromosomes as small as 100 kb.
+somes should allow for many of these events to be
+corrected.                                                    Previous chromosome-level studies [16,25,26] in T. cruzi
+                                                              have focused on two assemblies named chromosomes "1"
+One of the unique aspects of the T. cruzi genome among        (corresponding to TcChr35 herein) and "3" (TcChr6)
+most sequenced genomes is that it contains at least 22 sep-   based on the ordering of gel bands in PFGE analyses.
+arate gene families with 20 to >1400 members [3].             According to these studies, chromosome "1" exists as 2
+Because of the sequence similarity between members of         homologous chromosomes of size 450 kb and 1.3 Mb,
+these large gene families, it was not possible to unambig-    while chromosome "3" is present as 2 homologs of 600
+uously map many of the contigs rich with gene family          kb and 1.0 Mb. However, while the PFGE analyses predict
+members, leaving them to be included among the "artifi-       different sized homologous chromosomes for both "1"
+cial" assemblies in Figure 1. However, of the gene-family-    and "3", in our assemblies the homologous chromosomes
+rich contigs that are included in the assembled chromo-       of each are roughly the same size (> 1 Mb for TcChr35 and
+somes, many cluster at chromosome ends while others are       ~400 kb for TcChr6). In the case of chromosome "3"
+located in the middle of chromosomes (13 clusters of 10       (TcChr6), where the size of the assembled homologous
+or more members and 6 clusters of > = 20 members that         chromosomes is smaller than their estimated lengths
+are flanked by regions containing > 10 core genes; Figures    from the PFGE study, it is likely that the size discrepancy
+1, 5). Figure 5 also demonstrates that size variation of      is due to unassigned gene family rich contigs in the sub-
+chromosomes in T. cruzi is due not only to variation at       telomeric and/or telomeric regions. This justification is
+chromosome ends but also variation in the composition         consistent with the previous finding that the deletion of
+of chromosome-internal sites rich in gene family mem-         the 400 kb sequence responsible for the size differences of
+bers.                                                         the homologous chromosomes of "3" resulted in no phe-
+                                                              notypic consequences [16]. However, there is a clear con-
+Lastly, the T. cruzi-based TriTryp synteny maps show          tradiction between the organization of TcChr35 and the
+many examples of apparent chromosomal rearrange-              model for chromosome "1" proposed in [16] as both
+ments that have occurred since T. cruzi, T. brucei, and L.    assembled homologous chromosomes in TcChr35 are
+major diverged. In several cases, large pieces of otherwise   larger than the reported 450 kb homolog. This study notes
+syntenous regions of chromosomes show reversed orien-         that the difference in size between the two homologs of
+tation, typically near strand-switch regions. One particu-    chromosome "1" cannot be due to additional sequence
+larly interesting chromosome is TcChr11, where there          between the Tcsod locus and the downstream telomere.
+appears to have been a local inversion of a ~125 kb piece     However in the assembled TcChr35, the Tcsod locus is
+within one of the homologous chromosomes (Figure 6a).         essentially in the middle of the homologous chromo-
+It is only with the reversal of scaffold CH473345-1 on the    somes. Synteny between the chromosomes of L. major
+S chromosome, in relation to the homologous region on         (Lm Chr32) and T. brucei (Tb Chr11) supports the organ-
+the P chromosome, that the BAC clones mapping to each         ization of TcChr35 as assembled herein, as does the BAC
+chromosome can be oriented appropriately. Dot blot            clone mappings of the Esmeraldo-like homologous chro-
+analysis validates this orientation (Figure 6b).              mosome. However, despite the allelic synteny across the
+                                                              entire chromosome, the lack of spanning BAC clones on
+Discussion                                                    the non-Esmeraldo-like chromosome from the Tcsod
+In this work we have attempted to complete the job of         locus to the rest of the chromosome does not rule out the
+assembly of the T. cruzi CL Brener genome using all avail-    possibility that there exists a small homolog of that chro-
+able sequence information. The result is a genome of 41       mosome ending near the Tcsod locus (as described for
+chromosome pairs ranging in size from 78 kb to 2.4 Mb.        chromosome "1" in [16]). If this were the case, then the
+This assembly is somewhat unique to currently sequenced       remainder of the non-Esmeraldo-like chromosome is
+genomes in that both homologous chromosomes of this           either a separate chromosome homolog or is a portion of
+widely heterozygous hybrid strain required construction       another chromosome altogether.
+before a consensus model for each chromosome could be
+derived. Previous pulsed field gradient electrophoresis       The fixes and observations described above emphasize
+(PFGE) studies [17-22] have estimated that the chromo-        perhaps the most confounding issue with using the initial
+somes of T. cruzi range in size from 300 kb to over 3 Mb.     T. cruzi genome assembly [3]. Copies of heterozygous alle-
+While the range of the assembled chromosomes is less          les are often annotated as independent genes when in fact
+than those from the PFGE studies, the difference is likely    they are alleles on the homologous chromosomes in this
+due to the gene family rich contigs that were not able to     hybrid strain (a problem with the assembly). At the same
+be placed in this assembly. However, a previous orthogo-      time, many families of genes include truly distinct genes
+
+
+                                                                                                                 Page 8 of 13
+                                                                                           (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                     http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+
+Figure 4
+Differentiation of alleles from paralogues
+Differentiation of alleles from paralogues. a) The solid boxes highlight assembly issues with the current genome. The
+solid gray boxes (locus "A") show a helicase gene where 1 allele is fully sequenced on the P chromosome and the other is in 2
+pieces on S. The solid brown boxes (locus "B") show a hypothetical protein with no fully sequenced copy: the 2 genes on the P
+chromosome and 2 genes on the S chromosome both reside at contig boundaries and should be merged. Finally, the solid blue
+boxes (locus "C") show a case of 2 copies (at least partially sequenced) on the P chromosome and 1 presumed fully sequenced
+copy on S of the same hypothetical protein. In all cases, the dotted line boxes indicate the predicted correct coding sequences.
+Note that the circled genes show other cases of gene truncations at contig boundaries. b) Alignment of 3 annotated genes in
+the A locus (a helicase gene). The A1 allele is full length, while A2 and A3 are small pieces which exist on the ends of contigs
+and are not fully sequenced. Note that A2 has near perfect identity with the N-terminus of A1, while A3 has perfect identity
+with the C-terminus suggesting that these are pieces of the same gene.
+
+
+in discrete loci (an aspect of the organism). These charac-       and should be merged with another "gene" on the adja-
+teristics make it challenging to determine when genes are         cent contig.
+heterozygous alleles mapping to the same locus or are par-
+alogous genes at different loci. This latter decision is of       The T. cruzi genome contains many non-gene-family,
+course further complicated by the fact that the complete          homozygous genes (i.e. with only a single annotated
+sequence for many genes is not present in the assembled           allele) that disrupt the allelic synteny of homologous
+contigs. Viewing regions of the assembled chromosomes             chromosomes (Figure 2a, Additional file 2). These
+where both haplotypes are represented facilitates this            sequences are likely the result of the merging of sequence
+determination; special consideration must be made for             from both the Esmeraldo- and non-Esemeraldo-like hap-
+syntenous genes where one or both of the alleles exist at         lotypes, an indication that the homologous chromosomes
+the end of contigs because many of these are truncated            are, as expected, quite similar. However, there are many
+
+                                                                                                                       Page 9 of 13
+                                                                                                 (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                    http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+
+Figure 5
+Cluster   of large gene family members in the middle of TcChr33
+Cluster of large gene family members in the middle of TcChr33. The region from ~0.2 Mb to 0.5 Mb contains mostly
+gene family members (non-blue "Gene Features"), while on either side of the region are "core" regions with either hypothetical
+genes or those with an assigned putative function (light and dark blue "Gene Features"). The large number of spanning BAC
+clones linking the core regions and the cluster of gene family members substantiates the organization. However, it should be
+noted that these homologous chromosomes are likely different sizes. The BAC clones on the "S" chromosome that span the
+120 kb gap in the gene family rich region (connected by dashed lines) are too long for the BAC libraries as shown (TARBAC:
+blue, avg. length 75 kb, EPIFOS: green, avg. length 35 kb). Alignment of the homologous chromosomes is a visual aid to maintain
+allelic synteny only.
+
+
+sequenced BAC ends whose exact sequence does not exist           sons, either by techniques such as CGH or subsequent
+in the annotated genome, such as in cases where one BAC          sequencing of additional strains.
+end maps to a contig on a particular homologous chro-
+mosome with near perfect sequence identity, while the            Telomeric and sub-telomeric regions of the chromosomes
+best match of the other end is to a contig on the other          may never be fully sequenced; these regions are likely too
+homologous chromosome with many mismatches (Addi-                redundant to assemble properly and yet too variable as a
+tional file 2). Given that the genome was sequenced to           whole between strains of T. cruzi to be ultimately informa-
+14× coverage at an error rate of < = 1.5%, the absence of        tive, except as examples of the degree of variability that is
+these sequences is surprising. Further examination of the        possible in T. cruzi. As assembled, over 23% of the annotated
+raw sequence reads may reveal that the particular                genes in the genome are members of large gene families, but
+sequences exist but were not utilized in the assembly proc-      it has been suggested that there may be upwards of 20,000
+ess. Regardless, the current analysis has mapped to these        additional genes in these families that are not present in the
+chromosomes the candidate BAC clones that could be               genome due to the collapsing of reads during assembly [23].
+fully sequenced in order to correct these errors and close       The large number of gene families and the substantial
+the remaining gaps in the chromosomes.                           number of members of these families will be interesting to
+                                                                 further explore, as the biological function of such large and
+The assembled chromosomes provide a physical platform            diverse families of genes is not totally clear. It is hypothesized
+on which to study gene function and variation in T. cruzi.       that the location near chromosome ends facilitates rear-
+For example, the chromosome structure provided here              rangement in these genes and thus provides a source for new
+will be particularly useful for planning and confirming          variants [28]. Since members of these families are major tar-
+gene knockouts and thus determining the function of              gets of anti-T. cruzi immune responses, it is likely that this
+hypothetical genes or confirming the function of anno-           variation has a role in immune evasion. It would be of inter-
+tated genes. As RNAi does not appear to function in T.           est to determine if gene family clusters that are integrated
+cruzi, gene knockout remains a primary method linking            amongst the core genes in the T. cruzi genome are less prone
+phenotypes or functions to particular gene products. In          to rearrangement over time or variation between strains rela-
+addition, the chromosomes will facilitate strain compari-        tive to those on chromosome ends, as would be predicted.
+
+
+
+                                                                                                                      Page 10 of 13
+                                                                                                 (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                   http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+
+Local
+Figure inversion
+         6       on T. cruzi TcChr11
+Local inversion on T. cruzi TcChr11. a) The region on left-hand side of homologous chromosome P appears inverted rela-
+tive to S, as the orientation of scaffold CH473345-1 was reversed relative to CH473447 in order to close the BAC clones on
+both homologous chromosomes (i.e if CH473345-1 was oriented according to allelic synteny, then the BAC clones on the P
+chromosome would be unclosed). b) BAC clones and probes were chosen for Southern blot analysis to validate this inversion.
+The left-hand side shows a diagram of the design of the blot (see Figure 4 for more details). The chromosome inversion is con-
+firmed if BAC clones 15L22, 14F9, 3J3, and 5D6 contains genes G1–G7 (but not G8), but BAC clones 17N21, 8P12, 6L16, and
+10F10 contain genes G1–G3 and G5–G8 (but not G4). The right-hand side of the figure shows the result of the analysis where
+the hybridization results confirm the inversion.
+
+
+As a caveat, one of the risks in assembling the chromo-          cruzi, and, though they are still incomplete, they are a vast
+somes as described here is that a mosaic may result given        improvement on what was previously available.
+the repetitive and hybrid nature of the T. cruzi genome.
+Though the majority of BAC clones used for organization          Conclusion
+were mapped unambiguously to the appropriate chromo-             The T.cruzi genome that was published in 2005 provided
+somes, it must be noted that the organization was based          a foundation for discovery-based research of this human
+on the most likely location of each scaffold/contig; there       pathogen. However, because of the repetitive nature of the
+were many clones whose BAC ends either mapped to dif-            genome and the fact that the reference strain is a widely
+ferent chromosomes, a contradiction to the placement of          heterozygous hybrid of two distinct lineages, sequencing
+the associated sequences, or mapped to scaffolds/contigs         and assembly was hindered and resulted in the publica-
+that were not placed on any chromosome. Thus these               tion of many small pieces instead of complete chromo-
+assemblies represent a model for the chromosomes of T.           somes, as was the case for T. brucei and L. major. In this
+
+                                                                                                                    Page 11 of 13
+                                                                                               (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                                    http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+work, the small pieces (contigs and scaffolds) were assem-                     This work was supported by US NIH Program Project Grant P01
+bled into chromosomes based on the predicted parental                          AI0449790 to RLT.
+haplotype, inferences from the TriTryp synteny maps, and
+end sequences from T. cruzi BAC libraries. The approach                        References
+                                                                               1.    Finishing the euchromatic sequence of the human genome.
+was substantiated through the use of Southern blot analy-                            Nature 2004, 431(7011):931-945.
+sis to confirm the mapping of the BAC clones using as                          2.    Celniker SE, Wheeler DA, Kronmiller B, Carlson JW, Halpern A,
+probes the genes they are predicted to contain, and each                             Patel S, Adams M, Champe M, Dugan SP, Frise E, et al.: Finishing a
+                                                                                     whole-genome shotgun: release 3 of the Drosophila mela-
+chromosome was visually validated to ensure sufficient                               nogaster euchromatic genome sequence. Genome Biol 2002,
+evidence (BAC clones linking scaffolds) was present to                               3(12):RESEARCH0079.
+                                                                               3.    El-Sayed NM, Myler PJ, Bartholomeu DC, Nilsson D, Aggarwal G,
+support the organization. These chromosomes extend the                               Tran AN, Ghedin E, Worthey EA, Delcher AL, Blandin G, et al.: The
+foundation of the published genome to facilitate gene-                               genome sequence of T rypanosoma cruzi, etiologic agent of
+level analyses, such as gene knockouts, by assisting the                             Chagas disease. Science 2005, 309(5733):409-415.
+                                                                               4.    Berriman M, Ghedin E, Hertz-Fowler C, Blandin G, Renauld H, Bar-
+determination of the number of copies of a particular                                tholomeu DC, Lennard NJ, Caler E, Hamlin NE, Haas B, et al.: The
+gene and global analyses such as CGH studies for compar-                             genome of the African trypanosome Trypanosoma brucei. Sci-
+isons of chromosomal differences between strains of T.                               ence 2005, 309(5733):416-422.
+                                                                               5.    El-Sayed NM, Myler PJ, Blandin G, Berriman M, Crabtree J, Aggarwal
+cruzi. The assembled chromosomes, as well as the mapped                              G, Caler E, Renauld H, Worthey EA, Hertz-Fowler C, et al.: Com-
+BAC clones that were used to construct them, are available                           parative genomics of trypanosomatid parasitic protozoa. Sci-
+                                                                                     ence 2005, 309(5733):404-409.
+on TriTrypDB, a trypanosome database of the EuPathDB                           6.    Ivens AC, Peacock CS, Worthey EA, Murphy L, Aggarwal G, Berriman
+organization [29].                                                                   M, Sisk E, Rajandream MA, Adlem E, Aert R, et al.: The genome of
+                                                                                     the kinetoplastid parasite, Leishmania major. Science 2005,
+                                                                                     309(5733):436-442.
+Authors' contributions                                                         7.    National Center for Biotechnology Information                 [http://
+DBW assembled and validated the chromosomes and                                      www.ncbi.nlm.nih.gov/]
+                                                                               8.    Stein LD, Mungall C, Shu S, Caudy M, Mangone M, Day A, Nickerson
+drafted the manuscript. CB performed the dot blot valida-                            E, Stajich JE, Harris TW, Arva A, et al.: The generic genome
+tions. RLT is principal investigator. He provided critical                           browser: a building block for a model organism system data-
+input and feedback on all phases of the project and                                  base. Genome Res 2002, 12(10):1599-1610.
+                                                                               9.    Chiurillo MA, Cano I, Da Silveira JF, Ramirez JL: Organization of
+assisted in manuscript preparation. All authors have read                            telomeric and sub-telomeric regions of chromosomes from
+and approved the final manuscript.                                                   the protozoan parasite Trypanosoma cruzi. Mol Biochem Parasi-
+                                                                                     tol 1999, 100(2):173-183.
+                                                                               10.   Hertz-Fowler C, Peacock CS, Wood V, Aslett M, Kerhornou A,
+Additional material                                                                  Mooney P, Tivey A, Berriman M, Hall N, Rutherford K, et al.:
+                                                                                     GeneDB: a resource for prokaryotic and eukaryotic organ-
+                                                                                     isms. Nucleic Acids Res 2004:D339-343.
+ Additional file 1                                                             11.   CHORI-105 Trypanosoma cruzi BAC Library                       [http://
+                                                                                     bacpac.chori.org/tcruzi105.htm]
+ Dot-blot validation of a large region of TcChr39. The organization of         12.   Altschul SF, Madden TL, Schaffer AA, Zhang J, Zhang Z, Miller W, Lip-
+ a 1.4 Mb region was validated using the described dot blot methodology.             man DJ: Gapped BLAST and PSI-BLAST: a new generation of
+ The file consists of 5 figures (a-e) and a legend.                                  protein database search programs. Nucleic Acids Res 1997,
+ Click here for file                                                                 25(17):3389-3402.
+ [http://www.biomedcentral.com/content/supplementary/1471-                     13.   Wang H, Su Y, Mackey AJ, Kraemer ET, Kissinger JC: SynView: a
+                                                                                     GBrowse-compatible approach to visualizing comparative
+ 2164-10-255-S1.doc]                                                                 genome data. Bioinformatics 2006, 22(18):2308-2309.
+                                                                               14.   Cooley G, Etheridge RD, Boehlke C, Bundy B, Weatherly DB, Min-
+ Additional file 2                                                                   ning T, Haney M, Postan M, Laucella S, Tarleton RL: High Through-
+ Merging of sequences from both haplotypes and splitting of scaffolds.               put Selection of Effective Serodiagnostics for Trypanosoma
+                                                                                     cruzi infection. PLoS Negl Trop Dis 2008, 2(10):e316.
+ Some scaffolds from the TSKTSC ver5 genome contained sequences map-           15.   Wahl GM, Berger SL, Kimmel AR: Molecular hybridization of
+ ping to both parental haplotypes of the CL Brener reference strain and              immobilized nucleic acids: theoretical concepts and practi-
+ were split accordingly. The file consists of 2 figures (a, b) and a legend.         cal considerations. Methods Enzymol 1987, 152:399-407.
+ Click here for file                                                           16.   Obado SO, Taylor MC, Wilkinson SR, Bromley EV, Kelly JM: Func-
+ [http://www.biomedcentral.com/content/supplementary/1471-                           tional mapping of a trypanosome centromere by chromo-
+ 2164-10-255-S2.doc]                                                                 some       fragmentation      identifies     a   16-kb      GC-rich
+                                                                                     transcriptional "strand-switch" domain as a major feature.
+                                                                                     Genome Res 2005, 15(1):36-43.
+                                                                               17.   Branche C, Ochaya S, Aslund L, Andersson B: Comparative kary-
+                                                                                     otyping as a tool for genome structure analysis of Trypano-
+                                                                                     soma cruzi. Mol Biochem Parasitol 2006, 147(1):30-38.
+Acknowledgements                                                               18.   Cano MI, Gruber A, Vazquez M, Cortes A, Levin MJ, Gonzalez A,
+We would like to thank Pieter de Jong at the Children's Hospital Oakland             Degrave W, Rondinelli E, Zingales B, Ramirez JL, et al.: Molecular
+Research Institute for the T. cruzi BAC libraries, members of the TIGR-              karyotype of clone CL Brener chosen for the Trypanosoma
+                                                                                     cruzi genome project. Mol Biochem Parasitol 1995, 71(2):273-278.
+SBRI-Karolinska Trypanosome Sequencing Consortium for access to shot-          19.   Henriksson J, Aslund L, Macina RA, Franke de Cazzulo BM, Cazzulo
+gun sequencing reads and Haiming Wang of the Kissinger Research Group,               JJ, Frasch AC, Pettersson U: Chromosomal localization of seven
+University of Georgia for valuable assistance with GBrowse/SynView con-              cloned antigen genes provides evidence of diploidy and fur-
+figuration.                                                                          ther demonstration of karyotype variability in Trypanosoma
+                                                                                     cruzi. Mol Biochem Parasitol 1990, 42(2):213-223.
+
+
+
+
+                                                                                                                                         Page 12 of 13
+                                                                                                                    (page number not for citation purposes)
+BMC Genomics 2009, 10:255                                                                        http://www.biomedcentral.com/1471-2164/10/255
+
+
+
+20.   Henriksson J, Porcel B, Rydaker M, Ruiz A, Sabaj V, Galanti N, Caz-
+      zulo JJ, Frasch AC, Pettersson U: Chromosome specific markers
+      reveal conserved linkage groups in spite of extensive chro-
+      mosomal size variation in Trypanosoma cruzi. Mol Biochem Par-
+      asitol 1995, 73(1–2):63-74.
+21.   Porcile PE, Santos MR, Souza RT, Verbisck NV, Brandao A, Urmenyi
+      T, Silva R, Rondinelli E, Lorenzi H, Levin MJ, et al.: A refined molec-
+      ular karyotype for the reference strain of the Trypanosoma
+      cruzi genome project (clone CL Brener) by assignment of
+      chromosome markers. Gene 2003, 308:53-65.
+22.   Vargas N, Pedroso A, Zingales B: Chromosomal polymorphism,
+      gene synteny and genome size in T. cruzi I and T. cruzi II
+      groups. Mol Biochem Parasitol 2004, 138(1):131-141.
+23.   Arner E, Kindlund E, Nilsson D, Farzana F, Ferella M, Tammi MT,
+      Andersson B: Database of Trypanosoma cruzi repeated genes:
+      20,000 additional gene variants. BMC Genomics 2007, 8:391.
+24.   Engman DM, Reddy LV, Donelson JE, Kirchhoff LV: Trypanosoma
+      cruzi exhibits inter- and intra-strain heterogeneity in molec-
+      ular karyotype and chromosomal gene location. Mol Biochem
+      Parasitol 1987, 22(2–3):115-123.
+25.   Andersson B, Aslund L, Tammi M, Tran AN, Hoheisel JD, Pettersson
+      U: Complete sequence of a 93.4-kb contig from chromosome
+      3 of Trypanosoma cruzi containing a strand-switch region.
+      Genome Res 1998, 8(8):809-816.
+26.   Frohme M, Hanke J, Aslund L, Pettersson U, Hoheisel JD: Selective
+      generation of chromosomal cosmid libraries within the
+      Trypanosoma cruzi genome project. Electrophoresis 1998,
+      19(4):478-481.
+27.   Santos MR, Lorenzi H, Porcile P, Carmo MS, Schijman A, Brandao A,
+      Araya JE, Gomes HB, Chiurillo MA, Ramirez JL, et al.: Physical map-
+      ping of a 670-kb region of chromosomes XVI and XVII from
+      the human protozoan parasite Trypanosoma cruzi encom-
+      passing the genes for two immunodominant antigens.
+      Genome Res 1999, 9(12):1268-1276.
+28.   Melville SE, Gerrard CS, Blackwell JM: Multiple causes of size var-
+      iation in the diploid megabase chromosomes of African tyr-
+      panosomes. Chromosome Res 1999, 7(3):191-203.
+29.   Eukaryotic Pathogen Database Resources                           [http://
+      eupathdb.org/]
+
+
+
+
+                                                                                           Publish with Bio Med Central and every
+                                                                                          scientist can read your work free of charge
+                                                                                      "BioMed Central will be the most significant development for
+                                                                                      disseminating the results of biomedical researc h in our lifetime."
+                                                                                           Sir Paul Nurse, Cancer Research UK
+
+                                                                                         Your research papers will be:
+                                                                                           available free of charge to the entire biomedical community
+                                                                                           peer reviewed and published immediately upon acceptance
+                                                                                           cited in PubMed and archived on PubMed Central
+                                                                                           yours — you keep the copyright
+
+                                                                                  Submit your manuscript here:                                BioMedcentral
+                                                                                  http://www.biomedcentral.com/info/publishing_adv.asp
+
+
+
+
+                                                                                                                                                 Page 13 of 13
+                                                                                                                            (page number not for citation purposes)
+
